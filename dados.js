@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -68,14 +68,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  23.38,
+                     "visitas":  4,
+                     "km":  30.27,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:10",
-                     "ultimo":  "11:47",
-                     "tv":  "03:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:23",
+                     "tv":  "06:01:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:39",
                      "ultimo":  "15:01",
                      "tv":  "05:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,6 +196,21 @@ window.PAINEL = {
                      "ultimo":  "15:21",
                      "tv":  "03:57:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  46.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:18",
+                     "ultimo":  "15:23",
+                     "tv":  "04:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "15:15",
                      "tv":  "02:55:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  40.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:18",
-                     "ultimo":  "12:00",
-                     "tv":  "03:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -293,14 +293,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  7.68,
+                     "visitas":  3,
+                     "km":  42.66,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:22",
-                     "ultimo":  "11:39",
-                     "tv":  "03:11:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:27",
+                     "tv":  "04:58:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -317,21 +317,6 @@ window.PAINEL = {
                      "tv":  "04:57:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -355,6 +340,21 @@ window.PAINEL = {
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  148.24,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -994,6 +994,15 @@ window.PAINEL = {
                          "out":  "11:39:23",
                          "km":  0.96,
                          "dur":  "01:31:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "13:40:17",
+                         "out":  "15:27:39",
+                         "km":  34.98,
+                         "dur":  "01:47:00"
                      }
                  ],
     "eventos":  [
@@ -1052,6 +1061,14 @@ window.PAINEL = {
                         "inicio":  "11:56",
                         "final":  "12:49",
                         "tempo":  "00:53:27"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "14:40",
+                        "final":  "15:25",
+                        "tempo":  "00:44:05"
                     },
                     {
                         "nome":  "Luis",
@@ -1134,6 +1151,14 @@ window.PAINEL = {
                         "tempo":  "01:02:50"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "15:07",
+                        "final":  "15:39",
+                        "tempo":  "00:31:20"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Manutencao",
                         "obs":  "carro parado em manutenção pra trocar o alternador",
@@ -1179,7 +1204,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:00:46"
+                        "tempo":  "08:15:41"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1187,7 +1212,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:25:26"
+                        "tempo":  "07:40:21"
                     },
                     {
                         "nome":  "Lucas",
@@ -1195,23 +1220,23 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:05:34"
+                        "tempo":  "07:20:29"
                     },
                     {
                         "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "ponto novo/ ciamdrighi/ flex",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:35"
+                        "tempo":  "00:14:04"
                     },
                     {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:47"
+                        "tempo":  "00:10:54"
                     }
                 ],
     "semped":  [
@@ -1290,76 +1315,70 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:54"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:39:01"
+                         "tempo":  "00:53:59"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:55:43"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "02:08:57"
+                         "tempo":  "01:10:41"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:06:50"
+                         "tempo":  "01:21:48"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SOUZA",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:08:13"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "01:49:27"
+                         "tempo":  "02:04:25"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:15"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:23:23"
+                         "tempo":  "00:16:13"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:56:32"
+                         "tempo":  "01:11:30"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:49:18"
+                         "tempo":  "01:04:16"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MINIMERCADO BOM JESUS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:25:35"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:43:19"
+                         "tempo":  "00:40:33"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "TIETE",
-                         "tempo":  "00:07:20"
+                         "tempo":  "00:22:18"
                      }
                  ],
     "hist":  [
@@ -1460,7 +1479,7 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     73,
+                     76,
                      13
                  ]
              ],
@@ -18671,7 +18690,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18713,10 +18732,10 @@ window.PAINEL = {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  23.38,
-                                                       "tv":  232
+                                                       "km":  30.27,
+                                                       "tv":  361
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -18791,6 +18810,15 @@ window.PAINEL = {
                                                        "tv":  237
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  46.74,
+                                                       "tv":  291
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -18798,15 +18826,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  39.68,
                                                        "tv":  175
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  40.82,
-                                                       "tv":  208
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -18848,10 +18867,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  7.68,
-                                                       "tv":  191
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  42.66,
+                                                       "tv":  298
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -18861,15 +18880,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  3.95,
                                                        "tv":  297
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -18887,6 +18897,15 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  148.24,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
@@ -19380,6 +19399,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.96,
                                                          "tv":  91
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "SARAIVA E CAMARGO MERCEARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  34.98,
+                                                         "tv":  107
                                                      }
                                                  ]
                                      }

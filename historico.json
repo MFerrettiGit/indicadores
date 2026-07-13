@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17247,10 +17247,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  23.38,
-                                     "tv":  232
+                                     "km":  30.27,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -17325,6 +17325,15 @@
                                      "tv":  237
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  46.74,
+                                     "tv":  291
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -17332,15 +17341,6 @@
                                      "pe":  2,
                                      "km":  39.68,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.82,
-                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -17382,10 +17382,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.68,
-                                     "tv":  191
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  42.66,
+                                     "tv":  298
                                  },
                                  {
                                      "nome":  "Karina",
@@ -17395,15 +17395,6 @@
                                      "pe":  2,
                                      "km":  3.95,
                                      "tv":  297
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -17421,6 +17412,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  148.24,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -17914,6 +17914,13 @@
                                        "p":  1,
                                        "km":  0.96,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SARAIVA E CAMARGO MERCEARIA LTDA",
+                                       "p":  1,
+                                       "km":  34.98,
+                                       "tv":  107
                                    }
                                ]
                    }
