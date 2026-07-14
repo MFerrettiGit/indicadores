@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18119,10 +18119,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  23.16,
-                                     "tv":  280
+                                     "km":  32.39,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -18143,8 +18143,8 @@
                                      "tv":  294
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18260,6 +18260,15 @@
                                      "tv":  86
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  91.52,
+                                     "tv":  246
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -18285,15 +18294,6 @@
                                      "pe":  2,
                                      "km":  4.06,
                                      "tv":  263
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  90.94,
-                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -18354,6 +18354,13 @@
                                        "p":  1,
                                        "km":  3.36,
                                        "tv":  99
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  9.23,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -18816,6 +18823,13 @@
                                        "p":  1,
                                        "km":  35.18,
                                        "tv":  109
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIAL SAO JOAO DE BURI LTDA",
+                                       "p":  1,
+                                       "km":  0.58,
+                                       "tv":  74
                                    }
                                ]
                    }
