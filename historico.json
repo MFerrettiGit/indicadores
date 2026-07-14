@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18143,8 +18143,8 @@
                                      "tv":  294
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18233,6 +18233,15 @@
                                      "tv":  207
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  49.49,
+                                     "tv":  235
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -18242,15 +18251,6 @@
                                      "tv":  86
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  37.42,
-                                     "tv":  180
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -18258,6 +18258,15 @@
                                      "pe":  3,
                                      "km":  23.09,
                                      "tv":  219
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  111.84,
+                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -18285,15 +18294,6 @@
                                      "pe":  2,
                                      "km":  90.94,
                                      "tv":  172
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  101.39,
-                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -18678,6 +18678,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
+                                       "p":  1,
+                                       "km":  12.07,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  0,
@@ -18767,6 +18774,13 @@
                                        "p":  1,
                                        "km":  29.21,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "FULVIO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  10.45,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Nelson",
