@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "13:52",
                      "tv":  "04:55:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "13:02",
                      "tv":  "04:40:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -90,12 +90,12 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "12:17",
                      "tv":  "04:54:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -330,8 +330,8 @@ window.PAINEL = {
                      "primeiro":  "10:25",
                      "ultimo":  "12:51",
                      "tv":  "01:38:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -1051,6 +1051,22 @@ window.PAINEL = {
                         "tempo":  "01:13:10"
                     },
                     {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:59",
+                        "final":  "13:59",
+                        "tempo":  "01:00:21"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:05",
+                        "final":  "13:58",
+                        "tempo":  "00:53:23"
+                    },
+                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1083,6 +1099,14 @@ window.PAINEL = {
                         "tempo":  "02:30:37"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:52",
+                        "final":  "13:55",
+                        "tempo":  "01:02:59"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Dourado",
@@ -1099,36 +1123,12 @@ window.PAINEL = {
                         "tempo":  "01:32:42"
                     },
                     {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:02:53"
-                    },
-                    {
-                        "nome":  "Debora",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:24"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:39"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Proposta",
                         "obs":  "Sm Stabile",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:26"
+                        "tempo":  "00:58:35"
                     },
                     {
                         "nome":  "Maira",
@@ -1136,7 +1136,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:47"
+                        "tempo":  "00:54:56"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1144,7 +1144,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:30"
+                        "tempo":  "00:54:39"
                     },
                     {
                         "nome":  "Fernando",
@@ -1152,7 +1152,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:09"
+                        "tempo":  "00:47:18"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1160,7 +1160,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:53"
+                        "tempo":  "00:40:02"
                     },
                     {
                         "nome":  "Karina",
@@ -1168,7 +1168,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:19"
+                        "tempo":  "00:33:28"
                     },
                     {
                         "nome":  "Evandro",
@@ -1176,7 +1176,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:57"
+                        "tempo":  "00:30:06"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:26"
                     }
                 ],
     "semped":  [
@@ -1228,49 +1236,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADO CAVICCHIOLLI LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:23:18"
+                         "tempo":  "00:38:22"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:03:47"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:56:55"
+                         "tempo":  "01:11:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:04:34"
+                         "tempo":  "00:19:38"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:23:59"
+                         "tempo":  "00:39:03"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:14:43"
+                         "tempo":  "00:29:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:31"
+                         "tempo":  "00:26:35"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL SAO JOAO DE BURI LTDA",
                          "mun":  "BURI",
-                         "tempo":  "00:08:35"
+                         "tempo":  "00:23:39"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "CESARIO LANGE",
-                         "tempo":  "00:39:32"
+                         "tempo":  "00:54:36"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "FULVIO SUPERMERCADO LTDA",
+                         "mun":  "SAO BENTO DO SA",
+                         "tempo":  "00:12:16"
                      }
                  ],
     "hist":  [
@@ -19468,7 +19488,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -19525,8 +19545,8 @@ window.PAINEL = {
                                                        "tv":  294
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19534,8 +19554,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
