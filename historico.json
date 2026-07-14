@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18125,6 +18125,15 @@
                                      "tv":  311
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  94.41,
+                                     "tv":  371
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -18134,17 +18143,8 @@
                                      "tv":  247
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  51.65,
-                                     "tv":  294
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18188,6 +18188,15 @@
                                      "tv":  288
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  110.24,
+                                     "tv":  255
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -18213,15 +18222,6 @@
                                      "pe":  3,
                                      "km":  15.43,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  109.58,
-                                     "tv":  230
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18328,6 +18328,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                       "p":  1,
+                                       "km":  42.76,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -18396,6 +18403,13 @@
                                        "p":  1,
                                        "km":  11.75,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  1,
+                                       "km":  8.34,
+                                       "tv":  147
                                    },
                                    {
                                        "n":  "Evandro",
@@ -18566,6 +18580,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ELDER I. DE SOUZA",
+                                       "p":  1,
+                                       "km":  0.66,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -18641,6 +18662,13 @@
                                        "p":  1,
                                        "km":  3.5,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  8.74,
+                                       "tv":  114
                                    },
                                    {
                                        "n":  "Rachel",
