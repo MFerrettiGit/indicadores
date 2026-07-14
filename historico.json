@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18107,6 +18107,15 @@
                                      "tv":  136
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  59.49,
+                                     "tv":  247
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -18123,15 +18132,6 @@
                                      "pe":  0,
                                      "km":  19.8,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  47.74,
-                                     "tv":  198
                                  },
                                  {
                                      "nome":  "Debora",
@@ -18191,10 +18191,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  3.67,
-                                     "tv":  103
+                                     "km":  6.96,
+                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18233,6 +18233,15 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  37.42,
+                                     "tv":  180
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -18242,13 +18251,13 @@
                                      "tv":  65
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  36.59,
-                                     "tv":  94
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  71.46,
+                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -18285,15 +18294,6 @@
                                      "pe":  1,
                                      "km":  72.18,
                                      "tv":  70
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  50.32,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -18368,6 +18368,13 @@
                                        "p":  1,
                                        "km":  22.38,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  11.75,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Evandro",
@@ -18489,6 +18496,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                                       "p":  0,
+                                       "km":  3.29,
+                                       "tv":  87
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                                        "p":  1,
@@ -18566,6 +18580,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "MERCEARIA BARDELA LTDA ME",
+                                       "p":  1,
+                                       "km":  0.83,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  0,
@@ -18578,6 +18599,13 @@
                                        "p":  1,
                                        "km":  1.87,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADOS MARCON LTDA.",
+                                       "p":  0,
+                                       "km":  21.14,
+                                       "tv":  217
                                    },
                                    {
                                        "n":  "Karina",
