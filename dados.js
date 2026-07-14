@@ -1,8 +1,38 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "07:45",
+    "dataHora":  "08:00",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  71.06,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:59",
+                     "ultimo":  "07:45",
+                     "tv":  "00:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  46.63,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:10",
+                     "ultimo":  "07:45",
+                     "tv":  "00:35:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
@@ -13,21 +43,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "06:52",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "06:59",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -49,15 +64,15 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
-                     "km":  1.35,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  "07:10",
+                     "primeiro":  "07:13",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -70,21 +85,6 @@ window.PAINEL = {
                      "tipo":  "OP",
                      "visitas":  0,
                      "km":  0.13,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:13",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "07:13",
@@ -154,36 +154,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -244,9 +214,24 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
@@ -362,9 +347,42 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                         "mun":  "CAMPINAS",
+                         "in":  "06:59:40",
+                         "out":  "07:45:24",
+                         "km":  71.06,
+                         "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DEFAVARI LTDA.",
+                         "mun":  "RIO DAS PEDRAS",
+                         "in":  "07:10:06",
+                         "out":  "07:45:22",
+                         "km":  45.28,
+                         "dur":  "00:35:00"
+                     },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
@@ -382,7 +400,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "23:20:38"
+                        "tempo":  "23:35:42"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -390,7 +408,15 @@ window.PAINEL = {
                         "obs":  "São Carlos a Dourado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:19"
+                        "tempo":  "00:26:23"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "campos do Jordão",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:03"
                     }
                 ],
     "semped":  [
@@ -401,37 +427,25 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:37:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:39:27"
+                         "tempo":  "00:52:04"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:25:26"
+                         "tempo":  "00:40:30"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "00:47:07"
+                         "tempo":  "01:02:11"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:25:41"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADO DEFAVARI LTDA.",
-                         "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:29:01"
+                         "tempo":  "00:40:45"
                      }
                  ],
     "hist":  [
@@ -537,7 +551,7 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     1,
+                     3,
                      0
                  ]
              ],
@@ -18629,20 +18643,29 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "07:45",
+                                         "dataHora":  "08:00",
                                          "v":  [
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  71.06,
+                                                       "tv":  44
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  46.63,
+                                                       "tv":  35
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18659,12 +18682,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  1.35,
+                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -18674,15 +18697,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.13,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -18722,24 +18736,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -18776,9 +18772,18 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
@@ -18846,9 +18851,32 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                                         "p":  1,
+                                                         "km":  71.06,
+                                                         "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                                         "p":  1,
+                                                         "km":  45.28,
+                                                         "tv":  35
+                                                     },
                                                      {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",

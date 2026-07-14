@@ -18086,20 +18086,29 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "07:45",
+                       "dataHora":  "08:00",
                        "v":  [
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  71.06,
+                                     "tv":  44
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  46.63,
+                                     "tv":  35
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18116,12 +18125,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  1.35,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -18131,15 +18140,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.13,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -18179,24 +18179,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -18233,9 +18215,18 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -18303,9 +18294,32 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                       "p":  1,
+                                       "km":  71.06,
+                                       "tv":  44
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  1,
+                                       "km":  45.28,
+                                       "tv":  35
+                                   },
                                    {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
