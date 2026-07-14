@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  62.72,
+                     "km":  131.35,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:13",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  65.96,
+                     "visitas":  7,
+                     "km":  71.72,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "16:05",
-                     "tv":  "05:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:24",
+                     "tv":  "06:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  93.41,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:58",
+                     "ultimo":  "17:25",
+                     "tv":  "05:53:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -256,21 +271,6 @@ window.PAINEL = {
                      "ultimo":  "16:37",
                      "tv":  "05:19:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  92.76,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:58",
-                     "ultimo":  "16:22",
-                     "tv":  "05:12:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1549,7 +1549,7 @@ window.PAINEL = {
                         "obs":  "proposta Rede Big",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:59"
+                        "tempo":  "00:47:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -1557,7 +1557,7 @@ window.PAINEL = {
                         "obs":  "Tiete a Piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:43"
+                        "tempo":  "00:38:40"
                     },
                     {
                         "nome":  "Rachel",
@@ -1565,7 +1565,15 @@ window.PAINEL = {
                         "obs":  "ba barbosa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:15"
+                        "tempo":  "00:22:12"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buri a Itapetininga",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:42"
                     }
                 ],
     "semped":  [
@@ -1665,31 +1673,19 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "POSTO DO TREVO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:04:17"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:02:40"
+                         "tempo":  "01:19:16"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BELA TERRA SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:33:01"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "SUPERMERCADO FAMA LTDA",
-                         "mun":  "BURI",
-                         "tempo":  "00:40:45"
+                         "tempo":  "02:48:00"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:37:30"
+                         "tempo":  "00:52:29"
                      }
                  ],
     "hist":  [
@@ -1795,7 +1791,7 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     107,
+                     109,
                      15
                  ]
              ],
@@ -19887,7 +19883,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19913,7 +19909,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  62.72,
+                                                       "km":  131.35,
                                                        "tv":  308
                                                    },
                                                    {
@@ -19983,10 +19979,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  65.96,
-                                                       "tv":  352
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  71.72,
+                                                       "tv":  415
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -20034,6 +20030,15 @@ window.PAINEL = {
                                                        "tv":  319
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  93.41,
+                                                       "tv":  353
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -20041,15 +20046,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  45.98,
                                                        "tv":  319
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  92.76,
-                                                       "tv":  312
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
