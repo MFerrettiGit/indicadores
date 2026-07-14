@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  25.36,
+                                     "tv":  123
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -18096,6 +18105,15 @@
                                      "pe":  0,
                                      "km":  71.06,
                                      "tv":  44
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  48.18,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -18123,24 +18141,6 @@
                                      "pe":  0,
                                      "km":  15.31,
                                      "tv":  64
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -18278,8 +18278,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18287,8 +18287,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18307,11 +18307,25 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  48.18,
+                                       "tv":  119
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
                                        "km":  15.18,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.05",
+                                       "p":  1,
+                                       "km":  25.36,
+                                       "tv":  123
                                    },
                                    {
                                        "n":  "Evandro",
