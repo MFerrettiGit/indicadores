@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  97.48,
+                                     "tv":  224
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -18096,15 +18105,6 @@
                                      "pe":  0,
                                      "km":  66.85,
                                      "tv":  136
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  96.9,
-                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -18143,8 +18143,8 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18173,19 +18173,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  73.87,
-                                     "tv":  36
+                                     "km":  86.71,
+                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  49.53,
-                                     "tv":  100
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  53.13,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Luis",
@@ -18197,6 +18197,15 @@
                                      "tv":  103
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  59.31,
+                                     "tv":  192
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -18206,22 +18215,13 @@
                                      "tv":  164
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  58.32,
-                                     "tv":  142
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
+                                     "vi":  2,
+                                     "pe":  2,
                                      "km":  12.56,
-                                     "tv":  105
+                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -18278,21 +18278,21 @@
                                      "tv":  63
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  72.18,
+                                     "tv":  70
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  50.32,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -18349,6 +18349,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  12.84,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -18382,6 +18389,13 @@
                                        "p":  1,
                                        "km":  14.98,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  0.58,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Silmara",
@@ -18447,6 +18461,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.6,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "JOSE CARLOS NORI",
                                        "p":  1,
@@ -18473,6 +18494,13 @@
                                        "p":  1,
                                        "km":  11.17,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Milene",
@@ -18517,6 +18545,13 @@
                                        "tv":  142
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "N ARAUJO MERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  0.99,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -18557,6 +18592,13 @@
                                        "p":  1,
                                        "km":  1.79,
                                        "tv":  126
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "A. L. DO AMARAL - EPP",
+                                       "p":  1,
+                                       "km":  72.18,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Nelson",
