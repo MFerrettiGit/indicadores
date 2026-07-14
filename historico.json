@@ -18086,25 +18086,25 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  111.4,
-                                     "tv":  348
+                                     "km":  115.63,
+                                     "tv":  407
                                  },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  75.16,
-                                     "tv":  295
+                                     "km":  77.64,
+                                     "tv":  312
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -18125,22 +18125,22 @@
                                      "tv":  470
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  100.95,
+                                     "tv":  451
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  32.39,
+                                     "km":  46.8,
                                      "tv":  311
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  94.41,
-                                     "tv":  371
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -18173,10 +18173,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  86.71,
-                                     "tv":  53
+                                     "km":  158.95,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Costa",
@@ -18265,7 +18265,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  146.66,
+                                     "km":  168.79,
                                      "tv":  367
                                  },
                                  {
@@ -18335,6 +18335,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                                       "p":  1,
+                                       "km":  6.54,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -18382,6 +18389,13 @@
                                        "p":  0,
                                        "km":  12.84,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADO CAVICCHIOLLI LTDA",
+                                       "p":  0,
+                                       "km":  72.24,
+                                       "tv":  214
                                    },
                                    {
                                        "n":  "Eliana",
@@ -18461,6 +18475,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  4.23,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -18501,6 +18522,13 @@
                                        "p":  1,
                                        "km":  3.28,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  2.48,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Vinicius",
