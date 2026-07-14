@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18101,19 +18101,28 @@
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  81.92,
-                                     "tv":  109
+                                     "km":  96.9,
+                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  40.83,
+                                     "tv":  177
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  40.2,
-                                     "tv":  106
+                                     "km":  47.74,
+                                     "tv":  198
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -18123,15 +18132,6 @@
                                      "pe":  0,
                                      "km":  18.88,
                                      "tv":  124
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  25.36,
-                                     "tv":  123
                                  },
                                  {
                                      "nome":  "Debora",
@@ -18164,10 +18164,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  61.47,
-                                     "tv":  97
+                                     "km":  91.62,
+                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -18197,6 +18197,15 @@
                                      "tv":  103
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  58.32,
+                                     "tv":  142
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -18211,7 +18220,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  11.17,
+                                     "km":  12.56,
                                      "tv":  105
                                  },
                                  {
@@ -18222,15 +18231,6 @@
                                      "pe":  1,
                                      "km":  61.22,
                                      "tv":  77
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.03,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Castro",
@@ -18335,6 +18335,13 @@
                                        "tv":  123
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  22.38,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
                                        "p":  1,
@@ -18347,6 +18354,13 @@
                                        "p":  1,
                                        "km":  10.86,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  14.98,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Silmara",
@@ -18389,6 +18403,13 @@
                                        "p":  1,
                                        "km":  1.94,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  0.63,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Costa",
@@ -18447,11 +18468,25 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  30.15,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSASUPERMERCADO LTDA",
                                        "p":  1,
                                        "km":  2.1,
                                        "tv":  100
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  56.29,
+                                       "tv":  142
                                    },
                                    {
                                        "n":  "Alan",
