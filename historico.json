@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18098,6 +18098,15 @@
                                      "tv":  295
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  62.72,
+                                     "tv":  308
+                                 },
+                                 {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
@@ -18105,15 +18114,6 @@
                                      "pe":  0,
                                      "km":  101.65,
                                      "tv":  287
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  59.31,
-                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -18125,6 +18125,15 @@
                                      "tv":  311
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  67.83,
+                                     "tv":  394
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -18132,24 +18141,6 @@
                                      "pe":  0,
                                      "km":  94.41,
                                      "tv":  371
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  59.49,
-                                     "tv":  247
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -18161,13 +18152,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  95.12,
-                                     "tv":  315
+                                     "km":  103.86,
+                                     "tv":  429
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -18251,6 +18251,15 @@
                                      "tv":  246
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  92.12,
+                                     "tv":  277
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -18258,15 +18267,6 @@
                                      "pe":  2,
                                      "km":  34.23,
                                      "tv":  86
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  91.52,
-                                     "tv":  246
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -18522,6 +18522,13 @@
                                        "p":  1,
                                        "km":  0.53,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  3.41,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Costa",
@@ -18858,6 +18865,13 @@
                                        "p":  1,
                                        "km":  0.58,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "RUBEN SAMPAIO LAUREANO",
+                                       "p":  0,
+                                       "km":  0.6,
+                                       "tv":  31
                                    }
                                ]
                    }
