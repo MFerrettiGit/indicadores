@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  81.92,
+                                     "tv":  109
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -18096,6 +18105,15 @@
                                      "pe":  0,
                                      "km":  60.74,
                                      "tv":  99
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  40.2,
+                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -18107,15 +18125,6 @@
                                      "tv":  123
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  71.06,
-                                     "tv":  44
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -18123,15 +18132,6 @@
                                      "pe":  0,
                                      "km":  48.18,
                                      "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.26,
-                                     "tv":  54
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -18143,8 +18143,8 @@
                                      "tv":  64
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18236,10 +18236,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  16.38,
-                                     "tv":  25
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  18.25,
+                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Alan",
@@ -18249,6 +18249,15 @@
                                      "pe":  1,
                                      "km":  27.04,
                                      "tv":  64
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.22,
+                                     "tv":  41
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -18269,15 +18278,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -18287,8 +18287,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18296,8 +18296,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18335,6 +18335,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  10.86,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -18354,6 +18361,13 @@
                                        "p":  1,
                                        "km":  38.26,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  1.94,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Costa",
@@ -18403,6 +18417,13 @@
                                        "p":  1,
                                        "km":  1.87,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
+                                       "p":  1,
+                                       "km":  2.22,
+                                       "tv":  41
                                    }
                                ]
                    }
