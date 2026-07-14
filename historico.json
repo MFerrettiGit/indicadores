@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  71.88,
+                                     "tv":  226
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -18096,15 +18105,6 @@
                                      "pe":  0,
                                      "km":  97.48,
                                      "tv":  224
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  66.85,
-                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -18182,10 +18182,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  53.13,
-                                     "tv":  168
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  59.97,
+                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Luis",
@@ -18233,6 +18233,15 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  34.23,
+                                     "tv":  86
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -18242,15 +18251,6 @@
                                      "tv":  180
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  18.25,
-                                     "tv":  65
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -18258,6 +18258,15 @@
                                      "pe":  2,
                                      "km":  3.67,
                                      "tv":  193
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  90.94,
+                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -18276,15 +18285,6 @@
                                      "pe":  1,
                                      "km":  1.79,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  55.76,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -18440,6 +18440,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
+                                       "p":  1,
+                                       "km":  5.03,
+                                       "tv":  90
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -18480,6 +18487,13 @@
                                        "p":  1,
                                        "km":  3.6,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  6.84,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Fernando",
@@ -18613,6 +18627,13 @@
                                        "p":  1,
                                        "km":  1.87,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  1,
+                                       "km":  15.98,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Cominato",
