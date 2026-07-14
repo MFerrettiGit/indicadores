@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18143,8 +18143,8 @@
                                      "tv":  371
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18182,10 +18182,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  63.75,
-                                     "tv":  288
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  65.96,
+                                     "tv":  352
                                  },
                                  {
                                      "nome":  "Luis",
@@ -18195,6 +18195,15 @@
                                      "pe":  0,
                                      "km":  12.87,
                                      "tv":  250
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  21.51,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -18213,15 +18222,6 @@
                                      "pe":  3,
                                      "km":  3.79,
                                      "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  15.43,
-                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18299,10 +18299,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  52.77,
-                                     "tv":  182
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  60.94,
+                                     "tv":  266
                                  }
                              ],
                        "cli":  [
@@ -18573,6 +18573,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "JOSE CARLOS NORI",
                                        "p":  1,
@@ -18648,6 +18655,13 @@
                                        "p":  1,
                                        "km":  2.87,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
+                                       "p":  1,
+                                       "km":  6.08,
+                                       "tv":  114
                                    },
                                    {
                                        "n":  "Milene",
@@ -18802,6 +18816,13 @@
                                        "p":  1,
                                        "km":  25.35,
                                        "tv":  182
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1,
+                                       "km":  8.17,
+                                       "tv":  84
                                    },
                                    {
                                        "n":  "Karina",
