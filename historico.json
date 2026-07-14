@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.74,
+                                     "tv":  99
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -18114,15 +18123,6 @@
                                      "pe":  0,
                                      "km":  48.18,
                                      "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  46.63,
-                                     "tv":  35
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -18164,10 +18164,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  35.58,
-                                     "tv":  28
+                                     "km":  61.47,
+                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -18191,10 +18191,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0.65,
-                                     "tv":  0
+                                     "km":  3.02,
+                                     "tv":  61
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18242,21 +18242,21 @@
                                      "tv":  25
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  27.04,
+                                     "tv":  64
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  50.32,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.31,
                                      "tv":  0
                                  },
                                  {
@@ -18287,8 +18287,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18296,8 +18296,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -18342,6 +18342,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  14.11,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -18356,6 +18363,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.37,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -18363,11 +18377,32 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  25.89,
+                                       "tv":  69
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                                       "p":  1,
+                                       "km":  26.73,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  0,
                                        "km":  16.38,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "LEONARDI",
+                                       "p":  1,
+                                       "km":  1.87,
+                                       "tv":  40
                                    }
                                ]
                    }
