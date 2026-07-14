@@ -18086,16 +18086,16 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  64.97,
-                                     "tv":  118
+                                     "km":  66.85,
+                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -18143,8 +18143,8 @@
                                      "tv":  119
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18182,19 +18182,37 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  37.1,
-                                     "tv":  46
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  49.53,
+                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  3.02,
-                                     "tv":  61
+                                     "km":  3.67,
+                                     "tv":  103
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.1,
+                                     "tv":  100
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  61.22,
+                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18206,30 +18224,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.35,
                                      "tv":  0
                                  },
                                  {
@@ -18245,10 +18245,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  27.04,
-                                     "tv":  64
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  36.59,
+                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Karina",
@@ -18370,6 +18370,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  1.88,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -18398,11 +18405,25 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  39.87,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  0,
                                        "km":  2.37,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "PERFUMARIA GOYA LTDA",
+                                       "p":  0,
+                                       "km":  0.65,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Milene",
@@ -18419,11 +18440,25 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
                                        "km":  26.73,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                                       "p":  1,
+                                       "km":  9.55,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Castro",

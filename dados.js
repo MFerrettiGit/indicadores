@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  64.97,
+                     "visitas":  4,
+                     "km":  66.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:10",
-                     "ultimo":  "09:45",
-                     "tv":  "01:58:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:15",
+                     "tv":  "02:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -147,10 +147,10 @@ window.PAINEL = {
                      "km":  62.57,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:24",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  37.1,
+                     "visitas":  2,
+                     "km":  49.53,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "08:48",
-                     "tv":  "00:46:00",
+                     "ultimo":  "10:09",
+                     "tv":  "01:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -173,14 +173,44 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  3.02,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  3.67,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:19",
-                     "ultimo":  "09:21",
-                     "tv":  "01:01:00",
+                     "ultimo":  "10:10",
+                     "tv":  "01:43:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  2.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:36",
+                     "ultimo":  "10:16",
+                     "tv":  "01:40:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  61.22,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "10:20",
+                     "tv":  "01:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -199,21 +229,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:36",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -223,21 +238,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:46",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  21.35,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:02",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -263,13 +263,13 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  27.04,
+                     "visitas":  2,
+                     "km":  36.59,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:19",
-                     "ultimo":  "09:24",
-                     "tv":  "01:04:00",
+                     "ultimo":  "10:11",
+                     "tv":  "01:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "09:56:49",
+                         "out":  "10:15:34",
+                         "km":  1.88,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                          "mun":  "BOITUVA",
@@ -483,6 +492,15 @@ window.PAINEL = {
                          "dur":  "00:54:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "JOSE CARLOS NORI",
+                         "mun":  "BRODOSQUI",
+                         "in":  "09:02:03",
+                         "out":  "10:20:01",
+                         "km":  39.87,
+                         "dur":  "01:17:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
@@ -490,6 +508,15 @@ window.PAINEL = {
                          "out":  "09:21:27",
                          "km":  2.37,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "PERFUMARIA GOYA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "09:28:03",
+                         "out":  "10:10:37",
+                         "km":  0.65,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Milene",
@@ -510,6 +537,15 @@ window.PAINEL = {
                          "dur":  "01:09:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "08:36:07",
+                         "out":  "10:16:41",
+                         "km":  2.1,
+                         "dur":  "01:40:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -517,6 +553,15 @@ window.PAINEL = {
                          "out":  "09:24:27",
                          "km":  26.73,
                          "dur":  "01:04:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:40:47",
+                         "out":  "10:11:21",
+                         "km":  9.55,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Castro",
@@ -602,7 +647,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:15:16"
+                        "tempo":  "02:30:09"
                     },
                     {
                         "nome":  "Nelson",
@@ -610,7 +655,7 @@ window.PAINEL = {
                         "obs":  "Campina Do Monte Alegre a Buri",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:54"
+                        "tempo":  "00:20:47"
                     }
                 ],
     "semped":  [
@@ -619,6 +664,12 @@ window.PAINEL = {
                        "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "PERFUMARIA GOYA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção de introdução"
                    },
                    {
                        "nome":  "Castro",
@@ -632,103 +683,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:56:22"
+                         "tempo":  "01:11:18"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:33:10"
+                         "tempo":  "00:48:06"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SALTO",
-                         "tempo":  "00:01:12"
+                         "tempo":  "00:16:08"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:40:14"
+                         "tempo":  "00:55:10"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:27:01"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:12:27"
+                         "tempo":  "00:41:57"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:22:39"
+                         "tempo":  "01:37:35"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:33:09"
+                         "tempo":  "00:04:16"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "PERFUMARIA GOYA LTDA",
+                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:41:13"
+                         "tempo":  "00:02:16"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:45:24"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "JOSE CARLOS NORI",
-                         "mun":  "BRODOSQUI",
-                         "tempo":  "01:07:13"
+                         "tempo":  "01:00:20"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:53:54"
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:06:06"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA-LJ.02",
                          "mun":  "DOURADO",
-                         "tempo":  "01:48:12"
+                         "tempo":  "02:03:08"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                         "razao":  "MERCEARIA BARDELA LTDA ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:29"
+                         "tempo":  "00:09:09"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:23:15"
+                         "tempo":  "00:38:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:40:38"
+                         "tempo":  "01:55:34"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "02:03:06"
+                         "tempo":  "02:18:02"
                      }
                  ],
     "hist":  [
@@ -834,8 +873,8 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     20,
-                     2
+                     26,
+                     3
                  ]
              ],
     "historico":  {
@@ -18926,16 +18965,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  64.97,
-                                                       "tv":  118
+                                                       "km":  66.85,
+                                                       "tv":  136
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -18983,8 +19022,8 @@ window.PAINEL = {
                                                        "tv":  119
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18992,8 +19031,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19022,19 +19061,37 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  37.1,
-                                                       "tv":  46
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  49.53,
+                                                       "tv":  100
                                                    },
                                                    {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  3.02,
-                                                       "tv":  61
+                                                       "km":  3.67,
+                                                       "tv":  103
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.1,
+                                                       "tv":  100
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  61.22,
+                                                       "tv":  77
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -19046,30 +19103,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.35,
                                                        "tv":  0
                                                    },
                                                    {
@@ -19085,10 +19124,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  27.04,
-                                                       "tv":  64
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  36.59,
+                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -19210,6 +19249,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                                         "p":  1,
+                                                         "km":  1.88,
+                                                         "tv":  18
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                                          "p":  1,
@@ -19238,11 +19284,25 @@ window.PAINEL = {
                                                          "tv":  54
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "JOSE CARLOS NORI",
+                                                         "p":  1,
+                                                         "km":  39.87,
+                                                         "tv":  77
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  0,
                                                          "km":  2.37,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "PERFUMARIA GOYA LTDA",
+                                                         "p":  0,
+                                                         "km":  0.65,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -19259,11 +19319,25 @@ window.PAINEL = {
                                                          "tv":  69
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  2.1,
+                                                         "tv":  100
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                                          "p":  1,
                                                          "km":  26.73,
                                                          "tv":  64
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                                                         "p":  1,
+                                                         "km":  9.55,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Castro",
