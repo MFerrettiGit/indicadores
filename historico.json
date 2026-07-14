@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18107,6 +18107,15 @@
                                      "tv":  224
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  58.78,
+                                     "tv":  223
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -18123,15 +18132,6 @@
                                      "pe":  0,
                                      "km":  51.65,
                                      "tv":  294
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.83,
-                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -18197,6 +18197,15 @@
                                      "tv":  190
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  15.43,
+                                     "tv":  201
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -18215,22 +18224,13 @@
                                      "tv":  164
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  12.56,
-                                     "tv":  149
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  61.22,
-                                     "tv":  77
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  81.84,
+                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Castro",
@@ -18269,6 +18269,15 @@
                                      "tv":  172
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  101.39,
+                                     "tv":  98
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -18285,15 +18294,6 @@
                                      "pe":  1,
                                      "km":  1.79,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  72.18,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -18468,6 +18468,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  17.95,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -18503,6 +18510,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  20.62,
+                                       "tv":  130
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -18536,6 +18550,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "PRIMOS PEROLA LTDA",
+                                       "p":  1,
+                                       "km":  2.87,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Milene",
@@ -18669,6 +18690,13 @@
                                        "p":  1,
                                        "km":  72.18,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "B A DIAS DOS SANTOS",
+                                       "p":  1,
+                                       "km":  29.21,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Nelson",
