@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18206,8 +18206,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -18215,8 +18215,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -18260,15 +18260,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -18298,6 +18289,15 @@
                                  {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
