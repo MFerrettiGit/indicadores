@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:10",
                      "ultimo":  "09:45",
                      "tv":  "01:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:13",
                      "ultimo":  "09:46",
                      "tv":  "02:04:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  55.76,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:58",
+                     "ultimo":  "10:02",
+                     "tv":  "01:03:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -313,21 +328,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:28",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:58",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -474,6 +474,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "09:15:22",
+                         "out":  "10:09:52",
+                         "km":  12.43,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
@@ -535,6 +544,15 @@ window.PAINEL = {
                          "out":  "09:32:39",
                          "km":  2.22,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO DE SECOS E MOLHADOS JUMAR LTDA",
+                         "mun":  "CAMPINA DO MONT",
+                         "in":  "08:58:43",
+                         "out":  "10:02:45",
+                         "km":  55.76,
+                         "dur":  "01:03:00"
                      }
                  ],
     "eventos":  [
@@ -584,7 +602,15 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:00:14"
+                        "tempo":  "02:15:16"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Campina Do Monte Alegre a Buri",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:54"
                     }
                 ],
     "semped":  [
@@ -606,97 +632,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:41:21"
+                         "tempo":  "00:56:22"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:18:09"
+                         "tempo":  "00:33:10"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:01:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:25:13"
+                         "tempo":  "00:40:14"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:12:00"
+                         "tempo":  "00:27:01"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:12:27"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:07:38"
+                         "tempo":  "01:22:39"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:18:08"
+                         "tempo":  "01:33:09"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "PERFUMARIA GOYA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:26:12"
+                         "tempo":  "00:41:13"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:30:23"
+                         "tempo":  "00:45:24"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:52:12"
+                         "tempo":  "01:07:13"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:38:53"
+                         "tempo":  "00:53:54"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA-LJ.02",
                          "mun":  "DOURADO",
-                         "tempo":  "01:33:11"
+                         "tempo":  "01:48:12"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "NAYARA MONTEIRO FAZOLO 39279900862",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:28"
+                         "tempo":  "00:28:29"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:08:14"
+                         "tempo":  "00:23:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:25:37"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "EMPORIO DE SECOS E MOLHADOS JUMAR LTDA",
-                         "mun":  "CAMPINA DO MONT",
-                         "tempo":  "00:55:32"
+                         "tempo":  "01:40:38"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "01:48:05"
+                         "tempo":  "02:03:06"
                      }
                  ],
     "hist":  [
@@ -802,7 +834,7 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     19,
+                     20,
                      2
                  ]
              ],
@@ -18894,7 +18926,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -19068,6 +19100,15 @@ window.PAINEL = {
                                                        "tv":  41
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  55.76,
+                                                       "tv":  63
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -19079,15 +19120,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19199,6 +19231,13 @@ window.PAINEL = {
                                                          "tv":  46
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  12.43,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  0,
@@ -19246,6 +19285,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.22,
                                                          "tv":  41
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO DE SECOS E MOLHADOS JUMAR LTDA",
+                                                         "p":  1,
+                                                         "km":  55.76,
+                                                         "tv":  63
                                                      }
                                                  ]
                                      }
