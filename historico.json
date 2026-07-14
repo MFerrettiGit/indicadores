@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18143,8 +18143,8 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18164,10 +18164,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
                                      "km":  91.62,
-                                     "tv":  182
+                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -18536,6 +18536,13 @@
                                        "p":  1,
                                        "km":  30.15,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Rachel",
