@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  111.4,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:59",
+                     "ultimo":  "15:42",
+                     "tv":  "05:48:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -31,21 +46,6 @@ window.PAINEL = {
                      "ultimo":  "15:27",
                      "tv":  "05:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  101.65,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:59",
-                     "ultimo":  "13:02",
-                     "tv":  "04:47:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  12.87,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:19",
+                     "ultimo":  "15:46",
+                     "tv":  "04:10:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "15:22",
                      "tv":  "04:15:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  6.96,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:19",
-                     "ultimo":  "11:49",
-                     "tv":  "03:10:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,6 +285,36 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "15:37",
                      "tv":  "04:37:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  135.46,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:25",
+                     "ultimo":  "15:45",
+                     "tv":  "02:23:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  138.83,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:06",
+                     "ultimo":  "15:47",
+                     "tv":  "05:35:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -301,36 +331,6 @@ window.PAINEL = {
                      "ultimo":  "12:34",
                      "tv":  "01:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  111.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:25",
-                     "ultimo":  "14:26",
-                     "tv":  "02:07:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  109.05,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:06",
-                     "ultimo":  "14:22",
-                     "tv":  "04:45:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -544,6 +544,15 @@ window.PAINEL = {
                          "out":  "13:02:52",
                          "km":  4.17,
                          "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:40:18",
+                         "out":  "15:42:38",
+                         "km":  9.75,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -762,6 +771,15 @@ window.PAINEL = {
                          "dur":  "01:27:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "14:45:49",
+                         "out":  "15:46:54",
+                         "km":  5.91,
+                         "dur":  "01:00:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
@@ -969,6 +987,15 @@ window.PAINEL = {
                          "dur":  "01:08:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADOS MARCON LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "in":  "14:56:22",
+                         "out":  "15:47:17",
+                         "km":  29.78,
+                         "dur":  "00:50:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
@@ -1057,6 +1084,15 @@ window.PAINEL = {
                          "out":  "14:26:52",
                          "km":  10.45,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                         "mun":  "CAMPOS DO JORDA",
+                         "in":  "15:28:50",
+                         "out":  "15:45:03",
+                         "km":  23.62,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1201,6 +1237,14 @@ window.PAINEL = {
                         "tempo":  "01:04:53"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "14:17",
+                        "final":  "15:52",
+                        "tempo":  "01:34:41"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1319,14 +1363,6 @@ window.PAINEL = {
                         "inicio":  "13:15",
                         "final":  "14:17",
                         "tempo":  "01:01:55"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:22:21"
                     }
                 ],
     "semped":  [
@@ -1361,6 +1397,12 @@ window.PAINEL = {
                        "obs":  "Cliente vai comprar mais parado final do mês"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "RUBEN SAMPAIO LAUREANO",
                        "mun":  "BURI",
@@ -1383,6 +1425,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADOS MARCON LTDA.",
                        "mun":  "CESARIO LANGE",
                        "obs":  "Merchandising abastecimento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADOS MARCON LTDA.",
+                       "mun":  "LARANJAL PAULIS",
+                       "obs":  "Merchandising abastecimento"
                    }
                ],
     "emvisita":  [
@@ -1390,85 +1438,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADO CAVICCHIOLLI LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "02:08:21"
+                         "tempo":  "02:23:16"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:02:43"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:58:54"
+                         "tempo":  "00:17:38"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:03:28"
+                         "tempo":  "00:18:23"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:25:23"
+                         "tempo":  "01:40:18"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:49:37"
+                         "tempo":  "02:04:32"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:53:23"
+                         "tempo":  "00:02:05"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:38:41"
+                         "tempo":  "00:53:36"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:02:43"
+                         "tempo":  "01:17:38"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:02:32"
+                         "tempo":  "01:17:27"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BELA TERRA SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:48:06"
+                         "tempo":  "01:03:01"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROCHA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:15:09"
+                         "tempo":  "00:30:04"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:42:50"
+                         "nome":  "Nelson",
+                         "razao":  "REINOLDES DE QUEIROZ",
+                         "mun":  "BURI",
+                         "tempo":  "00:07:36"
                      },
                      {
                          "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                         "razao":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
                          "mun":  "CAMPOS DO JORDA",
-                         "tempo":  "00:10:22"
+                         "tempo":  "00:05:13"
                      }
                  ],
     "hist":  [
@@ -1574,8 +1616,8 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     84,
-                     9
+                     88,
+                     11
                  ]
              ],
     "historico":  {
@@ -19666,8 +19708,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  111.4,
+                                                       "tv":  348
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -19685,15 +19736,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  62.72,
                                                        "tv":  308
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  101.65,
-                                                       "tv":  287
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -19768,6 +19810,15 @@ window.PAINEL = {
                                                        "tv":  288
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  12.87,
+                                                       "tv":  250
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -19775,15 +19826,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  110.24,
                                                        "tv":  255
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  6.96,
-                                                       "tv":  190
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -19840,6 +19882,24 @@ window.PAINEL = {
                                                        "tv":  277
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  135.46,
+                                                       "tv":  143
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  138.83,
+                                                       "tv":  335
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -19847,24 +19907,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  34.23,
                                                        "tv":  86
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  111.84,
-                                                       "tv":  127
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  109.05,
-                                                       "tv":  285
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -20025,6 +20067,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.17,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                                         "p":  1,
+                                                         "km":  9.75,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Silmara",
@@ -20195,6 +20244,13 @@ window.PAINEL = {
                                                          "tv":  87
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  5.91,
+                                                         "tv":  60
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                                                          "p":  1,
@@ -20356,6 +20412,13 @@ window.PAINEL = {
                                                          "tv":  68
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADOS MARCON LTDA.",
+                                                         "p":  0,
+                                                         "km":  29.78,
+                                                         "tv":  50
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -20424,6 +20487,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  10.45,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                                                         "p":  1,
+                                                         "km":  23.62,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Nelson",

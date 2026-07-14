@@ -18086,8 +18086,17 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  111.4,
+                                     "tv":  348
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -18105,15 +18114,6 @@
                                      "pe":  0,
                                      "km":  62.72,
                                      "tv":  308
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  101.65,
-                                     "tv":  287
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -18188,6 +18188,15 @@
                                      "tv":  288
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  12.87,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -18195,15 +18204,6 @@
                                      "pe":  4,
                                      "km":  110.24,
                                      "tv":  255
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  6.96,
-                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -18260,6 +18260,24 @@
                                      "tv":  277
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  135.46,
+                                     "tv":  143
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  138.83,
+                                     "tv":  335
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -18267,24 +18285,6 @@
                                      "pe":  2,
                                      "km":  34.23,
                                      "tv":  86
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  111.84,
-                                     "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  109.05,
-                                     "tv":  285
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -18445,6 +18445,13 @@
                                        "p":  1,
                                        "km":  4.17,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                       "p":  1,
+                                       "km":  9.75,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Silmara",
@@ -18615,6 +18622,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  5.91,
+                                       "tv":  60
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                                        "p":  1,
@@ -18776,6 +18790,13 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADOS MARCON LTDA.",
+                                       "p":  0,
+                                       "km":  29.78,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -18844,6 +18865,13 @@
                                        "p":  1,
                                        "km":  10.45,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                                       "p":  1,
+                                       "km":  23.62,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Nelson",
