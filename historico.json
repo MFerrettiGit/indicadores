@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18103,7 +18103,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  77.64,
+                                     "km":  117.92,
                                      "tv":  312
                                  },
                                  {
@@ -18206,6 +18206,15 @@
                                      "tv":  377
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  171.67,
+                                     "tv":  352
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -18213,15 +18222,6 @@
                                      "pe":  4,
                                      "km":  5.58,
                                      "tv":  391
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  110.24,
-                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -18648,6 +18648,13 @@
                                        "p":  1,
                                        "km":  0.66,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  61.43,
+                                       "tv":  97
                                    },
                                    {
                                        "n":  "Luis",

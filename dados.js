@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  7,
-                     "km":  77.64,
+                     "km":  117.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:10",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  171.67,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "17:57",
+                     "tv":  "05:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -212,21 +227,6 @@ window.PAINEL = {
                      "tv":  "06:31:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  110.24,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:02",
-                     "ultimo":  "15:22",
-                     "tv":  "04:15:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -805,6 +805,15 @@ window.PAINEL = {
                          "out":  "15:22:12",
                          "km":  0.66,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:19:50",
+                         "out":  "17:57:35",
+                         "km":  61.43,
+                         "dur":  "01:37:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1583,7 +1592,7 @@ window.PAINEL = {
                         "obs":  "ba barbosa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:12"
+                        "tempo":  "00:52:04"
                     },
                     {
                         "nome":  "Nelson",
@@ -1591,7 +1600,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:42"
+                        "tempo":  "00:43:34"
                     }
                 ],
     "semped":  [
@@ -1687,12 +1696,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "POSTO DO TREVO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:34:15"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1797,7 +1801,7 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     111,
+                     112,
                      15
                  ]
              ],
@@ -19889,7 +19893,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19906,7 +19910,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  77.64,
+                                                       "km":  117.92,
                                                        "tv":  312
                                                    },
                                                    {
@@ -20009,6 +20013,15 @@ window.PAINEL = {
                                                        "tv":  377
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  171.67,
+                                                       "tv":  352
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -20016,15 +20029,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  5.58,
                                                        "tv":  391
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  110.24,
-                                                       "tv":  255
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -20451,6 +20455,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.66,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1,
+                                                         "km":  61.43,
+                                                         "tv":  97
                                                      },
                                                      {
                                                          "n":  "Luis",
