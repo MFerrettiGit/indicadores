@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  71.72,
+                     "km":  127.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  20.67,
+                     "km":  21.97,
                      "semPed":  5,
                      "perc":  83.33,
                      "primeiro":  "08:19",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  22.05,
+                     "km":  29.27,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:46",
@@ -259,12 +259,27 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  59.81,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "17:47",
+                     "tv":  "06:51:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  45.98,
+                     "km":  61.13,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:51",
@@ -294,28 +309,13 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  168.79,
+                     "km":  222.19,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:06",
                      "ultimo":  "16:38",
                      "tv":  "06:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  49.49,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "14:37",
-                     "tv":  "03:55:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -323,14 +323,14 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  34.23,
+                     "visitas":  4,
+                     "km":  40.82,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:17",
-                     "ultimo":  "12:34",
-                     "tv":  "01:26:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:49",
+                     "tv":  "02:28:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "16:01",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -1059,6 +1059,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "BELA TERRA SUPERMERCADO LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:51:06",
+                         "out":  "17:47:49",
+                         "km":  10.32,
+                         "dur":  "02:56:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
@@ -1084,6 +1093,15 @@ window.PAINEL = {
                          "out":  "12:34:13",
                          "km":  15.98,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                         "mun":  "JUNDIAI",
+                         "in":  "16:46:37",
+                         "out":  "17:49:58",
+                         "km":  6.59,
+                         "dur":  "01:02:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -1328,6 +1346,14 @@ window.PAINEL = {
                         "tempo":  "00:42:47"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "proposta Rede Big",
+                        "inicio":  "16:52",
+                        "final":  "17:48",
+                        "tempo":  "00:55:52"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1440,6 +1466,14 @@ window.PAINEL = {
                         "tempo":  "00:20:24"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tiete a Piracicaba",
+                        "inicio":  "17:01",
+                        "final":  "17:51",
+                        "tempo":  "00:49:45"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1544,28 +1578,12 @@ window.PAINEL = {
                         "tempo":  "01:01:55"
                     },
                     {
-                        "nome":  "Eugenio",
-                        "tipo":  "Outro",
-                        "obs":  "proposta Rede Big",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:56"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Tiete a Piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:38:40"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "ba barbosa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:12"
+                        "tempo":  "00:37:12"
                     },
                     {
                         "nome":  "Nelson",
@@ -1573,7 +1591,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:42"
+                        "tempo":  "00:28:42"
                     }
                 ],
     "semped":  [
@@ -1673,19 +1691,7 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "POSTO DO TREVO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:19:16"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "BELA TERRA SUPERMERCADO LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:48:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "00:52:29"
+                         "tempo":  "01:34:15"
                      }
                  ],
     "hist":  [
@@ -1791,7 +1797,7 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     109,
+                     111,
                      15
                  ]
              ],
@@ -19883,7 +19889,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19940,8 +19946,8 @@ window.PAINEL = {
                                                        "tv":  311
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19949,8 +19955,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19981,7 +19987,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  71.72,
+                                                       "km":  127.91,
                                                        "tv":  415
                                                    },
                                                    {
@@ -19990,7 +19996,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  1,
-                                                       "km":  20.67,
+                                                       "km":  21.97,
                                                        "tv":  312
                                                    },
                                                    {
@@ -19999,7 +20005,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  22.05,
+                                                       "km":  29.27,
                                                        "tv":  377
                                                    },
                                                    {
@@ -20039,12 +20045,21 @@ window.PAINEL = {
                                                        "tv":  353
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  59.81,
+                                                       "tv":  411
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  45.98,
+                                                       "km":  61.13,
                                                        "tv":  319
                                                    },
                                                    {
@@ -20062,26 +20077,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  168.79,
+                                                       "km":  222.19,
                                                        "tv":  367
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  49.49,
-                                                       "tv":  235
                                                    },
                                                    {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  34.23,
-                                                       "tv":  86
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  40.82,
+                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -20643,6 +20649,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "BELA TERRA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  10.32,
+                                                         "tv":  176
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                                          "p":  0,
@@ -20662,6 +20675,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  15.98,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                                                         "p":  1,
+                                                         "km":  6.59,
+                                                         "tv":  62
                                                      },
                                                      {
                                                          "n":  "Cominato",

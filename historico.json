@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18143,8 +18143,8 @@
                                      "tv":  311
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18184,7 +18184,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  71.72,
+                                     "km":  127.91,
                                      "tv":  415
                                  },
                                  {
@@ -18193,7 +18193,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  1,
-                                     "km":  20.67,
+                                     "km":  21.97,
                                      "tv":  312
                                  },
                                  {
@@ -18202,7 +18202,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  22.05,
+                                     "km":  29.27,
                                      "tv":  377
                                  },
                                  {
@@ -18242,12 +18242,21 @@
                                      "tv":  353
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  59.81,
+                                     "tv":  411
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  45.98,
+                                     "km":  61.13,
                                      "tv":  319
                                  },
                                  {
@@ -18265,26 +18274,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  168.79,
+                                     "km":  222.19,
                                      "tv":  367
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  49.49,
-                                     "tv":  235
                                  },
                                  {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  34.23,
-                                     "tv":  86
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  40.82,
+                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -18846,6 +18846,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "BELA TERRA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  10.32,
+                                       "tv":  176
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  0,
@@ -18865,6 +18872,13 @@
                                        "p":  1,
                                        "km":  15.98,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  6.59,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Cominato",
