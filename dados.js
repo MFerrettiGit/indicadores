@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "16:13",
                      "tv":  "04:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  45.98,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:51",
+                     "ultimo":  "16:37",
+                     "tv":  "05:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -259,6 +274,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  137.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:25",
+                     "ultimo":  "16:29",
+                     "tv":  "03:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  146.66,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:06",
+                     "ultimo":  "16:38",
+                     "tv":  "06:07:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -270,51 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "14:37",
                      "tv":  "03:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  29.56,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:51",
-                     "ultimo":  "14:51",
-                     "tv":  "04:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  135.46,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:25",
-                     "ultimo":  "15:45",
-                     "tv":  "02:23:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  138.83,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:06",
-                     "ultimo":  "15:47",
-                     "tv":  "05:35:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1023,6 +1023,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "NELLO COMERCIAL LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "in":  "16:05:47",
+                         "out":  "16:38:12",
+                         "km":  7.83,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
@@ -1077,6 +1086,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "ROCHA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:24:03",
+                         "out":  "16:37:12",
+                         "km":  16.42,
+                         "dur":  "01:13:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
@@ -1129,6 +1147,15 @@ window.PAINEL = {
                          "out":  "15:45:03",
                          "km":  23.62,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
+                         "mun":  "CAMPOS DO JORDA",
+                         "in":  "15:48:54",
+                         "out":  "16:29:52",
+                         "km":  2.27,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1408,6 +1435,14 @@ window.PAINEL = {
                         "inicio":  "13:15",
                         "final":  "14:17",
                         "tempo":  "01:01:55"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Laranjal Paulista a Tiete",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:10"
                     }
                 ],
     "semped":  [
@@ -1482,6 +1517,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADOS MARCON LTDA.",
                        "mun":  "LARANJAL PAULIS",
                        "obs":  "Merchandising abastecimento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "NELLO COMERCIAL LTDA.",
+                       "mun":  "LARANJAL PAULIS",
+                       "obs":  "Estocado"
                    }
                ],
     "emvisita":  [
@@ -1489,79 +1530,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADO CAVICCHIOLLI LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "02:53:14"
+                         "tempo":  "03:08:12"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:47:36"
+                         "tempo":  "01:02:34"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:29:04"
+                         "tempo":  "00:44:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:48:21"
+                         "tempo":  "01:03:19"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "L.R. GOMES - SUPERMERCADOS LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:13:40"
+                         "tempo":  "00:28:38"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:34:30"
+                         "tempo":  "02:49:28"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "L. A MERCEARIA DE FRANCA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:10:23"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "POSTO DO TREVO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:04:15"
+                         "tempo":  "00:19:13"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:02:38"
+                         "tempo":  "00:17:36"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:47:36"
+                         "tempo":  "02:02:34"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BELA TERRA SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:32:59"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "ROCHA SUPERMERCADO LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:00:02"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "NELLO COMERCIAL LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:18:18"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
-                         "mun":  "CAMPOS DO JORDA",
-                         "tempo":  "00:35:11"
+                         "tempo":  "01:47:57"
                      }
                  ],
     "hist":  [
@@ -1667,8 +1696,8 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     94,
-                     12
+                     97,
+                     13
                  ]
              ],
     "historico":  {
@@ -19759,7 +19788,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19816,8 +19845,8 @@ window.PAINEL = {
                                                        "tv":  371
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19825,8 +19854,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19906,6 +19935,15 @@ window.PAINEL = {
                                                        "tv":  192
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  45.98,
+                                                       "tv":  319
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -19915,6 +19953,24 @@ window.PAINEL = {
                                                        "tv":  312
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  137.73,
+                                                       "tv":  183
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  146.66,
+                                                       "tv":  367
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -19922,33 +19978,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  49.49,
                                                        "tv":  235
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  29.56,
-                                                       "tv":  246
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  135.46,
-                                                       "tv":  143
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  138.83,
-                                                       "tv":  335
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -20491,6 +20520,13 @@ window.PAINEL = {
                                                          "tv":  50
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "NELLO COMERCIAL LTDA.",
+                                                         "p":  0,
+                                                         "km":  7.83,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -20533,6 +20569,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "ROCHA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  16.42,
+                                                         "tv":  73
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                                                          "p":  1,
@@ -20573,6 +20616,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  23.62,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
+                                                         "p":  1,
+                                                         "km":  2.27,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Nelson",

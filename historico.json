@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18143,8 +18143,8 @@
                                      "tv":  371
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18233,6 +18233,15 @@
                                      "tv":  192
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  45.98,
+                                     "tv":  319
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -18242,6 +18251,24 @@
                                      "tv":  312
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  137.73,
+                                     "tv":  183
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  146.66,
+                                     "tv":  367
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -18249,33 +18276,6 @@
                                      "pe":  4,
                                      "km":  49.49,
                                      "tv":  235
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  29.56,
-                                     "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  135.46,
-                                     "tv":  143
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  138.83,
-                                     "tv":  335
                                  },
                                  {
                                      "nome":  "Castro",
@@ -18818,6 +18818,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "NELLO COMERCIAL LTDA.",
+                                       "p":  0,
+                                       "km":  7.83,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -18860,6 +18867,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ROCHA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  16.42,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                                        "p":  1,
@@ -18900,6 +18914,13 @@
                                        "p":  1,
                                        "km":  23.62,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
+                                       "p":  1,
+                                       "km":  2.27,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Nelson",
