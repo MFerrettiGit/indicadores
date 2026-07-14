@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -18143,8 +18143,8 @@
                                      "tv":  294
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18182,10 +18182,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  59.97,
-                                     "tv":  214
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  63.75,
+                                     "tv":  288
                                  },
                                  {
                                      "nome":  "Luis",
@@ -18215,6 +18215,15 @@
                                      "tv":  201
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  109.58,
+                                     "tv":  230
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -18222,15 +18231,6 @@
                                      "pe":  2,
                                      "km":  59.31,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  81.84,
-                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Alan",
@@ -18242,6 +18242,15 @@
                                      "tv":  235
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  29.56,
+                                     "tv":  246
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -18249,15 +18258,6 @@
                                      "pe":  2,
                                      "km":  34.23,
                                      "tv":  86
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  23.09,
-                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -18531,6 +18531,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.78,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "JOSE CARLOS NORI",
                                        "p":  1,
@@ -18543,6 +18550,13 @@
                                        "p":  1,
                                        "km":  20.62,
                                        "tv":  130
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ELDER I. DE SOUZA",
+                                       "p":  1,
+                                       "km":  27.74,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Luis",
@@ -18746,6 +18760,13 @@
                                        "p":  1,
                                        "km":  19.42,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COML. E IMPORTADORA SAO SEBASTIAO LTDA.",
+                                       "p":  1,
+                                       "km":  6.47,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Lucas",
