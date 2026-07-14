@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "14/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:05",
                      "tv":  "05:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  12.87,
+                     "visitas":  5,
+                     "km":  13.76,
                      "semPed":  4,
-                     "perc":  100,
+                     "perc":  80,
                      "primeiro":  "08:19",
-                     "ultimo":  "15:46",
-                     "tv":  "04:10:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:13",
+                     "tv":  "04:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:46",
                      "ultimo":  "16:08",
                      "tv":  "05:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "09:02",
                      "ultimo":  "15:22",
                      "tv":  "04:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  92.76,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:58",
+                     "ultimo":  "16:22",
+                     "tv":  "05:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "14:51",
                      "tv":  "04:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  92.12,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:58",
-                     "ultimo":  "15:37",
-                     "tv":  "04:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -789,6 +789,15 @@ window.PAINEL = {
                          "dur":  "01:00:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "COMERCIAL 3D LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:52:02",
+                         "out":  "16:13:42",
+                         "km":  0.89,
+                         "dur":  "00:21:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
@@ -1156,6 +1165,15 @@ window.PAINEL = {
                          "out":  "15:37:22",
                          "km":  0.6,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "REINOLDES DE QUEIROZ",
+                         "mun":  "BURI",
+                         "in":  "15:46:31",
+                         "out":  "16:22:02",
+                         "km":  0.64,
+                         "dur":  "00:35:00"
                      }
                  ],
     "eventos":  [
@@ -1436,6 +1454,12 @@ window.PAINEL = {
                        "obs":  "cliente estocado"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "REINOLDES DE QUEIROZ",
+                       "mun":  "BURI",
+                       "obs":  "cliente estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                        "mun":  "JUNDIAI",
@@ -1465,73 +1489,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADO CAVICCHIOLLI LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "02:38:17"
+                         "tempo":  "02:53:14"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:32:39"
+                         "tempo":  "00:47:36"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:14:07"
+                         "tempo":  "00:29:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:33:24"
+                         "tempo":  "00:48:21"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:13:40"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:19:33"
+                         "tempo":  "02:34:30"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "COMERCIAL 3D LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:17:06"
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:04:15"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:02:38"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:32:39"
+                         "tempo":  "01:47:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BELA TERRA SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:18:02"
+                         "tempo":  "01:32:59"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROCHA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:45:05"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "REINOLDES DE QUEIROZ",
-                         "mun":  "BURI",
-                         "tempo":  "00:22:37"
+                         "tempo":  "01:00:02"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "NELLO COMERCIAL LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:03:21"
+                         "tempo":  "00:18:18"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
                          "mun":  "CAMPOS DO JORDA",
-                         "tempo":  "00:20:14"
+                         "tempo":  "00:35:11"
                      }
                  ],
     "hist":  [
@@ -1637,8 +1667,8 @@ window.PAINEL = {
                  ],
                  [
                      "14/07",
-                     92,
-                     11
+                     94,
+                     12
                  ]
              ],
     "historico":  {
@@ -19729,7 +19759,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-14":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19786,8 +19816,8 @@ window.PAINEL = {
                                                        "tv":  371
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19795,8 +19825,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19834,10 +19864,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  12.87,
-                                                       "tv":  250
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  13.76,
+                                                       "tv":  271
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -19876,6 +19906,15 @@ window.PAINEL = {
                                                        "tv":  192
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  92.76,
+                                                       "tv":  312
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -19892,15 +19931,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  29.56,
                                                        "tv":  246
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  92.12,
-                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -20279,6 +20309,13 @@ window.PAINEL = {
                                                          "tv":  60
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "COMERCIAL 3D LTDA",
+                                                         "p":  1,
+                                                         "km":  0.89,
+                                                         "tv":  21
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                                                          "p":  1,
@@ -20564,6 +20601,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.6,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "REINOLDES DE QUEIROZ",
+                                                         "p":  0,
+                                                         "km":  0.64,
+                                                         "tv":  35
                                                      }
                                                  ]
                                      }
