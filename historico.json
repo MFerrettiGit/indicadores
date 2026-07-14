@@ -18086,7 +18086,7 @@
                                ]
                    },
     "2026-07-14":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -18130,7 +18130,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  100.95,
+                                     "km":  103.93,
                                      "tv":  451
                                  },
                                  {
@@ -18143,8 +18143,8 @@
                                      "tv":  311
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18152,8 +18152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -18191,19 +18191,28 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  1,
-                                     "km":  13.76,
-                                     "tv":  271
+                                     "km":  20.67,
+                                     "tv":  312
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  22.05,
+                                     "tv":  377
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  4,
-                                     "km":  21.51,
-                                     "tv":  315
+                                     "km":  5.58,
+                                     "tv":  391
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -18222,15 +18231,6 @@
                                      "pe":  3,
                                      "km":  119.66,
                                      "tv":  319
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  3.79,
-                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Karina",
@@ -18615,6 +18615,13 @@
                                        "tv":  64
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.76,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "JOSE CARLOS NORI",
                                        "p":  1,
@@ -18678,6 +18685,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "L. A MERCEARIA DE FRANCA LTDA",
+                                       "p":  0,
+                                       "km":  6.91,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                                        "p":  1,
@@ -18704,6 +18718,13 @@
                                        "p":  1,
                                        "km":  6.08,
                                        "tv":  114
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.54,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Milene",
@@ -18767,6 +18788,13 @@
                                        "p":  1,
                                        "km":  0.14,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.79,
+                                       "tv":  198
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -18998,6 +19026,13 @@
                                        "p":  0,
                                        "km":  0.64,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADO FAMA LTDA",
+                                       "p":  1,
+                                       "km":  0.65,
+                                       "tv":  41
                                    }
                                ]
                    }
