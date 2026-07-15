@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  71.73,
+                     "km":  105.34,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:26",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  53.54,
+                     "km":  92.04,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:10",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  81.81,
+                     "km":  113.52,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:22",
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  33.03,
+                     "semPed":  4,
+                     "perc":  80,
+                     "primeiro":  "08:03",
+                     "ultimo":  "18:09",
+                     "tv":  "07:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "17:41",
                      "tv":  "03:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  19.81,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:03",
-                     "ultimo":  "11:50",
-                     "tv":  "03:01:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1737,12 +1737,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "04:29:01"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1852,7 +1847,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     113,
+                     114,
                      23
                  ]
              ],
@@ -20916,7 +20911,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20942,7 +20937,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  71.73,
+                                                       "km":  105.34,
                                                        "tv":  273
                                                    },
                                                    {
@@ -21032,7 +21027,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  53.54,
+                                                       "km":  92.04,
                                                        "tv":  421
                                                    },
                                                    {
@@ -21041,7 +21036,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  81.81,
+                                                       "km":  113.52,
                                                        "tv":  252
                                                    },
                                                    {
@@ -21090,6 +21085,15 @@ window.PAINEL = {
                                                        "tv":  319
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  33.03,
+                                                       "tv":  449
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -21097,15 +21101,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  68.14,
                                                        "tv":  197
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  19.81,
-                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Castro",

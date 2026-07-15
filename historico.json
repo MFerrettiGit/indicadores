@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "18:15",
+                       "dataHora":  "18:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19084,7 +19084,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  71.73,
+                                     "km":  105.34,
                                      "tv":  273
                                  },
                                  {
@@ -19174,7 +19174,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  53.54,
+                                     "km":  92.04,
                                      "tv":  421
                                  },
                                  {
@@ -19183,7 +19183,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  81.81,
+                                     "km":  113.52,
                                      "tv":  252
                                  },
                                  {
@@ -19232,6 +19232,15 @@
                                      "tv":  319
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  33.03,
+                                     "tv":  449
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -19239,15 +19248,6 @@
                                      "pe":  5,
                                      "km":  68.14,
                                      "tv":  197
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  19.81,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Castro",
