@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "14:51",
                      "tv":  "05:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:26",
                      "ultimo":  "14:56",
                      "tv":  "03:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  86.45,
+                     "visitas":  6,
+                     "km":  100.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
-                     "ultimo":  "14:06",
-                     "tv":  "04:26:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:50",
+                     "tv":  "05:36:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  93.57,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "14:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:44",
+                     "tv":  "01:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  102.78,
+                     "visitas":  6,
+                     "km":  104.04,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:51",
-                     "ultimo":  "14:31",
-                     "tv":  "04:16:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:51",
+                     "tv":  "05:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "15:31",
                      "tv":  "03:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "14:50",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "09:14",
                      "ultimo":  "15:31",
                      "tv":  "04:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  35.62,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "15:41",
+                     "tv":  "04:37:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "14:20",
                      "tv":  "01:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  34.5,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "15:12",
-                     "tv":  "04:14:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "13:25:11",
                          "km":  3.63,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "14:00:15",
+                         "out":  "15:44:37",
+                         "km":  93.57,
+                         "dur":  "01:44:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -672,6 +681,15 @@ window.PAINEL = {
                          "dur":  "01:14:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "15:03:27",
+                         "out":  "15:51:31",
+                         "km":  1.26,
+                         "dur":  "00:48:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
@@ -789,6 +807,15 @@ window.PAINEL = {
                          "dur":  "01:47:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO SB BABA LTDA.",
+                         "mun":  "JARDINOPOLIS",
+                         "in":  "14:40:22",
+                         "out":  "15:50:40",
+                         "km":  13.63,
+                         "dur":  "01:10:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -877,6 +904,15 @@ window.PAINEL = {
                          "out":  "15:12:26",
                          "km":  16.46,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MARCOS NUNES DA SILVA",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:17:21",
+                         "out":  "15:41:00",
+                         "km":  1.12,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1360,7 +1396,7 @@ window.PAINEL = {
                         "obs":  "Ituverava a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:01"
+                        "tempo":  "00:44:57"
                     },
                     {
                         "nome":  "Nelson",
@@ -1368,7 +1404,7 @@ window.PAINEL = {
                         "obs":  "Sarapui a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:03"
+                        "tempo":  "00:15:59"
                     }
                 ],
     "semped":  [
@@ -1377,6 +1413,12 @@ window.PAINEL = {
                        "razao":  "POUPE SUPERMERCADOS LTDA",
                        "mun":  "PAULINIA",
                        "obs":  "compradora não quis atender"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Rachel",
@@ -1453,76 +1495,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:38:52"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:33:06"
+                         "tempo":  "00:48:05"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:11:47"
+                         "tempo":  "01:26:46"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:29:11"
+                         "tempo":  "01:44:10"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:08:32"
+                         "tempo":  "02:23:31"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:03:31"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:13:12"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:07:14"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO MIX CENTER LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:03:37"
+                         "tempo":  "00:18:36"
                      },
                      {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO SB BABA LTDA.",
-                         "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:58:45"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SILMELO SUPERMERCADO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:35:40"
+                         "nome":  "Costa",
+                         "razao":  "FAVETTA",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:09:12"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:21:26"
+                         "tempo":  "00:36:25"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "MARCOS NUNES DA SILVA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:21:46"
+                         "nome":  "Karina",
+                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:06:09"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:23:40"
+                         "tempo":  "00:38:39"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:59:06"
+                         "tempo":  "02:14:05"
                      }
                  ],
     "hist":  [
@@ -1633,8 +1681,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     87,
-                     15
+                     91,
+                     16
                  ]
              ],
     "historico":  {
@@ -20697,7 +20745,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20754,8 +20802,8 @@ window.PAINEL = {
                                                        "tv":  303
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20763,8 +20811,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20775,28 +20823,28 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  86.45,
-                                                       "tv":  266
+                                                       "km":  100.08,
+                                                       "tv":  336
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  93.57,
+                                                       "tv":  104
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  102.78,
-                                                       "tv":  256
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  104.04,
+                                                       "tv":  304
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -20871,6 +20919,15 @@ window.PAINEL = {
                                                        "tv":  181
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  35.62,
+                                                       "tv":  277
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -20878,15 +20935,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  40.89,
                                                        "tv":  118
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  34.5,
-                                                       "tv":  254
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -20972,6 +21020,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.63,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0,
+                                                         "km":  93.57,
+                                                         "tv":  104
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -21156,6 +21211,13 @@ window.PAINEL = {
                                                          "tv":  74
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  1.26,
+                                                         "tv":  48
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SUPERMERCADO STABILE LTDA",
                                                          "p":  1,
@@ -21247,6 +21309,13 @@ window.PAINEL = {
                                                          "tv":  107
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO SB BABA LTDA.",
+                                                         "p":  1,
+                                                         "km":  13.63,
+                                                         "tv":  70
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -21315,6 +21384,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  16.46,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MARCOS NUNES DA SILVA",
+                                                         "p":  1,
+                                                         "km":  1.12,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Castro",
