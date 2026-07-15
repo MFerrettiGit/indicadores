@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "07:45",
+    "dataHora":  "08:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "07:33",
                      "tv":  "00:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.56,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  2.24,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -248,14 +248,59 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  20.59,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "07:22",
+                     "ultimo":  "07:46",
+                     "tv":  "00:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  "07:22",
+                     "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0.79,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  12.47,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -279,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  10.48,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -306,51 +351,6 @@ window.PAINEL = {
                  {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "07:33:46",
                          "km":  6.88,
                          "dur":  "00:37:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "07:22:44",
+                         "out":  "07:46:30",
+                         "km":  20.59,
+                         "dur":  "00:23:00"
                      }
                  ],
     "eventos":  [
@@ -400,48 +409,53 @@ window.PAINEL = {
                         "obs":  "São Carlos a Descalvado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:52"
+                        "tempo":  "00:29:47"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Castro",
+                       "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                       "mun":  "JUNDIAI",
+                       "obs":  "comprador ausente"
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:37:37"
+                         "tempo":  "00:52:36"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:02:31"
+                         "tempo":  "00:17:30"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:09:28"
+                         "tempo":  "00:24:27"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:46:42"
+                         "tempo":  "01:01:41"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:12:19"
+                         "tempo":  "00:27:18"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "00:16:21"
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:03:16"
                      }
                  ],
     "hist":  [
@@ -552,8 +566,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     3,
-                     0
+                     4,
+                     1
                  ]
              ],
     "historico":  {
@@ -19616,7 +19630,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "07:45",
+                                         "dataHora":  "08:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19673,8 +19687,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19682,8 +19696,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19732,7 +19746,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.56,
                                                        "tv":  0
                                                    },
                                                    {
@@ -19741,7 +19755,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  2.24,
                                                        "tv":  0
                                                    },
                                                    {
@@ -19766,9 +19780,36 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  20.59,
+                                                       "tv":  23
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.79,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  12.47,
                                                        "tv":  0
                                                    },
                                                    {
@@ -19786,7 +19827,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  10.48,
                                                        "tv":  0
                                                    },
                                                    {
@@ -19801,33 +19842,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19856,6 +19870,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.88,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  0,
+                                                         "km":  20.59,
+                                                         "tv":  23
                                                      }
                                                  ]
                                      }
