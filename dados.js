@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "13:55",
                      "tv":  "04:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  65.33,
+                     "visitas":  5,
+                     "km":  102.78,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:51",
-                     "ultimo":  "12:10",
-                     "tv":  "03:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:31",
+                     "tv":  "04:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  144.9,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  146.79,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "09:28",
-                     "ultimo":  "12:42",
-                     "tv":  "02:21:00",
+                     "ultimo":  "14:27",
+                     "tv":  "02:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "12:21",
                      "tv":  "03:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -627,6 +627,15 @@ window.PAINEL = {
                          "dur":  "01:34:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "HALINE RODRIGUES SEGHETTO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "13:16:39",
+                         "out":  "14:31:15",
+                         "km":  37.45,
+                         "dur":  "01:14:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
@@ -652,6 +661,15 @@ window.PAINEL = {
                          "out":  "12:42:24",
                          "km":  33.73,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "VINICIUS ORSINE YAMADA",
+                         "mun":  "ITUVERAVA",
+                         "in":  "13:56:10",
+                         "out":  "14:27:40",
+                         "km":  1.89,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Maira",
@@ -1206,6 +1224,12 @@ window.PAINEL = {
                        "obs":  "abastecendo loja"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "VINICIUS ORSINE YAMADA",
+                       "mun":  "ITUVERAVA",
+                       "obs":  "estoque alto"
+                   },
+                   {
                        "nome":  "Lucas",
                        "razao":  "SUPERMERCADO SUMERBOL LTDA",
                        "mun":  "INDAIATUBA",
@@ -1253,97 +1277,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:23:50"
+                         "tempo":  "00:38:55"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:14:30"
+                         "tempo":  "01:29:35"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:50"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:14:09"
+                         "tempo":  "00:29:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:53:30"
+                         "tempo":  "01:08:35"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:00:12"
+                         "tempo":  "00:15:17"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:02:41"
+                         "tempo":  "00:17:46"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "SUMARE",
-                         "tempo":  "00:03:32"
+                         "tempo":  "00:18:37"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:18:37"
+                         "tempo":  "01:33:42"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "VINICIUS ORSINE YAMADA",
+                         "razao":  "W M TANNOUS LTDA.",
                          "mun":  "ITUVERAVA",
-                         "tempo":  "00:27:55"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "HALINE RODRIGUES SEGHETTO",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:07:26"
+                         "tempo":  "00:01:32"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:41:46"
+                         "tempo":  "00:56:51"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUELLERO",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:19:06"
+                         "tempo":  "00:34:11"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MARCOS NUNES DA SILVA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:02:27"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO IGUACU MARESIAS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:01:27"
+                         "tempo":  "00:16:32"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "DROGARIA SARAPUI LTDA",
                          "mun":  "SARAPUI",
-                         "tempo":  "00:17:36"
+                         "tempo":  "00:32:41"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:44:04"
+                         "tempo":  "00:59:09"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:32:26"
+                         "tempo":  "00:47:31"
                      }
                  ],
     "hist":  [
@@ -1454,8 +1484,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     68,
-                     11
+                     70,
+                     12
                  ]
              ],
     "historico":  {
@@ -20518,7 +20548,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20614,19 +20644,19 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  65.33,
-                                                       "tv":  182
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  102.78,
+                                                       "tv":  256
                                                    },
                                                    {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  144.9,
-                                                       "tv":  141
+                                                       "km":  146.79,
+                                                       "tv":  172
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -20942,6 +20972,13 @@ window.PAINEL = {
                                                          "tv":  94
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "HALINE RODRIGUES SEGHETTO",
+                                                         "p":  1,
+                                                         "km":  37.45,
+                                                         "tv":  74
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SUPERMERCADO STABILE LTDA",
                                                          "p":  1,
@@ -20961,6 +20998,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  33.73,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "VINICIUS ORSINE YAMADA",
+                                                         "p":  0,
+                                                         "km":  1.89,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Maira",
