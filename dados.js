@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:26",
                      "ultimo":  "09:54",
                      "tv":  "01:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:29",
                      "ultimo":  "09:45",
                      "tv":  "01:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "10:04",
                      "tv":  "01:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "10:05",
                      "tv":  "01:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -668,73 +668,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:02:30"
+                         "tempo":  "01:17:30"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:25"
+                         "tempo":  "00:37:25"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "HORTOLANDIA",
+                         "tempo":  "00:14:38"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:21:39"
+                         "tempo":  "00:36:39"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "ITU",
+                         "tempo":  "00:01:10"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:08:23"
+                         "tempo":  "01:23:23"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
-                         "tempo":  "00:40:47"
+                         "tempo":  "00:55:47"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO ANDRUCIOLI LTDA.",
+                         "mun":  "PONTAL",
+                         "tempo":  "00:13:58"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "02:02:27"
+                         "tempo":  "02:17:27"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "01:58:09"
+                         "tempo":  "02:13:09"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:38"
+                         "tempo":  "00:39:38"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MARIA ROSEMARY DE MACEDO EIRELI-EPP.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:54:41"
+                         "tempo":  "01:09:41"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LORENI FERRAIS BONFIM MARIANO",
                          "mun":  "ALAMBARI",
-                         "tempo":  "00:23:12"
+                         "tempo":  "00:38:12"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R.P. SANTO COM DE GENEROS ALIMENTICIOS L",
                          "mun":  "SAO PAULO",
-                         "tempo":  "00:11:12"
+                         "tempo":  "00:26:12"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:07:08"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "J L CONVENIENCIA SJC LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:57:08"
+                         "tempo":  "02:12:08"
                      }
                  ],
     "hist":  [
@@ -19909,7 +19933,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
