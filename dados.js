@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "02:21:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -240,8 +240,8 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "11:29",
                      "tv":  "03:22:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "11:50",
                      "tv":  "03:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -360,8 +360,8 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "12:23",
                      "tv":  "04:11:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -843,6 +843,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "13:30:04",
+                         "out":  "13:54:40",
+                         "km":  22.85,
+                         "dur":  "00:24:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -971,6 +980,14 @@ window.PAINEL = {
                         "tempo":  "00:42:37"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:56",
+                        "final":  "13:48",
+                        "tempo":  "00:51:21"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a Alambari",
@@ -1067,6 +1084,22 @@ window.PAINEL = {
                         "tempo":  "19:28:22"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:41",
+                        "final":  "13:42",
+                        "tempo":  "01:00:16"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:48",
+                        "final":  "13:50",
+                        "tempo":  "01:02:37"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Descalvado",
@@ -1075,36 +1108,12 @@ window.PAINEL = {
                         "tempo":  "00:45:32"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:15"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:42"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:43:14"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:51"
+                        "tempo":  "00:54:50"
                     },
                     {
                         "nome":  "Castro",
@@ -1112,7 +1121,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:19"
+                        "tempo":  "00:41:18"
                     },
                     {
                         "nome":  "Alan",
@@ -1120,7 +1129,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:21"
+                        "tempo":  "00:40:20"
                     }
                 ],
     "semped":  [
@@ -1190,55 +1199,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:29:35"
+                         "tempo":  "00:44:36"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:30:47"
+                         "tempo":  "00:45:48"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:08:35"
+                         "tempo":  "00:23:36"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:25:32"
+                         "tempo":  "00:40:33"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:33:42"
+                         "tempo":  "00:48:43"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "01:19:38"
+                         "tempo":  "01:34:39"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:22:31"
+                         "tempo":  "00:37:32"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "FAVETTA",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:11:52"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:09:06"
+                         "tempo":  "00:24:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO VALLE MAIS DE SARAPUI LTDA",
                          "mun":  "SARAPUI",
-                         "tempo":  "00:32:58"
+                         "tempo":  "00:47:59"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:14:10"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:02:32"
                      }
                  ],
     "hist":  [
@@ -20413,7 +20440,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20470,8 +20497,8 @@ window.PAINEL = {
                                                        "tv":  303
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20479,8 +20506,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -21003,6 +21030,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  34.24,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                                                         "p":  1,
+                                                         "km":  22.85,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Lucas",
