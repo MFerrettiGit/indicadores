@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  31.2,
+                     "visitas":  4,
+                     "km":  40.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "09:23",
-                     "tv":  "01:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:41",
+                     "tv":  "02:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:45",
                      "tv":  "01:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "10:37",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "09:23:39",
                          "km":  0.88,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:46:41",
+                         "out":  "10:41:42",
+                         "km":  9.27,
+                         "dur":  "00:54:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -634,6 +643,14 @@ window.PAINEL = {
                         "tempo":  "00:22:32"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Alambari a Sarapui",
+                        "inicio":  "10:39",
+                        "final":  "10:52",
+                        "tempo":  "00:13:19"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Pontal",
@@ -656,14 +673,6 @@ window.PAINEL = {
                         "inicio":  "07:24",
                         "final":  "08:10",
                         "tempo":  "00:45:32"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Alambari a Sarapui",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:00:41"
                     }
                 ],
     "semped":  [
@@ -703,103 +712,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:07:15"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:52:30"
+                         "tempo":  "00:22:12"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:29:43"
+                         "tempo":  "00:44:40"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:51:44"
+                         "tempo":  "01:06:41"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:16:15"
+                         "tempo":  "00:31:12"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:01:15"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:38:28"
+                         "tempo":  "01:53:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
-                         "tempo":  "01:10:52"
+                         "tempo":  "01:25:49"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:03:11"
+                         "tempo":  "00:18:08"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "02:32:32"
+                         "tempo":  "02:47:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "02:28:14"
+                         "tempo":  "02:43:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:13:15"
+                         "tempo":  "00:28:12"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:54:43"
+                         "tempo":  "01:09:40"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MARIA ROSEMARY DE MACEDO EIRELI-EPP.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:24:46"
+                         "tempo":  "01:39:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:10:45"
+                         "tempo":  "00:25:42"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R.P. SANTO COM DE GENEROS ALIMENTICIOS L",
                          "mun":  "SAO PAULO",
-                         "tempo":  "00:41:17"
+                         "tempo":  "00:56:14"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:22:13"
+                         "tempo":  "00:37:10"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "J L CONVENIENCIA SJC LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "02:27:13"
+                         "tempo":  "02:42:10"
                      }
                  ],
     "hist":  [
@@ -910,7 +919,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     27,
+                     28,
                      6
                  ]
              ],
@@ -19974,16 +19983,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  31.2,
-                                                       "tv":  112
+                                                       "km":  40.47,
+                                                       "tv":  166
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -20031,8 +20040,8 @@ window.PAINEL = {
                                                        "tv":  152
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20040,8 +20049,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20249,6 +20258,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.88,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA",
+                                                         "p":  1,
+                                                         "km":  9.27,
+                                                         "tv":  54
                                                      },
                                                      {
                                                          "n":  "Silmara",
