@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "15:51",
                      "tv":  "05:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  51.07,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:10",
+                     "ultimo":  "16:11",
+                     "tv":  "06:25:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "16:06",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  49.31,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:10",
-                     "ultimo":  "15:11",
-                     "tv":  "05:32:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  72.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:14",
+                     "ultimo":  "16:20",
+                     "tv":  "04:57:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -257,21 +272,6 @@ window.PAINEL = {
                      "tv":  "05:23:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  68.08,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:14",
-                     "ultimo":  "15:31",
-                     "tv":  "04:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "15:41",
                      "tv":  "04:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "10:25",
                      "ultimo":  "14:20",
                      "tv":  "01:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -897,6 +897,15 @@ window.PAINEL = {
                          "dur":  "01:06:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                         "mun":  "DESCALVADO",
+                         "in":  "15:17:41",
+                         "out":  "16:11:32",
+                         "km":  1.76,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -1075,6 +1084,15 @@ window.PAINEL = {
                          "out":  "15:31:37",
                          "km":  0,
                          "dur":  "00:28:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "15:47:57",
+                         "out":  "16:20:55",
+                         "km":  4.5,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1422,7 +1440,15 @@ window.PAINEL = {
                         "obs":  "Sarapui a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:00"
+                        "tempo":  "00:46:11"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando cadastro de produtos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:01"
                     }
                 ],
     "semped":  [
@@ -1522,67 +1548,79 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "01:03:03"
+                         "tempo":  "01:18:08"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:41:44"
+                         "tempo":  "01:56:49"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:38:29"
+                         "tempo":  "02:53:34"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:18:29"
+                         "tempo":  "00:33:34"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "00:28:10"
+                         "tempo":  "00:43:15"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO MIX CENTER LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:33:34"
+                         "tempo":  "00:48:39"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:24:10"
+                         "tempo":  "00:39:15"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                         "razao":  "MORAIS E FRANZIN LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:51:23"
+                         "tempo":  "00:02:01"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:01:52"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:06:54"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
+                         "razao":  "JMC MATERIAIS DE CONSTRUCAO LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:21:07"
+                         "tempo":  "00:00:05"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:53:37"
+                         "tempo":  "01:08:42"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "02:29:03"
+                         "tempo":  "02:44:08"
                      }
                  ],
     "hist":  [
@@ -1693,7 +1731,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     94,
+                     96,
                      18
                  ]
              ],
@@ -20757,7 +20795,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20877,6 +20915,15 @@ window.PAINEL = {
                                                        "tv":  337
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  51.07,
+                                                       "tv":  385
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -20884,15 +20931,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  71.86,
                                                        "tv":  212
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  49.31,
-                                                       "tv":  332
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -20904,6 +20942,15 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  72.58,
+                                                       "tv":  297
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -20911,15 +20958,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  41.07,
                                                        "tv":  323
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  68.08,
-                                                       "tv":  265
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -21391,6 +21429,13 @@ window.PAINEL = {
                                                          "tv":  66
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                                                         "p":  1,
+                                                         "km":  1.76,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -21529,6 +21574,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  28
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MATHEUS HONORATO DE OLIVEIRA",
+                                                         "p":  1,
+                                                         "km":  4.5,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Lucas",
