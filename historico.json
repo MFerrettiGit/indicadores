@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19068,6 +19068,15 @@
                                      "pe":  0,
                                      "km":  40.47,
                                      "tv":  166
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  69.73,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -19097,15 +19106,6 @@
                                      "tv":  197
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  68.18,
-                                     "tv":  142
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -19115,8 +19115,8 @@
                                      "tv":  152
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19160,6 +19160,33 @@
                                      "tv":  88
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  45.41,
+                                     "tv":  123
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  111.17,
+                                     "tv":  116
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  23.75,
+                                     "tv":  202
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -19167,33 +19194,6 @@
                                      "pe":  0,
                                      "km":  2.37,
                                      "tv":  19
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  37.16,
-                                     "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  109.86,
-                                     "tv":  92
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  23.75,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -19223,6 +19223,15 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  37.82,
+                                     "tv":  58
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -19248,15 +19257,6 @@
                                      "pe":  1,
                                      "km":  10.23,
                                      "tv":  125
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  37.82,
-                                     "tv":  36
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -19363,6 +19363,13 @@
                                        "tv":  109
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.55,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -19382,6 +19389,13 @@
                                        "p":  1,
                                        "km":  1.37,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "FAVETTA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  202
                                    },
                                    {
                                        "n":  "Fernando",
@@ -19412,11 +19426,25 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  1.31,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "POUPE SUPERMERCADOS LTDA",
                                        "p":  0,
                                        "km":  36.6,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                       "p":  1,
+                                       "km":  8.25,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Milene",
@@ -19487,6 +19515,13 @@
                                        "p":  1,
                                        "km":  25.35,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MW METEORO LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Karina",
