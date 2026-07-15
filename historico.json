@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19082,10 +19082,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  68.32,
-                                     "tv":  234
+                                     "km":  71.73,
+                                     "tv":  273
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -19115,8 +19115,8 @@
                                      "tv":  303
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19223,6 +19223,15 @@
                                      "tv":  323
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  56.08,
+                                     "tv":  297
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -19230,15 +19239,6 @@
                                      "pe":  0,
                                      "km":  19.81,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  35.62,
-                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -19480,6 +19480,13 @@
                                        "p":  1,
                                        "km":  0.92,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  3.41,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Costa",
@@ -19725,6 +19732,13 @@
                                        "p":  1,
                                        "km":  1.12,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  20.46,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Castro",
