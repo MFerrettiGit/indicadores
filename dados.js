@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "16:58",
                      "tv":  "07:01:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -219,14 +219,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  148.65,
+                     "km":  214.55,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "09:28",
                      "ultimo":  "15:06",
                      "tv":  "03:20:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  41.07,
+                     "visitas":  7,
+                     "km":  75.73,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:04",
-                     "ultimo":  "15:38",
-                     "tv":  "05:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:57",
+                     "tv":  "06:36:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1113,6 +1113,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:40:01",
+                         "out":  "18:09:17",
+                         "km":  13.22,
+                         "dur":  "04:28:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
@@ -1318,6 +1327,15 @@ window.PAINEL = {
                          "out":  "15:38:08",
                          "km":  0.37,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:43:17",
+                         "out":  "17:57:13",
+                         "km":  34.66,
+                         "dur":  "01:13:00"
                      }
                  ],
     "eventos":  [
@@ -1416,6 +1434,14 @@ window.PAINEL = {
                         "inicio":  "15:10",
                         "final":  "16:05",
                         "tempo":  "00:55:49"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Reta Alimentos",
+                        "inicio":  "16:50",
+                        "final":  "17:55",
+                        "tempo":  "01:05:31"
                     },
                     {
                         "nome":  "Nelson",
@@ -1586,20 +1612,12 @@ window.PAINEL = {
                         "tempo":  "01:04:19"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Reta Alimentos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:04:50"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Descalvado a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:54"
+                        "inicio":  "16:59",
+                        "final":  "17:58",
+                        "tempo":  "00:59:16"
                     }
                 ],
     "semped":  [
@@ -1720,16 +1738,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Nelson",
-                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:10:43"
-                     },
-                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "04:13:59"
+                         "tempo":  "04:29:01"
                      }
                  ],
     "hist":  [
@@ -1840,7 +1852,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     112,
+                     113,
                      23
                  ]
              ],
@@ -20904,7 +20916,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -21038,7 +21050,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  148.65,
+                                                       "km":  214.55,
                                                        "tv":  200
                                                    },
                                                    {
@@ -21063,10 +21075,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  41.07,
-                                                       "tv":  323
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  75.73,
+                                                       "tv":  396
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -21706,6 +21718,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  0,
+                                                         "km":  13.22,
+                                                         "tv":  268
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -21865,6 +21884,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.37,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                                         "p":  1,
+                                                         "km":  34.66,
+                                                         "tv":  73
                                                      }
                                                  ]
                                      }

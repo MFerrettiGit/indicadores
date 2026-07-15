@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19192,7 +19192,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  148.65,
+                                     "km":  214.55,
                                      "tv":  200
                                  },
                                  {
@@ -19217,10 +19217,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  41.07,
-                                     "tv":  323
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  75.73,
+                                     "tv":  396
                                  },
                                  {
                                      "nome":  "Alan",
@@ -19860,6 +19860,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0,
+                                       "km":  13.22,
+                                       "tv":  268
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -20019,6 +20026,13 @@
                                        "p":  0,
                                        "km":  0.37,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                       "p":  1,
+                                       "km":  34.66,
+                                       "tv":  73
                                    }
                                ]
                    }
