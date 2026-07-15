@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,6 +15,21 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "08:41",
                      "tv":  "01:22:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  29.99,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:01",
+                     "ultimo":  "08:59",
+                     "tv":  "01:58:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -45,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:26",
                      "ultimo":  "08:18",
                      "tv":  "00:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:29",
                      "ultimo":  "08:43",
                      "tv":  "01:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -73,21 +88,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "06:52",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:01",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -165,8 +165,8 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "08:27",
                      "tv":  "00:19:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.79,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  4.29,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "08:59",
+                     "tv":  "00:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -319,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -362,9 +347,33 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "LEME",
+                         "in":  "07:01:28",
+                         "out":  "08:59:42",
+                         "km":  29.99,
+                         "dur":  "01:58:00"
+                     },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
@@ -445,9 +454,26 @@ window.PAINEL = {
                          "out":  "07:46:30",
                          "km":  20.59,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "08:03:39",
+                         "out":  "08:59:38",
+                         "km":  3.5,
+                         "dur":  "00:55:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "itapira",
+                        "inicio":  "08:27",
+                        "final":  "09:00",
+                        "tempo":  "00:32:18"
+                    },
                     {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
@@ -478,15 +504,7 @@ window.PAINEL = {
                         "obs":  "Franca a Miguelopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:26"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "itapira",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:26:44"
+                        "tempo":  "01:08:30"
                     },
                     {
                         "nome":  "Eugenio",
@@ -494,7 +512,7 @@ window.PAINEL = {
                         "obs":  "Trocando pneu carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:02"
+                        "tempo":  "00:33:06"
                     }
                 ],
     "semped":  [
@@ -509,80 +527,98 @@ window.PAINEL = {
                        "razao":  "PIRANA - AUTO SERVICO LTDA.",
                        "mun":  "JUNDIAI",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento merchandising"
                    }
                ],
     "emvisita":  [
                      {
                          "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:52:38"
+                         "tempo":  "00:02:32"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:49"
+                         "tempo":  "00:15:51"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "HORTOLANDIA",
+                         "tempo":  "00:04:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:01:43"
+                         "tempo":  "02:16:45"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:03:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
                          "mun":  "SUMARE",
-                         "tempo":  "00:39:45"
+                         "tempo":  "00:54:47"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:32:04"
+                         "tempo":  "00:47:06"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:08:25"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
-                         "tempo":  "00:02:25"
+                         "tempo":  "00:17:27"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:47:27"
+                         "tempo":  "01:02:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:43:09"
+                         "tempo":  "00:58:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:19:29"
+                         "tempo":  "00:34:31"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:49:22"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:50:27"
+                         "tempo":  "01:04:24"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "J L CONVENIENCIA SJC LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:42:08"
+                         "tempo":  "00:57:10"
                      }
                  ],
     "hist":  [
@@ -693,8 +729,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     9,
-                     2
+                     11,
+                     3
                  ]
              ],
     "historico":  {
@@ -19757,7 +19793,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -19767,6 +19803,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  30.32,
                                                        "tv":  82
+                                                   },
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  29.99,
+                                                       "tv":  118
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -19798,15 +19843,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -19916,10 +19952,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0.79,
-                                                       "tv":  0
+                                                       "km":  4.29,
+                                                       "tv":  55
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -19949,15 +19985,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -19974,9 +20001,25 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  29.99,
+                                                         "tv":  118
+                                                     },
                                                      {
                                                          "n":  "Edimilson",
                                                          "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
@@ -20039,6 +20082,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  20.59,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  3.5,
+                                                         "tv":  55
                                                      }
                                                  ]
                                      }
