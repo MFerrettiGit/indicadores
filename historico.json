@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19068,6 +19068,24 @@
                                      "pe":  0,
                                      "km":  40.47,
                                      "tv":  166
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.2,
+                                     "tv":  147
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.68,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Debora",
@@ -19086,24 +19104,6 @@
                                      "pe":  0,
                                      "km":  68.18,
                                      "tv":  142
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  62.83,
-                                     "tv":  99
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  56.23,
-                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -19241,6 +19241,15 @@
                                      "tv":  63
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  10.23,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -19256,15 +19265,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  10.48,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -19305,6 +19305,13 @@
                                        "p":  1,
                                        "km":  4.54,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.45,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Eliana",
@@ -19367,6 +19374,13 @@
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                                        "p":  1,
                                        "km":  27.61,
+                                       "tv":  48
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.37,
                                        "tv":  48
                                    },
                                    {
@@ -19473,6 +19487,13 @@
                                        "p":  1,
                                        "km":  25.35,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARIA ROSEMARY DE MACEDO EIRELI-EPP.",
+                                       "p":  1,
+                                       "km":  10.23,
+                                       "tv":  125
                                    },
                                    {
                                        "n":  "Nelson",
