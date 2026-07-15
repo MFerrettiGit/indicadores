@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19115,8 +19115,8 @@
                                      "tv":  152
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19136,10 +19136,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  38.53,
-                                     "tv":  102
+                                     "km":  84.91,
+                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -19208,10 +19208,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  13.92,
-                                     "tv":  147
+                                     "km":  19.81,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -19259,21 +19259,21 @@
                                      "tv":  125
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  6.51,
+                                     "tv":  76
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  10.48,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -19468,6 +19468,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  46.38,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -19510,6 +19517,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0,
+                                       "km":  5.89,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -19529,6 +19543,13 @@
                                        "p":  1,
                                        "km":  10.23,
                                        "tv":  125
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  0,
+                                       "km":  6.51,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Nelson",
