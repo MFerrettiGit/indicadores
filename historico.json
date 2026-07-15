@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19068,6 +19068,15 @@
                                      "pe":  0,
                                      "km":  31.2,
                                      "tv":  112
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  31.14,
+                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -19104,15 +19113,6 @@
                                      "pe":  0,
                                      "km":  2.79,
                                      "tv":  152
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.99,
-                                     "tv":  118
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -19154,10 +19154,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  62.73,
-                                     "tv":  68
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  63.94,
+                                     "tv":  88
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -19214,6 +19214,15 @@
                                      "tv":  101
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  23.45,
+                                     "tv":  127
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -19221,15 +19230,6 @@
                                      "pe":  0,
                                      "km":  20.59,
                                      "tv":  23
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.52,
-                                     "tv":  76
                                  },
                                  {
                                      "nome":  "Alan",
@@ -19284,6 +19284,13 @@
                                        "p":  1,
                                        "km":  29.99,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  1.15,
+                                       "tv":  79
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -19370,6 +19377,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO ANDRUCIOLI LTDA.",
+                                       "p":  1,
+                                       "km":  1.21,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "POUPE SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -19438,6 +19452,13 @@
                                        "p":  1,
                                        "km":  2.02,
                                        "tv":  76
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "LORENI FERRAIS BONFIM MARIANO",
+                                       "p":  1,
+                                       "km":  20.93,
+                                       "tv":  51
                                    }
                                ]
                    }
