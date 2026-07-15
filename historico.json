@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19115,8 +19115,8 @@
                                      "tv":  303
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19172,10 +19172,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
+                                     "vi":  4,
+                                     "pe":  1,
                                      "km":  39.83,
-                                     "tv":  304
+                                     "tv":  337
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -19187,6 +19187,15 @@
                                      "tv":  332
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  63.33,
+                                     "tv":  193
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -19196,31 +19205,22 @@
                                      "tv":  269
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  45.41,
-                                     "tv":  123
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  5,
-                                     "km":  40.7,
-                                     "tv":  280
+                                     "km":  41.07,
+                                     "tv":  323
                                  },
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
+                                     "vi":  6,
+                                     "pe":  6,
                                      "km":  68.08,
-                                     "tv":  237
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -19566,6 +19566,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "ARIEL SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  17.92,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -19620,6 +19627,13 @@
                                        "p":  0,
                                        "km":  2.15,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -19769,6 +19783,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  0,
@@ -19829,6 +19850,13 @@
                                        "r":  "DROGARIA SARAPUI LTDA",
                                        "p":  1,
                                        "km":  0.73,
+                                       "tv":  43
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "FELIPE HOLTZ PIOVESANI DE CARVALHO LTDA",
+                                       "p":  0,
+                                       "km":  0.37,
                                        "tv":  43
                                    }
                                ]
