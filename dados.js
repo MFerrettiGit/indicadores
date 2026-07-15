@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  100.08,
+                     "km":  121.1,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "16:45",
                      "tv":  "05:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -278,14 +278,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  56.08,
+                     "visitas":  6,
+                     "km":  59.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  "16:38",
-                     "tv":  "04:57:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:14",
+                     "tv":  "05:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1032,6 +1032,15 @@ window.PAINEL = {
                          "dur":  "00:20:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "COTO SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:51:24",
+                         "out":  "17:14:20",
+                         "km":  3.77,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
@@ -1555,7 +1564,7 @@ window.PAINEL = {
                         "obs":  "Rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:48"
+                        "tempo":  "00:34:47"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1563,7 +1572,7 @@ window.PAINEL = {
                         "obs":  "Descalvado a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:52"
+                        "tempo":  "00:25:51"
                     }
                 ],
     "semped":  [
@@ -1684,34 +1693,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Costa",
+                         "razao":  "DIVALDO A ANTONELLI",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:10:15"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:46:45"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "COTO SUPERMERCADO LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:17:38"
+                         "tempo":  "01:01:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:25:45"
+                         "tempo":  "00:40:43"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:53:35"
+                         "tempo":  "02:08:33"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "03:29:01"
+                         "tempo":  "03:43:59"
                      }
                  ],
     "hist":  [
@@ -1822,8 +1831,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     107,
-                     22
+                     109,
+                     23
                  ]
              ],
     "historico":  {
@@ -20886,7 +20895,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20943,8 +20952,8 @@ window.PAINEL = {
                                                        "tv":  504
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20952,8 +20961,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20966,7 +20975,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  100.08,
+                                                       "km":  121.1,
                                                        "tv":  336
                                                    },
                                                    {
@@ -21054,10 +21063,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  56.08,
-                                                       "tv":  297
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  59.85,
+                                                       "tv":  319
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -21623,6 +21632,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  20.46,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "COTO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  3.77,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Castro",

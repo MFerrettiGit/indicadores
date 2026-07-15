@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19115,8 +19115,8 @@
                                      "tv":  504
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19138,7 +19138,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  100.08,
+                                     "km":  121.1,
                                      "tv":  336
                                  },
                                  {
@@ -19226,10 +19226,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  56.08,
-                                     "tv":  297
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  59.85,
+                                     "tv":  319
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -19795,6 +19795,13 @@
                                        "p":  1,
                                        "km":  20.46,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "COTO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  3.77,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Castro",
