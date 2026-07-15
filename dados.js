@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -23,14 +23,14 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  77.8,
+                     "visitas":  7,
+                     "km":  89.46,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
-                     "ultimo":  "14:51",
-                     "tv":  "05:42:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:01",
+                     "tv":  "07:01:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  102.58,
+                     "km":  144.45,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:29",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "15:51",
                      "tv":  "05:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -184,6 +184,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  53.54,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:10",
+                     "ultimo":  "16:58",
+                     "tv":  "07:01:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  81.81,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:22",
+                     "ultimo":  "17:07",
+                     "tv":  "04:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -197,36 +227,6 @@ window.PAINEL = {
                      "tv":  "03:20:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  51.07,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:10",
-                     "ultimo":  "16:11",
-                     "tv":  "06:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  71.86,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:22",
-                     "ultimo":  "16:06",
-                     "tv":  "03:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -609,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                         "mun":  "SUMARE",
+                         "in":  "15:40:54",
+                         "out":  "17:01:25",
+                         "km":  11.66,
+                         "dur":  "01:19:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -825,6 +834,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "ARIEL SUPERMERCADO LTDA",
+                         "mun":  "SUMARE",
+                         "in":  "16:27:45",
+                         "out":  "17:07:57",
+                         "km":  9.95,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -958,6 +976,15 @@ window.PAINEL = {
                          "out":  "16:11:32",
                          "km":  1.76,
                          "dur":  "00:53:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MORAIS E FRANZIN LTDA",
+                         "mun":  "DESCALVADO",
+                         "in":  "16:22:08",
+                         "out":  "16:58:32",
+                         "km":  2.47,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1483,6 +1510,14 @@ window.PAINEL = {
                         "tempo":  "19:28:22"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando cadastro de produtos",
+                        "inicio":  "16:22",
+                        "final":  "17:00",
+                        "tempo":  "00:38:20"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1515,20 +1550,20 @@ window.PAINEL = {
                         "tempo":  "01:04:19"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitando cadastro de produtos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:33:01"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "Rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:52"
+                        "tempo":  "00:19:48"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Descalvado a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:52"
                     }
                 ],
     "semped":  [
@@ -1543,6 +1578,12 @@ window.PAINEL = {
                        "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
                        "mun":  "SUMARE",
                        "obs":  "."
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "ARIEL SUPERMERCADO LTDA",
+                       "mun":  "SUMARE",
+                       "obs":  "efetuar trocas"
                    },
                    {
                        "nome":  "Karina",
@@ -1633,56 +1674,44 @@ window.PAINEL = {
                        "razao":  "EDSON L TRALDI E CARLOS A TRALDI LTDA",
                        "mun":  "DESCALVADO",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "MORAIS E FRANZIN LTDA",
+                       "mun":  "DESCALVADO",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Silmara",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
-                         "mun":  "SUMARE",
-                         "tempo":  "01:13:12"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "ARIEL SUPERMERCADO LTDA",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:26:21"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MORAIS E FRANZIN LTDA",
-                         "mun":  "DESCALVADO",
-                         "tempo":  "00:31:58"
-                     },
-                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:31:49"
+                         "tempo":  "00:46:45"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COTO SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:02:42"
+                         "tempo":  "00:17:38"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:10:49"
+                         "tempo":  "00:25:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:38:39"
+                         "tempo":  "01:53:35"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "03:14:05"
+                         "tempo":  "03:29:01"
                      }
                  ],
     "hist":  [
@@ -1793,8 +1822,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     104,
-                     20
+                     107,
+                     22
                  ]
              ],
     "historico":  {
@@ -20857,7 +20886,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -20872,10 +20901,10 @@ window.PAINEL = {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  77.8,
-                                                       "tv":  342
+                                                       "km":  89.46,
+                                                       "tv":  421
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -20901,7 +20930,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  102.58,
+                                                       "km":  144.45,
                                                        "tv":  345
                                                    },
                                                    {
@@ -20968,6 +20997,24 @@ window.PAINEL = {
                                                        "tv":  410
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  53.54,
+                                                       "tv":  421
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  81.81,
+                                                       "tv":  252
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -20975,24 +21022,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  148.65,
                                                        "tv":  200
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  51.07,
-                                                       "tv":  385
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  71.86,
-                                                       "tv":  212
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -21267,6 +21296,13 @@ window.PAINEL = {
                                                          "tv":  30
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                                                         "p":  1,
+                                                         "km":  11.66,
+                                                         "tv":  79
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -21423,7 +21459,7 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Maira",
                                                          "r":  "ARIEL SUPERMERCADO LTDA",
-                                                         "p":  1,
+                                                         "p":  0,
                                                          "km":  17.92,
                                                          "tv":  70
                                                      },
@@ -21433,6 +21469,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.53,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "ARIEL SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  9.95,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -21538,6 +21581,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.76,
                                                          "tv":  53
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MORAIS E FRANZIN LTDA",
+                                                         "p":  0,
+                                                         "km":  2.47,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Alan",
