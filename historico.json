@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19088,6 +19088,15 @@
                                      "tv":  234
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  102.58,
+                                     "tv":  345
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -19095,15 +19104,6 @@
                                      "pe":  0,
                                      "km":  34.42,
                                      "tv":  377
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  68.31,
-                                     "tv":  235
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -19178,6 +19178,15 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  71.86,
+                                     "tv":  212
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -19185,15 +19194,6 @@
                                      "pe":  2,
                                      "km":  49.31,
                                      "tv":  332
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  63.33,
-                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Costa",
@@ -19264,7 +19264,7 @@
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  23.34,
+                                     "km":  30.61,
                                      "tv":  332
                                  },
                                  {
@@ -19333,6 +19333,13 @@
                                        "p":  1,
                                        "km":  3.63,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  34.27,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -19585,6 +19592,13 @@
                                        "p":  1,
                                        "km":  17.92,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                       "p":  0,
+                                       "km":  8.53,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Milene",
