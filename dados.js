@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/07/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  67.7,
+                     "visitas":  6,
+                     "km":  102.67,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "11:57",
-                     "tv":  "03:28:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:55",
+                     "tv":  "04:14:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  84.91,
+                     "visitas":  5,
+                     "km":  86.45,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
-                     "ultimo":  "11:54",
-                     "tv":  "02:39:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:06",
+                     "tv":  "04:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -147,10 +147,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "14:00",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "09:28",
                      "ultimo":  "12:42",
                      "tv":  "02:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "12:53",
                      "tv":  "04:26:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -263,13 +263,28 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  38.03,
+                     "visitas":  4,
+                     "km":  39.97,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:04",
-                     "ultimo":  "11:57",
-                     "tv":  "03:09:00",
+                     "ultimo":  "13:55",
+                     "tv":  "03:57:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  67.32,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:14",
+                     "ultimo":  "13:54",
+                     "tv":  "03:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -285,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "10:25",
                      "ultimo":  "13:35",
                      "tv":  "01:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -317,21 +332,6 @@ window.PAINEL = {
                      "tv":  "03:39:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  44.47,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:14",
-                     "ultimo":  "12:26",
-                     "tv":  "02:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -490,6 +490,15 @@ window.PAINEL = {
                          "out":  "11:57:17",
                          "km":  27.23,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:08:23",
+                         "out":  "13:55:41",
+                         "km":  34.97,
+                         "dur":  "00:46:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -688,6 +697,15 @@ window.PAINEL = {
                          "out":  "11:54:09",
                          "km":  46.38,
                          "dur":  "00:57:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "FURLAN",
+                         "mun":  "BRODOWSKI",
+                         "in":  "12:19:32",
+                         "out":  "14:06:44",
+                         "km":  1.54,
+                         "dur":  "01:47:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -904,6 +922,15 @@ window.PAINEL = {
                          "out":  "11:57:09",
                          "km":  14.58,
                          "dur":  "01:02:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO VALLE MAIS DE SARAPUI LTDA",
+                         "mun":  "SARAPUI",
+                         "in":  "13:06:12",
+                         "out":  "13:55:33",
+                         "km":  1.94,
+                         "dur":  "00:48:00"
                      }
                  ],
     "eventos":  [
@@ -1111,9 +1138,9 @@ window.PAINEL = {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:50"
+                        "inicio":  "13:00",
+                        "final":  "14:04",
+                        "tempo":  "01:04:19"
                     },
                     {
                         "nome":  "Castro",
@@ -1121,7 +1148,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:18"
+                        "tempo":  "00:56:18"
                     },
                     {
                         "nome":  "Alan",
@@ -1129,7 +1156,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:20"
+                        "tempo":  "00:55:20"
                     }
                 ],
     "semped":  [
@@ -1196,76 +1223,88 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:08:53"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:44:36"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:45:48"
+                         "tempo":  "00:59:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:23:36"
+                         "tempo":  "00:38:33"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:40:33"
+                         "tempo":  "00:55:30"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:48:43"
+                         "tempo":  "01:03:40"
                      },
                      {
-                         "nome":  "Milene",
-                         "razao":  "FURLAN",
-                         "mun":  "BRODOWSKI",
-                         "tempo":  "01:34:39"
+                         "nome":  "Luis",
+                         "razao":  "VINICIUS ORSINE YAMADA",
+                         "mun":  "ITUVERAVA",
+                         "tempo":  "00:12:58"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:37:32"
+                         "tempo":  "00:52:29"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:11:52"
+                         "tempo":  "00:26:49"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUELLERO",
+                         "mun":  "DESCALVADO",
+                         "tempo":  "00:04:09"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "STEFANIE CAROLINE BUZATTO",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:10:06"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                         "razao":  "LEILA MARIA SILVA PEREIRA - ME",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:24:07"
+                         "tempo":  "00:09:35"
                      },
                      {
                          "nome":  "Nelson",
-                         "razao":  "MERCADO VALLE MAIS DE SARAPUI LTDA",
+                         "razao":  "DROGARIA SARAPUI LTDA",
                          "mun":  "SARAPUI",
-                         "tempo":  "00:47:59"
+                         "tempo":  "00:02:39"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:14:10"
+                         "tempo":  "00:29:07"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:02:32"
+                         "tempo":  "00:17:29"
                      }
                  ],
     "hist":  [
@@ -1376,7 +1415,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/07",
-                     61,
+                     65,
                      11
                  ]
              ],
@@ -20440,16 +20479,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-15":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  67.7,
-                                                       "tv":  208
+                                                       "km":  102.67,
+                                                       "tv":  254
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -20518,10 +20557,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  84.91,
-                                                       "tv":  159
+                                                       "km":  86.45,
+                                                       "tv":  266
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -20599,10 +20638,19 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  39.97,
+                                                       "tv":  237
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  38.03,
-                                                       "tv":  189
+                                                       "km":  67.32,
+                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -20630,15 +20678,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.04,
                                                        "tv":  219
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  44.47,
-                                                       "tv":  157
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -20757,6 +20796,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  27.23,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                                         "p":  1,
+                                                         "km":  34.97,
+                                                         "tv":  46
                                                      },
                                                      {
                                                          "n":  "Silmara",
@@ -20911,6 +20957,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  46.38,
                                                          "tv":  57
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "FURLAN",
+                                                         "p":  1,
+                                                         "km":  1.54,
+                                                         "tv":  107
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -21079,6 +21132,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  14.58,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO VALLE MAIS DE SARAPUI LTDA",
+                                                         "p":  1,
+                                                         "km":  1.94,
+                                                         "tv":  48
                                                      }
                                                  ]
                                      }

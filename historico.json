@@ -19058,16 +19058,16 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  67.7,
-                                     "tv":  208
+                                     "km":  102.67,
+                                     "tv":  254
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -19136,10 +19136,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  84.91,
-                                     "tv":  159
+                                     "km":  86.45,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -19217,10 +19217,19 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  39.97,
+                                     "tv":  237
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  38.03,
-                                     "tv":  189
+                                     "km":  67.32,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -19248,15 +19257,6 @@
                                      "pe":  2,
                                      "km":  18.04,
                                      "tv":  219
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  44.47,
-                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -19375,6 +19375,13 @@
                                        "p":  1,
                                        "km":  27.23,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  34.97,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Silmara",
@@ -19529,6 +19536,13 @@
                                        "p":  1,
                                        "km":  46.38,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  1.54,
+                                       "tv":  107
                                    },
                                    {
                                        "n":  "Rachel",
@@ -19697,6 +19711,13 @@
                                        "p":  1,
                                        "km":  14.58,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO VALLE MAIS DE SARAPUI LTDA",
+                                       "p":  1,
+                                       "km":  1.94,
+                                       "tv":  48
                                    }
                                ]
                    }
