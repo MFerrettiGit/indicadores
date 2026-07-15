@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19068,6 +19068,15 @@
                                      "pe":  0,
                                      "km":  31.2,
                                      "tv":  112
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  68.18,
+                                     "tv":  142
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -19106,15 +19115,6 @@
                                      "tv":  118
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  48.34,
-                                     "tv":  33
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -19151,6 +19151,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.73,
+                                     "tv":  68
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -19167,15 +19176,6 @@
                                      "pe":  0,
                                      "km":  37.16,
                                      "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  62.18,
-                                     "tv":  40
                                  },
                                  {
                                      "nome":  "Costa",
@@ -19205,6 +19205,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  10.62,
+                                     "tv":  101
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -19212,15 +19221,6 @@
                                      "pe":  0,
                                      "km":  20.59,
                                      "tv":  23
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.29,
-                                     "tv":  55
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -19335,6 +19335,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                                       "p":  1,
+                                       "km":  19.84,
+                                       "tv":  109
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -19354,6 +19361,13 @@
                                        "p":  1,
                                        "km":  40.64,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "HERNANDEZ",
+                                       "p":  1,
+                                       "km":  0.55,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Maira",
@@ -19410,6 +19424,13 @@
                                        "p":  0,
                                        "km":  3.5,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  6.33,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Nelson",
