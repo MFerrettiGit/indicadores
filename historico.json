@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19079,6 +19079,15 @@
                                      "tv":  342
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  68.32,
+                                     "tv":  234
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -19086,15 +19095,6 @@
                                      "pe":  0,
                                      "km":  34.42,
                                      "tv":  377
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  67.4,
-                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -19115,8 +19115,8 @@
                                      "tv":  303
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19124,8 +19124,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -19163,10 +19163,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  146.79,
-                                     "tv":  172
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  148.65,
+                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -19214,6 +19214,15 @@
                                      "tv":  280
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  68.08,
+                                     "tv":  237
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -19221,15 +19230,6 @@
                                      "pe":  0,
                                      "km":  19.81,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  67.8,
-                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -19461,6 +19461,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "FAVETTA",
                                        "p":  1,
@@ -19536,6 +19543,13 @@
                                        "p":  0,
                                        "km":  1.89,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "W M TANNOUS LTDA.",
+                                       "p":  1,
+                                       "km":  1.86,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Maira",
@@ -19732,6 +19746,13 @@
                                        "p":  1,
                                        "km":  0.48,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO IGUACU MARESIAS LTDA",
+                                       "p":  1,
+                                       "km":  0.28,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Lucas",
