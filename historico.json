@@ -19058,7 +19058,7 @@
                                ]
                    },
     "2026-07-15":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -19066,7 +19066,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  117.9,
+                                     "km":  135.38,
                                      "tv":  396
                                  },
                                  {
@@ -19147,7 +19147,7 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  1,
                                      "pe":  0,
-                                     "km":  93.57,
+                                     "km":  189.11,
                                      "tv":  104
                                  },
                                  {
@@ -19199,10 +19199,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  34.55,
-                                     "tv":  329
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  60.8,
+                                     "tv":  355
                                  },
                                  {
                                      "nome":  "Karina",
@@ -19232,6 +19232,15 @@
                                      "tv":  319
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  68.14,
+                                     "tv":  197
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -19241,22 +19250,13 @@
                                      "tv":  181
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  40.89,
-                                     "tv":  118
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  76.38,
-                                     "tv":  166
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  142.09,
+                                     "tv":  320
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -19536,6 +19536,13 @@
                                        "p":  1,
                                        "km":  6.94,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "DIVALDO A ANTONELLI",
+                                       "p":  1,
+                                       "km":  1.92,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Fernando",
@@ -19818,6 +19825,13 @@
                                        "tv":  143
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  65.71,
+                                       "tv":  154
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0,
@@ -19872,6 +19886,13 @@
                                        "p":  1,
                                        "km":  1.31,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  27.25,
+                                       "tv":  79
                                    },
                                    {
                                        "n":  "Karina",
