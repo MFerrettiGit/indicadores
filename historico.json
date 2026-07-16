@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20058,22 +20058,22 @@
                                      "tv":  281
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  63.72,
+                                     "tv":  494
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  49.33,
+                                     "km":  53.79,
                                      "tv":  427
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  59.59,
-                                     "tv":  438
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20088,14 +20088,14 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  15.88,
-                                     "tv":  267
+                                     "km":  24.76,
+                                     "tv":  434
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20291,6 +20291,13 @@
                                        "p":  1,
                                        "km":  0.69,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.13,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -20480,6 +20487,13 @@
                                        "p":  1,
                                        "km":  7.23,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  8.88,
+                                       "tv":  167
                                    },
                                    {
                                        "n":  "Costa",
