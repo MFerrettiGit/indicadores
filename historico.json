@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20058,6 +20058,15 @@
                                      "tv":  266
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  59.59,
+                                     "tv":  438
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -20065,15 +20074,6 @@
                                      "pe":  0,
                                      "km":  43.44,
                                      "tv":  385
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  58.9,
-                                     "tv":  388
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20187,10 +20187,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  0,
-                                     "km":  146.1,
-                                     "tv":  180
+                                     "km":  197.58,
+                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20284,6 +20284,13 @@
                                        "p":  1,
                                        "km":  10.47,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.69,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -20746,6 +20753,13 @@
                                        "p":  0,
                                        "km":  0.86,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "DISTRIBUIDORA DE ALIMENTOS SAO PAULO DE",
+                                       "p":  0,
+                                       "km":  51.48,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Eugenio",
