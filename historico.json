@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20094,8 +20094,8 @@
                                      "tv":  434
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20126,7 +20126,7 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  15.77,
+                                     "km":  27.96,
                                      "tv":  174
                                  },
                                  {
@@ -20139,6 +20139,24 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  106.15,
+                                     "tv":  323
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  68.01,
+                                     "tv":  310
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -20146,24 +20164,6 @@
                                      "pe":  1,
                                      "km":  13.7,
                                      "tv":  346
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  101.07,
-                                     "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  59.49,
-                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -20531,6 +20531,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  8.52,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -20564,6 +20571,13 @@
                                        "p":  1,
                                        "km":  29.14,
                                        "tv":  111
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  5.08,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Luis",

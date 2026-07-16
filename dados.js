@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  15.77,
+                     "km":  27.96,
                      "semPed":  2,
                      "perc":  100,
                      "primeiro":  "09:58",
@@ -169,6 +169,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  106.15,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:06",
+                     "ultimo":  "17:38",
+                     "tv":  "05:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  68.01,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "09:44",
+                     "ultimo":  "17:37",
+                     "tv":  "05:10:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -181,36 +211,6 @@ window.PAINEL = {
                      "ultimo":  "16:54",
                      "tv":  "05:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  101.07,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:06",
-                     "ultimo":  "16:42",
-                     "tv":  "04:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  59.49,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "09:44",
-                     "ultimo":  "16:28",
-                     "tv":  "04:18:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -717,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                         "mun":  "CONCHAL",
+                         "in":  "16:44:33",
+                         "out":  "17:37:26",
+                         "km":  8.52,
+                         "dur":  "00:52:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                          "mun":  "JARDINOPOLIS",
@@ -760,6 +769,15 @@ window.PAINEL = {
                          "out":  "16:42:01",
                          "km":  29.14,
                          "dur":  "01:51:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:57:48",
+                         "out":  "17:38:02",
+                         "km":  5.08,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1613,7 +1631,7 @@ window.PAINEL = {
                         "obs":  "rede simpatia/ santa fé",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:24"
+                        "tempo":  "01:41:39"
                     }
                 ],
     "semped":  [
@@ -1788,46 +1806,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:29:12"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "CUNHA CLARO SUPERMERCADO EIRELI",
-                         "mun":  "CONCHAL",
-                         "tempo":  "00:42:27"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:26:00"
+                         "tempo":  "00:38:12"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "03:22:48"
+                         "tempo":  "03:35:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:36:42"
+                         "tempo":  "00:48:54"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "06:06:45"
+                         "tempo":  "06:18:57"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:20:41"
+                         "tempo":  "00:32:53"
                      }
                  ],
     "hist":  [
@@ -1938,7 +1944,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     109,
+                     111,
                      30
                  ]
              ],
@@ -21981,7 +21987,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22038,8 +22044,8 @@ window.PAINEL = {
                                                        "tv":  434
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22047,8 +22053,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22070,7 +22076,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  15.77,
+                                                       "km":  27.96,
                                                        "tv":  174
                                                    },
                                                    {
@@ -22083,6 +22089,24 @@ window.PAINEL = {
                                                        "tv":  252
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  106.15,
+                                                       "tv":  323
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  68.01,
+                                                       "tv":  310
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -22090,24 +22114,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  13.7,
                                                        "tv":  346
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  101.07,
-                                                       "tv":  283
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  59.49,
-                                                       "tv":  258
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -22475,6 +22481,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                                         "p":  1,
+                                                         "km":  8.52,
+                                                         "tv":  52
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                                          "p":  1,
@@ -22508,6 +22521,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  29.14,
                                                          "tv":  111
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  5.08,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Luis",
