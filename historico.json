@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20058,6 +20058,15 @@
                                      "tv":  333
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  58.9,
+                                     "tv":  388
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -20074,15 +20083,6 @@
                                      "pe":  0,
                                      "km":  51.72,
                                      "tv":  337
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.43,
-                                     "tv":  349
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -20115,10 +20115,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  27.44,
-                                     "tv":  341
+                                     "km":  30.46,
+                                     "tv":  441
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -20139,6 +20139,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  12.1,
+                                     "tv":  261
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -20148,13 +20157,13 @@
                                      "tv":  172
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
-                                     "pe":  1,
-                                     "km":  8.28,
-                                     "tv":  156
+                                     "pe":  2,
+                                     "km":  11.67,
+                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Costa",
@@ -20164,15 +20173,6 @@
                                      "pe":  3,
                                      "km":  51.28,
                                      "tv":  208
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  7.97,
-                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20202,6 +20202,15 @@
                                      "tv":  211
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  11.9,
+                                     "tv":  291
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -20209,15 +20218,6 @@
                                      "pe":  4,
                                      "km":  10.55,
                                      "tv":  255
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  10.87,
-                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -20277,6 +20277,13 @@
                                        "p":  1,
                                        "km":  2.25,
                                        "tv":  149
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  10.47,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -20489,6 +20496,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.82,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "A.A. DE MELO",
                                        "p":  0,
@@ -20522,6 +20536,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  3.02,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Rachel",
@@ -20580,6 +20601,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "VOLNEI ASSIS DE CARVALHO",
+                                       "p":  1,
+                                       "km":  3.7,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                                        "p":  1,
@@ -20599,6 +20627,13 @@
                                        "p":  0,
                                        "km":  3.93,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                       "p":  0,
+                                       "km":  1.03,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Castro",
