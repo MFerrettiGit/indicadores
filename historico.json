@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20058,6 +20058,15 @@
                                      "tv":  281
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  49.33,
+                                     "tv":  427
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -20065,15 +20074,6 @@
                                      "pe":  0,
                                      "km":  59.59,
                                      "tv":  438
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  43.44,
-                                     "tv":  385
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20094,8 +20094,8 @@
                                      "tv":  267
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20117,7 +20117,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  30.46,
+                                     "km":  53.1,
                                      "tv":  441
                                  },
                                  {
@@ -20139,6 +20139,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  13.7,
+                                     "tv":  346
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -20157,22 +20166,13 @@
                                      "tv":  258
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  12.1,
-                                     "tv":  261
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  11.67,
-                                     "tv":  157
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  18.28,
+                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20202,6 +20202,15 @@
                                      "tv":  379
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  104.71,
+                                     "tv":  307
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -20209,15 +20218,6 @@
                                      "pe":  4,
                                      "km":  58.7,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  101.07,
-                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -20326,6 +20326,13 @@
                                        "p":  1,
                                        "km":  2.59,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  5.89,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -20699,6 +20706,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO IEMBO LTDA",
+                                       "p":  1,
+                                       "km":  6.61,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                                        "p":  1,
@@ -20949,6 +20963,13 @@
                                        "p":  1,
                                        "km":  2.35,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                       "p":  0,
+                                       "km":  3.64,
+                                       "tv":  30
                                    }
                                ]
                    }
