@@ -20037,8 +20037,17 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  67.83,
+                                     "tv":  333
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -20047,15 +20056,6 @@
                                      "pe":  0,
                                      "km":  49.52,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  66.37,
-                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Debora",
@@ -20094,8 +20094,8 @@
                                      "tv":  271
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20139,21 +20139,21 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  71.93,
+                                     "tv":  172
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  1,
                                      "km":  8.28,
-                                     "tv":  156
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  70.97,
                                      "tv":  156
                                  },
                                  {
@@ -20187,10 +20187,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  102.51,
-                                     "tv":  141
+                                     "km":  103.79,
+                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20200,6 +20200,15 @@
                                      "pe":  4,
                                      "km":  58.7,
                                      "tv":  211
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  10.55,
+                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Alan",
@@ -20218,15 +20227,6 @@
                                      "pe":  3,
                                      "km":  23.98,
                                      "tv":  163
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  9.31,
-                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Karina",
@@ -20433,6 +20433,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  0.96,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                                        "p":  1,
@@ -20629,6 +20636,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "MILANEZ ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  1.28,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
@@ -20704,6 +20718,13 @@
                                        "p":  1,
                                        "km":  1.66,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIN LTDA",
+                                       "p":  1,
+                                       "km":  1.24,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Nelson",
