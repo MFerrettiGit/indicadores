@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20094,8 +20094,8 @@
                                      "tv":  209
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20148,6 +20148,15 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  70.12,
+                                     "tv":  116
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -20166,15 +20175,6 @@
                                      "tv":  117
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  55.99,
-                                     "tv":  75
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -20182,6 +20182,15 @@
                                      "pe":  1,
                                      "km":  21.81,
                                      "tv":  46
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  101.52,
+                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20193,13 +20202,22 @@
                                      "tv":  133
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  90.8,
-                                     "tv":  91
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  6.94,
+                                     "tv":  174
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  53.17,
+                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -20227,24 +20245,6 @@
                                      "pe":  1,
                                      "km":  40.32,
                                      "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.33,
-                                     "tv":  52
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.61,
-                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -20363,6 +20363,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  14.13,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                                        "p":  1,
@@ -20433,6 +20440,13 @@
                                        "tv":  84
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "EMPORIO GAEL LTDA",
+                                       "p":  1,
+                                       "km":  1.33,
+                                       "tv":  90
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                        "p":  0,
@@ -20480,6 +20494,13 @@
                                        "p":  0,
                                        "km":  0.77,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO LIBARDI CENTRAL LTDA",
+                                       "p":  0,
+                                       "km":  10.72,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -20536,6 +20557,13 @@
                                        "p":  1,
                                        "km":  3.82,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
+                                       "p":  1,
+                                       "km":  48.84,
+                                       "tv":  93
                                    }
                                ]
                    }
