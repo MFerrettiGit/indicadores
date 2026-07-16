@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20124,10 +20124,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  12.94,
-                                     "tv":  41
+                                     "km":  15.77,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -20137,6 +20137,15 @@
                                      "pe":  5,
                                      "km":  100.91,
                                      "tv":  252
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  59.49,
+                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Luis",
@@ -20157,15 +20166,6 @@
                                      "tv":  172
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  58.77,
-                                     "tv":  239
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -20178,10 +20178,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  13.8,
-                                     "tv":  202
+                                     "km":  14.28,
+                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -20211,6 +20211,15 @@
                                      "tv":  291
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  101.07,
+                                     "tv":  277
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -20218,15 +20227,6 @@
                                      "pe":  4,
                                      "km":  10.55,
                                      "tv":  255
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  98.72,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -20333,6 +20333,13 @@
                                        "p":  0,
                                        "km":  12.94,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  2.83,
+                                       "tv":  133
                                    },
                                    {
                                        "n":  "Eliana",
@@ -20475,6 +20482,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
+                                       "p":  0,
+                                       "km":  0.72,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -20543,6 +20557,13 @@
                                        "p":  1,
                                        "km":  11.91,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  0.48,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Milene",
@@ -20865,6 +20886,13 @@
                                        "p":  0,
                                        "km":  45.55,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "L.M. VIEIRA ITAPETININGA",
+                                       "p":  1,
+                                       "km":  2.35,
+                                       "tv":  91
                                    }
                                ]
                    }
