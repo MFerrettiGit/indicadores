@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  63.72,
+                     "km":  88.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  68.01,
+                     "km":  115.23,
                      "semPed":  1,
                      "perc":  16.67,
                      "primeiro":  "09:44",
@@ -199,33 +199,33 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  18.44,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "07:57",
+                     "ultimo":  "17:47",
+                     "tv":  "04:09:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  13.7,
+                     "km":  19.23,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:15",
                      "ultimo":  "16:54",
                      "tv":  "05:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  18.28,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "07:57",
-                     "ultimo":  "16:57",
-                     "tv":  "03:23:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -249,12 +249,27 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  9,
-                     "km":  199.69,
+                     "km":  201.67,
                      "semPed":  9,
                      "perc":  100,
                      "primeiro":  "08:04",
                      "ultimo":  "16:45",
                      "tv":  "03:39:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  69.25,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:37",
+                     "ultimo":  "17:53",
+                     "tv":  "04:18:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -289,18 +304,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  58.7,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:37",
-                     "ultimo":  "13:01",
-                     "tv":  "03:31:00",
-                     "emVisita":  1,
+                     "visitas":  4,
+                     "km":  51.25,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:57",
+                     "ultimo":  "17:42",
+                     "tv":  "06:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "16:44",
                      "tv":  "04:05:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  23.98,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:57",
-                     "ultimo":  "12:01",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -987,6 +987,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:01:00",
+                         "out":  "17:47:12",
+                         "km":  0.16,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                          "mun":  "CAMPINAS",
@@ -1075,6 +1084,15 @@ window.PAINEL = {
                          "out":  "13:01:56",
                          "km":  21.36,
                          "dur":  "01:18:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                         "mun":  "VARZEA PAULISTA",
+                         "in":  "17:06:19",
+                         "out":  "17:53:51",
+                         "km":  10.55,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -1183,6 +1201,15 @@ window.PAINEL = {
                          "out":  "12:01:21",
                          "km":  1.74,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:04:12",
+                         "out":  "17:42:48",
+                         "km":  27.27,
+                         "dur":  "03:38:00"
                      },
                      {
                          "nome":  "Karina",
@@ -1631,7 +1658,7 @@ window.PAINEL = {
                         "obs":  "rede simpatia/ santa fé",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:41:39"
+                        "tempo":  "01:58:04"
                     }
                 ],
     "semped":  [
@@ -1806,34 +1833,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "BUENO SERVICE LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:38:12"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "03:35:00"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:48:54"
+                         "tempo":  "01:05:21"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "06:18:57"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
-                         "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:32:53"
+                         "tempo":  "06:35:24"
                      }
                  ],
     "hist":  [
@@ -1944,7 +1953,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     111,
+                     114,
                      30
                  ]
              ],
@@ -21987,7 +21996,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22013,7 +22022,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  63.72,
+                                                       "km":  88.85,
                                                        "tv":  494
                                                    },
                                                    {
@@ -22044,8 +22053,8 @@ window.PAINEL = {
                                                        "tv":  434
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22053,8 +22062,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22103,8 +22112,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  5,
-                                                       "km":  68.01,
+                                                       "km":  115.23,
                                                        "tv":  310
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  18.44,
+                                                       "tv":  249
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -22112,17 +22130,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  13.7,
+                                                       "km":  19.23,
                                                        "tv":  346
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  18.28,
-                                                       "tv":  203
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -22139,8 +22148,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  9,
                                                        "pe":  0,
-                                                       "km":  199.69,
+                                                       "km":  201.67,
                                                        "tv":  219
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  69.25,
+                                                       "tv":  258
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -22161,13 +22179,13 @@ window.PAINEL = {
                                                        "tv":  307
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
+                                                       "vi":  4,
                                                        "pe":  4,
-                                                       "km":  58.7,
-                                                       "tv":  211
+                                                       "km":  51.25,
+                                                       "tv":  381
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -22186,15 +22204,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  78.67,
                                                        "tv":  245
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  23.98,
-                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -22691,6 +22700,13 @@ window.PAINEL = {
                                                          "tv":  46
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BUENO SERVICE LTDA",
+                                                         "p":  1,
+                                                         "km":  0.16,
+                                                         "tv":  46
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                                                          "p":  1,
@@ -22759,6 +22775,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.36,
                                                          "tv":  78
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                                         "p":  1,
+                                                         "km":  10.55,
+                                                         "tv":  47
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -22843,6 +22866,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.74,
                                                          "tv":  74
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  27.27,
+                                                         "tv":  218
                                                      },
                                                      {
                                                          "n":  "Karina",

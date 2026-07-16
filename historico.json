@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20063,7 +20063,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  63.72,
+                                     "km":  88.85,
                                      "tv":  494
                                  },
                                  {
@@ -20094,8 +20094,8 @@
                                      "tv":  434
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20153,8 +20153,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  5,
-                                     "km":  68.01,
+                                     "km":  115.23,
                                      "tv":  310
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  18.44,
+                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Luis",
@@ -20162,17 +20171,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  13.7,
+                                     "km":  19.23,
                                      "tv":  346
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  18.28,
-                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20189,8 +20189,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  9,
                                      "pe":  0,
-                                     "km":  199.69,
+                                     "km":  201.67,
                                      "tv":  219
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  69.25,
+                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Alan",
@@ -20211,13 +20220,13 @@
                                      "tv":  307
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  4,
                                      "pe":  4,
-                                     "km":  58.7,
-                                     "tv":  211
+                                     "km":  51.25,
+                                     "tv":  381
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -20236,15 +20245,6 @@
                                      "pe":  2,
                                      "km":  78.67,
                                      "tv":  245
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  23.98,
-                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -20741,6 +20741,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO SERVICE LTDA",
+                                       "p":  1,
+                                       "km":  0.16,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                                        "p":  1,
@@ -20809,6 +20816,13 @@
                                        "p":  1,
                                        "km":  21.36,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  10.55,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Cominato",
@@ -20893,6 +20907,13 @@
                                        "p":  1,
                                        "km":  1.74,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  27.27,
+                                       "tv":  218
                                    },
                                    {
                                        "n":  "Karina",
