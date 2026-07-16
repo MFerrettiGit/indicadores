@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "15:42",
                      "tv":  "06:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  43.44,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:05",
+                     "ultimo":  "16:02",
+                     "tv":  "06:25:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "15:15",
                      "tv":  "06:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  40.85,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:05",
-                     "ultimo":  "14:56",
-                     "tv":  "05:36:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  58.77,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:44",
+                     "ultimo":  "15:56",
+                     "tv":  "03:59:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -214,32 +229,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  51.28,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:44",
-                     "ultimo":  "14:14",
-                     "tv":  "03:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  1.89,
+                     "visitas":  2,
+                     "km":  13.8,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:13",
-                     "ultimo":  "10:11",
-                     "tv":  "01:57:00",
+                     "ultimo":  "16:01",
+                     "tv":  "03:22:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "14:10",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "13:52",
                      "tv":  "04:15:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "14:56:56",
                          "km":  16.34,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "in":  "15:13:22",
+                         "out":  "16:02:54",
+                         "km":  2.59,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -618,6 +627,15 @@ window.PAINEL = {
                          "dur":  "01:44:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "S LUCAS SUPERMERCADO LTDA",
+                         "mun":  "MOGI GUACU",
+                         "in":  "15:24:39",
+                         "out":  "15:56:16",
+                         "km":  7.49,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                          "mun":  "JARDINOPOLIS",
@@ -697,6 +715,15 @@ window.PAINEL = {
                          "out":  "10:11:02",
                          "km":  1.89,
                          "dur":  "01:57:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "F.M.TRES SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "14:35:22",
+                         "out":  "16:01:21",
+                         "km":  11.91,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1399,7 +1426,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:01:20"
+                        "tempo":  "01:16:28"
                     },
                     {
                         "nome":  "Rachel",
@@ -1407,7 +1434,15 @@ window.PAINEL = {
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:46"
+                        "tempo":  "01:03:54"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "rede simpatia/ santa fé",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:26"
                     }
                 ],
     "semped":  [
@@ -1537,91 +1572,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:40:30"
+                         "tempo":  "01:55:33"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "RODRIGUES",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:28:06"
+                         "tempo":  "00:43:09"
                      },
                      {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "SALTO",
-                         "tempo":  "00:40:52"
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:11:49"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:53:10"
+                         "tempo":  "01:08:13"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:17:22"
+                         "tempo":  "01:32:25"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:13:55"
+                         "tempo":  "00:28:58"
                      },
                      {
                          "nome":  "Maira",
-                         "razao":  "F.M.TRES SUPERMERCADO LTDA",
+                         "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:18:52"
+                         "tempo":  "00:00:31"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:25:13"
+                         "tempo":  "00:40:16"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:03:51"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "S LUCAS SUPERMERCADO LTDA",
-                         "mun":  "MOGI GUACU",
-                         "tempo":  "00:29:35"
+                         "tempo":  "01:18:54"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:50:02"
+                         "tempo":  "02:05:05"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:36:59"
+                         "tempo":  "00:52:02"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL DE LATICINIOS LITORAL NORTE IM",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:39:37"
+                         "tempo":  "01:54:40"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "04:33:59"
+                         "tempo":  "04:49:02"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "L.M. VIEIRA ITAPETININGA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:58:34"
+                         "tempo":  "01:13:37"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "DISTRIBUIDORA DE ALIMENTOS SAO PAULO DE",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:11:54"
                      }
                  ],
     "hist":  [
@@ -1732,7 +1767,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     86,
+                     90,
                      22
                  ]
              ],
@@ -21775,7 +21810,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -21796,6 +21831,15 @@ window.PAINEL = {
                                                        "tv":  266
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  43.44,
+                                                       "tv":  385
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -21803,15 +21847,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  58.9,
                                                        "tv":  388
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  40.85,
-                                                       "tv":  336
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -21895,6 +21930,15 @@ window.PAINEL = {
                                                        "tv":  172
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  58.77,
+                                                       "tv":  239
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -21904,22 +21948,13 @@ window.PAINEL = {
                                                        "tv":  157
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  51.28,
-                                                       "tv":  208
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  1.89,
-                                                       "tv":  117
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  13.8,
+                                                       "tv":  202
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -22050,6 +22085,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  16.34,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.59,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -22192,6 +22234,13 @@ window.PAINEL = {
                                                          "tv":  104
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "S LUCAS SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  7.49,
+                                                         "tv":  31
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                                          "p":  1,
@@ -22253,6 +22302,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.89,
                                                          "tv":  117
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "F.M.TRES SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  11.91,
+                                                         "tv":  85
                                                      },
                                                      {
                                                          "n":  "Milene",

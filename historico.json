@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20058,6 +20058,15 @@
                                      "tv":  266
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  43.44,
+                                     "tv":  385
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -20065,15 +20074,6 @@
                                      "pe":  0,
                                      "km":  58.9,
                                      "tv":  388
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  40.85,
-                                     "tv":  336
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20157,6 +20157,15 @@
                                      "tv":  172
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  58.77,
+                                     "tv":  239
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -20166,22 +20175,13 @@
                                      "tv":  157
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  51.28,
-                                     "tv":  208
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.89,
-                                     "tv":  117
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  13.8,
+                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -20312,6 +20312,13 @@
                                        "p":  1,
                                        "km":  16.34,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  2.59,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -20454,6 +20461,13 @@
                                        "tv":  104
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "S LUCAS SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  7.49,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -20515,6 +20529,13 @@
                                        "p":  0,
                                        "km":  1.89,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "F.M.TRES SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  11.91,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Milene",
