@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20115,10 +20115,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  25.4,
-                                     "tv":  197
+                                     "km":  27.44,
+                                     "tv":  325
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -20133,10 +20133,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  68.82,
-                                     "tv":  150
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  71.82,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Luis",
@@ -20196,10 +20196,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  37.34,
-                                     "tv":  133
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  58.7,
+                                     "tv":  211
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -20461,6 +20461,13 @@
                                        "tv":  113
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.04,
+                                       "tv":  128
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                                        "p":  1,
@@ -20487,6 +20494,13 @@
                                        "p":  1,
                                        "km":  2.35,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -20543,6 +20557,13 @@
                                        "p":  1,
                                        "km":  4.43,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                       "p":  1,
+                                       "km":  21.36,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Cominato",
