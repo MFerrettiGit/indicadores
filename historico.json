@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20047,6 +20047,24 @@
                                      "pe":  0,
                                      "km":  41.17,
                                      "tv":  129
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  20.99,
+                                     "tv":  179
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  27.35,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -20067,15 +20085,6 @@
                                      "tv":  115
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  19.71,
-                                     "tv":  146
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -20083,15 +20092,6 @@
                                      "pe":  0,
                                      "km":  2.86,
                                      "tv":  55
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -20139,6 +20139,15 @@
                                      "tv":  32
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  1.89,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -20157,22 +20166,13 @@
                                      "tv":  55
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.38,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  55.99,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Costa",
@@ -20193,6 +20193,15 @@
                                      "tv":  72
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  31.71,
+                                     "tv":  89
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -20209,15 +20218,6 @@
                                      "pe":  1,
                                      "km":  5.61,
                                      "tv":  84
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  31.51,
-                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -20250,10 +20250,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  3.31,
-                                     "tv":  0
+                                     "km":  38.54,
+                                     "tv":  26
                                  }
                              ],
                        "cli":  [
@@ -20270,6 +20270,20 @@
                                        "p":  1,
                                        "km":  19.61,
                                        "tv":  146
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.28,
+                                       "tv":  33
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  27.35,
+                                       "tv":  209
                                    },
                                    {
                                        "n":  "Evandro",
@@ -20300,11 +20314,25 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
+                                       "p":  1,
+                                       "km":  34.61,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                                        "p":  1,
                                        "km":  2.02,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  0,
+                                       "km":  1.89,
+                                       "tv":  117
                                    },
                                    {
                                        "n":  "Milene",
@@ -20342,6 +20370,13 @@
                                        "tv":  73
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                                       "p":  1,
+                                       "km":  0.2,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO FAZENDINHA LTDA",
                                        "p":  0,
@@ -20361,6 +20396,13 @@
                                        "p":  1,
                                        "km":  18.74,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO DO FRADE LTDA.",
+                                       "p":  0,
+                                       "km":  35.23,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Lucas",
