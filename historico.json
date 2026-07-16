@@ -20037,25 +20037,25 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  96.26,
-                                     "tv":  391
+                                     "km":  101.17,
+                                     "tv":  437
                                  },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  74.9,
-                                     "tv":  266
+                                     "km":  81.23,
+                                     "tv":  281
                                  },
                                  {
                                      "nome":  "Debora",
@@ -20079,10 +20079,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  51.72,
-                                     "tv":  337
+                                     "km":  63.55,
+                                     "tv":  449
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -20139,6 +20139,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  101.07,
+                                     "tv":  283
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -20155,15 +20164,6 @@
                                      "pe":  1,
                                      "km":  12.1,
                                      "tv":  261
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  71.93,
-                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -20187,10 +20187,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  8,
+                                     "vi":  9,
                                      "pe":  0,
-                                     "km":  197.58,
-                                     "tv":  203
+                                     "km":  199.69,
+                                     "tv":  219
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  12.85,
+                                     "tv":  379
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20200,15 +20209,6 @@
                                      "pe":  4,
                                      "km":  58.7,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  11.9,
-                                     "tv":  291
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -20229,6 +20229,15 @@
                                      "tv":  255
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  78.67,
+                                     "tv":  245
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -20236,15 +20245,6 @@
                                      "pe":  3,
                                      "km":  23.98,
                                      "tv":  163
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  42.24,
-                                     "tv":  96
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -20363,6 +20363,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  11.83,
+                                       "tv":  112
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -20398,6 +20405,13 @@
                                        "tv":  58
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.91,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -20431,6 +20445,13 @@
                                        "p":  1,
                                        "km":  25.38,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
+                                       "p":  1,
+                                       "km":  6.33,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -20517,6 +20538,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  29.14,
+                                       "tv":  111
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                                        "p":  1,
@@ -20543,6 +20571,13 @@
                                        "p":  0,
                                        "km":  3.82,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.6,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Maira",
@@ -20692,6 +20727,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
+                                       "p":  1,
+                                       "km":  0.95,
+                                       "tv":  88
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                        "p":  0,
@@ -20783,6 +20825,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "NASTARO E NICOLETI SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.11,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
@@ -20823,6 +20872,13 @@
                                        "p":  1,
                                        "km":  1.92,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL DE LATICINIOS LITORAL NORTE IM",
+                                       "p":  0,
+                                       "km":  36.43,
+                                       "tv":  149
                                    },
                                    {
                                        "n":  "Lucas",
