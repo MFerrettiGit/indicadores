@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "08:36",
                      "tv":  "01:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -214,12 +214,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  21.38,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -229,12 +229,12 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  21.38,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -433,7 +433,7 @@ window.PAINEL = {
                         "obs":  "pneu furado (estou na borracharia)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:03"
+                        "tempo":  "00:47:05"
                     },
                     {
                         "nome":  "Mariangela",
@@ -441,7 +441,7 @@ window.PAINEL = {
                         "obs":  "perdi a hora/ mas já estou saindo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:44"
+                        "tempo":  "00:44:46"
                     },
                     {
                         "nome":  "Fernando",
@@ -449,7 +449,7 @@ window.PAINEL = {
                         "obs":  "viagem para 6",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:12"
+                        "tempo":  "00:24:14"
                     },
                     {
                         "nome":  "Karina",
@@ -457,7 +457,7 @@ window.PAINEL = {
                         "obs":  "ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:08"
+                        "tempo":  "00:18:10"
                     }
                 ],
     "semped":  [
@@ -473,79 +473,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:36:05"
+                         "tempo":  "01:51:07"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:43:18"
+                         "tempo":  "01:58:20"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:33:11"
+                         "tempo":  "01:48:13"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "FRANCISCO MORAT",
-                         "tempo":  "01:46:49"
+                         "tempo":  "02:01:51"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:08:12"
+                         "tempo":  "00:23:14"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:39:09"
+                         "tempo":  "00:54:11"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:25:53"
+                         "tempo":  "00:40:55"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:17:08"
+                         "tempo":  "00:32:10"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                          "mun":  "FRANCA",
-                         "tempo":  "00:23:32"
+                         "tempo":  "00:38:34"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:07:07"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:29:50"
+                         "tempo":  "00:44:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:29:34"
+                         "tempo":  "00:44:36"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:01:20"
+                         "tempo":  "00:16:22"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO FAZENDINHA LTDA",
                          "mun":  "PEREIRAS",
-                         "tempo":  "00:35:06"
+                         "tempo":  "00:50:08"
                      }
                  ],
     "hist":  [
@@ -20699,7 +20705,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -20756,8 +20762,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20765,8 +20771,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20828,21 +20834,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  21.38,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
