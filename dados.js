@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  24.76,
+                     "km":  32.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:07",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "07:57",
                      "ultimo":  "17:47",
                      "tv":  "04:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -309,7 +309,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  51.25,
+                     "km":  54.18,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:57",
@@ -1833,16 +1833,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:09:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:18:53"
+                         "tempo":  "01:36:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "06:48:56"
+                         "tempo":  "07:06:38"
                      }
                  ],
     "hist":  [
@@ -21996,7 +22002,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22049,12 +22055,12 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  24.76,
+                                                       "km":  32.91,
                                                        "tv":  434
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22062,8 +22068,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22184,7 +22190,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  51.25,
+                                                       "km":  54.18,
                                                        "tv":  381
                                                    },
                                                    {
