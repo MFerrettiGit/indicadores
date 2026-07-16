@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20094,8 +20094,8 @@
                                      "tv":  267
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20189,7 +20189,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  104.65,
+                                     "km":  146.1,
                                      "tv":  180
                                  },
                                  {
@@ -20220,6 +20220,15 @@
                                      "tv":  270
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  98.72,
+                                     "tv":  186
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -20236,15 +20245,6 @@
                                      "pe":  2,
                                      "km":  42.24,
                                      "tv":  96
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  53.17,
-                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -20382,6 +20382,13 @@
                                        "p":  1,
                                        "km":  4.19,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  25.38,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -20760,6 +20767,13 @@
                                        "p":  1,
                                        "km":  48.84,
                                        "tv":  93
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MIEKO HONDA TANABE - ME",
+                                       "p":  0,
+                                       "km":  45.55,
+                                       "tv":  41
                                    }
                                ]
                    }

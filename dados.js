@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,8 +15,8 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "13:39",
                      "tv":  "05:33:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "09:06",
                      "ultimo":  "13:43",
                      "tv":  "02:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  104.65,
+                     "km":  146.1,
                      "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:04",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "13:01",
                      "tv":  "03:31:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -300,6 +300,21 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "13:17",
                      "tv":  "04:30:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  98.72,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:09",
+                     "ultimo":  "14:47",
+                     "tv":  "03:06:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "09:46",
                      "ultimo":  "11:46",
                      "tv":  "01:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  53.17,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "11:31",
-                     "tv":  "02:25:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -526,6 +526,15 @@ window.PAINEL = {
                          "out":  "12:11:58",
                          "km":  4.19,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "14:17:52",
+                         "out":  "14:54:58",
+                         "km":  25.38,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -1012,6 +1021,15 @@ window.PAINEL = {
                          "out":  "11:31:16",
                          "km":  48.84,
                          "dur":  "01:33:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:06:13",
+                         "out":  "14:47:57",
+                         "km":  45.55,
+                         "dur":  "00:41:00"
                      }
                  ],
     "eventos":  [
@@ -1160,12 +1178,28 @@ window.PAINEL = {
                         "tempo":  "01:00:08"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Conchas a Piracicaba",
+                        "inicio":  "14:12",
+                        "final":  "14:48",
+                        "tempo":  "00:36:33"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "13:34",
                         "final":  "14:35",
                         "tempo":  "01:00:41"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:41",
+                        "final":  "14:43",
+                        "tempo":  "01:01:16"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1264,28 +1298,12 @@ window.PAINEL = {
                         "tempo":  "00:59:22"
                     },
                     {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:32"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:11"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Conchas a Piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:28:14"
+                        "tempo":  "00:49:09"
                     },
                     {
                         "nome":  "Costa",
@@ -1293,7 +1311,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:15"
+                        "tempo":  "00:31:13"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tiete Piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:33"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:12"
                     }
                 ],
     "semped":  [
@@ -1344,6 +1378,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "SALTO",
                        "obs":  "visita"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "MIEKO HONDA TANABE - ME",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
                    },
                    {
                        "nome":  "Castro",
@@ -1405,85 +1445,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:25:29"
+                         "tempo":  "00:40:29"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:02:58"
+                         "tempo":  "00:17:58"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "VINHEDO",
+                         "tempo":  "00:10:32"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:23:13"
+                         "tempo":  "00:38:13"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:02:21"
+                         "tempo":  "00:17:21"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:21:21"
+                         "tempo":  "00:36:21"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:03:51"
+                         "tempo":  "00:18:51"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:08:49"
+                         "tempo":  "01:23:49"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "01:02:06"
+                         "tempo":  "01:17:06"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:08:15"
+                         "tempo":  "01:23:15"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:03:50"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "VOLNEI ASSIS DE CARVALHO",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:10:42"
+                         "tempo":  "00:25:42"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:35:01"
+                         "tempo":  "00:50:01"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:03"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL DE LATICINIOS LITORAL NORTE IM",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:24:36"
+                         "tempo":  "00:39:36"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "03:18:58"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MIEKO HONDA TANABE - ME",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:33:00"
+                         "tempo":  "03:33:58"
                      }
                  ],
     "hist":  [
@@ -1594,8 +1646,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     76,
-                     19
+                     77,
+                     20
                  ]
              ],
     "historico":  {
@@ -21637,7 +21689,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -21694,8 +21746,8 @@ window.PAINEL = {
                                                        "tv":  267
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -21703,8 +21755,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -21789,7 +21841,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  104.65,
+                                                       "km":  146.1,
                                                        "tv":  180
                                                    },
                                                    {
@@ -21820,6 +21872,15 @@ window.PAINEL = {
                                                        "tv":  270
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  98.72,
+                                                       "tv":  186
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -21836,15 +21897,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  42.24,
                                                        "tv":  96
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  53.17,
-                                                       "tv":  145
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -21982,6 +22034,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.19,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  25.38,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Vinicius",
@@ -22360,6 +22419,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  48.84,
                                                          "tv":  93
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MIEKO HONDA TANABE - ME",
+                                                         "p":  0,
+                                                         "km":  45.55,
+                                                         "tv":  41
                                                      }
                                                  ]
                                      }
