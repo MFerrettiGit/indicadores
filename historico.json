@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20094,8 +20094,8 @@
                                      "tv":  209
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20133,19 +20133,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  66.47,
-                                     "tv":  116
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  68.82,
+                                     "tv":  150
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  8.28,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  1,
-                                     "km":  5.7,
-                                     "tv":  133
+                                     "km":  7.97,
+                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -20155,15 +20164,6 @@
                                      "pe":  2,
                                      "km":  70.12,
                                      "tv":  116
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  5.77,
-                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20202,6 +20202,15 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  42.24,
+                                     "tv":  96
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -20238,22 +20247,13 @@
                                      "tv":  97
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  40.32,
-                                     "tv":  71
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.65,
-                                     "tv":  49
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.65,
+                                     "tv":  149
                                  }
                              ],
                        "cli":  [
@@ -20384,6 +20384,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "POSTO GALO BRANCO LTDA",
+                                       "p":  0,
+                                       "km":  2.58,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "A.A. DE MELO",
                                        "p":  0,
@@ -20426,11 +20433,25 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. PARE",
+                                       "p":  1,
+                                       "km":  2.35,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "JORGE TERUO UMETSU LTDA",
                                        "p":  0,
                                        "km":  3.09,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GIANINI",
+                                       "p":  1,
+                                       "km":  2.2,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Alan",
@@ -20531,6 +20552,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ILHA CLEAN COMERCIO DE PRODUTOS DE LIMPE",
+                                       "p":  1,
+                                       "km":  1.92,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "J A CRUVINEL",
                                        "p":  1,
@@ -20550,6 +20578,13 @@
                                        "p":  1,
                                        "km":  6.65,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
+                                       "p":  1,
+                                       "km":  1,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Nelson",
