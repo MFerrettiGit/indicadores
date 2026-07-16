@@ -20037,8 +20037,17 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  96.26,
+                                     "tv":  391
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -20047,15 +20056,6 @@
                                      "pe":  0,
                                      "km":  74.9,
                                      "tv":  266
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  67.83,
-                                     "tv":  333
                                  },
                                  {
                                      "nome":  "Debora",
@@ -20368,6 +20368,13 @@
                                        "p":  1,
                                        "km":  1.46,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  28.43,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Silmara",
