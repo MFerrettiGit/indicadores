@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "15:15",
                      "tv":  "06:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "15:23",
                      "tv":  "04:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:44",
                      "ultimo":  "14:14",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1249,6 +1249,14 @@ window.PAINEL = {
                         "tempo":  "00:36:33"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tiete Piracicaba",
+                        "inicio":  "14:49",
+                        "final":  "15:39",
+                        "tempo":  "00:50:03"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1377,20 +1385,12 @@ window.PAINEL = {
                         "tempo":  "00:59:22"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Tiete Piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:35"
-                    },
-                    {
                         "nome":  "Castro",
                         "tipo":  "Digitacao Pedido",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:14"
+                        "tempo":  "00:46:22"
                     },
                     {
                         "nome":  "Rachel",
@@ -1398,7 +1398,7 @@ window.PAINEL = {
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:40"
+                        "tempo":  "00:33:48"
                     }
                 ],
     "semped":  [
@@ -1528,73 +1528,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:10:26"
+                         "tempo":  "01:25:30"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "RODRIGUES",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:13:06"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:40:29"
+                         "tempo":  "00:55:33"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SALTO",
-                         "tempo":  "00:10:48"
+                         "tempo":  "00:25:52"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:23:06"
+                         "tempo":  "00:38:10"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:47:18"
+                         "tempo":  "01:02:22"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:48:48"
+                         "tempo":  "01:03:52"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:10:13"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:33:47"
+                         "tempo":  "00:48:51"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "S LUCAS SUPERMERCADO LTDA",
+                         "mun":  "MOGI GUACU",
+                         "tempo":  "00:14:35"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:19:58"
+                         "tempo":  "01:35:02"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:55"
+                         "tempo":  "00:21:59"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL DE LATICINIOS LITORAL NORTE IM",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:09:33"
+                         "tempo":  "01:24:37"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "04:03:55"
+                         "tempo":  "04:18:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "L.M. VIEIRA ITAPETININGA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:28:30"
+                         "tempo":  "00:43:34"
                      }
                  ],
     "hist":  [
@@ -21748,7 +21766,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
