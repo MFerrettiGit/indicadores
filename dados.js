@@ -1,22 +1,37 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  45.33,
+                     "visitas":  4,
+                     "km":  49.52,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:01",
-                     "ultimo":  "11:06",
-                     "tv":  "03:36:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:11",
+                     "tv":  "04:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  2,
+                     "km":  51.72,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:52",
+                     "ultimo":  "12:17",
+                     "tv":  "04:31:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Evandro",
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "10:35",
                      "tv":  "02:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  27.35,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:52",
-                     "ultimo":  "10:21",
-                     "tv":  "03:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -181,7 +181,22 @@ window.PAINEL = {
                      "ultimo":  "11:44",
                      "tv":  "02:36:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  70.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:06",
+                     "ultimo":  "12:11",
+                     "tv":  "02:36:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -199,18 +214,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  70.12,
+                     "km":  50.84,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "09:06",
-                     "ultimo":  "11:26",
-                     "tv":  "01:56:00",
-                     "emVisita":  1,
+                     "primeiro":  "09:44",
+                     "ultimo":  "12:19",
+                     "tv":  "01:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -229,34 +244,19 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  21.81,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:44",
-                     "ultimo":  "10:31",
-                     "tv":  "00:46:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  101.52,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  102.51,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:04",
-                     "ultimo":  "11:25",
-                     "tv":  "01:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "12:22",
+                     "tv":  "02:21:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -420,6 +420,15 @@ window.PAINEL = {
                          "dur":  "03:29:00"
                      },
                      {
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "11:14:52",
+                         "out":  "12:17:28",
+                         "km":  24.37,
+                         "dur":  "01:02:00"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
@@ -465,6 +474,15 @@ window.PAINEL = {
                          "dur":  "01:27:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:41:05",
+                         "out":  "12:11:58",
+                         "km":  4.19,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
@@ -492,6 +510,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                         "mun":  "CONCHAL",
+                         "in":  "11:20:34",
+                         "out":  "12:19:07",
+                         "km":  29.03,
+                         "dur":  "00:58:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                          "mun":  "JARDINOPOLIS",
@@ -508,6 +535,15 @@ window.PAINEL = {
                          "out":  "11:26:48",
                          "km":  14.13,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO CANESIN LTDA",
+                         "mun":  "BRODOSQUI",
+                         "in":  "11:30:46",
+                         "out":  "12:11:16",
+                         "km":  0.85,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Luis",
@@ -706,6 +742,15 @@ window.PAINEL = {
                          "out":  "11:25:39",
                          "km":  10.72,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                         "mun":  "CONCHAS",
+                         "in":  "11:47:55",
+                         "out":  "12:22:34",
+                         "km":  0.99,
+                         "dur":  "00:34:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -919,7 +964,7 @@ window.PAINEL = {
                         "obs":  "São Miguel Arcando a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:06"
+                        "tempo":  "00:53:00"
                     },
                     {
                         "nome":  "Rachel",
@@ -927,7 +972,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:58"
+                        "tempo":  "00:29:52"
                     },
                     {
                         "nome":  "Eugenio",
@@ -935,7 +980,39 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:49"
+                        "tempo":  "00:22:43"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:14"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:18"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:55"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:48"
                     }
                 ],
     "semped":  [
@@ -1012,6 +1089,12 @@ window.PAINEL = {
                        "obs":  "Ausente"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                       "mun":  "CONCHAS",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "JORGE TERUO UMETSU LTDA",
                        "mun":  "SAO CARLOS",
@@ -1023,85 +1106,55 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:26:48"
+                         "tempo":  "01:41:44"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:23:43"
+                         "tempo":  "01:38:39"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:36:12"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
-                         "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:54:21"
+                         "tempo":  "01:51:08"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:46:15"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:28:08"
+                         "tempo":  "01:01:11"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:18:05"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO CANESIN LTDA",
-                         "mun":  "BRODOSQUI",
-                         "tempo":  "00:38:27"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
-                         "mun":  "CONCHAL",
-                         "tempo":  "00:48:39"
+                         "tempo":  "01:33:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:18"
+                         "tempo":  "00:43:14"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "00:48:58"
+                         "tempo":  "01:03:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:26:14"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
-                         "mun":  "CONCHAS",
-                         "tempo":  "00:21:18"
+                         "tempo":  "00:41:10"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:15:47"
+                         "tempo":  "00:30:43"
                      }
                  ],
     "hist":  [
@@ -1212,8 +1265,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     53,
-                     14
+                     58,
+                     15
                  ]
              ],
     "historico":  {
@@ -21255,16 +21308,25 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  45.33,
-                                                       "tv":  216
+                                                       "km":  49.52,
+                                                       "tv":  246
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  51.72,
+                                                       "tv":  271
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -21301,15 +21363,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.65,
                                                        "tv":  178
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  27.35,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -21366,6 +21419,15 @@ window.PAINEL = {
                                                        "tv":  156
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  70.97,
+                                                       "tv":  156
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -21375,13 +21437,13 @@ window.PAINEL = {
                                                        "tv":  104
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  70.12,
-                                                       "tv":  116
+                                                       "km":  50.84,
+                                                       "tv":  104
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -21393,22 +21455,13 @@ window.PAINEL = {
                                                        "tv":  117
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  21.81,
-                                                       "tv":  46
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  101.52,
-                                                       "tv":  107
+                                                       "km":  102.51,
+                                                       "tv":  141
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -21518,6 +21571,13 @@ window.PAINEL = {
                                                          "tv":  209
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  24.37,
+                                                         "tv":  62
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  1,
@@ -21553,6 +21613,13 @@ window.PAINEL = {
                                                          "tv":  87
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                                         "p":  1,
+                                                         "km":  4.19,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "TAUSTE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -21574,6 +21641,13 @@ window.PAINEL = {
                                                          "tv":  46
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                                                         "p":  1,
+                                                         "km":  29.03,
+                                                         "tv":  58
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                                          "p":  1,
@@ -21586,6 +21660,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  14.13,
                                                          "tv":  41
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO CANESIN LTDA",
+                                                         "p":  1,
+                                                         "km":  0.85,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -21740,6 +21821,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  10.72,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                                                         "p":  0,
+                                                         "km":  0.99,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Eugenio",

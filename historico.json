@@ -20037,16 +20037,25 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  45.33,
-                                     "tv":  216
+                                     "km":  49.52,
+                                     "tv":  246
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  51.72,
+                                     "tv":  271
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -20083,15 +20092,6 @@
                                      "pe":  0,
                                      "km":  8.65,
                                      "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  27.35,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -20148,6 +20148,15 @@
                                      "tv":  156
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  70.97,
+                                     "tv":  156
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -20157,13 +20166,13 @@
                                      "tv":  104
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  70.12,
-                                     "tv":  116
+                                     "km":  50.84,
+                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20175,22 +20184,13 @@
                                      "tv":  117
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  21.81,
-                                     "tv":  46
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  101.52,
-                                     "tv":  107
+                                     "km":  102.51,
+                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20300,6 +20300,13 @@
                                        "tv":  209
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  24.37,
+                                       "tv":  62
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -20335,6 +20342,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                       "p":  1,
+                                       "km":  4.19,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -20356,6 +20370,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                                       "p":  1,
+                                       "km":  29.03,
+                                       "tv":  58
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -20368,6 +20389,13 @@
                                        "p":  1,
                                        "km":  14.13,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CANESIN LTDA",
+                                       "p":  1,
+                                       "km":  0.85,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Luis",
@@ -20522,6 +20550,13 @@
                                        "p":  0,
                                        "km":  10.72,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                                       "p":  0,
+                                       "km":  0.99,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Eugenio",
