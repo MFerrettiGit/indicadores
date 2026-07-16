@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "13:12",
                      "tv":  "05:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Edimilson",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "12:31",
                      "tv":  "04:57:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Vinicius",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "13:17",
                      "tv":  "05:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,8 +165,8 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "13:00",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "11:44",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "09:06",
                      "ultimo":  "12:11",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "12:22",
                      "tv":  "02:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "11:46",
                      "tv":  "01:36:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -472,6 +472,15 @@ window.PAINEL = {
                          "out":  "12:50:56",
                          "km":  1.53,
                          "dur":  "02:05:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "12:59:38",
+                         "out":  "13:39:56",
+                         "km":  1.46,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -1017,6 +1026,14 @@ window.PAINEL = {
                         "tempo":  "20:15:22"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "13:00",
+                        "final":  "13:27",
+                        "tempo":  "00:26:49"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1047,6 +1064,14 @@ window.PAINEL = {
                         "inicio":  "12:24",
                         "final":  "13:24",
                         "tempo":  "01:00:08"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:42",
+                        "final":  "13:35",
+                        "tempo":  "00:52:54"
                     },
                     {
                         "nome":  "Eliana",
@@ -1105,20 +1130,12 @@ window.PAINEL = {
                         "tempo":  "01:05:00"
                     },
                     {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:25"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:42"
+                        "tempo":  "00:53:46"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1126,15 +1143,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:18"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:26"
+                        "tempo":  "00:52:22"
                     },
                     {
                         "nome":  "Castro",
@@ -1142,7 +1151,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:13"
+                        "tempo":  "00:37:17"
                     },
                     {
                         "nome":  "Maira",
@@ -1150,7 +1159,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:17"
+                        "tempo":  "00:32:21"
                     },
                     {
                         "nome":  "Silmara",
@@ -1158,7 +1167,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:34"
+                        "tempo":  "00:24:38"
                     },
                     {
                         "nome":  "Vinicius",
@@ -1166,7 +1175,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:44"
+                        "tempo":  "00:22:48"
                     },
                     {
                         "nome":  "Alan",
@@ -1174,7 +1183,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:08"
+                        "tempo":  "00:18:12"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:18"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:25"
                     }
                 ],
     "semped":  [
@@ -1274,31 +1299,61 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:24:29"
+                         "tempo":  "00:39:31"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:00:37"
+                         "tempo":  "00:15:39"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:08:45"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:02:02"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:08:11"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "FURLAN",
+                         "mun":  "BRODOWSKI",
+                         "tempo":  "00:11:31"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
                          "mun":  "CONCHAL",
-                         "tempo":  "00:54:22"
+                         "tempo":  "01:09:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "02:03:52"
+                         "tempo":  "02:18:54"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MILANEZ ALIMENTOS LTDA",
+                         "mun":  "CONCHAS",
+                         "tempo":  "00:13:59"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MANDARIN LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:27:19"
+                         "tempo":  "00:42:21"
                      }
                  ],
     "hist":  [
@@ -21452,7 +21507,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -21755,6 +21810,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.53,
                                                          "tv":  125
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.46,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Silmara",

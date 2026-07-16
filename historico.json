@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20340,6 +20340,13 @@
                                        "p":  1,
                                        "km":  1.53,
                                        "tv":  125
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.46,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Silmara",
