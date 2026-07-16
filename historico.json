@@ -20037,8 +20037,17 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  64.84,
+                                     "tv":  168
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -20047,6 +20056,15 @@
                                      "pe":  0,
                                      "km":  41.17,
                                      "tv":  129
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  46.18,
+                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -20058,6 +20076,15 @@
                                      "tv":  179
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.65,
+                                     "tv":  178
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -20065,33 +20092,6 @@
                                      "pe":  0,
                                      "km":  27.35,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  23.53,
-                                     "tv":  128
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  42.66,
-                                     "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.86,
-                                     "tv":  55
                                  },
                                  {
                                      "nome":  "Aline",
@@ -20130,6 +20130,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  66.02,
+                                     "tv":  94
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -20157,15 +20166,6 @@
                                      "tv":  87
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  35.78,
-                                     "tv":  55
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -20178,27 +20178,36 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.81,
+                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  90.03,
-                                     "tv":  72
+                                     "km":  90.8,
+                                     "tv":  91
                                  },
                                  {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  32.91,
+                                     "tv":  104
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  31.71,
+                                     "pe":  2,
+                                     "km":  22.24,
                                      "tv":  89
                                  },
                                  {
@@ -20218,15 +20227,6 @@
                                      "pe":  1,
                                      "km":  5.61,
                                      "tv":  84
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  18.74,
-                                     "tv":  61
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -20265,6 +20265,13 @@
                                        "tv":  115
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.52,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -20293,6 +20300,13 @@
                                        "tv":  128
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  41.31,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -20312,6 +20326,20 @@
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.79,
+                                       "tv":  123
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "WILSON ROBERTO TORLAI-ME.",
+                                       "p":  1,
+                                       "km":  21.81,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Fernando",
@@ -20349,6 +20377,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  30.24,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "JORGE TERUO UMETSU LTDA",
                                        "p":  0,
@@ -20377,6 +20412,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO FAZENDINHA LTDA",
                                        "p":  0,
@@ -20391,11 +20433,25 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "JOSE EDUARDO PEREIRA PEREIRAS LTDA",
+                                       "p":  0,
+                                       "km":  0.77,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
                                        "km":  18.74,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  3.5,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Karina",
