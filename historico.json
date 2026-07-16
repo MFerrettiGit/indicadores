@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20049,6 +20049,15 @@
                                      "tv":  246
                                  },
                                  {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  66.37,
+                                     "tv":  293
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -20056,6 +20065,15 @@
                                      "pe":  0,
                                      "km":  24.51,
                                      "tv":  297
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  15.88,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20067,15 +20085,6 @@
                                      "tv":  271
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  64.84,
-                                     "tv":  168
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -20083,15 +20092,6 @@
                                      "pe":  0,
                                      "km":  46.18,
                                      "tv":  200
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.65,
-                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Aline",
@@ -20211,6 +20211,15 @@
                                      "tv":  163
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.31,
+                                     "tv":  200
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -20245,15 +20254,6 @@
                                      "pe":  1,
                                      "km":  33.89,
                                      "tv":  97
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.65,
-                                     "tv":  149
                                  }
                              ],
                        "cli":  [
@@ -20328,6 +20328,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.53,
+                                       "tv":  125
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -20368,6 +20375,13 @@
                                        "p":  1,
                                        "km":  5.79,
                                        "tv":  123
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.23,
+                                       "tv":  89
                                    },
                                    {
                                        "n":  "Costa",
@@ -20634,6 +20648,13 @@
                                        "p":  1,
                                        "km":  1,
                                        "tv":  100
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
+                                       "p":  1,
+                                       "km":  1.66,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Nelson",
