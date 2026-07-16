@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20115,10 +20115,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0.3,
-                                     "tv":  0
+                                     "km":  22.6,
+                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -20133,10 +20133,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.68,
-                                     "tv":  0
+                                     "km":  5.77,
+                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Maira",
@@ -20211,24 +20211,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.13,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -20252,7 +20234,25 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0.18,
+                                     "km":  3.31,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  7.13,
                                      "tv":  0
                                  }
                              ],
@@ -20270,6 +20270,20 @@
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  22.3,
+                                       "tv":  84
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JORGE TERUO UMETSU LTDA",
+                                       "p":  0,
+                                       "km":  3.09,
+                                       "tv":  32
                                    }
                                ]
                    }
