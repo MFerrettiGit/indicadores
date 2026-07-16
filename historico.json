@@ -20037,8 +20037,17 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  74.9,
+                                     "tv":  266
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -20049,13 +20058,13 @@
                                      "tv":  333
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  49.52,
-                                     "tv":  246
+                                     "km":  40.85,
+                                     "tv":  336
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -20074,15 +20083,6 @@
                                      "pe":  0,
                                      "km":  48.43,
                                      "tv":  349
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  24.51,
-                                     "tv":  297
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -20133,10 +20133,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  71.82,
-                                     "tv":  165
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  100.91,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -20298,6 +20298,13 @@
                                        "p":  1,
                                        "km":  3.52,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  16.34,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -20550,6 +20557,13 @@
                                        "p":  1,
                                        "km":  3,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  29.09,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Sao Carlos",
