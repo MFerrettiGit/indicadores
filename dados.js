@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "09:04",
                      "tv":  "02:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:05",
                      "ultimo":  "09:32",
                      "tv":  "02:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  2.02,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:15",
+                     "ultimo":  "09:42",
+                     "tv":  "01:27:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -181,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "09:17",
                      "tv":  "00:55:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -193,21 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:13",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:15",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -237,11 +237,11 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:44",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -293,13 +293,13 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  31.51,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:37",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "09:52",
+                     "tv":  "01:13:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -357,11 +357,11 @@ window.PAINEL = {
                      "km":  3.31,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:46",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -420,6 +420,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                         "mun":  "FRANCA",
+                         "in":  "08:15:34",
+                         "out":  "09:42:46",
+                         "km":  2.02,
+                         "dur":  "01:27:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
@@ -456,6 +465,15 @@ window.PAINEL = {
                          "dur":  "01:24:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
+                         "mun":  "ITATIBA",
+                         "in":  "08:37:46",
+                         "out":  "09:52:04",
+                         "km":  31.51,
+                         "dur":  "01:13:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO FAZENDINHA LTDA",
                          "mun":  "PEREIRAS",
@@ -484,12 +502,28 @@ window.PAINEL = {
                         "tempo":  "00:22:31"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "ilhabela",
+                        "inicio":  "08:36",
+                        "final":  "09:45",
+                        "tempo":  "01:09:14"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "antonelli",
                         "inicio":  "08:03",
                         "final":  "08:21",
                         "tempo":  "00:18:28"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "jaguariuna",
+                        "inicio":  "09:21",
+                        "final":  "09:53",
+                        "tempo":  "00:32:11"
                     },
                     {
                         "nome":  "Rachel",
@@ -508,6 +542,22 @@ window.PAINEL = {
                         "tempo":  "00:35:39"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Manutencao",
+                        "obs":  "pneu furado (estou na borracharia)",
+                        "inicio":  "08:07",
+                        "final":  "09:43",
+                        "tempo":  "01:36:16"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:41",
+                        "final":  "09:43",
+                        "tempo":  "21:01:44"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "perdi a hora/ mas já estou saindo",
@@ -516,36 +566,12 @@ window.PAINEL = {
                         "tempo":  "00:55:46"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Manutencao",
-                        "obs":  "pneu furado (estou na borracharia)",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:32:11"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Em Viagem",
-                        "obs":  "ilhabela",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:03:16"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "itapetininga a São Miguel Arcando",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:21"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "jaguariuna",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:18:08"
+                        "tempo":  "00:50:21"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -553,10 +579,16 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:20"
+                        "tempo":  "00:24:20"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Castro",
+                       "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
+                       "mun":  "ITATIBA",
+                       "obs":  "compras suspensa"
+                   },
                    {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO FAZENDINHA LTDA",
@@ -575,79 +607,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:30:09"
+                         "tempo":  "00:45:09"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:00:12"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:06:24"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "FRANCISCO MORAT",
-                         "tempo":  "02:46:55"
+                         "tempo":  "03:01:55"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:08:18"
+                         "tempo":  "01:23:18"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:00:09"
+                         "tempo":  "00:15:09"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:25:59"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:23:38"
+                         "tempo":  "01:40:59"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:52:11"
+                         "tempo":  "01:07:11"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:32:53"
+                         "tempo":  "00:47:53"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "WILSON ROBERTO TORLAI-ME.",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:09:53"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:41:14"
+                         "tempo":  "00:56:14"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO DO FRADE LTDA.",
+                         "mun":  "ILHABELA",
+                         "tempo":  "00:08:10"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "00:39:40"
+                         "tempo":  "00:54:40"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
-                         "mun":  "ITATIBA",
-                         "tempo":  "01:01:26"
+                         "razao":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:00:05"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPER REIS COMERCIO VAREJISTA LTDA",
                          "mun":  "PEREIRAS",
-                         "tempo":  "00:00:47"
+                         "tempo":  "00:15:47"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO BEM AQUI LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:32:55"
+                         "tempo":  "00:47:55"
                      }
                  ],
     "hist":  [
@@ -758,8 +808,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     12,
-                     2
+                     14,
+                     3
                  ]
              ],
     "historico":  {
@@ -20801,7 +20851,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -20903,6 +20953,15 @@ window.PAINEL = {
                                                        "tv":  32
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.02,
+                                                       "tv":  87
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -20914,15 +20973,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -20978,10 +21028,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  31.51,
+                                                       "tv":  73
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -21064,6 +21114,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                                                         "p":  1,
+                                                         "km":  2.02,
+                                                         "tv":  87
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADOS GRICKI LTDA",
                                                          "p":  1,
@@ -21090,6 +21147,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.31,
                                                          "tv":  84
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
+                                                         "p":  0,
+                                                         "km":  31.51,
+                                                         "tv":  73
                                                      },
                                                      {
                                                          "n":  "Cominato",
