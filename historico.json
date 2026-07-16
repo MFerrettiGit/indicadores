@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -20157,21 +20157,21 @@
                                      "tv":  156
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  51.28,
+                                     "tv":  208
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  1,
                                      "km":  7.97,
-                                     "tv":  104
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  50.84,
                                      "tv":  104
                                  },
                                  {
@@ -20187,10 +20187,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  103.79,
-                                     "tv":  161
+                                     "km":  104.65,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Castro",
@@ -20410,6 +20410,13 @@
                                        "p":  1,
                                        "km":  29.03,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0.44,
+                                       "tv":  104
                                    },
                                    {
                                        "n":  "Fernando",
@@ -20641,6 +20648,13 @@
                                        "p":  0,
                                        "km":  1.28,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                                       "p":  0,
+                                       "km":  0.86,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Eugenio",

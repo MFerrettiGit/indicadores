@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/07/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:01",
                      "ultimo":  "12:11",
                      "tv":  "04:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:05",
                      "ultimo":  "12:31",
                      "tv":  "04:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "09:58",
                      "ultimo":  "10:41",
                      "tv":  "00:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  51.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:44",
+                     "ultimo":  "14:14",
+                     "tv":  "03:28:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "11:48",
                      "tv":  "01:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  50.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:44",
-                     "ultimo":  "12:19",
-                     "tv":  "01:44:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -248,15 +248,15 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  103.79,
-                     "semPed":  6,
+                     "visitas":  7,
+                     "km":  104.65,
+                     "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:04",
-                     "ultimo":  "13:45",
-                     "tv":  "02:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "14:10",
+                     "tv":  "03:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "13:01",
                      "tv":  "03:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "09:46",
                      "ultimo":  "11:46",
                      "tv":  "01:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -562,6 +562,15 @@ window.PAINEL = {
                          "out":  "12:19:07",
                          "km":  29.03,
                          "dur":  "00:58:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                         "mun":  "CONCHAL",
+                         "in":  "12:29:45",
+                         "out":  "14:14:36",
+                         "km":  0.44,
+                         "dur":  "01:44:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -861,6 +870,15 @@ window.PAINEL = {
                          "dur":  "00:20:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                         "mun":  "CONCHAS",
+                         "in":  "13:51:26",
+                         "out":  "14:10:48",
+                         "km":  0.86,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -1109,6 +1127,14 @@ window.PAINEL = {
                         "tempo":  "01:01:38"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:02",
+                        "final":  "14:12",
+                        "tempo":  "01:09:20"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1213,20 +1239,12 @@ window.PAINEL = {
                         "tempo":  "00:59:22"
                     },
                     {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:07:37"
-                    },
-                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:32"
+                        "tempo":  "01:03:29"
                     },
                     {
                         "nome":  "Debora",
@@ -1234,7 +1252,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:45"
+                        "tempo":  "00:50:42"
                     },
                     {
                         "nome":  "Evandro",
@@ -1242,7 +1260,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:36"
+                        "tempo":  "00:43:33"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1250,7 +1268,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:15"
+                        "tempo":  "00:19:12"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Conchas a Piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:15"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:16"
                     }
                 ],
     "semped":  [
@@ -1345,6 +1379,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                       "mun":  "CONCHAS",
+                       "obs":  "Estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "JORGE TERUO UMETSU LTDA",
                        "mun":  "SAO CARLOS",
@@ -1353,58 +1393,70 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:10:28"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:12"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:45:47"
+                         "tempo":  "01:00:42"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:06:20"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:38:53"
+                         "tempo":  "00:53:48"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:32:10"
+                         "tempo":  "00:47:05"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:38:19"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
-                         "mun":  "CONCHAL",
-                         "tempo":  "01:39:32"
+                         "tempo":  "00:53:14"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:05:05"
+                         "tempo":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL DE LATICINIOS LITORAL NORTE IM",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:09:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "02:49:02"
+                         "tempo":  "03:03:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:03:04"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
-                         "mun":  "CONCHAS",
-                         "tempo":  "00:17:51"
+                         "tempo":  "00:17:59"
                      }
                  ],
     "hist":  [
@@ -1515,8 +1567,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/07",
-                     73,
-                     18
+                     75,
+                     19
                  ]
              ],
     "historico":  {
@@ -21558,7 +21610,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-16":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -21678,21 +21730,21 @@ window.PAINEL = {
                                                        "tv":  156
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  51.28,
+                                                       "tv":  208
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  1,
                                                        "km":  7.97,
-                                                       "tv":  104
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  50.84,
                                                        "tv":  104
                                                    },
                                                    {
@@ -21708,10 +21760,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  103.79,
-                                                       "tv":  161
+                                                       "km":  104.65,
+                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -21931,6 +21983,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  29.03,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                                                         "p":  1,
+                                                         "km":  0.44,
+                                                         "tv":  104
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -22162,6 +22221,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.28,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                                                         "p":  0,
+                                                         "km":  0.86,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Eugenio",
