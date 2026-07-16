@@ -20037,7 +20037,7 @@
                                ]
                    },
     "2026-07-16":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -20094,8 +20094,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20103,8 +20103,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -20187,10 +20187,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  89.63,
-                                     "tv":  51
+                                     "km":  90.03,
+                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -20223,28 +20223,28 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  18.74,
+                                     "tv":  61
                                  },
                                  {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.13,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  22.76,
+                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.65,
+                                     "tv":  49
                                  },
                                  {
                                      "nome":  "Karina",
@@ -20347,6 +20347,34 @@
                                        "p":  0,
                                        "km":  38.61,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPER REIS COMERCIO VAREJISTA LTDA",
+                                       "p":  0,
+                                       "km":  0.4,
+                                       "tv":  21
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                       "p":  1,
+                                       "km":  18.74,
+                                       "tv":  61
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "J A CRUVINEL",
+                                       "p":  1,
+                                       "km":  15.63,
+                                       "tv":  57
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO BEM AQUI LTDA",
+                                       "p":  1,
+                                       "km":  6.65,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Nelson",
