@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -21080,8 +21080,8 @@
                                      "tv":  23
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21110,10 +21110,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  6.53,
-                                     "tv":  26
+                                     "km":  18.4,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -21179,6 +21179,15 @@
                                      "tv":  52
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.79,
+                                     "tv":  135
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -21209,15 +21218,6 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -21277,6 +21277,13 @@
                                        "p":  0,
                                        "km":  6.53,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  11.87,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Eliana",
@@ -21382,6 +21389,13 @@
                                        "p":  1,
                                        "km":  0.47,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "INOVA SUPER SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.79,
+                                       "tv":  135
                                    },
                                    {
                                        "n":  "Eugenio",
