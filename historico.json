@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -21080,8 +21080,8 @@
                                      "tv":  23
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21173,10 +21173,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  10.38,
-                                     "tv":  52
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  29.26,
+                                     "tv":  69
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -21389,6 +21389,13 @@
                                        "p":  1,
                                        "km":  0.47,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  18.88,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Cominato",

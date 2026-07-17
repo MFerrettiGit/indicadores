@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "10:10",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "10:21",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "10:37",
                      "tv":  "01:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -248,13 +248,13 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  10.38,
+                     "visitas":  2,
+                     "km":  29.26,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:14",
-                     "ultimo":  "09:07",
-                     "tv":  "00:52:00",
+                     "ultimo":  "10:43",
+                     "tv":  "01:09:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -555,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "VALINHOS",
+                         "in":  "10:26:28",
+                         "out":  "10:43:36",
+                         "km":  18.88,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
                          "mun":  "PIRACICABA",
@@ -638,7 +647,7 @@ window.PAINEL = {
                         "obs":  "proposta Crema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:16:12"
+                        "tempo":  "02:31:04"
                     }
                 ],
     "semped":  [
@@ -663,100 +672,118 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:14:24"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:54:30"
+                         "tempo":  "01:09:23"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:02:34"
+                         "tempo":  "00:17:27"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:04"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:13:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:12:13"
+                         "tempo":  "00:27:06"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:34:57"
+                         "tempo":  "01:49:50"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B A BARBOSA SUPERMERCADO LTDA",
                          "mun":  "PEDREIRA",
-                         "tempo":  "00:23:25"
+                         "tempo":  "00:38:18"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "CITY COMERCIAL LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:46:38"
+                         "tempo":  "01:01:31"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:28:22"
+                         "tempo":  "00:43:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO TRES JOTA LTDA.",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:26:13"
+                         "tempo":  "00:41:06"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GALVANI MAX SUPERMERCADO LTDA",
                          "mun":  "MATAO",
-                         "tempo":  "00:05:02"
+                         "tempo":  "00:19:55"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:08:45"
+                         "tempo":  "00:23:38"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:38:27"
+                         "tempo":  "02:53:20"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:35:11"
+                         "tempo":  "00:50:04"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "23:18:58"
+                         "tempo":  "23:33:51"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:29:02"
+                         "tempo":  "00:43:55"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:12:45"
+                         "tempo":  "00:03:25"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:09:36"
+                         "tempo":  "01:24:29"
                      }
                  ],
     "hist":  [
@@ -867,7 +894,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     25,
+                     26,
                      3
                  ]
              ],
@@ -21896,7 +21923,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -21953,8 +21980,8 @@ window.PAINEL = {
                                                        "tv":  23
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -21962,8 +21989,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22046,10 +22073,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  10.38,
-                                                       "tv":  52
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  29.26,
+                                                       "tv":  69
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -22262,6 +22289,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.47,
                                                          "tv":  52
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  1,
+                                                         "km":  18.88,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Cominato",
