@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21101,10 +21101,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  22.06,
-                                     "tv":  268
+                                     "km":  23.76,
+                                     "tv":  312
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -21501,6 +21501,13 @@
                                        "p":  1,
                                        "km":  0.93,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.7,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Rachel",

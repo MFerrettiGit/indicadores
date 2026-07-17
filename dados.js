@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "14:17",
                      "tv":  "03:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -90,8 +90,8 @@ window.PAINEL = {
                      "primeiro":  "07:18",
                      "ultimo":  "12:54",
                      "tv":  "03:46:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  22.06,
+                     "visitas":  6,
+                     "km":  23.76,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "12:14",
-                     "tv":  "04:28:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:31",
+                     "tv":  "05:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -699,6 +699,15 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "13:46:53",
+                         "out":  "14:31:53",
+                         "km":  1.7,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
                          "mun":  "AMPARO",
@@ -1118,6 +1127,14 @@ window.PAINEL = {
                         "tempo":  "01:00:07"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:17",
+                        "final":  "14:28",
+                        "tempo":  "01:10:25"
+                    },
+                    {
                         "nome":  "Silmara",
                         "tipo":  "Outro",
                         "obs":  "exame periódico",
@@ -1158,20 +1175,12 @@ window.PAINEL = {
                         "tempo":  "00:56:27"
                     },
                     {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:09:54"
-                    },
-                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:10"
+                        "tempo":  "00:59:42"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1179,7 +1188,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:45"
+                        "tempo":  "00:45:17"
                     },
                     {
                         "nome":  "Karina",
@@ -1187,7 +1196,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:17"
+                        "tempo":  "00:36:49"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1195,7 +1204,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:40"
+                        "tempo":  "00:34:12"
                     },
                     {
                         "nome":  "Silmara",
@@ -1203,7 +1212,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:27"
+                        "tempo":  "00:19:59"
                     }
                 ],
     "semped":  [
@@ -1309,67 +1318,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:46:37"
+                         "tempo":  "00:59:05"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:10:13"
+                         "tempo":  "01:22:41"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "SALTO",
+                         "tempo":  "00:07:08"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:39:23"
+                         "tempo":  "00:51:51"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
+                         "mun":  "VOTORANTIM",
+                         "tempo":  "00:10:04"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO PAVAN LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:18:48"
+                         "tempo":  "00:31:16"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:02:29"
+                         "tempo":  "00:14:57"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                          "mun":  "FRANCA",
-                         "tempo":  "00:03:07"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:39:52"
+                         "tempo":  "00:15:35"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:24:57"
+                         "tempo":  "00:37:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "27:06:30"
+                         "tempo":  "27:18:58"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:04:43"
+                         "tempo":  "00:17:11"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:13:57"
+                         "tempo":  "00:26:25"
                      }
                  ],
     "hist":  [
@@ -1480,7 +1495,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     70,
+                     71,
                      16
                  ]
              ],
@@ -22509,7 +22524,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22587,10 +22602,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  22.06,
-                                                       "tv":  268
+                                                       "km":  23.76,
+                                                       "tv":  312
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -22987,6 +23002,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.93,
                                                          "tv":  53
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.7,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Rachel",
