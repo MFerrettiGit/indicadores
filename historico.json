@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -21119,10 +21119,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  16.77,
+                                     "tv":  194
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  16.12,
-                                     "tv":  108
+                                     "km":  99.42,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Luis",
@@ -21134,15 +21143,6 @@
                                      "tv":  124
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  99.25,
-                                     "tv":  134
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -21152,8 +21152,8 @@
                                      "tv":  79
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21161,8 +21161,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21419,6 +21419,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B A BARBOSA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.65,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MORTARI LTDA.",
                                        "p":  1,
@@ -21431,6 +21438,13 @@
                                        "p":  1,
                                        "km":  28.1,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO DH RUFINO EIRELI",
+                                       "p":  0,
+                                       "km":  0.17,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Castro",

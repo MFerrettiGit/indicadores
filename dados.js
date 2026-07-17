@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "11:27",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "11:09",
                      "tv":  "02:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  16.12,
+                     "visitas":  3,
+                     "km":  16.77,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:12",
-                     "ultimo":  "10:12",
-                     "tv":  "01:48:00",
+                     "ultimo":  "11:42",
+                     "tv":  "03:14:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  99.42,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:32",
+                     "ultimo":  "11:47",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "10:56",
                      "tv":  "02:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  99.25,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:32",
-                     "ultimo":  "11:23",
-                     "tv":  "02:14:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -214,8 +214,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
@@ -229,8 +229,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "11:29",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "01:31:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B A BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "10:15:48",
+                         "out":  "11:42:33",
+                         "km":  0.65,
+                         "dur":  "01:26:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MORTARI LTDA.",
                          "mun":  "MATAO",
@@ -607,6 +616,15 @@ window.PAINEL = {
                          "out":  "11:23:38",
                          "km":  28.1,
                          "dur":  "00:49:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO DH RUFINO EIRELI",
+                         "mun":  "MATAO",
+                         "in":  "11:27:54",
+                         "out":  "11:47:12",
+                         "km":  0.17,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Castro",
@@ -726,6 +744,14 @@ window.PAINEL = {
                         "tempo":  "01:33:14"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Sm Moreira",
+                        "inicio":  "11:01",
+                        "final":  "11:46",
+                        "tempo":  "00:45:12"
+                    },
+                    {
                         "nome":  "Silmara",
                         "tipo":  "Outro",
                         "obs":  "exame periódico",
@@ -756,14 +782,6 @@ window.PAINEL = {
                         "inicio":  "07:35",
                         "final":  "08:31",
                         "tempo":  "00:56:27"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta Sm Moreira",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:38:14"
                     }
                 ],
     "semped":  [
@@ -796,6 +814,12 @@ window.PAINEL = {
                        "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO DH RUFINO EIRELI",
+                       "mun":  "MATAO",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -803,85 +827,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:54:28"
+                         "tempo":  "02:09:29"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:32"
+                         "tempo":  "01:17:33"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:12:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:58:08"
+                         "tempo":  "01:13:09"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:12:11"
+                         "tempo":  "01:27:12"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:12:44"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "B A BARBOSA SUPERMERCADO LTDA",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "PEDREIRA",
-                         "tempo":  "01:23:23"
+                         "tempo":  "00:06:18"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:18:02"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO DH RUFINO EIRELI",
-                         "mun":  "MATAO",
-                         "tempo":  "00:11:17"
+                         "tempo":  "00:33:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:11:30"
+                         "tempo":  "00:26:31"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "03:38:25"
+                         "tempo":  "03:53:26"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
                          "mun":  "ILHABELA",
-                         "tempo":  "01:35:09"
+                         "tempo":  "01:50:10"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "24:18:56"
+                         "tempo":  "24:33:57"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:11:38"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:21:50"
+                         "tempo":  "00:36:51"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:38:33"
+                         "tempo":  "00:53:34"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO GALO BRANCO LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:07:16"
+                         "tempo":  "00:22:17"
                      }
                  ],
     "hist":  [
@@ -992,8 +1028,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     38,
-                     5
+                     40,
+                     6
                  ]
              ],
     "historico":  {
@@ -22021,7 +22057,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -22117,10 +22153,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  16.77,
+                                                       "tv":  194
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
                                                        "pe":  2,
-                                                       "km":  16.12,
-                                                       "tv":  108
+                                                       "km":  99.42,
+                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -22132,15 +22177,6 @@ window.PAINEL = {
                                                        "tv":  124
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  99.25,
-                                                       "tv":  134
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -22150,8 +22186,8 @@ window.PAINEL = {
                                                        "tv":  79
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22159,8 +22195,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22417,6 +22453,13 @@ window.PAINEL = {
                                                          "tv":  91
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B A BARBOSA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.65,
+                                                         "tv":  86
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO MORTARI LTDA.",
                                                          "p":  1,
@@ -22429,6 +22472,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  28.1,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO DH RUFINO EIRELI",
+                                                         "p":  0,
+                                                         "km":  0.17,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Castro",
