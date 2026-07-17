@@ -1,8 +1,38 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  61.89,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:55",
+                     "ultimo":  "12:05",
+                     "tv":  "02:46:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  40.54,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:03",
+                     "ultimo":  "12:02",
+                     "tv":  "04:35:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -30,36 +60,6 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "10:10",
                      "tv":  "03:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  36.52,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:55",
-                     "ultimo":  "09:58",
-                     "tv":  "01:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  36.77,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:03",
-                     "ultimo":  "09:32",
-                     "tv":  "02:17:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "10:56",
                      "tv":  "02:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -211,6 +211,21 @@ window.PAINEL = {
                      "ultimo":  "11:03",
                      "tv":  "01:19:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "12:09",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -229,17 +244,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  4,
+                     "km":  16.03,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "perc":  0,
+                     "primeiro":  "08:30",
+                     "ultimo":  "11:58",
+                     "tv":  "03:06:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -259,18 +274,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  15.23,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:30",
-                     "ultimo":  "11:24",
-                     "tv":  "02:36:00",
-                     "emVisita":  1,
+                     "visitas":  2,
+                     "km":  9.46,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:14",
+                     "ultimo":  "12:04",
+                     "tv":  "03:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -289,32 +304,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  2.79,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:14",
-                     "ultimo":  "10:30",
-                     "tv":  "02:15:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  46.26,
+                     "visitas":  2,
+                     "km":  56.62,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:11",
-                     "ultimo":  "09:46",
-                     "tv":  "00:35:00",
+                     "ultimo":  "11:58",
+                     "tv":  "02:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -382,6 +382,15 @@ window.PAINEL = {
                          "out":  "09:32:27",
                          "km":  1.88,
                          "dur":  "01:25:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "09:44:43",
+                         "out":  "12:02:54",
+                         "km":  3.77,
+                         "dur":  "02:18:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -472,6 +481,15 @@ window.PAINEL = {
                          "out":  "09:58:42",
                          "km":  13,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:36:39",
+                         "out":  "12:05:18",
+                         "km":  25.37,
+                         "dur":  "01:28:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -663,6 +681,15 @@ window.PAINEL = {
                          "dur":  "02:15:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "ETTORI",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:00:38",
+                         "out":  "12:04:12",
+                         "km":  6.67,
+                         "dur":  "01:03:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -690,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "ARMAZEM GALDINO LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "11:27:41",
+                         "out":  "11:58:41",
+                         "km":  0.8,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
                          "mun":  "ILHABELA",
@@ -697,6 +733,15 @@ window.PAINEL = {
                          "out":  "09:46:53",
                          "km":  40.85,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                         "mun":  "ILHABELA",
+                         "in":  "10:04:02",
+                         "out":  "11:58:20",
+                         "km":  10.36,
+                         "dur":  "01:53:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -782,6 +827,22 @@ window.PAINEL = {
                         "inicio":  "07:35",
                         "final":  "08:31",
                         "tempo":  "00:56:27"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:24"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:24"
                     }
                 ],
     "semped":  [
@@ -816,6 +877,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ETTORI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "SUPERMERCADO DH RUFINO EIRELI",
                        "mun":  "MATAO",
@@ -824,100 +891,76 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "02:09:29"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:17:33"
-                     },
-                     {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:12:04"
+                         "tempo":  "00:27:01"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:13:09"
+                         "tempo":  "01:28:06"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:27:12"
+                         "tempo":  "01:42:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:12:44"
+                         "tempo":  "00:27:41"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "PEDREIRA",
-                         "tempo":  "00:06:18"
+                         "tempo":  "00:21:15"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:33:03"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "ARMAZEM GALDINO LTDA",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:26:31"
+                         "tempo":  "00:48:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "03:53:26"
+                         "tempo":  "04:08:23"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                         "razao":  "JOAO MARIA CAVALCANTE FONSECA ME",
                          "mun":  "ILHABELA",
-                         "tempo":  "01:50:10"
+                         "tempo":  "00:09:52"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "24:33:57"
+                         "tempo":  "24:48:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:11:38"
+                         "tempo":  "00:26:35"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:36:51"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "ETTORI",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:53:34"
+                         "tempo":  "00:51:48"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO GALO BRANCO LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:22:17"
+                         "tempo":  "00:37:14"
                      }
                  ],
     "hist":  [
@@ -1028,8 +1071,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     40,
-                     6
+                     45,
+                     7
                  ]
              ],
     "historico":  {
@@ -22057,8 +22100,26 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  61.89,
+                                                       "tv":  166
+                                                   },
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  40.54,
+                                                       "tv":  275
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -22076,24 +22137,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  22.8,
                                                        "tv":  180
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  36.52,
-                                                       "tv":  78
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  36.77,
-                                                       "tv":  137
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -22114,8 +22157,8 @@ window.PAINEL = {
                                                        "tv":  79
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22123,8 +22166,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22186,6 +22229,15 @@ window.PAINEL = {
                                                        "tv":  79
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -22195,13 +22247,13 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  16.03,
+                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -22213,13 +22265,13 @@ window.PAINEL = {
                                                        "tv":  84
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  15.23,
-                                                       "tv":  156
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  9.46,
+                                                       "tv":  198
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -22231,22 +22283,13 @@ window.PAINEL = {
                                                        "tv":  162
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  2.79,
-                                                       "tv":  135
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  46.26,
-                                                       "tv":  35
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  56.62,
+                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -22290,6 +22333,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.88,
                                                          "tv":  85
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.77,
+                                                         "tv":  138
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -22360,6 +22410,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  13,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                                         "p":  1,
+                                                         "km":  25.37,
+                                                         "tv":  88
                                                      },
                                                      {
                                                          "n":  "Silmara",
@@ -22509,6 +22566,13 @@ window.PAINEL = {
                                                          "tv":  135
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "ETTORI",
+                                                         "p":  0,
+                                                         "km":  6.67,
+                                                         "tv":  63
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -22530,11 +22594,25 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.8,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
                                                          "p":  1,
                                                          "km":  40.85,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                                                         "p":  1,
+                                                         "km":  10.36,
+                                                         "tv":  113
                                                      },
                                                      {
                                                          "n":  "Mariangela",
