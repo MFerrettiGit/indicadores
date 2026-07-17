@@ -21023,8 +21023,17 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  23.68,
+                                     "tv":  245
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -21042,15 +21051,6 @@
                                      "pe":  0,
                                      "km":  40.54,
                                      "tv":  275
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  20.25,
-                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -21101,10 +21101,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  21.13,
-                                     "tv":  215
+                                     "km":  22.06,
+                                     "tv":  268
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -21188,6 +21188,15 @@
                                      "tv":  84
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  8.03,
+                                     "tv":  191
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -21195,15 +21204,6 @@
                                      "pe":  0,
                                      "km":  9.46,
                                      "tv":  198
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  4.56,
-                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Karina",
@@ -21215,6 +21215,15 @@
                                      "tv":  148
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  6.67,
+                                     "tv":  259
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -21222,15 +21231,6 @@
                                      "pe":  1,
                                      "km":  6.71,
                                      "tv":  98
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -21284,6 +21284,13 @@
                                        "p":  1,
                                        "km":  1.27,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.43,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -21419,6 +21426,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  0.93,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -21459,6 +21473,13 @@
                                        "p":  0,
                                        "km":  0.17,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  6.67,
+                                       "tv":  259
                                    },
                                    {
                                        "n":  "Castro",
@@ -21557,6 +21578,13 @@
                                        "p":  1,
                                        "km":  0.74,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                       "p":  0,
+                                       "km":  3.47,
+                                       "tv":  29
                                    }
                                ]
                    }
