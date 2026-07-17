@@ -21023,8 +21023,17 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  36.52,
+                                     "tv":  78
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -21042,15 +21051,6 @@
                                      "pe":  0,
                                      "km":  12.59,
                                      "tv":  93
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  23.52,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -21101,10 +21101,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  13.9,
-                                     "tv":  124
+                                     "km":  16.16,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -21134,6 +21134,15 @@
                                      "tv":  60
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  71.15,
+                                     "tv":  85
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -21143,17 +21152,8 @@
                                      "tv":  29
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.94,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21161,8 +21161,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21177,6 +21177,15 @@
                                      "pe":  1,
                                      "km":  10.38,
                                      "tv":  52
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.82,
+                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Karina",
@@ -21212,15 +21221,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  7.15,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  3.68,
                                      "tv":  0
                                  },
                                  {
@@ -21286,6 +21286,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  13,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -21328,11 +21335,25 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.26,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  1,
                                        "km":  5.43,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MORTARI LTDA.",
+                                       "p":  1,
+                                       "km":  69.21,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Castro",
@@ -21347,6 +21368,13 @@
                                        "p":  1,
                                        "km":  40.85,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO MILD BOM LTDA",
+                                       "p":  1,
+                                       "km":  0.14,
+                                       "tv":  83
                                    }
                                ]
                    }
