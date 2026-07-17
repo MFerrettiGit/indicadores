@@ -21023,8 +21023,17 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  64.32,
+                                     "tv":  182
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -21033,15 +21042,6 @@
                                      "pe":  0,
                                      "km":  23.68,
                                      "tv":  245
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  61.89,
-                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Debora",
@@ -21119,19 +21119,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  16.77,
-                                     "tv":  194
+                                     "km":  18.57,
+                                     "tv":  231
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  99.42,
-                                     "tv":  153
+                                     "km":  121.22,
+                                     "tv":  179
                                  },
                                  {
                                      "nome":  "Luis",
@@ -21197,6 +21197,15 @@
                                      "tv":  191
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  56.62,
+                                     "tv":  177
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -21204,15 +21213,6 @@
                                      "pe":  0,
                                      "km":  9.46,
                                      "tv":  198
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  56.62,
-                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Alan",
@@ -21349,6 +21349,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.43,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -21454,6 +21461,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  1.8,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MORTARI LTDA.",
                                        "p":  1,
@@ -21473,6 +21487,13 @@
                                        "p":  0,
                                        "km":  0.17,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  21.8,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Alan",
@@ -21557,6 +21578,13 @@
                                        "p":  1,
                                        "km":  10.36,
                                        "tv":  113
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JOAO MARIA CAVALCANTE FONSECA ME",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Mariangela",

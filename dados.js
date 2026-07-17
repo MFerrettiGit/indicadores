@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  64.32,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:55",
+                     "ultimo":  "12:32",
+                     "tv":  "03:02:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -16,22 +31,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "04:05:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  61.89,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:55",
-                     "ultimo":  "12:05",
-                     "tv":  "02:46:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Debora",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  16.77,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  18.57,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:12",
-                     "ultimo":  "11:42",
-                     "tv":  "03:14:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:25",
+                     "tv":  "03:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  99.42,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  121.22,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:32",
-                     "ultimo":  "11:47",
-                     "tv":  "02:33:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:36",
+                     "tv":  "02:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "11:58",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  56.62,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:11",
+                     "ultimo":  "12:29",
+                     "tv":  "02:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -304,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  56.62,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:11",
-                     "ultimo":  "11:58",
-                     "tv":  "02:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "12:20",
                      "tv":  "04:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -501,6 +501,15 @@ window.PAINEL = {
                          "dur":  "01:28:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "12:15:56",
+                         "out":  "12:32:40",
+                         "km":  2.43,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "AMERICANA",
@@ -636,6 +645,15 @@ window.PAINEL = {
                          "dur":  "01:26:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "11:47:54",
+                         "out":  "12:25:14",
+                         "km":  1.8,
+                         "dur":  "00:37:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MORTARI LTDA.",
                          "mun":  "MATAO",
@@ -661,6 +679,15 @@ window.PAINEL = {
                          "out":  "11:47:12",
                          "km":  0.17,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "MATAO",
+                         "in":  "12:09:38",
+                         "out":  "12:36:19",
+                         "km":  21.8,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Alan",
@@ -771,6 +798,15 @@ window.PAINEL = {
                          "dur":  "01:53:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "JOAO MARIA CAVALCANTE FONSECA ME",
+                         "mun":  "ILHABELA",
+                         "in":  "11:59:17",
+                         "out":  "12:29:02",
+                         "km":  0,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
                          "mun":  "SAO JOSE DOS CA",
@@ -870,7 +906,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:31"
+                        "tempo":  "00:36:34"
                     },
                     {
                         "nome":  "Luis",
@@ -878,7 +914,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:31"
+                        "tempo":  "00:34:34"
                     },
                     {
                         "nome":  "Cominato",
@@ -886,7 +922,31 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:57"
+                        "tempo":  "00:20:00"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:05"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:59"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:47"
                     }
                 ],
     "semped":  [
@@ -913,6 +973,12 @@ window.PAINEL = {
                        "razao":  "IRMAOS BOA LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                       "mun":  "PEDREIRA",
+                       "obs":  "analise da loja"
                    },
                    {
                        "nome":  "Luis",
@@ -943,74 +1009,62 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DH RUFINO EIRELI",
                        "mun":  "MATAO",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                       "mun":  "MATAO",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Evandro",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:08:15"
-                     },
-                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:43:08"
+                         "tempo":  "01:58:09"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:57:11"
+                         "tempo":  "02:12:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:42:43"
+                         "tempo":  "00:57:44"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:14:49"
+                         "tempo":  "00:29:50"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
-                         "mun":  "PEDREIRA",
-                         "tempo":  "00:36:17"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
-                         "mun":  "MATAO",
-                         "tempo":  "00:14:33"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "JOAO MARIA CAVALCANTE FONSECA ME",
-                         "mun":  "ILHABELA",
-                         "tempo":  "00:24:54"
+                         "nome":  "Alan",
+                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:07"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "25:03:56"
+                         "tempo":  "25:18:57"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:06:50"
+                         "tempo":  "01:21:51"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO GALO BRANCO LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:52:16"
+                         "tempo":  "01:07:17"
                      }
                  ],
     "hist":  [
@@ -1121,8 +1175,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     49,
-                     9
+                     53,
+                     11
                  ]
              ],
     "historico":  {
@@ -22150,8 +22204,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  64.32,
+                                                       "tv":  182
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -22160,15 +22223,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  23.68,
                                                        "tv":  245
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  61.89,
-                                                       "tv":  166
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -22246,19 +22300,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  16.77,
-                                                       "tv":  194
+                                                       "km":  18.57,
+                                                       "tv":  231
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  99.42,
-                                                       "tv":  153
+                                                       "km":  121.22,
+                                                       "tv":  179
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -22324,6 +22378,15 @@ window.PAINEL = {
                                                        "tv":  191
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  56.62,
+                                                       "tv":  177
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -22331,15 +22394,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  9.46,
                                                        "tv":  198
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  56.62,
-                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -22476,6 +22530,13 @@ window.PAINEL = {
                                                          "tv":  88
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.43,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -22581,6 +22642,13 @@ window.PAINEL = {
                                                          "tv":  86
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0,
+                                                         "km":  1.8,
+                                                         "tv":  37
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO MORTARI LTDA.",
                                                          "p":  1,
@@ -22600,6 +22668,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.17,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  21.8,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -22684,6 +22759,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  10.36,
                                                          "tv":  113
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "JOAO MARIA CAVALCANTE FONSECA ME",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  29
                                                      },
                                                      {
                                                          "n":  "Mariangela",
