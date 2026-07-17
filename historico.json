@@ -21023,8 +21023,17 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.25,
+                                     "tv":  208
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -21053,15 +21062,6 @@
                                      "tv":  137
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  18.98,
-                                     "tv":  162
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -21080,8 +21080,8 @@
                                      "tv":  79
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21110,10 +21110,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
                                      "km":  18.4,
-                                     "tv":  75
+                                     "tv":  123
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -21182,10 +21182,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  15.23,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  13.52,
-                                     "tv":  139
+                                     "km":  4.56,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -21195,15 +21204,6 @@
                                      "pe":  0,
                                      "km":  2.79,
                                      "tv":  135
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.82,
-                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Karina",
@@ -21272,6 +21272,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  1.27,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -21284,6 +21291,13 @@
                                        "p":  0,
                                        "km":  11.87,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Eliana",
@@ -21487,6 +21501,13 @@
                                        "p":  1,
                                        "km":  0.14,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.74,
+                                       "tv":  79
                                    }
                                ]
                    }
