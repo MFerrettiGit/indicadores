@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "09:01",
                      "ultimo":  "16:37",
                      "tv":  "03:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  12.04,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:41",
+                     "ultimo":  "17:06",
+                     "tv":  "05:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -287,21 +302,6 @@ window.PAINEL = {
                      "tv":  "02:53:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  9.64,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:41",
-                     "ultimo":  "16:18",
-                     "tv":  "05:07:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -1201,6 +1201,15 @@ window.PAINEL = {
                          "out":  "16:18:22",
                          "km":  1.61,
                          "dur":  "01:56:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:25:34",
+                         "out":  "17:06:22",
+                         "km":  2.4,
+                         "dur":  "00:40:00"
                      }
                  ],
     "eventos":  [
@@ -1410,7 +1419,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:54:25"
+                        "tempo":  "03:07:05"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1418,7 +1427,7 @@ window.PAINEL = {
                         "obs":  "digitação pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:20:17"
+                        "tempo":  "01:32:57"
                     },
                     {
                         "nome":  "Castro",
@@ -1426,7 +1435,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:23"
+                        "tempo":  "00:42:03"
                     }
                 ],
     "semped":  [
@@ -1521,6 +1530,12 @@ window.PAINEL = {
                        "obs":  "merchandising"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
                        "mun":  "PIRACICABA",
@@ -1583,28 +1598,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Fernando",
+                         "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:11:27"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
                          "mun":  "MATAO",
-                         "tempo":  "00:30:10"
+                         "tempo":  "00:42:51"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:43"
+                         "tempo":  "00:41:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "29:36:14"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:30:55"
+                         "tempo":  "29:48:55"
                      }
                  ],
     "hist":  [
@@ -1715,8 +1730,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     93,
-                     25
+                     94,
+                     26
                  ]
              ],
     "historico":  {
@@ -22744,7 +22759,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22801,8 +22816,8 @@ window.PAINEL = {
                                                        "tv":  253
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22810,8 +22825,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22909,6 +22924,15 @@ window.PAINEL = {
                                                        "tv":  278
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  12.04,
+                                                       "tv":  347
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -22916,15 +22940,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  62.59,
                                                        "tv":  173
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  9.64,
-                                                       "tv":  307
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -23614,6 +23629,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.61,
                                                          "tv":  116
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  0,
+                                                         "km":  2.4,
+                                                         "tv":  40
                                                      }
                                                  ]
                                      }
