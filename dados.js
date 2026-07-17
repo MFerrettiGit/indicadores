@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "16:11",
                      "tv":  "04:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -203,14 +203,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  93.75,
+                     "visitas":  4,
+                     "km":  113.19,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:01",
-                     "ultimo":  "13:15",
-                     "tv":  "01:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:37",
+                     "tv":  "03:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "02:53:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "16:18",
                      "tv":  "05:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  21.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:29",
+                     "ultimo":  "16:28",
+                     "tv":  "04:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "16:14",
                      "tv":  "06:19:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  18.2,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:29",
-                     "ultimo":  "13:57",
-                     "tv":  "03:57:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -688,6 +688,15 @@ window.PAINEL = {
                          "out":  "13:15:56",
                          "km":  31.34,
                          "dur":  "00:34:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:59:58",
+                         "out":  "16:37:44",
+                         "km":  19.44,
+                         "dur":  "01:37:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1140,6 +1149,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO JOSE CARLOS",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "15:35:30",
+                         "out":  "16:28:30",
+                         "km":  3.09,
+                         "dur":  "00:52:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MILD BOM LTDA",
                          "mun":  "ITAPETININGA",
@@ -1383,7 +1401,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:21:50"
+                        "tempo":  "02:36:51"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1391,7 +1409,15 @@ window.PAINEL = {
                         "obs":  "digitação pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:42"
+                        "tempo":  "01:02:43"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:49"
                     }
                 ],
     "semped":  [
@@ -1542,28 +1568,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "MIALICH SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:24:08"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
+                         "mun":  "MATAO",
+                         "tempo":  "00:12:48"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:21"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "29:03:51"
+                         "tempo":  "29:18:52"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:13:33"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:24:10"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO JOSE CARLOS",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:48:36"
+                         "tempo":  "01:39:11"
                      }
                  ],
     "hist":  [
@@ -1674,7 +1706,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     90,
+                     92,
                      24
                  ]
              ],
@@ -22703,7 +22735,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22760,8 +22792,8 @@ window.PAINEL = {
                                                        "tv":  253
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22769,8 +22801,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22826,10 +22858,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  93.75,
-                                                       "tv":  113
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  113.19,
+                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -22895,6 +22927,15 @@ window.PAINEL = {
                                                        "tv":  193
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  21.29,
+                                                       "tv":  289
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -22902,15 +22943,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  17.35,
                                                        "tv":  379
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  18.2,
-                                                       "tv":  237
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -23174,6 +23206,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  31.34,
                                                          "tv":  34
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "MIALICH SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  19.44,
+                                                         "tv":  97
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -23524,6 +23563,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO JOSE CARLOS",
+                                                         "p":  1,
+                                                         "km":  3.09,
+                                                         "tv":  52
                                                      },
                                                      {
                                                          "n":  "Nelson",
