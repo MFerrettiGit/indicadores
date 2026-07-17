@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  49.27,
+                     "km":  83.78,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  32.91,
+                     "km":  36.31,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:12",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  22.48,
+                     "km":  25.21,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:20",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  19.72,
+                     "km":  24.55,
                      "semPed":  3,
                      "perc":  100,
                      "primeiro":  "12:09",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  19.14,
+                     "km":  30.89,
                      "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:14",
@@ -285,6 +285,21 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "17:06",
                      "tv":  "05:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  20.67,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:00",
+                     "ultimo":  "17:42",
+                     "tv":  "07:33:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "16:28",
                      "tv":  "04:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  17.35,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:00",
-                     "ultimo":  "16:14",
-                     "tv":  "06:19:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -987,6 +987,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:27:46",
+                         "out":  "17:42:33",
+                         "km":  3.32,
+                         "dur":  "01:14:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
@@ -1453,7 +1462,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:36:57"
+                        "tempo":  "03:52:05"
                     }
                 ],
     "semped":  [
@@ -1616,16 +1625,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Alan",
-                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:11:24"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "30:18:55"
+                         "tempo":  "30:33:56"
                      }
                  ],
     "hist":  [
@@ -1736,7 +1739,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     96,
+                     97,
                      26
                  ]
              ],
@@ -22765,7 +22768,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22791,7 +22794,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  49.27,
+                                                       "km":  83.78,
                                                        "tv":  428
                                                    },
                                                    {
@@ -22822,8 +22825,8 @@ window.PAINEL = {
                                                        "tv":  253
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22831,8 +22834,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22872,7 +22875,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  32.91,
+                                                       "km":  36.31,
                                                        "tv":  343
                                                    },
                                                    {
@@ -22881,7 +22884,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  22.48,
+                                                       "km":  25.21,
                                                        "tv":  280
                                                    },
                                                    {
@@ -22899,7 +22902,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  19.72,
+                                                       "km":  24.55,
                                                        "tv":  111
                                                    },
                                                    {
@@ -22917,7 +22920,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  19.14,
+                                                       "km":  30.89,
                                                        "tv":  371
                                                    },
                                                    {
@@ -22937,6 +22940,15 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  12.04,
                                                        "tv":  347
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  20.67,
+                                                       "tv":  453
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -22964,15 +22976,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  21.29,
                                                        "tv":  289
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  17.35,
-                                                       "tv":  379
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -23467,6 +23470,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.99,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.32,
+                                                         "tv":  74
                                                      },
                                                      {
                                                          "n":  "Castro",

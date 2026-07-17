@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21049,7 +21049,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  49.27,
+                                     "km":  83.78,
                                      "tv":  428
                                  },
                                  {
@@ -21080,8 +21080,8 @@
                                      "tv":  253
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21130,7 +21130,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  32.91,
+                                     "km":  36.31,
                                      "tv":  343
                                  },
                                  {
@@ -21139,7 +21139,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  22.48,
+                                     "km":  25.21,
                                      "tv":  280
                                  },
                                  {
@@ -21157,7 +21157,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  19.72,
+                                     "km":  24.55,
                                      "tv":  111
                                  },
                                  {
@@ -21175,7 +21175,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  19.14,
+                                     "km":  30.89,
                                      "tv":  371
                                  },
                                  {
@@ -21195,6 +21195,15 @@
                                      "pe":  2,
                                      "km":  12.04,
                                      "tv":  347
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  20.67,
+                                     "tv":  453
                                  },
                                  {
                                      "nome":  "Castro",
@@ -21222,15 +21231,6 @@
                                      "pe":  4,
                                      "km":  21.29,
                                      "tv":  289
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  17.35,
-                                     "tv":  379
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -21725,6 +21725,13 @@
                                        "p":  0,
                                        "km":  8.99,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  3.32,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Castro",
