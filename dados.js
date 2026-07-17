@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "12:02",
                      "tv":  "04:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "12:54",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Aline",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "13:05",
                      "tv":  "03:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  93.75,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:01",
+                     "ultimo":  "13:15",
+                     "tv":  "01:53:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "10:56",
                      "tv":  "02:04:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  62.41,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:01",
-                     "ultimo":  "11:03",
-                     "tv":  "01:19:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  8.36,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:00",
+                     "ultimo":  "13:21",
+                     "tv":  "05:08:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -316,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "12:04",
                      "tv":  "03:18:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "09:29",
                      "ultimo":  "13:06",
                      "tv":  "03:12:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  6.67,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:00",
-                     "ultimo":  "12:20",
-                     "tv":  "04:19:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -582,6 +582,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "12:41:16",
+                         "out":  "13:15:56",
+                         "km":  31.34,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "P.R.FERREIRA FRANCA",
                          "mun":  "FRANCA",
@@ -742,6 +751,15 @@ window.PAINEL = {
                          "out":  "12:20:47",
                          "km":  6.67,
                          "dur":  "04:19:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                         "mun":  "CAMPINAS",
+                         "in":  "12:31:05",
+                         "out":  "13:21:00",
+                         "km":  1.69,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Castro",
@@ -940,12 +958,28 @@ window.PAINEL = {
                         "tempo":  "00:55:52"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:20",
+                        "final":  "13:20",
+                        "tempo":  "01:00:44"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:03",
                         "final":  "13:03",
                         "tempo":  "01:00:04"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:28",
+                        "final":  "13:24",
+                        "tempo":  "00:55:39"
                     },
                     {
                         "nome":  "Silmara",
@@ -980,28 +1014,12 @@ window.PAINEL = {
                         "tempo":  "00:56:27"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:55"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:41:00"
-                    },
-                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:54"
+                        "tempo":  "00:53:03"
                     },
                     {
                         "nome":  "Evandro",
@@ -1009,7 +1027,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:42"
+                        "tempo":  "00:51:51"
                     },
                     {
                         "nome":  "Eliana",
@@ -1017,7 +1035,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:56"
+                        "tempo":  "00:39:05"
                     },
                     {
                         "nome":  "Rachel",
@@ -1025,7 +1043,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:11"
+                        "tempo":  "00:38:20"
                     },
                     {
                         "nome":  "Karina",
@@ -1033,7 +1051,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:51"
+                        "tempo":  "00:38:00"
                     },
                     {
                         "nome":  "Nelson",
@@ -1041,7 +1059,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:56"
+                        "tempo":  "00:23:05"
                     },
                     {
                         "nome":  "Maira",
@@ -1049,7 +1067,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:16"
+                        "tempo":  "00:20:25"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:12"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:42"
                     }
                 ],
     "semped":  [
@@ -1134,28 +1168,40 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:07:39"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:22:07"
+                         "tempo":  "00:37:09"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:27:53"
+                         "nome":  "Luis",
+                         "razao":  "SM. SAO PAULO LTDA.",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:08:30"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:38:04"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO DE PERFUMARIA DE MATAO LTDA",
+                         "mun":  "MATAO",
+                         "tempo":  "00:07:45"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "25:48:54"
+                         "tempo":  "26:03:56"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:12:33"
                      }
                  ],
     "hist":  [
@@ -1266,7 +1312,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     60,
+                     62,
                      13
                  ]
              ],
@@ -22295,7 +22341,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22406,6 +22452,15 @@ window.PAINEL = {
                                                        "tv":  231
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  93.75,
+                                                       "tv":  113
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -22413,15 +22468,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  17.8,
                                                        "tv":  124
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  62.41,
-                                                       "tv":  79
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -22478,6 +22524,15 @@ window.PAINEL = {
                                                        "tv":  177
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  8.36,
+                                                       "tv":  308
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -22494,15 +22549,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  17.2,
                                                        "tv":  192
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  6.67,
-                                                       "tv":  259
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -22684,6 +22730,13 @@ window.PAINEL = {
                                                          "tv":  50
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  31.34,
+                                                         "tv":  34
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "P.R.FERREIRA FRANCA",
                                                          "p":  1,
@@ -22808,6 +22861,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  6.67,
                                                          "tv":  259
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                                         "p":  1,
+                                                         "km":  1.69,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Castro",

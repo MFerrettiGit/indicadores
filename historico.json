@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21134,6 +21134,15 @@
                                      "tv":  231
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  93.75,
+                                     "tv":  113
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -21141,15 +21150,6 @@
                                      "pe":  1,
                                      "km":  17.8,
                                      "tv":  124
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  62.41,
-                                     "tv":  79
                                  },
                                  {
                                      "nome":  "Maira",
@@ -21206,6 +21206,15 @@
                                      "tv":  177
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  8.36,
+                                     "tv":  308
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -21222,15 +21231,6 @@
                                      "pe":  2,
                                      "km":  17.2,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.67,
-                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -21412,6 +21412,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  31.34,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "P.R.FERREIRA FRANCA",
                                        "p":  1,
@@ -21536,6 +21543,13 @@
                                        "p":  0,
                                        "km":  6.67,
                                        "tv":  259
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1,
+                                       "km":  1.69,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Castro",
