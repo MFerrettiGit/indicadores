@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21137,10 +21137,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  18.86,
-                                     "tv":  186
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  20.01,
+                                     "tv":  235
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -21480,6 +21480,13 @@
                                        "p":  1,
                                        "km":  1.06,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                                       "p":  1,
+                                       "km":  1.15,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Maira",

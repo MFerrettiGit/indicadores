@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "15:05",
                      "tv":  "06:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "14:19",
                      "tv":  "05:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  18.86,
+                     "visitas":  4,
+                     "km":  20.01,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:20",
-                     "ultimo":  "14:18",
-                     "tv":  "03:06:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:13",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "12:09",
                      "ultimo":  "14:55",
                      "tv":  "01:18:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "13:57",
                      "tv":  "03:57:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -670,6 +670,15 @@ window.PAINEL = {
                          "out":  "14:18:06",
                          "km":  1.06,
                          "dur":  "01:02:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                         "mun":  "FRANCA",
+                         "in":  "14:23:38",
+                         "out":  "15:13:13",
+                         "km":  1.15,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Maira",
@@ -1228,6 +1237,14 @@ window.PAINEL = {
                         "tempo":  "01:30:31"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:06",
+                        "final":  "15:14",
+                        "tempo":  "01:08:19"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Matao",
@@ -1249,15 +1266,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:06:26"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:03:49"
+                        "tempo":  "01:21:47"
                     }
                 ],
     "semped":  [
@@ -1378,76 +1387,88 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:05:53"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:36:39"
+                         "tempo":  "00:52:04"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:23:53"
+                         "tempo":  "00:39:18"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:21:22"
+                         "tempo":  "01:36:47"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:13:17"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:01:43"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:44:28"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:45:06"
+                         "tempo":  "00:59:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:08:46"
+                         "tempo":  "00:24:11"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "MATAO",
-                         "tempo":  "00:17:26"
+                         "tempo":  "00:32:51"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:06:56"
+                         "tempo":  "01:22:21"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:05:38"
+                         "tempo":  "00:21:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "27:48:29"
+                         "tempo":  "28:03:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:46:42"
+                         "tempo":  "01:02:07"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:08:48"
+                         "tempo":  "00:24:13"
                      }
                  ],
     "hist":  [
@@ -1558,7 +1579,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     76,
+                     77,
                      19
                  ]
              ],
@@ -22587,7 +22608,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22701,10 +22722,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  18.86,
-                                                       "tv":  186
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  20.01,
+                                                       "tv":  235
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -23044,6 +23065,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.06,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                                                         "p":  1,
+                                                         "km":  1.15,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Maira",
