@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21110,10 +21110,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  18.4,
-                                     "tv":  123
+                                     "km":  29.45,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -21179,6 +21179,15 @@
                                      "tv":  173
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  15.99,
+                                     "tv":  266
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -21195,15 +21204,6 @@
                                      "pe":  3,
                                      "km":  60.26,
                                      "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  13.47,
-                                     "tv":  231
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -21319,6 +21319,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.04",
+                                       "p":  0,
+                                       "km":  11.05,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Eliana",
@@ -21641,6 +21648,13 @@
                                        "p":  0,
                                        "km":  4.01,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.52,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Eugenio",
