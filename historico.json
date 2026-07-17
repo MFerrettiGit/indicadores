@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21031,7 +21031,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  71.69,
+                                     "km":  77.92,
                                      "tv":  314
                                  },
                                  {
@@ -21170,6 +21170,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  19.14,
+                                     "tv":  371
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -21186,15 +21195,6 @@
                                      "pe":  4,
                                      "km":  62.59,
                                      "tv":  173
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  15.99,
-                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -21767,6 +21767,13 @@
                                        "p":  0,
                                        "km":  2.52,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  3.15,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Eugenio",

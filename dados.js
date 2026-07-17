@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  71.69,
+                     "km":  77.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  19.14,
+                     "semPed":  5,
+                     "perc":  100,
+                     "primeiro":  "08:14",
+                     "ultimo":  "16:45",
+                     "tv":  "06:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -272,21 +287,6 @@ window.PAINEL = {
                      "tv":  "02:53:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  15.99,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:14",
-                     "ultimo":  "14:48",
-                     "tv":  "04:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -1041,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:59:56",
+                         "out":  "16:45:15",
+                         "km":  3.15,
+                         "dur":  "01:45:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -1401,7 +1410,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:36:51"
+                        "tempo":  "02:54:25"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1409,7 +1418,7 @@ window.PAINEL = {
                         "obs":  "digitação pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:02:43"
+                        "tempo":  "01:20:17"
                     },
                     {
                         "nome":  "Castro",
@@ -1417,7 +1426,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:49"
+                        "tempo":  "00:29:23"
                     }
                 ],
     "semped":  [
@@ -1536,6 +1545,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "SUPERMERCADO DH RUFINO EIRELI",
                        "mun":  "MATAO",
@@ -1571,31 +1586,25 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
                          "mun":  "MATAO",
-                         "tempo":  "00:12:48"
+                         "tempo":  "00:30:10"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:21"
+                         "tempo":  "00:28:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "29:18:52"
+                         "tempo":  "29:36:14"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:13:33"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "01:39:11"
+                         "tempo":  "00:30:55"
                      }
                  ],
     "hist":  [
@@ -1706,8 +1715,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     92,
-                     24
+                     93,
+                     25
                  ]
              ],
     "historico":  {
@@ -22735,7 +22744,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22743,7 +22752,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  71.69,
+                                                       "km":  77.92,
                                                        "tv":  314
                                                    },
                                                    {
@@ -22882,6 +22891,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  19.14,
+                                                       "tv":  371
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -22898,15 +22916,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  62.59,
                                                        "tv":  173
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  15.99,
-                                                       "tv":  266
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -23479,6 +23488,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.52,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  3.15,
+                                                         "tv":  105
                                                      },
                                                      {
                                                          "n":  "Eugenio",
