@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -21062,6 +21062,15 @@
                                      "tv":  162
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  13.38,
+                                     "tv":  148
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -21071,17 +21080,8 @@
                                      "tv":  79
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  8.52,
-                                     "tv":  23
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21134,6 +21134,15 @@
                                      "tv":  124
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  99.25,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -21143,17 +21152,8 @@
                                      "tv":  79
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  71.15,
-                                     "tv":  85
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21161,8 +21161,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21321,6 +21321,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  4.86,
+                                       "tv":  125
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -21405,6 +21412,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GALVANI MAX SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  28.1,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO TULON LTDA.",
                                        "p":  1,
@@ -21445,6 +21459,13 @@
                                        "p":  1,
                                        "km":  1.96,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                       "p":  1,
+                                       "km":  1.71,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Karina",
