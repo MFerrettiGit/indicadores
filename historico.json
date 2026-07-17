@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21112,7 +21112,7 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  29.45,
+                                     "km":  40.13,
                                      "tv":  180
                                  },
                                  {
@@ -21146,10 +21146,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  113.19,
-                                     "tv":  210
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  135.34,
+                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Maira",
@@ -21184,7 +21184,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  26.8,
+                                     "km":  26.95,
                                      "tv":  278
                                  },
                                  {
@@ -21501,6 +21501,13 @@
                                        "p":  1,
                                        "km":  19.44,
                                        "tv":  97
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                                       "p":  1,
+                                       "km":  22.15,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Luis",

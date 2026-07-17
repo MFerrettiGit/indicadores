@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  29.45,
+                     "km":  40.13,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:52",
@@ -203,14 +203,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  113.19,
+                     "visitas":  5,
+                     "km":  135.34,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:01",
-                     "ultimo":  "16:37",
-                     "tv":  "03:30:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:31",
+                     "tv":  "03:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -264,14 +264,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  26.8,
+                     "km":  26.95,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:30",
                      "ultimo":  "15:34",
                      "tv":  "04:38:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "02:53:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -697,6 +697,15 @@ window.PAINEL = {
                          "out":  "16:37:44",
                          "km":  19.44,
                          "dur":  "01:37:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:57:43",
+                         "out":  "17:31:12",
+                         "km":  22.15,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1247,6 +1256,14 @@ window.PAINEL = {
                         "tempo":  "01:00:08"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitação pedido",
+                        "inicio":  "15:37",
+                        "final":  "17:27",
+                        "tempo":  "01:49:30"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1309,6 +1326,14 @@ window.PAINEL = {
                         "inicio":  "13:26",
                         "final":  "14:16",
                         "tempo":  "00:50:30"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  "16:28",
+                        "final":  "17:30",
+                        "tempo":  "01:02:13"
                     },
                     {
                         "nome":  "Cominato",
@@ -1428,23 +1453,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:22:02"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitação pedido",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:47:54"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:00"
+                        "tempo":  "03:36:57"
                     }
                 ],
     "semped":  [
@@ -1607,22 +1616,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:26:26"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:56:23"
+                         "tempo":  "01:11:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "30:03:54"
+                         "tempo":  "30:18:55"
                      }
                  ],
     "hist":  [
@@ -1733,7 +1736,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     95,
+                     96,
                      26
                  ]
              ],
@@ -22762,7 +22765,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22851,7 +22854,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  29.45,
+                                                       "km":  40.13,
                                                        "tv":  180
                                                    },
                                                    {
@@ -22885,10 +22888,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  113.19,
-                                                       "tv":  210
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  135.34,
+                                                       "tv":  236
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -22923,7 +22926,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  26.8,
+                                                       "km":  26.95,
                                                        "tv":  278
                                                    },
                                                    {
@@ -23240,6 +23243,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  19.44,
                                                          "tv":  97
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                                                         "p":  1,
+                                                         "km":  22.15,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Luis",
