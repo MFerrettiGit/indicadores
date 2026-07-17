@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21044,6 +21044,15 @@
                                      "tv":  276
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  45.83,
+                                     "tv":  384
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -21062,22 +21071,13 @@
                                      "tv":  304
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.54,
-                                     "tv":  275
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  78.96,
-                                     "tv":  226
+                                     "km":  83.7,
+                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Aline",
@@ -21155,10 +21155,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  9.77,
-                                     "tv":  31
+                                     "km":  16.98,
+                                     "tv":  78
                                  },
                                  {
                                      "nome":  "Costa",
@@ -21263,6 +21263,13 @@
                                        "p":  1,
                                        "km":  3.77,
                                        "tv":  138
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.29,
+                                       "tv":  109
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -21426,6 +21433,13 @@
                                        "tv":  147
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "VITORINO CORREA NETO VOTORANTIM LTDA",
+                                       "p":  1,
+                                       "km":  4.74,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -21473,6 +21487,13 @@
                                        "p":  0,
                                        "km":  9.77,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO PAVAN LTDA.",
+                                       "p":  0,
+                                       "km":  7.21,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Milene",
