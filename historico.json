@@ -21023,8 +21023,17 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  22.8,
+                                     "tv":  180
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -21044,13 +21053,13 @@
                                      "tv":  137
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  12.59,
-                                     "tv":  93
+                                     "km":  18.98,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -21062,15 +21071,6 @@
                                      "tv":  79
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  15.4,
-                                     "tv":  77
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -21080,8 +21080,8 @@
                                      "tv":  23
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21119,10 +21119,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.96,
-                                     "tv":  17
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  16.12,
+                                     "tv":  108
                                  },
                                  {
                                      "nome":  "Luis",
@@ -21152,8 +21152,8 @@
                                      "tv":  29
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21161,8 +21161,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21177,6 +21177,15 @@
                                      "pe":  1,
                                      "km":  10.38,
                                      "tv":  52
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  11.56,
+                                     "tv":  110
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -21212,15 +21221,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.15,
                                      "tv":  0
                                  },
                                  {
@@ -21265,6 +21265,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.58,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -21277,6 +21284,13 @@
                                        "p":  1,
                                        "km":  12.59,
                                        "tv":  93
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  10.21,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Evandro",
@@ -21349,6 +21363,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  1,
+                                       "km":  10.16,
+                                       "tv":  91
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MORTARI LTDA.",
                                        "p":  1,
@@ -21361,6 +21382,13 @@
                                        "p":  1,
                                        "km":  0.47,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.41,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Karina",
