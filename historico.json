@@ -21023,25 +21023,34 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  67.63,
-                                     "tv":  227
+                                     "km":  71.69,
+                                     "tv":  314
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  35.06,
+                                     "tv":  351
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  32.9,
-                                     "tv":  276
+                                     "km":  49.27,
+                                     "tv":  428
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -21053,22 +21062,13 @@
                                      "tv":  340
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  45.83,
-                                     "tv":  384
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  43.27,
-                                     "tv":  304
+                                     "km":  48.12,
+                                     "tv":  432
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -21155,10 +21155,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  16.98,
-                                     "tv":  78
+                                     "km":  19.72,
+                                     "tv":  111
                                  },
                                  {
                                      "nome":  "Costa",
@@ -21272,6 +21272,13 @@
                                        "tv":  109
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  3.44,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -21305,6 +21312,13 @@
                                        "p":  1,
                                        "km":  9.22,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  1,
+                                       "km":  2.16,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -21356,6 +21370,13 @@
                                        "tv":  124
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.85,
+                                       "tv":  128
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -21389,6 +21410,13 @@
                                        "p":  1,
                                        "km":  3.31,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.06,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Silmara",
@@ -21508,6 +21536,13 @@
                                        "p":  0,
                                        "km":  7.21,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  0,
+                                       "km":  2.74,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Milene",
