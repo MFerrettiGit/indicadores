@@ -21023,25 +21023,34 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  64.32,
-                                     "tv":  182
+                                     "km":  67.63,
+                                     "tv":  227
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  32.9,
+                                     "tv":  276
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  23.68,
-                                     "tv":  245
+                                     "km":  17.75,
+                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -21062,15 +21071,6 @@
                                      "tv":  275
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  16.62,
-                                     "tv":  208
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -21080,8 +21080,8 @@
                                      "tv":  226
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21134,6 +21134,15 @@
                                      "tv":  231
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  18.86,
+                                     "tv":  186
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -21141,15 +21150,6 @@
                                      "pe":  3,
                                      "km":  93.75,
                                      "tv":  113
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  17.8,
-                                     "tv":  124
                                  },
                                  {
                                      "nome":  "Maira",
@@ -21293,6 +21293,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  9.22,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -21363,6 +21370,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.31,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -21382,6 +21396,13 @@
                                        "p":  1,
                                        "km":  3.24,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  1.13,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -21431,6 +21452,13 @@
                                        "p":  0,
                                        "km":  7.22,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SM. SAO PAULO LTDA.",
+                                       "p":  1,
+                                       "km":  1.06,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Maira",
