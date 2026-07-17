@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -21110,10 +21110,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  6.53,
+                                     "tv":  26
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -21128,10 +21128,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.85,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  10.58,
+                                     "tv":  60
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -21152,8 +21152,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21161,8 +21161,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -21224,8 +21224,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -21233,8 +21233,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -21256,6 +21256,13 @@
                                        "p":  1,
                                        "km":  15.4,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  6.53,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Eliana",
@@ -21284,6 +21291,13 @@
                                        "p":  1,
                                        "km":  43.17,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "P.R.FERREIRA FRANCA",
+                                       "p":  1,
+                                       "km":  7.73,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Milene",
