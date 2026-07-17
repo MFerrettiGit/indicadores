@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  35.06,
+                     "km":  47.7,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:20",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  83.7,
+                     "km":  93.71,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:18",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  8,
-                     "km":  129.43,
+                     "visitas":  9,
+                     "km":  135.42,
                      "semPed":  5,
-                     "perc":  62.5,
+                     "perc":  55.56,
                      "primeiro":  "08:32",
-                     "ultimo":  "16:11",
-                     "tv":  "04:56:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:12",
+                     "tv":  "05:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -942,6 +942,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
+                         "mun":  "MATAO",
+                         "in":  "16:26:19",
+                         "out":  "17:12:33",
+                         "km":  5.99,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -1419,7 +1428,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:07:05"
+                        "tempo":  "03:22:02"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1427,7 +1436,7 @@ window.PAINEL = {
                         "obs":  "digitação pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:32:57"
+                        "tempo":  "01:47:54"
                     },
                     {
                         "nome":  "Castro",
@@ -1435,7 +1444,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:03"
+                        "tempo":  "00:57:00"
                     }
                 ],
     "semped":  [
@@ -1601,25 +1610,19 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:11:27"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
-                         "mun":  "MATAO",
-                         "tempo":  "00:42:51"
+                         "tempo":  "00:26:26"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:41:24"
+                         "tempo":  "00:56:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "29:48:55"
+                         "tempo":  "30:03:54"
                      }
                  ],
     "hist":  [
@@ -1730,7 +1733,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     94,
+                     95,
                      26
                  ]
              ],
@@ -22759,7 +22762,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22776,7 +22779,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  35.06,
+                                                       "km":  47.7,
                                                        "tv":  351
                                                    },
                                                    {
@@ -22812,12 +22815,12 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  83.7,
+                                                       "km":  93.71,
                                                        "tv":  253
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22825,8 +22828,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22855,10 +22858,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  8,
-                                                       "pe":  3,
-                                                       "km":  129.43,
-                                                       "tv":  296
+                                                       "vi":  9,
+                                                       "pe":  4,
+                                                       "km":  135.42,
+                                                       "tv":  342
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -23426,6 +23429,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.84,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SIMONI DE MATAO LTDA.",
+                                                         "p":  1,
+                                                         "km":  5.99,
+                                                         "tv":  46
                                                      },
                                                      {
                                                          "n":  "Alan",
