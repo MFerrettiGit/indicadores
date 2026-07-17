@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -21080,8 +21080,8 @@
                                      "tv":  23
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21101,10 +21101,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  16.16,
-                                     "tv":  171
+                                     "km":  21.13,
+                                     "tv":  215
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -21128,10 +21128,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  10.58,
-                                     "tv":  60
+                                     "km":  17.8,
+                                     "tv":  124
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.41,
+                                     "tv":  79
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -21141,15 +21150,6 @@
                                      "pe":  1,
                                      "km":  71.15,
                                      "tv":  85
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  30.95,
-                                     "tv":  29
                                  },
                                  {
                                      "nome":  "Costa",
@@ -21173,10 +21173,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  30.86,
+                                     "tv":  84
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  29.26,
-                                     "tv":  69
+                                     "km":  13.52,
+                                     "tv":  139
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -21186,15 +21195,6 @@
                                      "pe":  0,
                                      "km":  2.79,
                                      "tv":  135
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  11.56,
-                                     "tv":  110
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -21215,17 +21215,17 @@
                                      "tv":  35
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.71,
+                                     "tv":  98
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -21335,11 +21335,25 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO TRES JOTA LTDA.",
+                                       "p":  1,
+                                       "km":  31.46,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "P.R.FERREIRA FRANCA",
                                        "p":  1,
                                        "km":  7.73,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "CITY COMERCIAL LTDA",
+                                       "p":  0,
+                                       "km":  7.22,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Milene",
@@ -21361,6 +21375,13 @@
                                        "p":  1,
                                        "km":  2.26,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  4.97,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Rachel",
@@ -21398,6 +21419,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.6,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "INOVA SUPER SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -21412,11 +21440,25 @@
                                        "tv":  110
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  29
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
                                        "p":  1,
                                        "km":  40.85,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
+                                       "p":  1,
+                                       "km":  6.71,
+                                       "tv":  98
                                    },
                                    {
                                        "n":  "Nelson",
