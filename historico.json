@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21103,7 +21103,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  23.76,
+                                     "km":  28.8,
                                      "tv":  312
                                  },
                                  {
@@ -21119,28 +21119,28 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  7,
-                                     "pe":  2,
-                                     "km":  127.59,
-                                     "tv":  264
+                                     "vi":  8,
+                                     "pe":  3,
+                                     "km":  129.43,
+                                     "tv":  296
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  18.57,
-                                     "tv":  231
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  32.91,
+                                     "tv":  343
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  20.01,
-                                     "tv":  235
+                                     "km":  22.48,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -21197,6 +21197,15 @@
                                      "tv":  266
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  9.64,
+                                     "tv":  307
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -21206,13 +21215,13 @@
                                      "tv":  193
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  3,
-                                     "pe":  2,
-                                     "km":  8.03,
-                                     "tv":  191
+                                     "pe":  1,
+                                     "km":  17.35,
+                                     "tv":  379
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -21222,15 +21231,6 @@
                                      "pe":  3,
                                      "km":  18.2,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  8.36,
-                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -21524,6 +21524,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "DIVINO JOSAFA ALVES BORGES - ME.",
+                                       "p":  0,
+                                       "km":  2.47,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADO LTDA",
                                        "p":  0,
@@ -21615,6 +21622,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  14.34,
+                                       "tv":  112
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MORTARI LTDA.",
                                        "p":  1,
@@ -21664,6 +21678,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SIMONI",
+                                       "p":  1,
+                                       "km":  1.84,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -21676,6 +21697,13 @@
                                        "p":  1,
                                        "km":  1.69,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
+                                       "p":  0,
+                                       "km":  8.99,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Castro",
@@ -21837,6 +21865,13 @@
                                        "p":  0,
                                        "km":  3.47,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  1.61,
+                                       "tv":  116
                                    }
                                ]
                    }

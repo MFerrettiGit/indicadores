@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  23.76,
+                     "km":  28.8,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  127.59,
+                     "visitas":  8,
+                     "km":  129.43,
                      "semPed":  5,
-                     "perc":  71.43,
+                     "perc":  62.5,
                      "primeiro":  "08:32",
-                     "ultimo":  "15:33",
-                     "tv":  "04:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:11",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  18.57,
+                     "visitas":  5,
+                     "km":  32.91,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:12",
-                     "ultimo":  "12:25",
-                     "tv":  "03:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:17",
+                     "tv":  "05:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  20.01,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  22.48,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:20",
-                     "ultimo":  "15:13",
-                     "tv":  "03:55:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:13",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  9.64,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:41",
+                     "ultimo":  "16:18",
+                     "tv":  "05:07:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -304,18 +319,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  8.03,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:41",
-                     "ultimo":  "12:12",
-                     "tv":  "03:11:00",
-                     "emVisita":  1,
+                     "km":  17.35,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:00",
+                     "ultimo":  "16:14",
+                     "tv":  "06:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "09:29",
                      "ultimo":  "13:57",
                      "tv":  "03:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  8.36,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:00",
-                     "ultimo":  "13:21",
-                     "tv":  "05:08:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -726,6 +726,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "DIVINO JOSAFA ALVES BORGES - ME.",
+                         "mun":  "FRANCA",
+                         "in":  "15:27:40",
+                         "out":  "16:13:43",
+                         "km":  2.47,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -843,6 +852,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "14:24:16",
+                         "out":  "16:17:27",
+                         "km":  14.34,
+                         "dur":  "01:52:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MORTARI LTDA.",
                          "mun":  "MATAO",
@@ -906,6 +924,15 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SIMONI",
+                         "mun":  "MATAO",
+                         "in":  "15:39:08",
+                         "out":  "16:11:21",
+                         "km":  1.84,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -922,6 +949,15 @@ window.PAINEL = {
                          "out":  "13:21:00",
                          "km":  1.69,
                          "dur":  "00:49:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:03:06",
+                         "out":  "16:14:14",
+                         "km":  8.99,
+                         "dur":  "01:11:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1129,6 +1165,15 @@ window.PAINEL = {
                          "out":  "12:12:13",
                          "km":  3.47,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:22:02",
+                         "out":  "16:18:22",
+                         "km":  1.61,
+                         "dur":  "01:56:00"
                      }
                  ],
     "eventos":  [
@@ -1338,7 +1383,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:07:05"
+                        "tempo":  "02:21:50"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1346,7 +1391,7 @@ window.PAINEL = {
                         "obs":  "digitação pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:57"
+                        "tempo":  "00:47:42"
                     }
                 ],
     "semped":  [
@@ -1373,6 +1418,12 @@ window.PAINEL = {
                        "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "comprador ausente."
                    },
                    {
                        "nome":  "Karina",
@@ -1417,10 +1468,22 @@ window.PAINEL = {
                        "obs":  "prospecção"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "DIVINO JOSAFA ALVES BORGES - ME.",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente ausente"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
                    },
                    {
                        "nome":  "Cominato",
@@ -1479,58 +1542,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Rachel",
-                         "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:45:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "DIVINO JOSAFA ALVES BORGES - ME.",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:41:36"
-                     },
-                     {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:09:18"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SIMONI",
-                         "mun":  "MATAO",
-                         "tempo":  "00:30:08"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:06:10"
+                         "tempo":  "01:24:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "28:49:01"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:47:14"
+                         "tempo":  "29:03:51"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:09:20"
+                         "tempo":  "01:24:10"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO JOSE CARLOS",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:33:46"
+                         "tempo":  "00:48:36"
                      }
                  ],
     "hist":  [
@@ -1641,8 +1674,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/07",
-                     85,
-                     21
+                     90,
+                     24
                  ]
              ],
     "historico":  {
@@ -22670,7 +22703,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-17":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -22750,7 +22783,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  23.76,
+                                                       "km":  28.8,
                                                        "tv":  312
                                                    },
                                                    {
@@ -22766,28 +22799,28 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  7,
-                                                       "pe":  2,
-                                                       "km":  127.59,
-                                                       "tv":  264
+                                                       "vi":  8,
+                                                       "pe":  3,
+                                                       "km":  129.43,
+                                                       "tv":  296
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  18.57,
-                                                       "tv":  231
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  32.91,
+                                                       "tv":  343
                                                    },
                                                    {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  20.01,
-                                                       "tv":  235
+                                                       "km":  22.48,
+                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -22844,6 +22877,15 @@ window.PAINEL = {
                                                        "tv":  266
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  9.64,
+                                                       "tv":  307
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -22853,13 +22895,13 @@ window.PAINEL = {
                                                        "tv":  193
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
                                                        "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  8.03,
-                                                       "tv":  191
+                                                       "pe":  1,
+                                                       "km":  17.35,
+                                                       "tv":  379
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -22869,15 +22911,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  18.2,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  8.36,
-                                                       "tv":  308
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -23171,6 +23204,13 @@ window.PAINEL = {
                                                          "tv":  49
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "DIVINO JOSAFA ALVES BORGES - ME.",
+                                                         "p":  0,
+                                                         "km":  2.47,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "VICHESSE SGARIBOLDI SUPERMERCADO LTDA",
                                                          "p":  0,
@@ -23262,6 +23302,13 @@ window.PAINEL = {
                                                          "tv":  37
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  14.34,
+                                                         "tv":  112
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO MORTARI LTDA.",
                                                          "p":  1,
@@ -23311,6 +23358,13 @@ window.PAINEL = {
                                                          "tv":  42
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SIMONI",
+                                                         "p":  1,
+                                                         "km":  1.84,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0,
@@ -23323,6 +23377,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.69,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
+                                                         "p":  0,
+                                                         "km":  8.99,
+                                                         "tv":  71
                                                      },
                                                      {
                                                          "n":  "Castro",
@@ -23484,6 +23545,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.47,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0,
+                                                         "km":  1.61,
+                                                         "tv":  116
                                                      }
                                                  ]
                                      }
