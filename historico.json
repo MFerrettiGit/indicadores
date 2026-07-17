@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21074,14 +21074,14 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  43.17,
-                                     "tv":  79
+                                     "km":  78.96,
+                                     "tv":  226
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21116,6 +21116,15 @@
                                      "tv":  123
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  123.76,
+                                     "tv":  199
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -21123,15 +21132,6 @@
                                      "pe":  3,
                                      "km":  18.57,
                                      "tv":  231
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  121.22,
-                                     "tv":  179
                                  },
                                  {
                                      "nome":  "Luis",
@@ -21215,6 +21215,15 @@
                                      "tv":  198
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  17.2,
+                                     "tv":  192
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -21222,15 +21231,6 @@
                                      "pe":  0,
                                      "km":  6.67,
                                      "tv":  259
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.71,
-                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -21524,6 +21524,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  2.54,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -21627,6 +21634,13 @@
                                        "p":  1,
                                        "km":  6.71,
                                        "tv":  98
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO GALO BRANCO LTDA",
+                                       "p":  1,
+                                       "km":  10.49,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Nelson",
