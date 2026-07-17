@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21044,6 +21044,15 @@
                                      "tv":  245
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  43.27,
+                                     "tv":  304
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -21053,22 +21062,13 @@
                                      "tv":  275
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  22.8,
-                                     "tv":  180
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  13.38,
-                                     "tv":  148
+                                     "km":  16.62,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -21155,10 +21155,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  9.77,
+                                     "tv":  31
                                  },
                                  {
                                      "nome":  "Costa",
@@ -21170,6 +21170,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  62.59,
+                                     "tv":  173
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -21177,15 +21186,6 @@
                                      "pe":  4,
                                      "km":  16.03,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  30.86,
-                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -21328,6 +21328,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  20.47,
+                                       "tv":  124
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -21370,11 +21377,25 @@
                                        "tv":  125
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                                       "p":  1,
+                                       "km":  3.24,
+                                       "tv":  60
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
                                        "km":  43.17,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  35.79,
+                                       "tv":  147
                                    },
                                    {
                                        "n":  "Fernando",
@@ -21403,6 +21424,13 @@
                                        "p":  0,
                                        "km":  7.22,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  9.77,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Milene",
@@ -21522,6 +21550,13 @@
                                        "p":  1,
                                        "km":  1.6,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  31.73,
+                                       "tv":  89
                                    },
                                    {
                                        "n":  "Cominato",
