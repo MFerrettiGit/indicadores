@@ -21023,7 +21023,7 @@
                                ]
                    },
     "2026-07-17":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -21080,8 +21080,8 @@
                                      "tv":  226
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21089,8 +21089,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -21119,10 +21119,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  2,
-                                     "km":  123.76,
-                                     "tv":  199
+                                     "km":  124.53,
+                                     "tv":  222
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -21188,6 +21188,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  60.26,
+                                     "tv":  193
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -21195,15 +21204,6 @@
                                      "pe":  2,
                                      "km":  8.03,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  56.62,
-                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Alan",
@@ -21538,6 +21538,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO DE PERFUMARIA DE MATAO LTDA",
+                                       "p":  0,
+                                       "km":  0.77,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -21641,6 +21648,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO DO FRADE LTDA.",
+                                       "p":  0,
+                                       "km":  3.64,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Mariangela",
