@@ -21925,7 +21925,7 @@
                                ]
                    },
     "2026-07-18":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Alex A.",
@@ -22018,8 +22018,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -22027,8 +22027,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -22054,15 +22054,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -22072,9 +22063,9 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -22137,6 +22128,15 @@
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
