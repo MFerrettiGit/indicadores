@@ -22149,7 +22149,7 @@
                                ]
                    },
     "2026-07-19":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -22242,15 +22242,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -22260,8 +22251,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -22271,6 +22262,15 @@
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -22290,15 +22290,6 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -22361,6 +22352,15 @@
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,

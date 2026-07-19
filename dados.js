@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/07/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -154,21 +154,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -184,8 +169,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
@@ -201,6 +186,21 @@ window.PAINEL = {
                  {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
@@ -232,21 +232,6 @@ window.PAINEL = {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -374,7 +374,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "42:35:34"
+                        "tempo":  "42:50:38"
                     }
                 ],
     "semped":  [
@@ -385,7 +385,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "69:18:20"
+                         "tempo":  "69:33:22"
                      }
                  ],
     "hist":  [
@@ -22641,7 +22641,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-19":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -22734,15 +22734,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -22752,8 +22743,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22763,6 +22754,15 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -22782,15 +22782,6 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
@@ -22853,6 +22844,15 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
