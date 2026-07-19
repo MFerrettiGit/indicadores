@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/07/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Alex A.",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -374,7 +374,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "47:05:33"
+                        "tempo":  "47:20:32"
                     }
                 ],
     "semped":  [
@@ -385,7 +385,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "73:48:20"
+                         "tempo":  "74:03:19"
                      }
                  ],
     "hist":  [
@@ -22641,7 +22641,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-19":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Alex A.",
@@ -22788,6 +22788,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -22844,15 +22853,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,

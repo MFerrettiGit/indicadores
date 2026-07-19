@@ -22149,7 +22149,7 @@
                                ]
                    },
     "2026-07-19":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Alex A.",
@@ -22296,6 +22296,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -22352,15 +22361,6 @@
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
