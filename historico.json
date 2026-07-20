@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22403,6 +22403,15 @@
                                      "tv":  308
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  29.86,
+                                     "tv":  440
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -22410,15 +22419,6 @@
                                      "pe":  0,
                                      "km":  40.98,
                                      "tv":  382
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  26.47,
-                                     "tv":  367
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -22460,10 +22460,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  108.7,
-                                     "tv":  226
+                                     "km":  117.29,
+                                     "tv":  268
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -22685,6 +22685,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
+                                       "p":  0,
+                                       "km":  8.59,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.01",
                                        "p":  1,
@@ -22704,6 +22711,13 @@
                                        "p":  1,
                                        "km":  18.49,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  3.39,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Evandro",
