@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:42",
                      "ultimo":  "08:28",
                      "tv":  "01:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "08:29",
                      "tv":  "01:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  4.87,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:44",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  4.87,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -411,20 +411,20 @@ window.PAINEL = {
                         "tempo":  "00:19:59"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "jacarei",
+                        "inicio":  "08:00",
+                        "final":  "08:43",
+                        "tempo":  "00:42:38"
+                    },
+                    {
                         "nome":  "Milene",
                         "tipo":  "Consulta",
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:27:59"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Em Viagem",
-                        "obs":  "jacarei",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:02"
+                        "tempo":  "02:42:53"
                     },
                     {
                         "nome":  "Karina",
@@ -432,7 +432,7 @@ window.PAINEL = {
                         "obs":  "arrumando o retrovisor do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:03"
+                        "tempo":  "00:37:57"
                     },
                     {
                         "nome":  "Fernando",
@@ -440,7 +440,7 @@ window.PAINEL = {
                         "obs":  "acompanhando meu filho na consulta com a psicóloga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:01"
+                        "tempo":  "00:36:55"
                     }
                 ],
     "semped":  [
@@ -448,94 +448,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERCERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:11:42"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:45"
+                         "tempo":  "00:22:41"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:01:38"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:47:53"
+                         "tempo":  "02:02:49"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:29:10"
+                         "tempo":  "01:44:06"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:54:07"
+                         "tempo":  "01:09:03"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:38:16"
+                         "tempo":  "00:53:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:29:25"
+                         "tempo":  "00:44:21"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "MONICA AP. DA SILVA SONTINI-ME.",
                          "mun":  "RESTINGA",
-                         "tempo":  "00:14:24"
+                         "tempo":  "00:29:20"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:27:27"
+                         "tempo":  "00:42:23"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:04:35"
+                         "tempo":  "00:19:31"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:34:24"
+                         "tempo":  "00:49:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:38:16"
+                         "tempo":  "00:53:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "93:19:05"
+                         "tempo":  "93:34:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:21:00"
+                         "tempo":  "00:35:56"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO CORAL LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:26:12"
+                         "tempo":  "00:41:08"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:38:08"
+                         "tempo":  "00:53:04"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIM LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:10:10"
                      }
                  ],
     "hist":  [
@@ -23015,7 +23033,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -23072,8 +23090,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -23081,8 +23099,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -23207,6 +23225,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  4.87,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -23222,15 +23249,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.87,
                                                        "tv":  0
                                                    }
                                                ],
