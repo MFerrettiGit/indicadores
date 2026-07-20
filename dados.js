@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -53,14 +53,14 @@ window.PAINEL = {
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  29.86,
+                     "visitas":  5,
+                     "km":  45.98,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:51",
-                     "ultimo":  "15:51",
-                     "tv":  "07:20:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:52",
+                     "tv":  "07:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  14.08,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:34",
+                     "ultimo":  "16:43",
+                     "tv":  "05:42:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "15:56",
                      "tv":  "04:50:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  6.79,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:34",
-                     "ultimo":  "14:17",
-                     "tv":  "04:53:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -535,6 +535,15 @@ window.PAINEL = {
                          "out":  "15:51:12",
                          "km":  3.39,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "16:20:51",
+                         "out":  "16:52:35",
+                         "km":  16.12,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -868,6 +877,15 @@ window.PAINEL = {
                          "out":  "14:17:39",
                          "km":  0.25,
                          "dur":  "01:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:54:24",
+                         "out":  "16:43:35",
+                         "km":  7.29,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1358,7 +1376,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:04"
+                        "tempo":  "02:44:09"
                     },
                     {
                         "nome":  "Castro",
@@ -1366,7 +1384,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:04"
+                        "tempo":  "01:23:09"
                     },
                     {
                         "nome":  "Rachel",
@@ -1374,7 +1392,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:44"
+                        "tempo":  "01:02:49"
                     },
                     {
                         "nome":  "Cominato",
@@ -1382,7 +1400,7 @@ window.PAINEL = {
                         "obs":  "Planejamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:44"
+                        "tempo":  "00:23:49"
                     }
                 ],
     "semped":  [
@@ -1469,6 +1487,12 @@ window.PAINEL = {
                        "razao":  "MERCEARIA SALMO 23 LTDA",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "apresentação limpa máquina"
                    }
                ],
     "emvisita":  [
@@ -1476,67 +1500,61 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:21:42"
+                         "tempo":  "01:36:43"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:50"
+                         "tempo":  "01:17:51"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:16:07"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "00:18:23"
+                         "tempo":  "00:31:08"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO TONELLI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:12:44"
+                         "tempo":  "00:27:45"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                         "razao":  "CESAR ANTONIO LUCHESI-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:44:50"
+                         "tempo":  "00:01:54"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:14:28"
+                         "tempo":  "00:29:29"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "AC BARBOSA CARAGUATATUBA - ME",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:31:55"
+                         "tempo":  "00:46:56"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "101:18:59"
+                         "tempo":  "101:34:00"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:01:17"
+                         "tempo":  "00:16:18"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "01:23:40"
+                         "tempo":  "01:38:41"
                      }
                  ],
     "hist":  [
@@ -1637,8 +1655,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     85,
-                     14
+                     87,
+                     15
                  ]
              ],
     "historico":  {
@@ -24016,7 +24034,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -24049,10 +24067,10 @@ window.PAINEL = {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  29.86,
-                                                       "tv":  440
+                                                       "km":  45.98,
+                                                       "tv":  471
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -24118,6 +24136,15 @@ window.PAINEL = {
                                                        "tv":  315
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  14.08,
+                                                       "tv":  342
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -24134,15 +24161,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  40,
                                                        "tv":  290
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  6.79,
-                                                       "tv":  293
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -24368,6 +24386,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.39,
                                                          "tv":  73
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                                         "p":  1,
+                                                         "km":  16.12,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Evandro",
@@ -24627,6 +24652,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.25,
                                                          "tv":  102
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                                                         "p":  0,
+                                                         "km":  7.29,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Alan",

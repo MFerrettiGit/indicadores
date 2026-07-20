@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -22406,10 +22406,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  29.86,
-                                     "tv":  440
+                                     "km":  45.98,
+                                     "tv":  471
                                  },
                                  {
                                      "nome":  "Debora",
@@ -22475,6 +22475,15 @@
                                      "tv":  315
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  14.08,
+                                     "tv":  342
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -22491,15 +22500,6 @@
                                      "pe":  3,
                                      "km":  40,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  6.79,
-                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -22725,6 +22725,13 @@
                                        "p":  1,
                                        "km":  3.39,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  16.12,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Evandro",
@@ -22984,6 +22991,13 @@
                                        "p":  1,
                                        "km":  0.25,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                                       "p":  0,
+                                       "km":  7.29,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Alan",
