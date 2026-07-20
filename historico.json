@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22397,10 +22397,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  30.61,
-                                     "tv":  391
+                                     "km":  32.5,
+                                     "tv":  435
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -22466,6 +22466,15 @@
                                      "tv":  268
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  15.6,
+                                     "tv":  371
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -22473,15 +22482,6 @@
                                      "pe":  5,
                                      "km":  133.31,
                                      "tv":  315
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  14.08,
-                                     "tv":  342
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -22538,6 +22538,15 @@
                                      "tv":  207
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  36.88,
+                                     "tv":  387
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -22545,15 +22554,6 @@
                                      "pe":  4,
                                      "km":  33.4,
                                      "tv":  248
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  33.57,
-                                     "tv":  263
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23028,6 +23028,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "CESAR ANTONIO LUCHESI-ME.",
+                                       "p":  0,
+                                       "km":  1.52,
+                                       "tv":  29
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "LESSA",
                                        "p":  1,
@@ -23187,6 +23194,13 @@
                                        "p":  1,
                                        "km":  2.33,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO SHIBATA LTDA",
+                                       "p":  1,
+                                       "km":  3.31,
+                                       "tv":  124
                                    },
                                    {
                                        "n":  "Nelson",

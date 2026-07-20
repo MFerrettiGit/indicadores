@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -38,14 +38,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  30.61,
+                     "visitas":  6,
+                     "km":  32.5,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:42",
-                     "ultimo":  "16:09",
-                     "tv":  "06:31:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:10",
+                     "tv":  "07:15:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  15.6,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:34",
+                     "ultimo":  "17:21",
+                     "tv":  "06:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -169,21 +184,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  14.08,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:34",
-                     "ultimo":  "16:43",
-                     "tv":  "05:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "09:23",
                      "ultimo":  "17:01",
                      "tv":  "04:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  36.88,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:44",
+                     "ultimo":  "17:20",
+                     "tv":  "06:27:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -285,21 +300,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "13:08",
                      "tv":  "04:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  33.57,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:44",
-                     "ultimo":  "14:53",
-                     "tv":  "04:23:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -924,6 +924,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "CESAR ANTONIO LUCHESI-ME.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:52:21",
+                         "out":  "17:21:47",
+                         "km":  1.52,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
@@ -1129,6 +1138,15 @@ window.PAINEL = {
                          "out":  "14:53:49",
                          "km":  2.33,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO SHIBATA LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "15:15:34",
+                         "out":  "17:20:02",
+                         "km":  3.31,
+                         "dur":  "02:04:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1421,7 +1439,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:59:23"
+                        "tempo":  "03:14:20"
                     },
                     {
                         "nome":  "Castro",
@@ -1429,7 +1447,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:38:23"
+                        "tempo":  "01:53:20"
                     },
                     {
                         "nome":  "Rachel",
@@ -1437,7 +1455,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:18:03"
+                        "tempo":  "01:33:00"
                     },
                     {
                         "nome":  "Cominato",
@@ -1445,7 +1463,7 @@ window.PAINEL = {
                         "obs":  "Planejamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:03"
+                        "tempo":  "00:54:00"
                     }
                 ],
     "semped":  [
@@ -1538,44 +1556,38 @@ window.PAINEL = {
                        "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
                        "mun":  "SAO CARLOS",
                        "obs":  "apresentação limpa máquina"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "CESAR ANTONIO LUCHESI-ME.",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:46:12"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "CESAR ANTONIO LUCHESI-ME.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:16:58"
+                         "nome":  "Fernando",
+                         "razao":  "HALINE RODRIGUES SEGHETTO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:01:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:44:33"
+                         "tempo":  "00:59:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "101:49:04"
+                         "tempo":  "102:03:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:31:22"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO SHIBATA LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "01:53:45"
+                         "tempo":  "00:46:14"
                      }
                  ],
     "hist":  [
@@ -1676,8 +1688,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     91,
-                     15
+                     94,
+                     16
                  ]
              ],
     "historico":  {
@@ -24055,7 +24067,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24079,10 +24091,10 @@ window.PAINEL = {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  30.61,
-                                                       "tv":  391
+                                                       "km":  32.5,
+                                                       "tv":  435
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -24148,6 +24160,15 @@ window.PAINEL = {
                                                        "tv":  268
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  15.6,
+                                                       "tv":  371
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -24155,15 +24176,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  133.31,
                                                        "tv":  315
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  14.08,
-                                                       "tv":  342
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -24220,6 +24232,15 @@ window.PAINEL = {
                                                        "tv":  207
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  36.88,
+                                                       "tv":  387
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -24227,15 +24248,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  33.4,
                                                        "tv":  248
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  33.57,
-                                                       "tv":  263
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -24710,6 +24722,13 @@ window.PAINEL = {
                                                          "tv":  49
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "CESAR ANTONIO LUCHESI-ME.",
+                                                         "p":  0,
+                                                         "km":  1.52,
+                                                         "tv":  29
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "LESSA",
                                                          "p":  1,
@@ -24869,6 +24888,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.33,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO SHIBATA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.31,
+                                                         "tv":  124
                                                      },
                                                      {
                                                          "n":  "Nelson",
