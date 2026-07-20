@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "12:25",
                      "tv":  "04:56:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "11:40",
                      "tv":  "02:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -918,6 +918,14 @@ window.PAINEL = {
                         "tempo":  "00:32:58"
                     },
                     {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:30",
+                        "final":  "13:30",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Edimilson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -963,7 +971,7 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:13:13"
+                        "tempo":  "07:28:09"
                     },
                     {
                         "nome":  "Maira",
@@ -971,15 +979,7 @@ window.PAINEL = {
                         "obs":  "digitando Crema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:37:45"
-                    },
-                    {
-                        "nome":  "Debora",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:36"
+                        "tempo":  "01:52:41"
                     },
                     {
                         "nome":  "Vinicius",
@@ -987,7 +987,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:13"
+                        "tempo":  "00:46:09"
                     },
                     {
                         "nome":  "Cominato",
@@ -995,7 +995,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:50"
+                        "tempo":  "00:42:46"
                     },
                     {
                         "nome":  "Nelson",
@@ -1003,7 +1003,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:37"
+                        "tempo":  "00:41:33"
                     },
                     {
                         "nome":  "Fernando",
@@ -1011,7 +1011,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:42"
+                        "tempo":  "00:33:38"
                     },
                     {
                         "nome":  "Alan",
@@ -1019,7 +1019,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:58"
+                        "tempo":  "00:32:54"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1027,7 +1027,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:52"
+                        "tempo":  "00:30:48"
                     },
                     {
                         "nome":  "Evandro",
@@ -1035,7 +1035,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:41"
+                        "tempo":  "00:23:37"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1043,7 +1043,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:02"
+                        "tempo":  "00:20:58"
                     },
                     {
                         "nome":  "Castro",
@@ -1051,7 +1051,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:51"
+                        "tempo":  "00:16:47"
                     }
                 ],
     "semped":  [
@@ -1112,52 +1112,64 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:14:57"
+                     },
+                     {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:10:40"
+                         "tempo":  "00:25:40"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:02:29"
+                         "tempo":  "00:17:29"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:07:45"
+                         "tempo":  "00:22:45"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:43:48"
+                         "tempo":  "00:58:48"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:09:14"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:31:18"
+                         "tempo":  "00:46:18"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:48:44"
+                         "tempo":  "01:03:44"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:27:47"
+                         "tempo":  "00:42:47"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "98:03:58"
+                         "tempo":  "98:18:58"
                      }
                  ],
     "hist":  [
@@ -23637,7 +23649,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
