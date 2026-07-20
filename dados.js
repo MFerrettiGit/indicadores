@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -83,14 +83,14 @@ window.PAINEL = {
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  6.91,
+                     "visitas":  2,
+                     "km":  19.64,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:10",
-                     "ultimo":  "12:18",
-                     "tv":  "05:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:03",
+                     "tv":  "07:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  40,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:24",
+                     "ultimo":  "15:56",
+                     "tv":  "04:50:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "13:52",
                      "tv":  "03:35:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  33.46,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:24",
-                     "ultimo":  "15:03",
-                     "tv":  "04:15:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "09:48",
                      "ultimo":  "13:42",
                      "tv":  "03:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "13:53:53",
                          "km":  1.16,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "INDAIATUBA",
+                         "in":  "14:46:21",
+                         "out":  "16:09:59",
+                         "km":  9.11,
+                         "dur":  "01:23:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -645,6 +654,15 @@ window.PAINEL = {
                          "dur":  "05:08:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SANTO COM.",
+                         "mun":  "SOROCABA",
+                         "in":  "13:53:49",
+                         "out":  "16:03:38",
+                         "km":  12.73,
+                         "dur":  "02:09:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
@@ -724,6 +742,15 @@ window.PAINEL = {
                          "out":  "15:03:27",
                          "km":  4.06,
                          "dur":  "01:32:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:21:19",
+                         "out":  "15:56:42",
+                         "km":  6.54,
+                         "dur":  "00:35:00"
                      },
                      {
                          "nome":  "Maira",
@@ -904,6 +931,15 @@ window.PAINEL = {
                          "out":  "14:44:21",
                          "km":  14,
                          "dur":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MINI MERCADO JJR LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:29:53",
+                         "out":  "16:09:28",
+                         "km":  19.7,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1278,7 +1314,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:08"
+                        "tempo":  "01:59:01"
                     },
                     {
                         "nome":  "Castro",
@@ -1286,7 +1322,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:08"
+                        "tempo":  "00:38:01"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1294,7 +1330,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:32"
+                        "tempo":  "00:34:25"
                     },
                     {
                         "nome":  "Rachel",
@@ -1302,7 +1338,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:48"
+                        "tempo":  "00:17:41"
                     }
                 ],
     "semped":  [
@@ -1349,6 +1385,12 @@ window.PAINEL = {
                        "obs":  "analise da loja"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                        "mun":  "RIO DAS PEDRAS",
@@ -1373,6 +1415,12 @@ window.PAINEL = {
                        "obs":  "Ausente"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "MINI MERCADO JJR LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de ser atendido"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MERCEARIA SALMO 23 LTDA",
                        "mun":  "SAO CARLOS",
@@ -1384,67 +1432,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:36:45"
+                         "tempo":  "00:51:33"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:53"
+                         "tempo":  "00:32:41"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:07:56"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SANTO COM.",
-                         "mun":  "SOROCABA",
-                         "tempo":  "02:00:28"
+                         "tempo":  "01:22:44"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:34:46"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:32:58"
+                         "tempo":  "00:49:34"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CANESIN LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:17:10"
+                         "tempo":  "00:31:58"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:57:52"
+                         "tempo":  "01:12:40"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:14:41"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "AC BARBOSA CARAGUATATUBA - ME",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:01:46"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "100:34:02"
+                         "tempo":  "100:48:50"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MINI MERCADO JJR LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:24:24"
+                         "tempo":  "00:39:12"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:38:43"
+                         "tempo":  "00:53:31"
                      }
                  ],
     "hist":  [
@@ -1545,8 +1593,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     76,
-                     12
+                     78,
+                     13
                  ]
              ],
     "historico":  {
@@ -23924,7 +23972,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -23975,10 +24023,10 @@ window.PAINEL = {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  6.91,
-                                                       "tv":  308
+                                                       "km":  19.64,
+                                                       "tv":  437
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -24026,6 +24074,15 @@ window.PAINEL = {
                                                        "tv":  252
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  40,
+                                                       "tv":  290
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -24042,15 +24099,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  130.74,
                                                        "tv":  215
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  33.46,
-                                                       "tv":  255
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -24199,6 +24247,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.16,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  9.11,
+                                                         "tv":  83
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -24362,6 +24417,13 @@ window.PAINEL = {
                                                          "tv":  308
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SANTO COM.",
+                                                         "p":  1,
+                                                         "km":  12.73,
+                                                         "tv":  129
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "SOLIDEA DELA COLETA",
                                                          "p":  1,
@@ -24423,6 +24485,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.06,
                                                          "tv":  92
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  6.54,
+                                                         "tv":  35
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -24563,6 +24632,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  14,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MINI MERCADO JJR LTDA",
+                                                         "p":  0,
+                                                         "km":  19.7,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Eugenio",

@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22424,10 +22424,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  6.91,
-                                     "tv":  308
+                                     "km":  19.64,
+                                     "tv":  437
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -22475,6 +22475,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  40,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -22491,15 +22500,6 @@
                                      "pe":  3,
                                      "km":  130.74,
                                      "tv":  215
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  33.46,
-                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -22648,6 +22648,13 @@
                                        "p":  1,
                                        "km":  1.16,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  9.11,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -22811,6 +22818,13 @@
                                        "tv":  308
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM.",
+                                       "p":  1,
+                                       "km":  12.73,
+                                       "tv":  129
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SOLIDEA DELA COLETA",
                                        "p":  1,
@@ -22872,6 +22886,13 @@
                                        "p":  1,
                                        "km":  4.06,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  6.54,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Maira",
@@ -23012,6 +23033,13 @@
                                        "p":  0,
                                        "km":  14,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MINI MERCADO JJR LTDA",
+                                       "p":  0,
+                                       "km":  19.7,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Eugenio",
