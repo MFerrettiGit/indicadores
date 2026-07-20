@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22529,6 +22529,15 @@
                                      "tv":  139
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  50.78,
+                                     "tv":  148
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -22536,15 +22545,6 @@
                                      "pe":  3,
                                      "km":  32.65,
                                      "tv":  216
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  40.45,
-                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -22872,6 +22872,13 @@
                                        "p":  0,
                                        "km":  14.44,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  10.33,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Eugenio",

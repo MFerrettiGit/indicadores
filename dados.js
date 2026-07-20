@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "12:17",
                      "tv":  "03:20:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Edimilson",
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "12:18",
                      "tv":  "05:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alex A.",
@@ -180,8 +180,8 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "11:05",
                      "tv":  "02:01:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "11:52",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  50.78,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "12:45",
+                     "tv":  "02:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "12:29",
                      "tv":  "03:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  40.45,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:17",
-                     "tv":  "01:44:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -726,6 +726,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "12:00:44",
+                         "out":  "12:45:19",
+                         "km":  10.33,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
@@ -860,7 +869,7 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:28:04"
+                        "tempo":  "06:43:00"
                     },
                     {
                         "nome":  "Alan",
@@ -868,7 +877,7 @@ window.PAINEL = {
                         "obs":  "carro em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:34"
+                        "tempo":  "01:08:30"
                     },
                     {
                         "nome":  "Maira",
@@ -876,7 +885,7 @@ window.PAINEL = {
                         "obs":  "digitando Crema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:36"
+                        "tempo":  "01:07:32"
                     },
                     {
                         "nome":  "Edimilson",
@@ -884,7 +893,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:42"
+                        "tempo":  "00:52:38"
                     },
                     {
                         "nome":  "Luis",
@@ -892,7 +901,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:37"
+                        "tempo":  "00:51:33"
                     },
                     {
                         "nome":  "Eliana",
@@ -900,7 +909,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:03"
+                        "tempo":  "00:44:59"
                     },
                     {
                         "nome":  "Debora",
@@ -908,7 +917,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:27"
+                        "tempo":  "00:24:23"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:24"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:00"
                     }
                 ],
     "semped":  [
@@ -949,6 +974,12 @@ window.PAINEL = {
                        "obs":  "Merchandising abastecimento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising abastecimento"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MERCEARIA SALMO 23 LTDA",
                        "mun":  "SAO CARLOS",
@@ -960,55 +991,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
                          "mun":  "SUMARE",
-                         "tempo":  "00:05:30"
+                         "tempo":  "00:20:30"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:46"
+                         "tempo":  "00:19:46"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "mun":  "HOLAMBRA",
+                         "tempo":  "00:13:48"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:01:18"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:03:44"
+                         "tempo":  "00:18:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:03:28"
+                         "tempo":  "00:18:28"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "97:18:58"
+                         "tempo":  "97:33:58"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:05:49"
+                         "tempo":  "02:20:49"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:53:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:38:29"
+                         "tempo":  "02:08:00"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "FTJ SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:33:56"
+                         "tempo":  "00:48:56"
                      }
                  ],
     "hist":  [
@@ -1109,8 +1146,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     48,
-                     7
+                     49,
+                     8
                  ]
              ],
     "historico":  {
@@ -23488,7 +23525,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -23644,6 +23681,15 @@ window.PAINEL = {
                                                        "tv":  139
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  50.78,
+                                                       "tv":  148
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -23651,15 +23697,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  32.65,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  40.45,
-                                                       "tv":  104
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -23987,6 +24024,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  14.44,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  10.33,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Eugenio",
