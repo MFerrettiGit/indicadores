@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -22466,6 +22466,15 @@
                                      "tv":  268
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  133.31,
+                                     "tv":  315
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -22473,15 +22482,6 @@
                                      "pe":  3,
                                      "km":  54.8,
                                      "tv":  252
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  133.31,
-                                     "tv":  294
                                  },
                                  {
                                      "nome":  "Luis",
@@ -22858,6 +22858,13 @@
                                        "p":  1,
                                        "km":  2.57,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Fernando",

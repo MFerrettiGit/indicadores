@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  133.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:11",
+                     "ultimo":  "16:37",
+                     "tv":  "05:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -167,21 +182,6 @@ window.PAINEL = {
                      "tv":  "04:12:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  133.31,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:11",
-                     "ultimo":  "16:15",
-                     "tv":  "04:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:23",
                      "ultimo":  "16:10",
                      "tv":  "04:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "16:09",
                      "tv":  "03:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "13:08",
                      "tv":  "04:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "15:28",
                      "tv":  "05:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -706,6 +706,15 @@ window.PAINEL = {
                          "out":  "16:15:51",
                          "km":  2.57,
                          "dur":  "01:19:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                         "mun":  "LEME",
+                         "in":  "16:16:22",
+                         "out":  "16:37:56",
+                         "km":  0,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1349,7 +1358,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:04"
+                        "tempo":  "02:29:04"
                     },
                     {
                         "nome":  "Castro",
@@ -1357,7 +1366,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:04"
+                        "tempo":  "01:08:04"
                     },
                     {
                         "nome":  "Rachel",
@@ -1365,7 +1374,15 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:44"
+                        "tempo":  "00:47:44"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Planejamento",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:44"
                     }
                 ],
     "semped":  [
@@ -1459,55 +1476,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:06:38"
+                         "tempo":  "01:21:42"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:47:46"
+                         "tempo":  "01:02:50"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:01:03"
+                         "tempo":  "00:16:07"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:03:19"
+                         "tempo":  "00:18:23"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
-                         "mun":  "LEME",
-                         "tempo":  "00:07:48"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO TONELLI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:12:44"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "LIMP FACIL DISTRIBUIDORA LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:29:46"
+                         "tempo":  "00:44:50"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:14:28"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "AC BARBOSA CARAGUATATUBA - ME",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:16:51"
+                         "tempo":  "00:31:55"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "101:03:55"
+                         "tempo":  "101:18:59"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "CAPAO BONITO",
+                         "tempo":  "00:01:17"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "01:08:36"
+                         "tempo":  "01:23:40"
                      }
                  ],
     "hist":  [
@@ -1608,7 +1637,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     83,
+                     85,
                      14
                  ]
              ],
@@ -23987,7 +24016,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -24080,6 +24109,15 @@ window.PAINEL = {
                                                        "tv":  268
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  133.31,
+                                                       "tv":  315
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -24087,15 +24125,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  54.8,
                                                        "tv":  252
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  133.31,
-                                                       "tv":  294
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -24472,6 +24501,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.57,
                                                          "tv":  79
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Fernando",
