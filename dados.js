@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -49,6 +49,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  26.47,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:51",
+                     "ultimo":  "14:24",
+                     "tv":  "06:07:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -60,21 +75,6 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "12:25",
                      "tv":  "04:56:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  7.98,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:51",
-                     "ultimo":  "12:07",
-                     "tv":  "05:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -300,8 +300,8 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "13:18",
                      "tv":  "03:58:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -1105,16 +1105,16 @@ window.PAINEL = {
                         "tipo":  "Em Viagem",
                         "obs":  "jacarei",
                         "inicio":  "08:00",
-                        "final":  "08:43",
-                        "tempo":  "00:42:38"
+                        "final":  "14:26",
+                        "tempo":  "06:25:06"
                     },
                     {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:08"
+                        "inicio":  "13:19",
+                        "final":  "14:26",
+                        "tempo":  "01:07:01"
                     },
                     {
                         "nome":  "Nelson",
@@ -1122,7 +1122,7 @@ window.PAINEL = {
                         "obs":  "Itapetininga a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:30"
+                        "tempo":  "00:48:22"
                     },
                     {
                         "nome":  "Costa",
@@ -1130,7 +1130,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:17"
+                        "tempo":  "00:44:09"
                     },
                     {
                         "nome":  "Maira",
@@ -1138,7 +1138,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:45"
+                        "tempo":  "00:30:37"
                     },
                     {
                         "nome":  "Alan",
@@ -1146,7 +1146,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:57"
+                        "tempo":  "00:28:49"
                     },
                     {
                         "nome":  "Karina",
@@ -1154,7 +1154,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:15"
+                        "tempo":  "00:28:07"
                     }
                 ],
     "semped":  [
@@ -1218,67 +1218,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "01:00:03"
+                         "tempo":  "01:14:58"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:43:56"
+                         "tempo":  "00:58:51"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:52"
+                         "tempo":  "00:21:47"
                      },
                      {
                          "nome":  "Eliana",
-                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:02:35"
+                         "tempo":  "00:01:38"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:30:30"
+                         "tempo":  "00:45:25"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:11:13"
+                         "tempo":  "00:26:08"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:07:57"
+                         "tempo":  "00:22:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:54:20"
+                         "tempo":  "01:09:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:03:23"
+                         "tempo":  "00:18:18"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "99:04:04"
+                         "tempo":  "99:18:59"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ANTONIO CESAR DETONI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:01:12"
+                         "tempo":  "00:16:07"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:11:23"
                      }
                  ],
     "hist":  [
@@ -1379,7 +1385,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     62,
+                     63,
                      9
                  ]
              ],
@@ -23758,7 +23764,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -23788,6 +23794,15 @@ window.PAINEL = {
                                                        "tv":  308
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  26.47,
+                                                       "tv":  367
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -23795,15 +23810,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  39.02,
                                                        "tv":  296
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  7.98,
-                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
