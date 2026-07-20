@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  15.6,
-                     "semPed":  3,
-                     "perc":  50,
+                     "visitas":  7,
+                     "km":  18.21,
+                     "semPed":  4,
+                     "perc":  57.14,
                      "primeiro":  "08:34",
-                     "ultimo":  "17:21",
-                     "tv":  "06:11:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:03",
+                     "tv":  "06:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  87.79,
+                     "km":  109.15,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:23",
@@ -339,14 +339,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  4.28,
+                     "km":  9.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
                      "ultimo":  "11:23",
                      "tv":  "03:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -942,6 +942,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:32:08",
+                         "out":  "18:03:24",
+                         "km":  2.61,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
@@ -1481,7 +1490,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:23:14"
+                        "tempo":  "02:38:30"
                     }
                 ],
     "semped":  [
@@ -1580,26 +1589,26 @@ window.PAINEL = {
                        "razao":  "CESAR ANTONIO LUCHESI-ME.",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "COGEB SUPERMERCADOS LTDA.",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "COGEB SUPERMERCADOS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:22:04"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "102:33:57"
+                         "tempo":  "102:49:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "01:16:15"
+                         "tempo":  "01:31:21"
                      }
                  ],
     "hist":  [
@@ -1700,8 +1709,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     96,
-                     16
+                     97,
+                     17
                  ]
              ],
     "historico":  {
@@ -24079,7 +24088,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24175,10 +24184,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  3,
-                                                       "km":  15.6,
-                                                       "tv":  371
+                                                       "km":  18.21,
+                                                       "tv":  402
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -24186,7 +24195,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  87.79,
+                                                       "km":  109.15,
                                                        "tv":  312
                                                    },
                                                    {
@@ -24285,7 +24294,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  4.28,
+                                                       "km":  9.82,
                                                        "tv":  202
                                                    },
                                                    {
@@ -24746,6 +24755,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.52,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  2.61,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Alan",
