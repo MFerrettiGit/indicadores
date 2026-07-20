@@ -22373,16 +22373,16 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  45.23,
-                                     "tv":  228
+                                     "km":  46.36,
+                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -22430,8 +22430,8 @@
                                      "tv":  308
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22439,8 +22439,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22523,10 +22523,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  42.4,
-                                     "tv":  139
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  69.71,
+                                     "tv":  294
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -22547,6 +22547,15 @@
                                      "tv":  148
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  31.24,
+                                     "tv":  238
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -22554,15 +22563,6 @@
                                      "pe":  2,
                                      "km":  5.43,
                                      "tv":  262
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  23.66,
-                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Alan",
@@ -22704,6 +22704,13 @@
                                        "p":  1,
                                        "km":  3.78,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADO TAQUARAL LTDA.",
+                                       "p":  1,
+                                       "km":  1.13,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Silmara",
@@ -22867,6 +22874,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  27.31,
+                                       "tv":  155
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  0,
@@ -22935,6 +22949,13 @@
                                        "p":  1,
                                        "km":  7,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "FTJ SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.58,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Nelson",
