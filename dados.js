@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,8 +15,8 @@ window.PAINEL = {
                      "primeiro":  "06:54",
                      "ultimo":  "13:15",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:45",
                      "ultimo":  "13:43",
                      "tv":  "03:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  6.79,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:34",
+                     "ultimo":  "14:17",
+                     "tv":  "04:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  53.28,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:09",
+                     "ultimo":  "14:09",
+                     "tv":  "03:29:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -167,36 +197,6 @@ window.PAINEL = {
                      "tv":  "03:35:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  6.54,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:34",
-                     "ultimo":  "12:33",
-                     "tv":  "03:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  36.34,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:09",
-                     "ultimo":  "11:05",
-                     "tv":  "02:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:23",
                      "ultimo":  "12:26",
                      "tv":  "02:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "11:05",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:21",
                      "tv":  "04:54:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "13:08",
                      "tv":  "04:08:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:45",
                      "tv":  "02:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "13:42",
                      "tv":  "03:21:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -346,7 +346,7 @@ window.PAINEL = {
                      "ultimo":  "11:23",
                      "tv":  "03:22:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -481,6 +481,15 @@ window.PAINEL = {
                          "out":  "12:07:40",
                          "km":  2.07,
                          "dur":  "02:45:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "13:21:44",
+                         "out":  "14:24:38",
+                         "km":  18.49,
+                         "dur":  "01:02:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -706,6 +715,15 @@ window.PAINEL = {
                          "out":  "12:33:03",
                          "km":  0.23,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "12:35:29",
+                         "out":  "14:17:39",
+                         "km":  0.25,
+                         "dur":  "01:42:00"
                      },
                      {
                          "nome":  "Alan",
@@ -987,6 +1005,14 @@ window.PAINEL = {
                         "tempo":  "00:52:07"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:23",
+                        "final":  "14:23",
+                        "tempo":  "01:00:21"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Proposta",
                         "obs":  "Fazer proposta bara Baltieri",
@@ -1009,6 +1035,14 @@ window.PAINEL = {
                         "inicio":  "12:30",
                         "final":  "13:30",
                         "tempo":  "01:00:03"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:16",
+                        "final":  "14:16",
+                        "tempo":  "00:59:55"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1075,28 +1109,12 @@ window.PAINEL = {
                         "tempo":  "00:42:38"
                     },
                     {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:42"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:03"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:46:52"
+                        "tempo":  "01:06:08"
                     },
                     {
                         "nome":  "Nelson",
@@ -1104,7 +1122,7 @@ window.PAINEL = {
                         "obs":  "Itapetininga a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:25"
+                        "tempo":  "00:33:30"
                     },
                     {
                         "nome":  "Costa",
@@ -1112,7 +1130,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:12"
+                        "tempo":  "00:29:17"
                     },
                     {
                         "nome":  "Maira",
@@ -1120,7 +1138,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:40"
+                        "tempo":  "00:15:45"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Manutencao",
+                        "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:57"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:15"
                     }
                 ],
     "semped":  [
@@ -1184,49 +1218,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:44:58"
+                         "tempo":  "01:00:03"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:28:51"
+                         "tempo":  "00:43:56"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:06:52"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:47:30"
+                         "tempo":  "01:02:35"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:15:25"
+                         "tempo":  "00:30:30"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:11:13"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "01:28:49"
+                         "tempo":  "00:07:57"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:39:15"
+                         "tempo":  "00:54:20"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "BUENO SERVICE LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:33:45"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:03:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "98:48:59"
+                         "tempo":  "99:04:04"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ANTONIO CESAR DETONI",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:01:12"
                      }
                  ],
     "hist":  [
@@ -1327,7 +1379,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     60,
+                     62,
                      9
                  ]
              ],
@@ -23706,7 +23758,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -23799,6 +23851,24 @@ window.PAINEL = {
                                                        "tv":  145
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  6.79,
+                                                       "tv":  293
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  53.28,
+                                                       "tv":  209
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -23806,24 +23876,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  130.74,
                                                        "tv":  215
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  6.54,
-                                                       "tv":  191
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  36.34,
-                                                       "tv":  121
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -24018,6 +24070,13 @@ window.PAINEL = {
                                                          "tv":  165
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  18.49,
+                                                         "tv":  62
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  1,
@@ -24191,6 +24250,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.23,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BUENO SERVICE LTDA",
+                                                         "p":  1,
+                                                         "km":  0.25,
+                                                         "tv":  102
                                                      },
                                                      {
                                                          "n":  "Alan",

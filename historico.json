@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22466,6 +22466,24 @@
                                      "tv":  145
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  6.79,
+                                     "tv":  293
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  53.28,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -22473,24 +22491,6 @@
                                      "pe":  3,
                                      "km":  130.74,
                                      "tv":  215
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  6.54,
-                                     "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  36.34,
-                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Luis",
@@ -22685,6 +22685,13 @@
                                        "tv":  165
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  18.49,
+                                       "tv":  62
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -22858,6 +22865,13 @@
                                        "p":  0,
                                        "km":  0.23,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO SERVICE LTDA",
+                                       "p":  1,
+                                       "km":  0.25,
+                                       "tv":  102
                                    },
                                    {
                                        "n":  "Alan",
