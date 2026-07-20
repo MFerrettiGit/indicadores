@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:45",
                      "ultimo":  "10:22",
                      "tv":  "02:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  2.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "10:27",
+                     "tv":  "01:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -208,21 +223,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.41,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:34",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "10:17",
                      "tv":  "01:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "10:18",
                      "tv":  "01:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "10:12",
                      "tv":  "01:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -474,6 +474,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "08:34:45",
+                         "out":  "10:27:08",
+                         "km":  2.43,
+                         "dur":  "01:52:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO CORAL LTDA",
                          "mun":  "CAMPO LIMPO PAU",
@@ -619,7 +628,15 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:12:50"
+                        "tempo":  "04:27:58"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Proposta",
+                        "obs":  "Fazer proposta bara Baltieri",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:59"
                     }
                 ],
     "semped":  [
@@ -647,79 +664,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "00:18:24"
+                         "tempo":  "00:33:29"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:41:37"
+                         "tempo":  "01:56:42"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:01:45"
+                         "tempo":  "01:16:50"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:14:01"
+                         "tempo":  "03:29:06"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:08:38"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:23:07"
+                         "tempo":  "02:38:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTO ANTONIO D",
-                         "tempo":  "00:21:30"
+                         "tempo":  "00:36:35"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:00:44"
+                         "tempo":  "01:15:49"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:02:19"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:49:26"
+                         "tempo":  "00:17:24"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:23:07"
+                         "tempo":  "02:38:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:36:09"
+                         "tempo":  "00:51:14"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "95:03:56"
+                         "tempo":  "95:19:01"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:05:52"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.05",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:10:05"
+                         "tempo":  "00:25:10"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "F.T.J SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:12:57"
                      }
                  ],
     "hist":  [
@@ -820,7 +849,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     23,
+                     24,
                      3
                  ]
              ],
@@ -23199,7 +23228,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -23319,21 +23348,21 @@ window.PAINEL = {
                                                        "tv":  105
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.84,
+                                                       "tv":  112
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.55,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.41,
                                                        "tv":  0
                                                    },
                                                    {
@@ -23502,6 +23531,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.92,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.43,
+                                                         "tv":  112
                                                      },
                                                      {
                                                          "n":  "Castro",

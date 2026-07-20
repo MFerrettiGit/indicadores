@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -22493,21 +22493,21 @@
                                      "tv":  105
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.84,
+                                     "tv":  112
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.55,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.41,
                                      "tv":  0
                                  },
                                  {
@@ -22676,6 +22676,13 @@
                                        "p":  1,
                                        "km":  3.92,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                       "p":  1,
+                                       "km":  2.43,
+                                       "tv":  112
                                    },
                                    {
                                        "n":  "Castro",
