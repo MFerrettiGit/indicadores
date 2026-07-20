@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22430,8 +22430,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22439,8 +22439,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22460,10 +22460,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  84.23,
-                                     "tv":  88
+                                     "km":  87.06,
+                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -22634,6 +22634,13 @@
                                        "p":  0,
                                        "km":  19.6,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
+                                       "p":  0,
+                                       "km":  2.83,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Eliana",
