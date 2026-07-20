@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "12:01",
                      "tv":  "04:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  87.06,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  93.39,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:54",
-                     "ultimo":  "11:29",
-                     "tv":  "02:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:57",
+                     "tv":  "02:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "11:40",
                      "tv":  "02:43:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "02:59:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  33.4,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:04",
+                     "ultimo":  "13:08",
+                     "tv":  "04:08:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -271,22 +286,22 @@ window.PAINEL = {
                      "ultimo":  "12:45",
                      "tv":  "02:28:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  32.65,
+                     "visitas":  2,
+                     "km":  5.43,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "12:29",
-                     "tv":  "03:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "primeiro":  "08:18",
+                     "ultimo":  "12:57",
+                     "tv":  "04:22:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -319,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  2.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:18",
-                     "ultimo":  "10:18",
-                     "tv":  "01:59:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "09:48",
                      "ultimo":  "12:24",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -445,6 +445,15 @@ window.PAINEL = {
                          "out":  "11:29:14",
                          "km":  2.83,
                          "dur":  "00:33:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                         "mun":  "SUMARE",
+                         "in":  "12:33:43",
+                         "out":  "12:57:58",
+                         "km":  6.33,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -762,6 +771,15 @@ window.PAINEL = {
                          "dur":  "01:30:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "12:35:45",
+                         "out":  "13:08:20",
+                         "km":  0.75,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
@@ -796,9 +814,26 @@ window.PAINEL = {
                          "out":  "10:18:24",
                          "km":  0.3,
                          "dur":  "01:59:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "10:33:24",
+                         "out":  "12:57:20",
+                         "km":  2.59,
+                         "dur":  "02:23:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Manutencao",
+                        "obs":  "carro em manutenção",
+                        "inicio":  "11:46",
+                        "final":  "13:07",
+                        "tempo":  "01:20:35"
+                    },
                     {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
@@ -840,12 +875,28 @@ window.PAINEL = {
                         "tempo":  "00:19:59"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:03",
+                        "final":  "12:58",
+                        "tempo":  "00:55:04"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Proposta",
                         "obs":  "Fazer proposta bara Baltieri",
                         "inicio":  "10:34",
                         "final":  "11:07",
                         "tempo":  "00:32:58"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:02",
+                        "final":  "13:00",
+                        "tempo":  "00:58:24"
                     },
                     {
                         "nome":  "Fernando",
@@ -869,15 +920,7 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:43:00"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Manutencao",
-                        "obs":  "carro em manutenção",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:08:30"
+                        "tempo":  "06:57:59"
                     },
                     {
                         "nome":  "Maira",
@@ -885,23 +928,7 @@ window.PAINEL = {
                         "obs":  "digitando Crema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:32"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:38"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:33"
+                        "tempo":  "01:22:31"
                     },
                     {
                         "nome":  "Eliana",
@@ -909,7 +936,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:59"
+                        "tempo":  "00:59:58"
                     },
                     {
                         "nome":  "Debora",
@@ -917,7 +944,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:23"
+                        "tempo":  "00:39:22"
                     },
                     {
                         "nome":  "Silmara",
@@ -925,7 +952,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:24"
+                        "tempo":  "00:21:23"
                     },
                     {
                         "nome":  "Vinicius",
@@ -933,7 +960,47 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:00"
+                        "tempo":  "00:15:59"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:36"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:23"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:28"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:44"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:38"
                     }
                 ],
     "semped":  [
@@ -952,6 +1019,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
+                       "mun":  "SUMARE",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
                        "mun":  "SUMARE",
                        "obs":  "estocado"
                    },
@@ -988,64 +1061,52 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:20:30"
-                     },
-                     {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:19:46"
+                         "tempo":  "00:34:43"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:13:48"
+                         "tempo":  "00:28:45"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:01:18"
+                         "tempo":  "00:16:15"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:18:44"
+                         "tempo":  "00:33:41"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:18:28"
+                         "nome":  "Karina",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:12:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "97:33:58"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "02:20:49"
+                         "tempo":  "97:48:55"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "02:08:00"
+                         "tempo":  "02:22:57"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "FTJ SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:48:56"
+                         "tempo":  "01:03:53"
                      }
                  ],
     "hist":  [
@@ -1146,8 +1207,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     49,
-                     8
+                     53,
+                     9
                  ]
              ],
     "historico":  {
@@ -23525,7 +23586,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -23612,10 +23673,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  87.06,
-                                                       "tv":  121
+                                                       "km":  93.39,
+                                                       "tv":  145
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -23681,6 +23742,15 @@ window.PAINEL = {
                                                        "tv":  139
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  33.4,
+                                                       "tv":  248
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -23690,13 +23760,13 @@ window.PAINEL = {
                                                        "tv":  148
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  32.65,
-                                                       "tv":  216
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  5.43,
+                                                       "tv":  262
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -23715,15 +23785,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  4.28,
                                                        "tv":  202
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2.84,
-                                                       "tv":  119
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -23807,6 +23868,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.83,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                                                         "p":  0,
+                                                         "km":  6.33,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -24054,6 +24122,13 @@ window.PAINEL = {
                                                          "tv":  90
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                                         "p":  1,
+                                                         "km":  0.75,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "EDSON LUCIO PASSOS",
                                                          "p":  1,
@@ -24080,6 +24155,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.3,
                                                          "tv":  119
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.59,
+                                                         "tv":  143
                                                      }
                                                  ]
                                      }

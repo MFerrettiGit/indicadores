@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22460,10 +22460,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  87.06,
-                                     "tv":  121
+                                     "km":  93.39,
+                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -22529,6 +22529,15 @@
                                      "tv":  139
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  33.4,
+                                     "tv":  248
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -22538,13 +22547,13 @@
                                      "tv":  148
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  32.65,
-                                     "tv":  216
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.43,
+                                     "tv":  262
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -22563,15 +22572,6 @@
                                      "pe":  1,
                                      "km":  4.28,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.84,
-                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Karina",
@@ -22655,6 +22655,13 @@
                                        "p":  0,
                                        "km":  2.83,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                                       "p":  0,
+                                       "km":  6.33,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Eliana",
@@ -22902,6 +22909,13 @@
                                        "tv":  90
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                       "p":  1,
+                                       "km":  0.75,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "EDSON LUCIO PASSOS",
                                        "p":  1,
@@ -22928,6 +22942,13 @@
                                        "p":  1,
                                        "km":  0.3,
                                        "tv":  119
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  1,
+                                       "km":  2.59,
+                                       "tv":  143
                                    }
                                ]
                    }
