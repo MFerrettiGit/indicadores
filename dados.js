@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "17:21",
                      "tv":  "06:11:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1439,7 +1439,7 @@ window.PAINEL = {
                         "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:14:20"
+                        "tempo":  "03:29:11"
                     },
                     {
                         "nome":  "Castro",
@@ -1447,7 +1447,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:20"
+                        "tempo":  "02:08:11"
                     },
                     {
                         "nome":  "Rachel",
@@ -1455,7 +1455,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:33:00"
+                        "tempo":  "01:47:51"
                     },
                     {
                         "nome":  "Cominato",
@@ -1463,7 +1463,7 @@ window.PAINEL = {
                         "obs":  "Planejamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:00"
+                        "tempo":  "01:08:51"
                     }
                 ],
     "semped":  [
@@ -1569,25 +1569,31 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:44"
+                         "tempo":  "00:16:45"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:07:04"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:59:25"
+                         "tempo":  "01:14:26"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "102:03:56"
+                         "tempo":  "102:18:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:46:14"
+                         "tempo":  "01:01:15"
                      }
                  ],
     "hist":  [
@@ -24067,7 +24073,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24124,8 +24130,8 @@ window.PAINEL = {
                                                        "tv":  437
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24133,8 +24139,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
