@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  58.67,
+                                     "tv":  418
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -22383,15 +22392,6 @@
                                      "pe":  0,
                                      "km":  26.25,
                                      "tv":  344
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  55.49,
-                                     "tv":  338
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -22415,10 +22415,10 @@
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  40.98,
-                                     "tv":  382
+                                     "km":  43.07,
+                                     "tv":  482
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -22430,8 +22430,8 @@
                                      "tv":  437
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22439,8 +22439,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22484,6 +22484,15 @@
                                      "tv":  342
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  62.6,
+                                     "tv":  297
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -22500,15 +22509,6 @@
                                      "pe":  3,
                                      "km":  40,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  53.86,
-                                     "tv":  263
                                  },
                                  {
                                      "nome":  "Maira",
@@ -22568,10 +22568,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  36.65,
-                                     "tv":  201
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  41.09,
+                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Alan",
@@ -22622,6 +22622,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.09,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -22655,6 +22662,13 @@
                                        "p":  1,
                                        "km":  9.11,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  1.89,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -22774,6 +22788,13 @@
                                        "p":  1,
                                        "km":  9.13,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.18,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Silmara",
@@ -22900,6 +22921,13 @@
                                        "p":  1,
                                        "km":  10.11,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO TONELLI LTDA",
+                                       "p":  1,
+                                       "km":  8.74,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Luis",
@@ -23124,6 +23152,13 @@
                                        "p":  1,
                                        "km":  2.28,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "AC BARBOSA CARAGUATATUBA - ME",
+                                       "p":  1,
+                                       "km":  4.44,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Mariangela",
