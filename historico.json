@@ -22373,8 +22373,26 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  45.23,
+                                     "tv":  228
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  11.86,
+                                     "tv":  200
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -22383,24 +22401,6 @@
                                      "pe":  0,
                                      "km":  20.34,
                                      "tv":  268
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  41.45,
-                                     "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  9.35,
-                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -22424,10 +22424,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  6.91,
+                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -22685,6 +22685,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  3.78,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -22704,6 +22711,20 @@
                                        "p":  1,
                                        "km":  3.76,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
+                                       "p":  1,
+                                       "km":  2.51,
+                                       "tv":  23
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  6.91,
+                                       "tv":  308
                                    },
                                    {
                                        "n":  "Costa",
