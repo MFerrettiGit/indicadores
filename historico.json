@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22388,19 +22388,19 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  11.86,
-                                     "tv":  200
+                                     "km":  17.96,
+                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  20.34,
-                                     "tv":  268
+                                     "km":  21.5,
+                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Debora",
@@ -22466,6 +22466,15 @@
                                      "tv":  145
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  130.74,
+                                     "tv":  215
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -22482,15 +22491,6 @@
                                      "pe":  1,
                                      "km":  36.34,
                                      "tv":  121
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  103.7,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Luis",
@@ -22561,8 +22561,17 @@
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  5.43,
+                                     "km":  9.27,
                                      "tv":  262
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  36.65,
+                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Alan",
@@ -22572,15 +22581,6 @@
                                      "pe":  1,
                                      "km":  4.28,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  34.37,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -22634,6 +22634,13 @@
                                        "p":  1,
                                        "km":  2.79,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -22741,6 +22748,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  6.1,
+                                       "tv":  26
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -22760,6 +22774,13 @@
                                        "p":  1,
                                        "km":  61.76,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  27.04,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Fernando",
@@ -22935,6 +22956,13 @@
                                        "p":  1,
                                        "km":  1.96,
                                        "tv":  156
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  1,
+                                       "km":  2.28,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Mariangela",
