@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  7,
-                     "km":  58.67,
+                     "km":  68.75,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  43.07,
+                     "km":  77.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:00",
@@ -169,12 +169,27 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  87.79,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:23",
+                     "ultimo":  "17:47",
+                     "tv":  "05:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  133.31,
+                     "km":  136.45,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:11",
@@ -184,34 +199,19 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  62.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:23",
-                     "ultimo":  "17:01",
-                     "tv":  "04:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  54.8,
+                     "km":  97.01,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:09",
                      "ultimo":  "15:00",
                      "tv":  "04:12:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  40,
+                     "km":  45.92,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:24",
@@ -234,7 +234,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  2.39,
+                     "km":  4.05,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -271,7 +271,22 @@ window.PAINEL = {
                      "ultimo":  "16:09",
                      "tv":  "03:27:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  64.17,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:04",
+                     "ultimo":  "17:45",
+                     "tv":  "05:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -286,21 +301,6 @@ window.PAINEL = {
                      "ultimo":  "17:20",
                      "tv":  "06:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  33.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "13:08",
-                     "tv":  "04:08:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -798,6 +798,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "HALINE RODRIGUES SEGHETTO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:22:27",
+                         "out":  "17:47:16",
+                         "km":  25.19,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "MONICA AP. DA SILVA SONTINI-ME.",
                          "mun":  "RESTINGA",
@@ -1077,6 +1086,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "16:24:46",
+                         "out":  "17:45:26",
+                         "km":  30.77,
+                         "dur":  "01:20:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
@@ -1226,6 +1244,14 @@ window.PAINEL = {
                         "tempo":  "00:59:55"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Manutencao",
+                        "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
+                        "inicio":  "14:11",
+                        "final":  "17:54",
+                        "tempo":  "03:43:18"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
                         "obs":  "arrumando o retrovisor do carro",
@@ -1272,6 +1298,14 @@ window.PAINEL = {
                         "inicio":  "15:00",
                         "final":  "15:52",
                         "tempo":  "00:51:44"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "cubatao",
+                        "inicio":  "15:52",
+                        "final":  "17:53",
+                        "tempo":  "02:00:21"
                     },
                     {
                         "nome":  "Luis",
@@ -1328,6 +1362,14 @@ window.PAINEL = {
                         "inicio":  "12:57",
                         "final":  "13:57",
                         "tempo":  "01:00:02"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Planejamento",
+                        "inicio":  "16:31",
+                        "final":  "17:50",
+                        "tempo":  "01:18:53"
                     },
                     {
                         "nome":  "Debora",
@@ -1434,36 +1476,12 @@ window.PAINEL = {
                         "tempo":  "01:00:35"
                     },
                     {
-                        "nome":  "Alan",
-                        "tipo":  "Manutencao",
-                        "obs":  "manutenção do automóvel, troca do módulo de abs,  dos freios",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "03:29:11"
-                    },
-                    {
                         "nome":  "Castro",
                         "tipo":  "Digitacao Pedido",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:08:11"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "cubatao",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:47:51"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Outro",
-                        "obs":  "Planejamento",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:08:51"
+                        "tempo":  "02:23:14"
                     }
                 ],
     "semped":  [
@@ -1566,34 +1584,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "HALINE RODRIGUES SEGHETTO",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:16:45"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:04"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:14:26"
+                         "tempo":  "00:22:04"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "102:18:57"
+                         "tempo":  "102:33:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "01:01:15"
+                         "tempo":  "01:16:15"
                      }
                  ],
     "hist":  [
@@ -1694,7 +1700,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     94,
+                     96,
                      16
                  ]
              ],
@@ -24073,7 +24079,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24081,7 +24087,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  58.67,
+                                                       "km":  68.75,
                                                        "tv":  418
                                                    },
                                                    {
@@ -24117,7 +24123,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  43.07,
+                                                       "km":  77.41,
                                                        "tv":  482
                                                    },
                                                    {
@@ -24175,22 +24181,22 @@ window.PAINEL = {
                                                        "tv":  371
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  87.79,
+                                                       "tv":  312
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  133.31,
+                                                       "km":  136.45,
                                                        "tv":  315
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  62.6,
-                                                       "tv":  297
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -24198,7 +24204,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  54.8,
+                                                       "km":  97.01,
                                                        "tv":  252
                                                    },
                                                    {
@@ -24207,7 +24213,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  40,
+                                                       "km":  45.92,
                                                        "tv":  290
                                                    },
                                                    {
@@ -24216,7 +24222,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  2.39,
+                                                       "km":  4.05,
                                                        "tv":  184
                                                    },
                                                    {
@@ -24238,6 +24244,15 @@ window.PAINEL = {
                                                        "tv":  207
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  64.17,
+                                                       "tv":  328
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -24245,15 +24260,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  36.88,
                                                        "tv":  387
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  33.4,
-                                                       "tv":  248
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -24630,6 +24636,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "HALINE RODRIGUES SEGHETTO",
+                                                         "p":  1,
+                                                         "km":  25.19,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "MONICA AP. DA SILVA SONTINI-ME.",
                                                          "p":  1,
@@ -24845,6 +24858,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.75,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  30.77,
+                                                         "tv":  80
                                                      },
                                                      {
                                                          "n":  "Karina",

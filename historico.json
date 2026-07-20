@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22381,7 +22381,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  58.67,
+                                     "km":  68.75,
                                      "tv":  418
                                  },
                                  {
@@ -22417,7 +22417,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  43.07,
+                                     "km":  77.41,
                                      "tv":  482
                                  },
                                  {
@@ -22475,22 +22475,22 @@
                                      "tv":  371
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  87.79,
+                                     "tv":  312
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  133.31,
+                                     "km":  136.45,
                                      "tv":  315
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  62.6,
-                                     "tv":  297
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -22498,7 +22498,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  54.8,
+                                     "km":  97.01,
                                      "tv":  252
                                  },
                                  {
@@ -22507,7 +22507,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  40,
+                                     "km":  45.92,
                                      "tv":  290
                                  },
                                  {
@@ -22516,7 +22516,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  2.39,
+                                     "km":  4.05,
                                      "tv":  184
                                  },
                                  {
@@ -22538,6 +22538,15 @@
                                      "tv":  207
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  64.17,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -22545,15 +22554,6 @@
                                      "pe":  5,
                                      "km":  36.88,
                                      "tv":  387
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  33.4,
-                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -22930,6 +22930,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "HALINE RODRIGUES SEGHETTO",
+                                       "p":  1,
+                                       "km":  25.19,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "MONICA AP. DA SILVA SONTINI-ME.",
                                        "p":  1,
@@ -23145,6 +23152,13 @@
                                        "p":  1,
                                        "km":  0.75,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  30.77,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Karina",
