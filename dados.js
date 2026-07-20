@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  41.45,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:54",
+                     "ultimo":  "11:14",
+                     "tv":  "03:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -30,21 +45,6 @@ window.PAINEL = {
                      "primeiro":  "06:42",
                      "ultimo":  "10:21",
                      "tv":  "03:13:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  36.48,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:54",
-                     "ultimo":  "10:00",
-                     "tv":  "02:48:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  4.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:23",
+                     "tv":  "03:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "10:12",
                      "tv":  "01:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "01:28:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:49:20",
+                         "out":  "11:14:32",
+                         "km":  4.97,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
@@ -535,6 +544,15 @@ window.PAINEL = {
                          "out":  "10:27:08",
                          "km":  2.43,
                          "dur":  "01:52:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:01:04",
+                         "out":  "11:23:58",
+                         "km":  4.28,
+                         "dur":  "03:22:00"
                      },
                      {
                          "nome":  "Castro",
@@ -699,7 +717,7 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:57:53"
+                        "tempo":  "05:13:07"
                     }
                 ],
     "semped":  [
@@ -739,109 +757,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:13:56"
+                         "tempo":  "00:29:00"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:11:15"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:19:54"
+                         "tempo":  "00:26:19"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:22:28"
+                         "tempo":  "00:37:32"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:46:48"
+                         "tempo":  "02:01:52"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:59:04"
+                         "tempo":  "04:14:08"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:02:48"
+                         "tempo":  "00:17:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:27:20"
+                         "tempo":  "00:42:24"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:21:38"
+                         "tempo":  "00:36:42"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:47:22"
+                         "tempo":  "01:02:26"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:01:24"
+                         "tempo":  "00:16:28"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:09:54"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "03:08:10"
+                         "tempo":  "00:24:58"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:21:12"
+                         "tempo":  "01:36:16"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "95:48:59"
+                         "tempo":  "96:04:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:35:50"
+                         "tempo":  "00:50:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:23:01"
+                         "tempo":  "00:38:05"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "F.T.J SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:42:55"
+                         "tempo":  "00:57:59"
                      }
                  ],
     "hist":  [
@@ -942,7 +948,7 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     31,
+                     33,
                      5
                  ]
              ],
@@ -23321,8 +23327,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  41.45,
+                                                       "tv":  193
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -23340,15 +23355,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  17.55,
                                                        "tv":  193
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  36.48,
-                                                       "tv":  168
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -23495,6 +23501,15 @@ window.PAINEL = {
                                                        "tv":  126
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.28,
+                                                       "tv":  202
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -23511,15 +23526,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  16.66,
                                                        "tv":  88
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -23605,6 +23611,13 @@ window.PAINEL = {
                                                          "tv":  88
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                                         "p":  1,
+                                                         "km":  4.97,
+                                                         "tv":  25
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "HIGA PROD. ALIM. LTDA.",
                                                          "p":  1,
@@ -23673,6 +23686,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.43,
                                                          "tv":  112
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
+                                                         "p":  1,
+                                                         "km":  4.28,
+                                                         "tv":  202
                                                      },
                                                      {
                                                          "n":  "Castro",

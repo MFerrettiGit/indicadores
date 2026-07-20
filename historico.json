@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  41.45,
+                                     "tv":  193
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -22392,15 +22401,6 @@
                                      "pe":  0,
                                      "km":  17.55,
                                      "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  36.48,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Debora",
@@ -22547,6 +22547,15 @@
                                      "tv":  126
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.28,
+                                     "tv":  202
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -22563,15 +22572,6 @@
                                      "pe":  1,
                                      "km":  16.66,
                                      "tv":  88
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Karina",
@@ -22657,6 +22657,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  4.97,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -22725,6 +22732,13 @@
                                        "p":  1,
                                        "km":  2.43,
                                        "tv":  112
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  4.28,
+                                       "tv":  202
                                    },
                                    {
                                        "n":  "Castro",
