@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.34,
+                                     "tv":  268
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -22394,13 +22403,13 @@
                                      "tv":  177
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  17.55,
-                                     "tv":  193
+                                     "km":  7.98,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Debora",
@@ -22410,15 +22419,6 @@
                                      "pe":  0,
                                      "km":  35.47,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  5.91,
-                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -22622,6 +22622,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  2.79,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  0,
@@ -22648,6 +22655,13 @@
                                        "p":  1,
                                        "km":  5.91,
                                        "tv":  140
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.07,
+                                       "tv":  165
                                    },
                                    {
                                        "n":  "Evandro",
