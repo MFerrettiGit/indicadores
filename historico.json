@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  55.49,
+                                     "tv":  338
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -22383,15 +22392,6 @@
                                      "pe":  0,
                                      "km":  23.4,
                                      "tv":  282
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  46.36,
-                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -22430,8 +22430,8 @@
                                      "tv":  308
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22439,8 +22439,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -22559,10 +22559,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.27,
-                                     "tv":  262
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  71.67,
+                                     "tv":  307
                                  },
                                  {
                                      "nome":  "Karina",
@@ -22739,6 +22739,13 @@
                                        "p":  1,
                                        "km":  1.13,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  9.13,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Silmara",
@@ -23075,6 +23082,13 @@
                                        "p":  1,
                                        "km":  2.59,
                                        "tv":  143
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPER G DISTRIB. DE PRODUTOS ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  62.4,
+                                       "tv":  45
                                    }
                                ]
                    }
