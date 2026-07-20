@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  23.4,
+                                     "tv":  282
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -22383,15 +22392,6 @@
                                      "pe":  0,
                                      "km":  46.36,
                                      "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  17.96,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -22403,6 +22403,15 @@
                                      "tv":  308
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  40.98,
+                                     "tv":  382
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -22410,15 +22419,6 @@
                                      "pe":  0,
                                      "km":  26.47,
                                      "tv":  367
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  39.02,
-                                     "tv":  296
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -22466,6 +22466,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  54.8,
+                                     "tv":  252
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -22473,15 +22482,6 @@
                                      "pe":  3,
                                      "km":  6.79,
                                      "tv":  293
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  53.28,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Costa",
@@ -22496,19 +22496,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  29.4,
-                                     "tv":  163
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  33.46,
+                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.74,
-                                     "tv":  179
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  43.75,
+                                     "tv":  230
                                  },
                                  {
                                      "nome":  "Maira",
@@ -22613,6 +22613,13 @@
                                        "p":  1,
                                        "km":  3.55,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  86
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -22769,6 +22776,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  5.44,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -22811,6 +22825,13 @@
                                        "tv":  97
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  1.01,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "MONICA AP. DA SILVA SONTINI-ME.",
                                        "p":  1,
@@ -22823,6 +22844,13 @@
                                        "p":  1,
                                        "km":  12.81,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                                       "p":  1,
+                                       "km":  4.06,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Maira",
@@ -22851,6 +22879,13 @@
                                        "p":  1,
                                        "km":  16.94,
                                        "tv":  88
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J. L. DAOLIO",
+                                       "p":  1,
+                                       "km":  1.52,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Sao Carlos",
