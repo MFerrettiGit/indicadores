@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22475,6 +22475,33 @@
                                      "tv":  121
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  103.7,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  29.4,
+                                     "tv":  163
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  6.31,
+                                     "tv":  156
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -22482,33 +22509,6 @@
                                      "pe":  1,
                                      "km":  2.39,
                                      "tv":  184
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.94,
-                                     "tv":  66
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.59,
-                                     "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.84,
-                                     "tv":  112
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -22547,6 +22547,15 @@
                                      "tv":  126
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  23.66,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -22563,15 +22572,6 @@
                                      "pe":  1,
                                      "km":  2.84,
                                      "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.66,
-                                     "tv":  88
                                  },
                                  {
                                      "nome":  "Karina",
@@ -22699,6 +22699,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  61.76,
+                                       "tv":  90
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -22711,6 +22718,13 @@
                                        "p":  1,
                                        "km":  14.03,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  1,
+                                       "km":  12.81,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Maira",
@@ -22739,6 +22753,13 @@
                                        "p":  1,
                                        "km":  2.43,
                                        "tv":  112
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO SERVICE LTDA",
+                                       "p":  1,
+                                       "km":  3.47,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Alan",
@@ -22816,6 +22837,13 @@
                                        "p":  1,
                                        "km":  11.79,
                                        "tv":  88
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "F.T.J SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Nelson",
