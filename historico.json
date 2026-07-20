@@ -22373,8 +22373,17 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  9.35,
+                                     "tv":  177
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -22401,15 +22410,6 @@
                                      "pe":  0,
                                      "km":  35.47,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  5.59,
-                                     "tv":  150
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -22469,10 +22469,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  36.34,
+                                     "tv":  121
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  6.58,
-                                     "tv":  59
+                                     "km":  2.39,
+                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Costa",
@@ -22509,15 +22518,6 @@
                                      "pe":  1,
                                      "km":  41.67,
                                      "tv":  82
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.55,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Castro",
@@ -22671,6 +22671,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SOLIDEA DELA COLETA",
                                        "p":  1,
@@ -22692,11 +22699,25 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  1.84,
+                                       "tv":  184
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  1,
                                        "km":  3.92,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  29.76,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Sao Carlos",

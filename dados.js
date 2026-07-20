@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "20/07/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  9.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:45",
+                     "ultimo":  "11:05",
+                     "tv":  "02:57:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "10:43",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  5.59,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:45",
-                     "ultimo":  "10:22",
-                     "tv":  "02:30:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "08:54",
                      "ultimo":  "10:43",
                      "tv":  "01:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  36.34,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:09",
+                     "ultimo":  "11:05",
+                     "tv":  "02:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
                      "visitas":  1,
-                     "km":  6.58,
+                     "km":  2.39,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "09:09",
-                     "tv":  "00:59:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:05",
+                     "tv":  "03:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "10:27",
                      "tv":  "01:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "09:23",
                      "ultimo":  "10:45",
                      "tv":  "01:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.55,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "10:17",
                      "tv":  "01:44:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:14",
                      "tv":  "02:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -465,6 +465,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                         "mun":  "AMERICANA",
+                         "in":  "10:30:38",
+                         "out":  "11:05:45",
+                         "km":  3.76,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
@@ -492,6 +501,15 @@ window.PAINEL = {
                          "dur":  "01:45:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "08:01:04",
+                         "out":  "11:05:29",
+                         "km":  1.84,
+                         "dur":  "03:04:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
@@ -499,6 +517,15 @@ window.PAINEL = {
                          "out":  "09:09:02",
                          "km":  3.92,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTO ANTONIO D",
+                         "in":  "10:02:41",
+                         "out":  "11:05:02",
+                         "km":  29.76,
+                         "dur":  "01:02:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -643,6 +670,14 @@ window.PAINEL = {
                         "tempo":  "00:19:59"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Proposta",
+                        "obs":  "Fazer proposta bara Baltieri",
+                        "inicio":  "10:34",
+                        "final":  "11:07",
+                        "tempo":  "00:32:58"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a psicóloga",
@@ -664,15 +699,7 @@ window.PAINEL = {
                         "obs":  "consulta médica estou cm hemorragia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:42:26"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Proposta",
-                        "obs":  "Fazer proposta bara Baltieri",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:19:27"
+                        "tempo":  "04:57:53"
                     }
                 ],
     "semped":  [
@@ -689,6 +716,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                       "mun":  "SANTO ANTONIO D",
+                       "obs":  "analise da loja"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                        "mun":  "RIO DAS PEDRAS",
@@ -703,100 +736,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:13:56"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:11:15"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:20"
+                         "tempo":  "00:19:54"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:06:54"
+                         "tempo":  "00:22:28"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:31:14"
+                         "tempo":  "01:46:48"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:43:30"
+                         "tempo":  "03:59:04"
                      },
                      {
                          "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:23:02"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "A.A. DE MELO",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:52:36"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
-                         "mun":  "SANTO ANTONIO D",
-                         "tempo":  "00:50:59"
+                         "tempo":  "00:02:48"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:11:46"
+                         "tempo":  "00:27:20"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:06:04"
+                         "tempo":  "00:21:38"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:31:48"
+                         "tempo":  "00:47:22"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:01:24"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:09:54"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:52:36"
+                         "tempo":  "03:08:10"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:05:38"
+                         "tempo":  "01:21:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "95:33:25"
+                         "tempo":  "95:48:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:20:16"
+                         "tempo":  "00:35:50"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:07:27"
+                         "tempo":  "00:23:01"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "F.T.J SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:27:21"
+                         "tempo":  "00:42:55"
                      }
                  ],
     "hist":  [
@@ -897,8 +942,8 @@ window.PAINEL = {
                  ],
                  [
                      "20/07",
-                     28,
-                     4
+                     31,
+                     5
                  ]
              ],
     "historico":  {
@@ -23276,8 +23321,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-20":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  9.35,
+                                                       "tv":  177
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -23304,15 +23358,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  35.47,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  5.59,
-                                                       "tv":  150
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -23372,10 +23417,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  36.34,
+                                                       "tv":  121
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  6.58,
-                                                       "tv":  59
+                                                       "km":  2.39,
+                                                       "tv":  184
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -23412,15 +23466,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  41.67,
                                                        "tv":  82
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.55,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -23574,6 +23619,13 @@ window.PAINEL = {
                                                          "tv":  16
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                                                         "p":  1,
+                                                         "km":  3.76,
+                                                         "tv":  27
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "SOLIDEA DELA COLETA",
                                                          "p":  1,
@@ -23595,11 +23647,25 @@ window.PAINEL = {
                                                          "tv":  105
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "A.A. DE MELO",
+                                                         "p":  1,
+                                                         "km":  1.84,
+                                                         "tv":  184
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "J L DAOLIO E CIA LTDA",
                                                          "p":  1,
                                                          "km":  3.92,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0,
+                                                         "km":  29.76,
+                                                         "tv":  62
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
