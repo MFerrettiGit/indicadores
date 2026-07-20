@@ -22373,7 +22373,7 @@
                                ]
                    },
     "2026-07-20":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -22403,6 +22403,15 @@
                                      "tv":  268
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  39.02,
+                                     "tv":  296
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -22410,15 +22419,6 @@
                                      "pe":  0,
                                      "km":  7.98,
                                      "tv":  305
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  35.47,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -22466,6 +22466,15 @@
                                      "tv":  121
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  6.54,
+                                     "tv":  191
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -22493,13 +22502,13 @@
                                      "tv":  163
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  6.31,
-                                     "tv":  156
+                                     "km":  42.74,
+                                     "tv":  179
                                  },
                                  {
                                      "nome":  "Maira",
@@ -22511,15 +22520,6 @@
                                      "tv":  184
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.67,
-                                     "tv":  82
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -22529,6 +22529,15 @@
                                      "tv":  139
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  32.65,
+                                     "tv":  216
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -22536,15 +22545,6 @@
                                      "pe":  0,
                                      "km":  40.45,
                                      "tv":  104
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  27.22,
-                                     "tv":  126
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -22577,10 +22577,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  32.41,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  34.37,
+                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -22606,6 +22606,13 @@
                                        "p":  1,
                                        "km":  3.88,
                                        "tv":  120
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.55,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -22748,6 +22755,13 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.07,
+                                       "tv":  97
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "MONICA AP. DA SILVA SONTINI-ME.",
                                        "p":  1,
@@ -22795,6 +22809,13 @@
                                        "p":  1,
                                        "km":  3.47,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCEARIA SALMO 23 LTDA",
+                                       "p":  0,
+                                       "km":  0.23,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Alan",
@@ -22865,6 +22886,20 @@
                                        "p":  1,
                                        "km":  0.37,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                                       "p":  1,
+                                       "km":  5.43,
+                                       "tv":  90
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "EDSON LUCIO PASSOS",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  156
                                    },
                                    {
                                        "n":  "Mariangela",
