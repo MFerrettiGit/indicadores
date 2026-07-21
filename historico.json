@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23259,6 +23259,24 @@
                                      "tv":  200
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  69.65,
+                                     "tv":  227
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  58.16,
+                                     "tv":  278
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -23266,15 +23284,6 @@
                                      "pe":  0,
                                      "km":  51.71,
                                      "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  63.57,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -23293,15 +23302,6 @@
                                      "pe":  0,
                                      "km":  40.55,
                                      "tv":  145
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  47.44,
-                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Aline",
@@ -23343,10 +23343,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  41.25,
-                                     "tv":  162
+                                     "km":  42.26,
+                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Luis",
@@ -23421,6 +23421,15 @@
                                      "tv":  200
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  20.09,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -23428,15 +23437,6 @@
                                      "pe":  2,
                                      "km":  45.98,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  10.3,
-                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23538,6 +23538,13 @@
                                        "tv":  73
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  10.72,
+                                       "tv":  79
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -23585,6 +23592,13 @@
                                        "p":  1,
                                        "km":  4.24,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
+                                       "p":  1,
+                                       "km":  6.08,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -23727,6 +23741,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "61.113.496 MARIA DA PENHA FERREIRA ANDRA",
+                                       "p":  0,
+                                       "km":  1.01,
+                                       "tv":  26
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MINIMERCADO BOM JESUS LTDA",
                                        "p":  1,
@@ -23823,6 +23844,13 @@
                                        "p":  1,
                                        "km":  3.7,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                                       "p":  1,
+                                       "km":  9.79,
+                                       "tv":  118
                                    },
                                    {
                                        "n":  "Nelson",
