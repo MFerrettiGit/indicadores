@@ -23247,16 +23247,16 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  40.58,
-                                     "tv":  163
+                                     "km":  42.16,
+                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -23325,10 +23325,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  68.82,
-                                     "tv":  133
+                                     "km":  92.84,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -23538,6 +23538,13 @@
                                        "tv":  56
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.58,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -23648,6 +23655,13 @@
                                        "p":  1,
                                        "km":  4.47,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  24.02,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Rachel",
