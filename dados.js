@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:54",
                      "ultimo":  "11:25",
                      "tv":  "03:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  30.81,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:08",
+                     "ultimo":  "11:40",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -45,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "11:09",
                      "tv":  "02:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "10:24",
                      "tv":  "03:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  29.75,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:08",
-                     "ultimo":  "10:37",
-                     "tv":  "03:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  89.85,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  131.71,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "09:25",
-                     "ultimo":  "10:16",
-                     "tv":  "00:50:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:45",
+                     "tv":  "01:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -402,6 +402,15 @@ window.PAINEL = {
                          "dur":  "01:27:00"
                      },
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:54:39",
+                         "out":  "11:40:13",
+                         "km":  1.06,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SANTA BARBARA D",
@@ -409,6 +418,15 @@ window.PAINEL = {
                          "out":  "10:16:25",
                          "km":  89.85,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:57:15",
+                         "out":  "11:45:19",
+                         "km":  41.86,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -783,7 +801,7 @@ window.PAINEL = {
                         "obs":  "Troca do rolamento da roda do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:12:06"
+                        "tempo":  "01:27:18"
                     }
                 ],
     "semped":  [
@@ -798,116 +816,122 @@ window.PAINEL = {
                        "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                        "mun":  "SANTA BARBARA D",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:41:57"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:05:52"
+                         "tempo":  "01:20:59"
                      },
                      {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:44:33"
+                         "tempo":  "00:13:51"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:32:50"
+                         "tempo":  "00:47:57"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:00:01"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:14:23"
+                         "tempo":  "00:29:30"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO MADEAN LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "01:13:13"
+                         "tempo":  "01:28:20"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:45:00"
+                         "tempo":  "02:00:07"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "J. G. SUPERMERCADOS LTDA",
                          "mun":  "CAJURU",
-                         "tempo":  "00:33:27"
+                         "tempo":  "00:48:34"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:33:40"
+                         "tempo":  "01:48:47"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "MERCADO ALFA ITIRAPINA LTDA",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:20:17"
+                         "tempo":  "00:35:24"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADOS PANONTIM LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:20:46"
+                         "tempo":  "00:35:53"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:56:15"
+                         "tempo":  "01:11:22"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "01:37:28"
+                         "tempo":  "01:52:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "120:18:57"
+                         "tempo":  "120:34:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "03:27:46"
+                         "tempo":  "03:42:53"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:21:36"
+                         "tempo":  "00:36:43"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MONTE BELLO",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:03:38"
+                         "tempo":  "01:18:45"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:01:56"
+                         "tempo":  "01:17:03"
                      }
                  ],
     "hist":  [
@@ -1013,8 +1037,8 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     43,
-                     2
+                     46,
+                     3
                  ]
              ],
     "historico":  {
@@ -24266,7 +24290,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24285,6 +24309,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  63.57,
                                                        "tv":  156
+                                                   },
+                                                   {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  30.81,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -24312,15 +24345,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  50.51,
                                                        "tv":  191
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  29.75,
-                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -24353,10 +24377,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  89.85,
-                                                       "tv":  50
+                                                       "km":  131.71,
+                                                       "tv":  98
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -24515,11 +24539,25 @@ window.PAINEL = {
                                                          "tv":  87
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.06,
+                                                         "tv":  44
+                                                     },
+                                                     {
                                                          "n":  "Eduardo",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  0,
                                                          "km":  89.85,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  0,
+                                                         "km":  41.86,
+                                                         "tv":  48
                                                      },
                                                      {
                                                          "n":  "Eliana",

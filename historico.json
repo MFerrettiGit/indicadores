@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23266,6 +23266,15 @@
                                      "pe":  0,
                                      "km":  63.57,
                                      "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  30.81,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -23293,15 +23302,6 @@
                                      "pe":  0,
                                      "km":  50.51,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  29.75,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Aline",
@@ -23334,10 +23334,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  89.85,
-                                     "tv":  50
+                                     "km":  131.71,
+                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Luis",
@@ -23496,11 +23496,25 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  1.06,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  0,
                                        "km":  89.85,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  0,
+                                       "km":  41.86,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Eliana",
