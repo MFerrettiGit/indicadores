@@ -23247,16 +23247,16 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  44.76,
-                                     "tv":  263
+                                     "km":  47.66,
+                                     "tv":  278
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -23349,6 +23349,15 @@
                                      "tv":  188
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  25.96,
+                                     "tv":  267
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -23374,15 +23383,6 @@
                                      "pe":  2,
                                      "km":  54.34,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  25.96,
-                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -23587,6 +23587,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                                       "p":  1,
+                                       "km":  2.9,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -23704,6 +23711,13 @@
                                        "p":  1,
                                        "km":  7.22,
                                        "tv":  112
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "GONCALVES E GONCALVES LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Milene",
