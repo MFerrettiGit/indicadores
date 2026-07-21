@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "09:46",
                      "tv":  "02:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  64.35,
+                     "visitas":  3,
+                     "km":  68.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
-                     "ultimo":  "08:58",
-                     "tv":  "01:31:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:57",
+                     "tv":  "02:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -150,6 +150,21 @@ window.PAINEL = {
                      "primeiro":  "09:25",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  54.34,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "10:01",
+                     "tv":  "01:30:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -169,18 +184,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  53.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "08:58",
-                     "tv":  "00:34:00",
-                     "emVisita":  1,
+                     "km":  18.74,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:25",
+                     "ultimo":  "10:07",
+                     "tv":  "01:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "09:13",
                      "tv":  "00:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "09:42",
                      "tv":  "00:49:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:25",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:48",
                      "tv":  "01:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -342,11 +342,11 @@ window.PAINEL = {
                      "km":  1.62,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:01",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "09:05:34",
+                         "out":  "10:01:57",
+                         "km":  0.94,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -465,6 +474,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "NOVA ODESSA",
+                         "in":  "08:25:16",
+                         "out":  "10:07:44",
+                         "km":  18.74,
+                         "dur":  "01:42:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "BARRINHA",
@@ -481,6 +499,15 @@ window.PAINEL = {
                          "out":  "08:58:27",
                          "km":  25.88,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "09:14:57",
+                         "out":  "09:57:42",
+                         "km":  4.47,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -548,6 +575,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "ilhabela",
+                        "inicio":  "07:26",
+                        "final":  "10:00",
+                        "tempo":  "02:33:44"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "daolio",
@@ -570,115 +605,130 @@ window.PAINEL = {
                         "inicio":  "07:54",
                         "final":  "08:51",
                         "tempo":  "00:56:22"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Em Viagem",
-                        "obs":  "ilhabela",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:27:51"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Maira",
+                       "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                       "mun":  "NOVA ODESSA",
+                       "obs":  "."
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:28:11"
+                         "tempo":  "00:43:08"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:09:46"
+                         "tempo":  "01:24:43"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:18:26"
+                         "tempo":  "00:33:23"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:44:01"
+                         "tempo":  "00:58:58"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:20:20"
+                         "tempo":  "00:35:17"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:52:12"
+                         "tempo":  "01:07:09"
                      },
                      {
-                         "nome":  "Maira",
-                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
-                         "mun":  "NOVA ODESSA",
-                         "tempo":  "01:28:54"
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:05:40"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "J.L. DAOLIO",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:14:55"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:36:01"
+                         "tempo":  "00:50:58"
                      },
                      {
-                         "nome":  "Milene",
-                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "00:39:13"
+                         "nome":  "Fernando",
+                         "razao":  "COMERCIAL ELDORADO DA SERRA LTDA.",
+                         "mun":  "SERRANA",
+                         "tempo":  "00:11:43"
                      },
                      {
                          "nome":  "Costa",
-                         "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                         "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:48:36"
+                         "tempo":  "00:03:35"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BIANCHINI",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:07:35"
+                         "tempo":  "00:22:32"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS BATA SUPERMERCADO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "01:31:58"
+                         "tempo":  "01:46:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO PONTEL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:09:47"
+                         "tempo":  "00:24:44"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO DO FRADE LTDA.",
+                         "mun":  "ILHABELA",
+                         "tempo":  "00:07:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "118:33:55"
+                         "tempo":  "118:48:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:42:44"
+                         "tempo":  "01:57:41"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
-                         "tempo":  "00:26:52"
+                         "tempo":  "00:41:49"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:11:11"
                      }
                  ],
     "hist":  [
@@ -784,8 +834,8 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     20,
-                     0
+                     23,
+                     1
                  ]
              ],
     "historico":  {
@@ -24037,7 +24087,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24115,10 +24165,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  64.35,
-                                                       "tv":  91
+                                                       "km":  68.82,
+                                                       "tv":  133
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -24130,6 +24180,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  54.34,
+                                                       "tv":  90
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -24139,13 +24198,13 @@ window.PAINEL = {
                                                        "tv":  55
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  53.4,
-                                                       "tv":  34
+                                                       "pe":  0,
+                                                       "km":  18.74,
+                                                       "tv":  102
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -24173,15 +24232,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  38.97,
                                                        "tv":  49
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -24321,6 +24371,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                                                         "p":  1,
+                                                         "km":  0.94,
+                                                         "tv":  56
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -24335,6 +24392,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  18.74,
+                                                         "tv":  102
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -24347,6 +24411,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.88,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.47,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Rachel",
