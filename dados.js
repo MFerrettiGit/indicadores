@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:12",
                      "ultimo":  "15:23",
                      "tv":  "03:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -233,14 +233,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  9.27,
+                     "visitas":  4,
+                     "km":  12.44,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:43",
-                     "ultimo":  "15:11",
-                     "tv":  "04:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:25",
+                     "tv":  "05:23:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1518,73 +1518,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:22:29"
+                         "tempo":  "00:37:35"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:56:06"
+                         "tempo":  "01:11:12"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:19:05"
+                         "tempo":  "01:34:11"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:50:29"
+                         "tempo":  "01:05:35"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "TERIN TERIN CIA LTDA.",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:03:54"
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:05:19"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:49:23"
+                         "tempo":  "01:04:29"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:42:46"
+                         "tempo":  "00:57:52"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:01:55"
+                         "tempo":  "00:17:01"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "125:03:56"
+                         "tempo":  "125:19:02"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:58:28"
+                         "tempo":  "01:13:34"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO BONA COMPRA LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:21:00"
+                         "tempo":  "00:36:06"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:08:08"
+                         "tempo":  "00:23:14"
                      }
                  ],
     "hist":  [
@@ -1690,7 +1690,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     97,
+                     98,
                      16
                  ]
              ],
@@ -24943,7 +24943,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25084,10 +25084,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  9.27,
-                                                       "tv":  259
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  12.44,
+                                                       "tv":  323
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
