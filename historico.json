@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23257,6 +23257,15 @@
                                      "pe":  0,
                                      "km":  42.16,
                                      "tv":  200
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  51.71,
+                                     "tv":  283
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -23295,15 +23304,6 @@
                                      "tv":  199
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  50.51,
-                                     "tv":  191
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -23340,6 +23340,15 @@
                                      "tv":  98
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  41.25,
+                                     "tv":  162
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -23365,15 +23374,6 @@
                                      "pe":  2,
                                      "km":  59.2,
                                      "tv":  65
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  39.6,
-                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Maira",
@@ -23403,6 +23403,15 @@
                                      "tv":  138
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  26.91,
+                                     "tv":  200
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -23410,6 +23419,15 @@
                                      "pe":  2,
                                      "km":  11.61,
                                      "tv":  107
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  45.98,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -23421,31 +23439,13 @@
                                      "tv":  107
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  24.42,
-                                     "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  32.12,
-                                     "tv":  89
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  65.72,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  67.72,
+                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Karina",
@@ -23480,6 +23480,13 @@
                                        "p":  1,
                                        "km":  2.33,
                                        "tv":  99
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -23699,6 +23706,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCADO ALFA ITIRAPINA LTDA",
+                                       "p":  0,
+                                       "km":  1.65,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MINIMERCADO BOM JESUS LTDA",
                                        "p":  1,
@@ -23748,6 +23762,13 @@
                                        "tv":  89
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO",
+                                       "p":  1,
+                                       "km":  13.86,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "GOYOS BATA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -23762,6 +23783,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADOS PANONTIM LTDA",
+                                       "p":  1,
+                                       "km":  2.49,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                                        "p":  1,
@@ -23774,6 +23802,13 @@
                                        "p":  1,
                                        "km":  3.7,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  2,
+                                       "tv":  229
                                    }
                                ]
                    }
