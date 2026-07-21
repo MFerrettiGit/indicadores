@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  8,
-                     "km":  71.4,
+                     "km":  95.58,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  69.13,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "17:48",
+                     "tv":  "07:27:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -189,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  23.53,
+                     "km":  24.78,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:12",
@@ -199,27 +214,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  57,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "17:01",
-                     "tv":  "07:04:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  56.13,
+                     "km":  61.49,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:25",
@@ -279,7 +279,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  75.3,
+                     "km":  85.99,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:20",
@@ -323,14 +323,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  73.54,
+                     "visitas":  4,
+                     "km":  74.44,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "10:01",
-                     "ultimo":  "16:47",
-                     "tv":  "04:03:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:47",
+                     "tv":  "04:41:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -760,6 +760,15 @@ window.PAINEL = {
                          "out":  "17:01:22",
                          "km":  0.84,
                          "dur":  "01:26:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "17:25:40",
+                         "out":  "17:48:47",
+                         "km":  12.13,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1284,6 +1293,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:08:37",
+                         "out":  "17:47:25",
+                         "km":  0.9,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                          "mun":  "SAO JOSE DOS CA",
@@ -1561,7 +1579,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:35"
+                        "tempo":  "01:03:53"
                     }
                 ],
     "semped":  [
@@ -1670,34 +1688,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Costa",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:15:46"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:32:49"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "126:21:11"
+                         "tempo":  "126:33:37"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:30:23"
+                         "tempo":  "00:42:49"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:15:43"
+                         "tempo":  "02:28:09"
                      }
                  ],
     "hist":  [
@@ -1803,7 +1809,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     114,
+                     116,
                      18
                  ]
              ],
@@ -25056,7 +25062,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25064,7 +25070,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  8,
                                                        "pe":  0,
-                                                       "km":  71.4,
+                                                       "km":  95.58,
                                                        "tv":  382
                                                    },
                                                    {
@@ -25149,6 +25155,15 @@ window.PAINEL = {
                                                        "tv":  309
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  69.13,
+                                                       "tv":  447
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -25172,17 +25187,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  23.53,
+                                                       "km":  24.78,
                                                        "tv":  250
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  57,
-                                                       "tv":  424
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -25190,7 +25196,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  56.13,
+                                                       "km":  61.49,
                                                        "tv":  378
                                                    },
                                                    {
@@ -25226,7 +25232,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  75.3,
+                                                       "km":  85.99,
                                                        "tv":  293
                                                    },
                                                    {
@@ -25251,10 +25257,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  73.54,
-                                                       "tv":  243
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  74.44,
+                                                       "tv":  281
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -25583,6 +25589,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.84,
                                                          "tv":  86
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  12.13,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -25989,6 +26002,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  33.42,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                                         "p":  1,
+                                                         "km":  0.9,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Mariangela",

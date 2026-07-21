@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23255,7 +23255,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  8,
                                      "pe":  0,
-                                     "km":  71.4,
+                                     "km":  95.58,
                                      "tv":  382
                                  },
                                  {
@@ -23340,6 +23340,15 @@
                                      "tv":  309
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  69.13,
+                                     "tv":  447
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -23363,17 +23372,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  23.53,
+                                     "km":  24.78,
                                      "tv":  250
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  57,
-                                     "tv":  424
                                  },
                                  {
                                      "nome":  "Maira",
@@ -23381,7 +23381,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  56.13,
+                                     "km":  61.49,
                                      "tv":  378
                                  },
                                  {
@@ -23417,7 +23417,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  75.3,
+                                     "km":  85.99,
                                      "tv":  293
                                  },
                                  {
@@ -23442,10 +23442,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  73.54,
-                                     "tv":  243
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  74.44,
+                                     "tv":  281
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23774,6 +23774,13 @@
                                        "p":  1,
                                        "km":  0.84,
                                        "tv":  86
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  12.13,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Fernando",
@@ -24180,6 +24187,13 @@
                                        "p":  1,
                                        "km":  33.42,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                       "p":  1,
+                                       "km":  0.9,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Mariangela",
