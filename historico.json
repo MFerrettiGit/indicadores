@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23304,8 +23304,8 @@
                                      "tv":  121
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23313,8 +23313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23367,6 +23367,15 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  39.6,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -23383,15 +23392,6 @@
                                      "pe":  1,
                                      "km":  1.66,
                                      "tv":  32
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  38.97,
-                                     "tv":  49
                                  },
                                  {
                                      "nome":  "Castro",
@@ -23421,6 +23421,15 @@
                                      "tv":  107
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  24.42,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -23428,15 +23437,6 @@
                                      "pe":  1,
                                      "km":  32.12,
                                      "tv":  89
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  18.33,
-                                     "tv":  109
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23657,6 +23657,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BIANCHINI",
+                                       "p":  1,
+                                       "km":  0.63,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MINIMERCADO BOM JESUS LTDA",
                                        "p":  1,
@@ -23704,6 +23711,13 @@
                                        "p":  1,
                                        "km":  18.33,
                                        "tv":  109
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO NAKAMITSU LTDA",
+                                       "p":  1,
+                                       "km":  6.09,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Mariangela",

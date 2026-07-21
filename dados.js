@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "10:47",
                      "tv":  "03:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "10:37",
                      "tv":  "03:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "09:25",
                      "ultimo":  "10:16",
                      "tv":  "00:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,6 +195,21 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "10:30",
                      "tv":  "01:05:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  39.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:52",
+                     "ultimo":  "11:03",
+                     "tv":  "02:05:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "09:16",
                      "tv":  "00:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  38.97,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:52",
-                     "ultimo":  "09:42",
-                     "tv":  "00:49:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  24.42,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "11:06",
+                     "tv":  "02:34:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "09:49",
                      "tv":  "01:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  18.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "10:11",
-                     "tv":  "01:49:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -609,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BIANCHINI",
+                         "mun":  "ITIRAPINA",
+                         "in":  "09:46:35",
+                         "out":  "11:03:57",
+                         "km":  0.63,
+                         "dur":  "01:16:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "MINIMERCADO BOM JESUS LTDA",
                          "mun":  "CAMPINAS",
@@ -672,6 +681,15 @@ window.PAINEL = {
                          "dur":  "01:49:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
+                         "mun":  "PIRACAIA",
+                         "in":  "10:20:32",
+                         "out":  "11:06:17",
+                         "km":  6.09,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                          "mun":  "SAO JOSE DOS CA",
@@ -729,7 +747,7 @@ window.PAINEL = {
                         "obs":  "Troca do rolamento da roda do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:02"
+                        "tempo":  "00:42:01"
                     }
                 ],
     "semped":  [
@@ -748,100 +766,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:56"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:20:52"
+                         "tempo":  "00:35:51"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:37"
+                         "tempo":  "00:21:36"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:32"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:02:49"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:09:08"
+                         "tempo":  "00:24:07"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO MADEAN LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:28:13"
+                         "tempo":  "00:43:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:00:00"
+                         "tempo":  "01:14:59"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:04:16"
+                         "tempo":  "00:19:15"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "J. G. SUPERMERCADOS LTDA",
+                         "mun":  "CAJURU",
+                         "tempo":  "00:03:26"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:48:40"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "BIANCHINI",
-                         "mun":  "ITIRAPINA",
-                         "tempo":  "01:07:37"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
-                         "mun":  "PIRACAIA",
-                         "tempo":  "00:33:40"
+                         "tempo":  "01:03:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:15"
+                         "tempo":  "00:26:14"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:52:28"
+                         "tempo":  "01:07:27"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "119:33:57"
+                         "tempo":  "119:48:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "02:42:46"
+                         "tempo":  "02:57:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:21:32"
+                         "tempo":  "00:36:31"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MONTE BELLO",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:18:38"
+                         "tempo":  "00:33:37"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:16:56"
+                         "tempo":  "00:31:55"
                      }
                  ],
     "hist":  [
@@ -947,7 +977,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     37,
+                     39,
                      2
                  ]
              ],
@@ -24200,7 +24230,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24257,8 +24287,8 @@ window.PAINEL = {
                                                        "tv":  121
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24266,8 +24296,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24320,6 +24350,15 @@ window.PAINEL = {
                                                        "tv":  65
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  39.6,
+                                                       "tv":  125
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -24336,15 +24375,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  1.66,
                                                        "tv":  32
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  38.97,
-                                                       "tv":  49
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -24374,6 +24404,15 @@ window.PAINEL = {
                                                        "tv":  107
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  24.42,
+                                                       "tv":  154
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -24381,15 +24420,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  32.12,
                                                        "tv":  89
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  18.33,
-                                                       "tv":  109
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -24610,6 +24640,13 @@ window.PAINEL = {
                                                          "tv":  49
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BIANCHINI",
+                                                         "p":  1,
+                                                         "km":  0.63,
+                                                         "tv":  76
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "MINIMERCADO BOM JESUS LTDA",
                                                          "p":  1,
@@ -24657,6 +24694,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  18.33,
                                                          "tv":  109
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO NAKAMITSU LTDA",
+                                                         "p":  1,
+                                                         "km":  6.09,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Mariangela",
