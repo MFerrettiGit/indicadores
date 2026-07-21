@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23367,6 +23367,15 @@
                                      "tv":  90
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  25.96,
+                                     "tv":  214
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -23376,22 +23385,13 @@
                                      "tv":  65
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  18.74,
-                                     "tv":  102
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.66,
-                                     "tv":  32
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  4.41,
+                                     "tv":  176
                                  },
                                  {
                                      "nome":  "Castro",
@@ -23403,6 +23403,15 @@
                                      "tv":  138
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  12.31,
+                                     "tv":  205
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -23410,15 +23419,6 @@
                                      "pe":  3,
                                      "km":  26.91,
                                      "tv":  200
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  11.61,
-                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -23657,6 +23657,13 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO MADEAN LTDA.",
+                                       "p":  1,
+                                       "km":  7.22,
+                                       "tv":  112
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -23692,6 +23699,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  1,
+                                       "km":  2.75,
+                                       "tv":  144
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMAX ITIRAPINA MERCADO LTDA",
                                        "p":  1,
@@ -23725,6 +23739,13 @@
                                        "p":  1,
                                        "km":  5.56,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
+                                       "p":  1,
+                                       "km":  0.7,
+                                       "tv":  98
                                    },
                                    {
                                        "n":  "Castro",
