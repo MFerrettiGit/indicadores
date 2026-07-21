@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  7,
-                     "km":  70.11,
+                     "visitas":  8,
+                     "km":  71.4,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
-                     "ultimo":  "15:11",
-                     "tv":  "04:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:51",
+                     "tv":  "06:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  66.49,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:51",
+                     "ultimo":  "16:54",
+                     "tv":  "07:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "14:04",
                      "tv":  "05:06:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  66.49,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:51",
-                     "ultimo":  "15:23",
-                     "tv":  "06:32:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  158,
+                     "km":  180.19,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:41",
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "15:33",
                      "tv":  "03:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:25",
                      "ultimo":  "16:21",
                      "tv":  "06:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "16:25",
                      "tv":  "05:23:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -256,6 +256,21 @@ window.PAINEL = {
                      "ultimo":  "15:12",
                      "tv":  "04:52:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  43.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "16:44",
+                     "tv":  "04:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "16:19",
                      "tv":  "04:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,33 +319,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  31.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "15:09",
-                     "tv":  "04:07:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  40.12,
+                     "visitas":  3,
+                     "km":  73.54,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "10:01",
-                     "ultimo":  "14:30",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:47",
+                     "tv":  "04:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -510,6 +510,15 @@ window.PAINEL = {
                          "dur":  "01:54:00"
                      },
                      {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "15:33:42",
+                         "out":  "16:54:16",
+                         "km":  0,
+                         "dur":  "01:20:00"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
@@ -571,6 +580,15 @@ window.PAINEL = {
                          "out":  "15:11:18",
                          "km":  22.45,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "in":  "15:28:05",
+                         "out":  "16:51:49",
+                         "km":  1.29,
+                         "dur":  "01:23:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -1158,6 +1176,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:22:16",
+                         "out":  "16:47:34",
+                         "km":  33.42,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                          "mun":  "SAO JOSE DOS CA",
@@ -1192,6 +1219,15 @@ window.PAINEL = {
                          "out":  "15:09:44",
                          "km":  11.31,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "16:16:03",
+                         "out":  "16:44:12",
+                         "km":  12.33,
+                         "dur":  "00:28:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1419,6 +1455,14 @@ window.PAINEL = {
                         "inicio":  "13:54",
                         "final":  "14:54",
                         "tempo":  "01:00:23"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:12"
                     }
                 ],
     "semped":  [
@@ -1518,73 +1562,79 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:37:35"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "VALINHOS",
-                         "tempo":  "01:11:12"
+                         "tempo":  "00:52:29"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:34:11"
+                         "tempo":  "01:49:05"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:05:35"
+                         "tempo":  "01:20:29"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:11:05"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:09:19"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:05:19"
+                         "tempo":  "00:20:13"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:04:29"
+                         "tempo":  "01:19:23"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "ROSARIO DE JESUS MARTINEZ-ME",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:12:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:57:52"
+                         "tempo":  "01:12:46"
                      },
                      {
-                         "nome":  "Karina",
-                         "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:17:01"
+                         "nome":  "Alan",
+                         "razao":  "VILA MIMOSA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:05:05"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "125:19:02"
+                         "tempo":  "125:33:56"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:13:34"
+                         "tempo":  "01:28:28"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO BONA COMPRA LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:36:06"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:23:14"
+                         "tempo":  "00:51:00"
                      }
                  ],
     "hist":  [
@@ -1690,7 +1740,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     98,
+                     101,
                      16
                  ]
              ],
@@ -24943,16 +24993,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  0,
-                                                       "km":  70.11,
-                                                       "tv":  299
+                                                       "km":  71.4,
+                                                       "tv":  382
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -24964,6 +25014,15 @@ window.PAINEL = {
                                                        "tv":  293
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  66.49,
+                                                       "tv":  472
+                                                   },
+                                                   {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
@@ -24971,15 +25030,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  72.92,
                                                        "tv":  306
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  66.49,
-                                                       "tv":  392
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -25041,7 +25091,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  158,
+                                                       "km":  180.19,
                                                        "tv":  224
                                                    },
                                                    {
@@ -25099,6 +25149,15 @@ window.PAINEL = {
                                                        "tv":  292
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  43.73,
+                                                       "tv":  275
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -25126,22 +25185,13 @@ window.PAINEL = {
                                                        "tv":  241
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  31.4,
-                                                       "tv":  247
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  40.12,
-                                                       "tv":  218
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  73.54,
+                                                       "tv":  243
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -25276,6 +25326,13 @@ window.PAINEL = {
                                                          "tv":  114
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  80
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  1,
@@ -25323,6 +25380,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.45,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  1.29,
+                                                         "tv":  83
                                                      },
                                                      {
                                                          "n":  "Silmara",
@@ -25780,6 +25844,13 @@ window.PAINEL = {
                                                          "tv":  59
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                                         "p":  1,
+                                                         "km":  33.42,
+                                                         "tv":  25
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                                                          "p":  1,
@@ -25806,6 +25877,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  11.31,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                                         "p":  1,
+                                                         "km":  12.33,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Nelson",

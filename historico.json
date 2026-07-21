@@ -23247,16 +23247,16 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  0,
-                                     "km":  70.11,
-                                     "tv":  299
+                                     "km":  71.4,
+                                     "tv":  382
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -23268,6 +23268,15 @@
                                      "tv":  293
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  66.49,
+                                     "tv":  472
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -23275,15 +23284,6 @@
                                      "pe":  0,
                                      "km":  72.92,
                                      "tv":  306
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  66.49,
-                                     "tv":  392
                                  },
                                  {
                                      "nome":  "Debora",
@@ -23345,7 +23345,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  158,
+                                     "km":  180.19,
                                      "tv":  224
                                  },
                                  {
@@ -23403,6 +23403,15 @@
                                      "tv":  292
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  43.73,
+                                     "tv":  275
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -23430,22 +23439,13 @@
                                      "tv":  241
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  31.4,
-                                     "tv":  247
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  40.12,
-                                     "tv":  218
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  73.54,
+                                     "tv":  243
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23580,6 +23580,13 @@
                                        "tv":  114
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -23627,6 +23634,13 @@
                                        "p":  1,
                                        "km":  22.45,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.29,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Silmara",
@@ -24084,6 +24098,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                       "p":  1,
+                                       "km":  33.42,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                                        "p":  1,
@@ -24110,6 +24131,13 @@
                                        "p":  1,
                                        "km":  11.31,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                       "p":  1,
+                                       "km":  12.33,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Nelson",
