@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23257,6 +23257,15 @@
                                      "pe":  0,
                                      "km":  37.73,
                                      "tv":  107
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  59.33,
+                                     "tv":  139
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -23275,15 +23284,6 @@
                                      "pe":  0,
                                      "km":  48.18,
                                      "tv":  92
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  45.26,
-                                     "tv":  37
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -23376,21 +23376,21 @@
                                      "tv":  32
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  38.97,
+                                     "tv":  49
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.86,
                                      "tv":  0
                                  },
                                  {
@@ -23412,6 +23412,24 @@
                                      "tv":  57
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  32.12,
+                                     "tv":  89
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.6,
+                                     "tv":  85
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -23421,35 +23439,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  11.68,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -23463,6 +23454,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.62,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -23508,6 +23508,13 @@
                                        "p":  1,
                                        "km":  45.26,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  14.07,
+                                       "tv":  102
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -23559,6 +23566,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMAX ITIRAPINA MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  38.11,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MINIMERCADO BOM JESUS LTDA",
                                        "p":  1,
@@ -23578,6 +23592,20 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO L.S.B LTDA",
+                                       "p":  1,
+                                       "km":  20.44,
+                                       "tv":  89
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
+                                       "p":  1,
+                                       "km":  6.6,
+                                       "tv":  85
                                    }
                                ]
                    }
