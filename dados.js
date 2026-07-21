@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "14:04",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Vinicius",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "14:45",
                      "tv":  "03:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "13:04",
                      "tv":  "04:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "12:36",
                      "tv":  "03:08:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -1041,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "01:58:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO SHIBATA LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "14:47:05",
+                         "out":  "15:09:44",
+                         "km":  11.31,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
@@ -1188,6 +1197,14 @@ window.PAINEL = {
                         "tempo":  "01:07:11"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:10",
+                        "final":  "15:07",
+                        "tempo":  "00:56:38"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1241,15 +1258,7 @@ window.PAINEL = {
                         "obs":  "manutenção automóvel,  troca módulo abs",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:41"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:38"
+                        "tempo":  "00:59:48"
                     },
                     {
                         "nome":  "Karina",
@@ -1257,7 +1266,7 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:02"
+                        "tempo":  "00:39:09"
                     }
                 ],
     "semped":  [
@@ -1333,73 +1342,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:53:56"
+                         "tempo":  "01:09:00"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:29:23"
+                         "tempo":  "00:44:27"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:52"
+                         "tempo":  "00:19:56"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:10"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:26:05"
+                         "tempo":  "01:41:09"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:09:38"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:06:57"
+                         "tempo":  "00:22:01"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:06:17"
+                         "tempo":  "01:21:21"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:18:54"
+                         "tempo":  "00:33:58"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:32:31"
+                         "tempo":  "00:47:35"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RODRIGUES",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:06:56"
+                         "tempo":  "00:22:00"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS SUPERMERCADO LTDA.",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:28:18"
+                         "tempo":  "00:43:22"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "123:33:57"
+                         "tempo":  "123:49:01"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:07:07"
+                         "tempo":  "00:22:11"
                      }
                  ],
     "hist":  [
@@ -24758,7 +24779,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24815,8 +24836,8 @@ window.PAINEL = {
                                                        "tv":  283
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24824,8 +24845,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -25502,6 +25523,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.79,
                                                          "tv":  118
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO SHIBATA LTDA",
+                                                         "p":  1,
+                                                         "km":  11.31,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Nelson",
