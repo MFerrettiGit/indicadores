@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  189.5,
+                     "km":  211.03,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:41",
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  67.72,
+                     "visitas":  2,
+                     "km":  69.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:11",
-                     "ultimo":  "12:01",
-                     "tv":  "03:49:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:03",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1354,6 +1354,15 @@ window.PAINEL = {
                          "out":  "12:01:48",
                          "km":  2,
                          "dur":  "03:49:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPEVA",
+                         "in":  "17:11:03",
+                         "out":  "18:03:56",
+                         "km":  2.21,
+                         "dur":  "00:51:00"
                      }
                  ],
     "eventos":  [
@@ -1579,7 +1588,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:53"
+                        "tempo":  "01:19:10"
                     }
                 ],
     "semped":  [
@@ -1691,19 +1700,13 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "126:33:37"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITAPEVA",
-                         "tempo":  "00:42:49"
+                         "tempo":  "126:48:51"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:28:09"
+                         "tempo":  "02:43:23"
                      }
                  ],
     "hist":  [
@@ -1809,7 +1812,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     116,
+                     117,
                      18
                  ]
              ],
@@ -25062,7 +25065,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25169,7 +25172,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  189.5,
+                                                       "km":  211.03,
                                                        "tv":  247
                                                    },
                                                    {
@@ -25266,10 +25269,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  67.72,
-                                                       "tv":  229
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  69.93,
+                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -26051,6 +26054,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2,
                                                          "tv":  229
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  1,
+                                                         "km":  2.21,
+                                                         "tv":  51
                                                      }
                                                  ]
                                      }

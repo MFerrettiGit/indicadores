@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23354,7 +23354,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  189.5,
+                                     "km":  211.03,
                                      "tv":  247
                                  },
                                  {
@@ -23451,10 +23451,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  67.72,
-                                     "tv":  229
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  69.93,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24236,6 +24236,13 @@
                                        "p":  1,
                                        "km":  2,
                                        "tv":  229
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  51
                                    }
                                ]
                    }
