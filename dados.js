@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:54",
                      "ultimo":  "15:11",
                      "tv":  "04:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "15:23",
                      "tv":  "06:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  101.15,
+                     "visitas":  7,
+                     "km":  117.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
-                     "ultimo":  "14:09",
-                     "tv":  "05:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:37",
+                     "tv":  "06:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -151,6 +151,21 @@ window.PAINEL = {
                      "ultimo":  "13:44",
                      "tv":  "02:55:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  79.14,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:52",
+                     "ultimo":  "15:33",
+                     "tv":  "03:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "15:19",
                      "tv":  "05:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "14:49",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  42.26,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:52",
-                     "ultimo":  "12:36",
-                     "tv":  "03:08:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "13:02",
                      "tv":  "04:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "14:38",
                      "tv":  "03:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -834,6 +834,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:21:41",
+                         "out":  "15:37:05",
+                         "km":  16.76,
+                         "dur":  "01:14:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                          "mun":  "AMPARO",
@@ -895,6 +904,15 @@ window.PAINEL = {
                          "out":  "12:36:41",
                          "km":  1.01,
                          "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:10:11",
+                         "out":  "15:33:23",
+                         "km":  36.88,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1312,7 +1330,7 @@ window.PAINEL = {
                         "obs":  "manutenção automóvel,  troca módulo abs",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:42"
+                        "tempo":  "01:29:48"
                     },
                     {
                         "nome":  "Karina",
@@ -1320,7 +1338,15 @@ window.PAINEL = {
                         "obs":  "saindo de ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:03"
+                        "tempo":  "01:09:09"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Retorno médico",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:20"
                     }
                 ],
     "semped":  [
@@ -1402,55 +1428,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:23:54"
+                         "tempo":  "01:38:57"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:59:21"
+                         "tempo":  "01:14:24"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:11:08"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:19:04"
+                         "tempo":  "00:34:07"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:05:31"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:24:32"
+                         "tempo":  "00:39:35"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:36:55"
+                         "tempo":  "00:51:58"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "TERIN TERIN CIA LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:03:53"
+                         "tempo":  "00:18:56"
                      },
                      {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:02:29"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "COGEB SUPERMERCADOS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:13:59"
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:04:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "124:03:55"
+                         "tempo":  "124:18:58"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:13:30"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ALTO GIRO SUPERMERCADO LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:07:09"
                      }
                  ],
     "hist":  [
@@ -1556,7 +1600,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     87,
+                     89,
                      13
                  ]
              ],
@@ -24809,7 +24853,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24887,10 +24931,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  101.15,
-                                                       "tv":  308
+                                                       "km":  117.91,
+                                                       "tv":  382
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -24900,6 +24944,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  166,
                                                        "tv":  175
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  79.14,
+                                                       "tv":  211
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -24927,15 +24980,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  99.3,
                                                        "tv":  194
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  42.26,
-                                                       "tv":  188
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -25394,6 +25438,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  16.76,
+                                                         "tv":  74
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                                                          "p":  1,
@@ -25441,6 +25492,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.01,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  36.88,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Alan",

@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23325,10 +23325,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  101.15,
-                                     "tv":  308
+                                     "km":  117.91,
+                                     "tv":  382
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -23338,6 +23338,15 @@
                                      "pe":  0,
                                      "km":  166,
                                      "tv":  175
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  79.14,
+                                     "tv":  211
                                  },
                                  {
                                      "nome":  "Luis",
@@ -23365,15 +23374,6 @@
                                      "pe":  4,
                                      "km":  99.3,
                                      "tv":  194
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  42.26,
-                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Maira",
@@ -23832,6 +23832,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  16.76,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                                        "p":  1,
@@ -23879,6 +23886,13 @@
                                        "p":  0,
                                        "km":  1.01,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  36.88,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Alan",
