@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "12:06",
                      "tv":  "04:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:12",
                      "ultimo":  "14:24",
                      "tv":  "02:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "13:15",
                      "tv":  "04:27:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "14:10",
                      "tv":  "04:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  57.58,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:20",
+                     "ultimo":  "14:38",
+                     "tv":  "03:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -304,19 +319,19 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  45.98,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "11:58",
-                     "tv":  "02:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "km":  40.12,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "10:01",
+                     "ultimo":  "14:30",
+                     "tv":  "03:38:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "12:01",
                      "tv":  "03:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  38.1,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "10:01",
-                     "ultimo":  "12:40",
-                     "tv":  "02:39:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -924,6 +924,15 @@ window.PAINEL = {
                          "dur":  "01:22:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "POLIZEL E CIA LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:44:18",
+                         "out":  "14:38:16",
+                         "km":  11.6,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS BATA SUPERMERCADO LTDA",
                          "mun":  "PIRACAIA",
@@ -978,6 +987,15 @@ window.PAINEL = {
                          "dur":  "02:39:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
+                         "mun":  "ILHABELA",
+                         "in":  "13:30:27",
+                         "out":  "14:30:04",
+                         "km":  2.02,
+                         "dur":  "00:59:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                          "mun":  "SAO JOSE DOS CA",
@@ -1015,6 +1033,14 @@ window.PAINEL = {
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:29",
+                        "final":  "14:34",
+                        "tempo":  "01:04:29"
+                    },
                     {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
@@ -1168,20 +1194,12 @@ window.PAINEL = {
                         "tempo":  "01:00:11"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:13"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:15"
+                        "tempo":  "01:03:11"
                     },
                     {
                         "nome":  "Costa",
@@ -1189,7 +1207,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:50"
+                        "tempo":  "00:53:46"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1197,7 +1215,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:54"
+                        "tempo":  "00:45:50"
                     },
                     {
                         "nome":  "Alan",
@@ -1205,7 +1223,7 @@ window.PAINEL = {
                         "obs":  "manutenção automóvel,  troca módulo abs",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:43"
+                        "tempo":  "00:29:39"
                     },
                     {
                         "nome":  "Silmara",
@@ -1213,7 +1231,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:40"
+                        "tempo":  "00:29:36"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "saindo de ilhabela",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:00"
                     }
                 ],
     "semped":  [
@@ -1266,6 +1292,12 @@ window.PAINEL = {
                        "obs":  "compras suspensa"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "POLIZEL E CIA LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Não está fazendo pedido esta semana estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MERCADO ALFA ITIRAPINA LTDA",
                        "mun":  "ITIRAPINA",
@@ -1283,61 +1315,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:23:57"
+                         "tempo":  "00:38:55"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:14:22"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:56:06"
+                         "tempo":  "01:11:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:11:50"
+                         "tempo":  "00:26:48"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:36:18"
+                         "tempo":  "00:51:16"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "COMERCIAL 3D LTDA",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:38:49"
+                         "tempo":  "00:03:53"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:02:32"
+                         "tempo":  "00:17:30"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO UNIAO REAL LTDA.",
                          "mun":  "CAJURU",
-                         "tempo":  "00:04:37"
+                         "tempo":  "00:19:35"
                      },
                      {
-                         "nome":  "Karina",
-                         "razao":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
-                         "mun":  "ILHABELA",
-                         "tempo":  "00:53:46"
+                         "nome":  "Eugenio",
+                         "razao":  "GOYOS SUPERMERCADO LTDA.",
+                         "mun":  "PIRACAIA",
+                         "tempo":  "00:13:17"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "123:03:58"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "POLIZEL E CIA LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:39:55"
+                         "tempo":  "123:18:56"
                      }
                  ],
     "hist":  [
@@ -1443,8 +1475,8 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     74,
-                     10
+                     77,
+                     11
                  ]
              ],
     "historico":  {
@@ -24696,7 +24728,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24870,6 +24902,15 @@ window.PAINEL = {
                                                        "tv":  205
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  57.58,
+                                                       "tv":  224
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -24879,13 +24920,13 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
                                                        "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  45.98,
-                                                       "tv":  171
+                                                       "pe":  1,
+                                                       "km":  40.12,
+                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -24895,15 +24936,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  67.72,
                                                        "tv":  229
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  38.1,
-                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -25351,6 +25383,13 @@ window.PAINEL = {
                                                          "tv":  82
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "POLIZEL E CIA LTDA",
+                                                         "p":  0,
+                                                         "km":  11.6,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "GOYOS BATA SUPERMERCADO LTDA",
                                                          "p":  1,
@@ -25391,6 +25430,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  36.48,
                                                          "tv":  159
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.02,
+                                                         "tv":  59
                                                      },
                                                      {
                                                          "n":  "Mariangela",

@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23421,6 +23421,15 @@
                                      "tv":  205
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  57.58,
+                                     "tv":  224
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -23430,13 +23439,13 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  45.98,
-                                     "tv":  171
+                                     "pe":  1,
+                                     "km":  40.12,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23446,15 +23455,6 @@
                                      "pe":  1,
                                      "km":  67.72,
                                      "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.1,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -23902,6 +23902,13 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "POLIZEL E CIA LTDA",
+                                       "p":  0,
+                                       "km":  11.6,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "GOYOS BATA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -23942,6 +23949,13 @@
                                        "p":  0,
                                        "km":  36.48,
                                        "tv":  159
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
+                                       "p":  1,
+                                       "km":  2.02,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Mariangela",
