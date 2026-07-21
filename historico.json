@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23273,7 +23273,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  62.78,
+                                     "km":  131.39,
                                      "tv":  293
                                  },
                                  {
@@ -23291,7 +23291,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  101.41,
+                                     "km":  104.36,
                                      "tv":  415
                                  },
                                  {
@@ -23340,6 +23340,24 @@
                                      "tv":  309
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  189.5,
+                                     "tv":  247
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  23.53,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -23358,15 +23376,6 @@
                                      "tv":  378
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  180.19,
-                                     "tv":  224
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -23374,15 +23383,6 @@
                                      "pe":  3,
                                      "km":  79.14,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  23.53,
-                                     "tv":  204
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -23401,6 +23401,15 @@
                                      "pe":  6,
                                      "km":  61.04,
                                      "tv":  370
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  22.77,
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -23428,15 +23437,6 @@
                                      "pe":  4,
                                      "km":  88.3,
                                      "tv":  242
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  19.39,
-                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Karina",
@@ -23811,6 +23811,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  9.31,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "COMERCIAL 3D LTDA",
                                        "p":  1,
@@ -23837,6 +23844,13 @@
                                        "p":  0,
                                        "km":  4.31,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Maira",
@@ -24012,6 +24026,13 @@
                                        "p":  1,
                                        "km":  7.08,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VILA MIMOSA LTDA",
+                                       "p":  1,
+                                       "km":  3.38,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Castro",
