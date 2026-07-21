@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -23,14 +23,14 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  69.65,
+                     "visitas":  5,
+                     "km":  72.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:08",
-                     "ultimo":  "12:36",
-                     "tv":  "03:47:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:04",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "12:55",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "09:25",
                      "ultimo":  "13:44",
                      "tv":  "02:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:46",
                      "tv":  "02:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:02",
                      "tv":  "04:02:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -573,6 +573,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "12:44:30",
+                         "out":  "14:04:24",
+                         "km":  3.27,
+                         "dur":  "01:19:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                          "mun":  "BOITUVA",
@@ -751,6 +760,15 @@ window.PAINEL = {
                          "out":  "13:46:55",
                          "km":  3.55,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "13:47:39",
+                         "out":  "14:09:48",
+                         "km":  4.76,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -1076,6 +1094,22 @@ window.PAINEL = {
                         "tempo":  "01:00:35"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:00",
+                        "final":  "14:07",
+                        "tempo":  "01:07:11"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:03",
+                        "final":  "14:07",
+                        "tempo":  "01:04:06"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Itirapina",
@@ -1092,28 +1126,12 @@ window.PAINEL = {
                         "tempo":  "01:00:11"
                     },
                     {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:57"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:25"
-                    },
-                    {
                         "nome":  "Edimilson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:37"
+                        "tempo":  "01:02:42"
                     },
                     {
                         "nome":  "Evandro",
@@ -1121,7 +1139,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:54"
+                        "tempo":  "00:51:59"
                     },
                     {
                         "nome":  "Debora",
@@ -1129,7 +1147,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:21"
+                        "tempo":  "00:49:26"
                     },
                     {
                         "nome":  "Maira",
@@ -1137,7 +1155,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:03"
+                        "tempo":  "00:40:08"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1145,7 +1163,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:05"
+                        "tempo":  "00:33:10"
                     },
                     {
                         "nome":  "Costa",
@@ -1153,7 +1171,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:40"
+                        "tempo":  "00:23:45"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1161,7 +1179,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:44"
+                        "tempo":  "00:15:49"
                     }
                 ],
     "semped":  [
@@ -1228,58 +1246,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:55"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:26:03"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "01:09:40"
+                         "tempo":  "00:41:04"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:06:15"
+                         "tempo":  "00:21:16"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:08:46"
+                         "tempo":  "00:23:47"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:06:31"
+                         "tempo":  "00:21:32"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO DO HAKUO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:01:59"
+                         "tempo":  "00:17:00"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:23:43"
+                         "tempo":  "00:38:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "122:33:55"
+                         "tempo":  "122:48:56"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "POLIZEL E CIA LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:09:52"
+                         "tempo":  "00:24:53"
                      }
                  ],
     "hist":  [
@@ -1385,7 +1403,7 @@ window.PAINEL = {
                  ],
                  [
                      "21/07",
-                     71,
+                     72,
                      10
                  ]
              ],
@@ -24638,7 +24656,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24653,10 +24671,10 @@ window.PAINEL = {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  69.65,
-                                                       "tv":  227
+                                                       "km":  72.92,
+                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -24695,8 +24713,8 @@ window.PAINEL = {
                                                        "tv":  283
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24704,8 +24722,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -25020,6 +25038,13 @@ window.PAINEL = {
                                                          "tv":  71
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  3.27,
+                                                         "tv":  79
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                                          "p":  1,
@@ -25158,6 +25183,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.55,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.76,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Rachel",
