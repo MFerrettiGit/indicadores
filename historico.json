@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23286,6 +23286,15 @@
                                      "tv":  392
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  95.19,
+                                     "tv":  359
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -23295,17 +23304,8 @@
                                      "tv":  293
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  51.71,
-                                     "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23313,8 +23313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23412,6 +23412,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  71.46,
+                                     "tv":  241
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -23428,15 +23437,6 @@
                                      "pe":  3,
                                      "km":  12.31,
                                      "tv":  205
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  57.58,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Karina",
@@ -23487,6 +23487,13 @@
                                        "p":  1,
                                        "km":  1.2,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                       "p":  1,
+                                       "km":  43.48,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -23683,6 +23690,13 @@
                                        "p":  1,
                                        "km":  0.59,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  3.71,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Costa",
@@ -23970,6 +23984,13 @@
                                        "p":  0,
                                        "km":  11.6,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ALTO GIRO SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  13.88,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Eugenio",
