@@ -23247,8 +23247,17 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  37.73,
+                                     "tv":  107
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -23257,15 +23266,6 @@
                                      "pe":  0,
                                      "km":  25.9,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  23.47,
-                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Debora",
@@ -23358,30 +23358,30 @@
                                      "tv":  34
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  20.45,
+                                     "tv":  32
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.66,
+                                     "tv":  32
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.38,
                                      "tv":  0
                                  },
                                  {
@@ -23397,10 +23397,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.11,
+                                     "tv":  38
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  40.11,
-                                     "tv":  20
+                                     "km":  6.05,
+                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23409,15 +23418,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  65.72,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.05,
                                      "tv":  0
                                  },
                                  {
@@ -23496,6 +23496,13 @@
                                        "tv":  83
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  14.26,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -23515,6 +23522,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  20.45,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Luis",
@@ -23538,11 +23552,32 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                                       "p":  1,
+                                       "km":  1.28,
+                                       "tv":  32
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MINIMERCADO BOM JESUS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
                                        "km":  40.11,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  18
                                    }
                                ]
                    }
