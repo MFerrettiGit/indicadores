@@ -23247,8 +23247,17 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  63.57,
+                                     "tv":  156
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -23259,13 +23268,22 @@
                                      "tv":  107
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  59.33,
-                                     "tv":  139
+                                     "km":  50.51,
+                                     "tv":  191
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  39.95,
+                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -23277,15 +23295,6 @@
                                      "tv":  126
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  48.18,
-                                     "tv":  92
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -23293,15 +23302,6 @@
                                      "pe":  0,
                                      "km":  26.2,
                                      "tv":  94
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.22,
-                                     "tv":  43
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -23334,10 +23334,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  89.85,
+                                     "tv":  50
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  9.53,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Costa",
@@ -23347,15 +23356,6 @@
                                      "pe":  2,
                                      "km":  54.34,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.74,
-                                     "tv":  55
                                  },
                                  {
                                      "nome":  "Maira",
@@ -23394,6 +23394,15 @@
                                      "tv":  49
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  10.3,
+                                     "tv":  107
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -23421,13 +23430,13 @@
                                      "tv":  89
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  6.6,
-                                     "tv":  85
+                                     "km":  18.33,
+                                     "tv":  109
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -23436,15 +23445,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  65.72,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -23475,11 +23475,25 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.33,
+                                       "tv":  99
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
                                        "km":  15.18,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  0,
+                                       "km":  89.85,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Eliana",
@@ -23517,11 +23531,25 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  4.24,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
                                        "km":  38.22,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  1.73,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Costa",
@@ -23550,6 +23578,13 @@
                                        "p":  1,
                                        "km":  4.07,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  1,
+                                       "km":  4.79,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Maira",
@@ -23622,11 +23657,25 @@
                                        "tv":  89
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "GOYOS BATA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  18.33,
+                                       "tv":  109
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                                        "p":  1,
                                        "km":  6.6,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO LIMA BEZERRA LTDA",
+                                       "p":  1,
+                                       "km":  3.7,
+                                       "tv":  22
                                    }
                                ]
                    }
