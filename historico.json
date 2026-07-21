@@ -23247,16 +23247,16 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  47.66,
-                                     "tv":  278
+                                     "km":  70.11,
+                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -23277,6 +23277,15 @@
                                      "tv":  238
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  66.49,
+                                     "tv":  392
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -23284,15 +23293,6 @@
                                      "pe":  0,
                                      "km":  34.11,
                                      "tv":  293
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  58.16,
-                                     "tv":  278
                                  },
                                  {
                                      "nome":  "Debora",
@@ -23340,6 +23340,24 @@
                                      "tv":  175
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  23.53,
+                                     "tv":  204
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  56.16,
+                                     "tv":  338
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -23358,24 +23376,6 @@
                                      "tv":  188
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  19.22,
-                                     "tv":  157
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  55.42,
-                                     "tv":  306
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -23388,19 +23388,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  4.41,
-                                     "tv":  176
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.27,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  29.91,
-                                     "tv":  246
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  31.38,
+                                     "tv":  292
                                  },
                                  {
                                      "nome":  "Castro",
@@ -23410,6 +23410,15 @@
                                      "pe":  4,
                                      "km":  88.3,
                                      "tv":  242
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  31.4,
+                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Alan",
@@ -23428,15 +23437,6 @@
                                      "pe":  2,
                                      "km":  57.58,
                                      "tv":  224
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  20.09,
-                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Karina",
@@ -23559,6 +23559,13 @@
                                        "tv":  79
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  1,
+                                       "km":  8.33,
+                                       "tv":  114
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -23599,6 +23606,13 @@
                                        "p":  1,
                                        "km":  2.9,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  22.45,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Silmara",
@@ -23692,6 +23706,13 @@
                                        "tv":  216
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.74,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -23739,6 +23760,13 @@
                                        "p":  1,
                                        "km":  9.69,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.31,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Maira",
@@ -23816,6 +23844,13 @@
                                        "p":  1,
                                        "km":  2.75,
                                        "tv":  144
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.86,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -23956,6 +23991,13 @@
                                        "p":  1,
                                        "km":  1.42,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "GOYOS SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.47,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Karina",
