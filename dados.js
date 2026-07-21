@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "21/07/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:54",
                      "ultimo":  "09:11",
                      "tv":  "01:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "08:58",
                      "tv":  "02:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -147,10 +147,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:25",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "09:23",
                      "tv":  "00:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -541,7 +541,7 @@ window.PAINEL = {
                         "obs":  "ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:57:52"
+                        "tempo":  "02:12:51"
                     }
                 ],
     "semped":  [
@@ -549,88 +549,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:13:11"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:39:45"
+                         "tempo":  "00:54:46"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:26"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:14:00"
+                         "tempo":  "00:29:01"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:05:20"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:22:11"
+                         "tempo":  "00:37:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:20:20"
+                         "tempo":  "01:35:21"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:58:53"
+                         "tempo":  "01:13:54"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:06:00"
+                         "tempo":  "00:21:01"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:09:12"
+                         "tempo":  "00:24:13"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:18:35"
+                         "tempo":  "00:33:36"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMAX ITIRAPINA MERCADO LTDA",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:31:27"
+                         "tempo":  "00:46:28"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS BATA SUPERMERCADO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "01:01:57"
+                         "tempo":  "01:16:58"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "118:03:54"
+                         "tempo":  "118:18:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:12:43"
+                         "tempo":  "01:27:44"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                         "mun":  "CAJAMAR",
+                         "tempo":  "00:11:52"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO L.S.B LTDA",
                          "mun":  "SALTINHO",
-                         "tempo":  "01:03:52"
+                         "tempo":  "01:18:53"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:01:39"
+                         "tempo":  "01:16:40"
                      }
                  ],
     "hist":  [
@@ -23989,7 +24013,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-21":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -24046,8 +24070,8 @@ window.PAINEL = {
                                                        "tv":  43
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -24055,8 +24079,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
