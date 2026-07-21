@@ -23247,16 +23247,16 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  42.16,
-                                     "tv":  200
+                                     "km":  44.76,
+                                     "tv":  263
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -23266,6 +23266,15 @@
                                      "pe":  0,
                                      "km":  69.65,
                                      "tv":  227
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  58.48,
+                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -23295,17 +23304,8 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.55,
-                                     "tv":  145
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23313,8 +23313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23349,6 +23349,15 @@
                                      "tv":  188
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  97.79,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -23374,15 +23383,6 @@
                                      "pe":  1,
                                      "km":  25.96,
                                      "tv":  214
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  59.2,
-                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -23451,10 +23451,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  1.62,
-                                     "tv":  0
+                                     "km":  38.1,
+                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -23573,6 +23573,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  2.6,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -23622,6 +23629,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  17.93,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -23648,6 +23662,13 @@
                                        "p":  1,
                                        "km":  38.75,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "J. G. SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  38.59,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Luis",
@@ -23830,6 +23851,13 @@
                                        "p":  1,
                                        "km":  2.49,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO DO FRADE LTDA.",
+                                       "p":  0,
+                                       "km":  36.48,
+                                       "tv":  159
                                    },
                                    {
                                        "n":  "Mariangela",
