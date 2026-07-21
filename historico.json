@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23325,19 +23325,19 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  92.84,
-                                     "tv":  180
+                                     "km":  96.39,
+                                     "tv":  286
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  131.71,
-                                     "tv":  98
+                                     "km":  166,
+                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -23347,6 +23347,15 @@
                                      "pe":  2,
                                      "km":  42.26,
                                      "tv":  188
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  55.42,
+                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Maira",
@@ -23376,15 +23385,6 @@
                                      "tv":  119
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  54.34,
-                                     "tv":  90
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -23403,6 +23403,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  28.49,
+                                     "tv":  228
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -23410,15 +23419,6 @@
                                      "pe":  3,
                                      "km":  12.31,
                                      "tv":  205
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  26.91,
-                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -23529,6 +23529,13 @@
                                        "p":  0,
                                        "km":  41.86,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  34.29,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Eliana",
@@ -23664,6 +23671,13 @@
                                        "tv":  56
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  1.08,
+                                       "tv":  216
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -23746,6 +23760,13 @@
                                        "p":  1,
                                        "km":  24.02,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.55,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Rachel",
@@ -23879,6 +23900,13 @@
                                        "p":  1,
                                        "km":  2.49,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DMIX SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.58,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Karina",
