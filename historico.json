@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23304,8 +23304,8 @@
                                      "tv":  283
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23313,8 +23313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23325,10 +23325,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  96.39,
-                                     "tv":  286
+                                     "km":  101.15,
+                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -23347,6 +23347,15 @@
                                      "pe":  2,
                                      "km":  42.26,
                                      "tv":  188
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  19.22,
+                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Costa",
@@ -23376,15 +23385,6 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.53,
-                                     "tv":  119
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -23394,6 +23394,15 @@
                                      "tv":  176
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  29.91,
+                                     "tv":  246
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -23401,15 +23410,6 @@
                                      "pe":  4,
                                      "km":  88.3,
                                      "tv":  242
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  28.49,
-                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Alan",
@@ -23720,6 +23720,13 @@
                                        "tv":  64
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  1,
+                                       "km":  9.69,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -23921,6 +23928,13 @@
                                        "p":  0,
                                        "km":  1.58,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO DO HAKUO LTDA",
+                                       "p":  1,
+                                       "km":  1.42,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Karina",
