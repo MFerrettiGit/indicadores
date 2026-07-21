@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23257,6 +23257,15 @@
                                      "pe":  0,
                                      "km":  71.4,
                                      "tv":  382
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  75.38,
+                                     "tv":  321
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -23277,31 +23286,22 @@
                                      "tv":  472
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  72.92,
-                                     "tv":  306
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  95.19,
-                                     "tv":  359
+                                     "km":  101.41,
+                                     "tv":  415
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  34.11,
-                                     "tv":  293
+                                     "km":  43.3,
+                                     "tv":  410
                                  },
                                  {
                                      "nome":  "Aline",
@@ -23327,7 +23327,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  117.91,
+                                     "km":  122.25,
                                      "tv":  382
                                  },
                                  {
@@ -23338,6 +23338,24 @@
                                      "pe":  0,
                                      "km":  222.52,
                                      "tv":  309
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  57,
+                                     "tv":  424
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  56.13,
+                                     "tv":  378
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -23367,24 +23385,6 @@
                                      "tv":  204
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  56.16,
-                                     "tv":  338
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  54.95,
-                                     "tv":  361
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -23397,10 +23397,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  31.38,
-                                     "tv":  292
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  61.04,
+                                     "tv":  370
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  75.3,
+                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -23427,15 +23436,6 @@
                                      "vi":  4,
                                      "pe":  4,
                                      "km":  19.39,
-                                     "tv":  241
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  71.46,
                                      "tv":  241
                                  },
                                  {
@@ -23496,6 +23496,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                                       "p":  1,
+                                       "km":  6.22,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -23522,6 +23529,13 @@
                                        "p":  1,
                                        "km":  3.3,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  9.19,
+                                       "tv":  117
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -23678,6 +23692,13 @@
                                        "tv":  79
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  2.46,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -23746,6 +23767,13 @@
                                        "p":  1,
                                        "km":  0.74,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                                       "p":  1,
+                                       "km":  0.84,
+                                       "tv":  86
                                    },
                                    {
                                        "n":  "Fernando",
@@ -23837,6 +23865,13 @@
                                        "p":  0,
                                        "km":  28.99,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                       "p":  0,
+                                       "km":  1.18,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Milene",
@@ -24042,6 +24077,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO BONA COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  3.84,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "GOYOS BATA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -24082,6 +24124,13 @@
                                        "p":  1,
                                        "km":  1.47,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  28.5,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Karina",
