@@ -23247,7 +23247,7 @@
                                ]
                    },
     "2026-07-21":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -23266,6 +23266,15 @@
                                      "pe":  0,
                                      "km":  63.57,
                                      "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  47.44,
+                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Debora",
@@ -23295,17 +23304,8 @@
                                      "tv":  121
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  25.9,
-                                     "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23313,8 +23313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -23508,6 +23508,13 @@
                                        "p":  1,
                                        "km":  25.34,
                                        "tv":  126
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  21.54,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Evandro",
