@@ -24247,8 +24247,17 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  60.04,
+                                     "tv":  314
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -24257,15 +24266,6 @@
                                      "pe":  0,
                                      "km":  83.11,
                                      "tv":  258
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  38.81,
-                                     "tv":  273
                                  },
                                  {
                                      "nome":  "Debora",
@@ -24286,6 +24286,15 @@
                                      "tv":  227
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  9.96,
+                                     "tv":  288
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -24295,17 +24304,8 @@
                                      "tv":  249
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  7.86,
-                                     "tv":  251
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24439,6 +24439,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  10.98,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -24446,15 +24455,6 @@
                                      "pe":  2,
                                      "km":  121.53,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  2,
-                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24559,6 +24559,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                       "p":  1,
+                                       "km":  21.23,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -24571,6 +24578,13 @@
                                        "p":  1,
                                        "km":  5.9,
                                        "tv":  120
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -24886,6 +24900,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  86
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "TEREZINHA DE SOUSA DANTAS ME",
+                                       "p":  1,
+                                       "km":  8.98,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Mariangela",
