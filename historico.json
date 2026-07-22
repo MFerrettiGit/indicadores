@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -24349,6 +24349,15 @@
                                      "tv":  84
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  83.48,
+                                     "tv":  85
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -24367,31 +24376,22 @@
                                      "tv":  70
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  30.13,
-                                     "tv":  27
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  4.95,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  40.25,
+                                     "tv":  114
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  63.96,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  65.71,
+                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -24401,6 +24401,15 @@
                                      "pe":  1,
                                      "km":  6.64,
                                      "tv":  95
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  27.63,
+                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -24428,15 +24437,6 @@
                                      "pe":  1,
                                      "km":  4.32,
                                      "tv":  46
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  18.91,
-                                     "tv":  36
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -24545,6 +24545,27 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "PAPA, FERNANDES",
+                                       "p":  1,
+                                       "km":  53.35,
+                                       "tv":  58
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "JW SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.75,
+                                       "tv":  74
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "E G DAROS",
+                                       "p":  1,
+                                       "km":  35.3,
+                                       "tv":  114
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -24592,6 +24613,13 @@
                                        "p":  1,
                                        "km":  18.91,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
+                                       "p":  0,
+                                       "km":  8.72,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Cominato",
