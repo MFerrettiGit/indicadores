@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "07:45",
+                       "dataHora":  "08:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -24295,8 +24295,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24304,8 +24304,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24354,7 +24354,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.77,
                                      "tv":  0
                                  },
                                  {
@@ -24372,7 +24372,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  1.79,
                                      "tv":  0
                                  },
                                  {
@@ -24444,7 +24444,7 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.68,
                                      "tv":  0
                                  },
                                  {
