@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24277,6 +24277,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  62.88,
+                                     "tv":  185
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -24284,15 +24293,6 @@
                                      "pe":  0,
                                      "km":  4.16,
                                      "tv":  117
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  35.37,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -24304,8 +24304,8 @@
                                      "tv":  131
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24358,6 +24358,15 @@
                                      "tv":  107
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  37.89,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -24365,15 +24374,6 @@
                                      "pe":  2,
                                      "km":  83.48,
                                      "tv":  85
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.08,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Maira",
@@ -24394,6 +24394,15 @@
                                      "tv":  74
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  31.86,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -24401,15 +24410,6 @@
                                      "pe":  2,
                                      "km":  7.32,
                                      "tv":  138
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  27.63,
-                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -24538,6 +24538,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  27.51,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "JC BELTRAM SUPERMERCADOS LTDA - EPP",
                                        "p":  1,
@@ -24608,6 +24615,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "HELIO FERNANDO DELALANA LTDA",
+                                       "p":  1,
+                                       "km":  36.81,
+                                       "tv":  84
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                                        "p":  1,
@@ -24662,6 +24676,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  1,
+                                       "km":  4.23,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
