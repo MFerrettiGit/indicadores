@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24255,7 +24255,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  73.8,
+                                     "km":  90.83,
                                      "tv":  426
                                  },
                                  {
@@ -24282,7 +24282,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  54.68,
+                                     "km":  63.64,
                                      "tv":  472
                                  },
                                  {
@@ -24291,7 +24291,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  68.19,
+                                     "km":  103.05,
                                      "tv":  332
                                  },
                                  {
@@ -24358,6 +24358,15 @@
                                      "tv":  333
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  214.71,
+                                     "tv":  323
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -24365,15 +24374,6 @@
                                      "pe":  5,
                                      "km":  44.55,
                                      "tv":  328
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  127.32,
-                                     "tv":  288
                                  },
                                  {
                                      "nome":  "Maira",
@@ -24412,6 +24412,15 @@
                                      "tv":  234
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  27.8,
+                                     "tv":  319
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -24419,15 +24428,6 @@
                                      "pe":  5,
                                      "km":  28.58,
                                      "tv":  336
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  25.31,
-                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -24797,6 +24797,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                       "p":  1,
+                                       "km":  87.39,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "JW SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -25152,6 +25159,13 @@
                                        "p":  1,
                                        "km":  10.14,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "54.841.749 JONAS GONCALVES VIEIRA",
+                                       "p":  1,
+                                       "km":  2.49,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Mariangela",
