@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  68.19,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:15",
+                     "ultimo":  "16:32",
+                     "tv":  "05:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
@@ -60,21 +75,6 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "15:01",
                      "tv":  "06:24:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  67.21,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:15",
-                     "ultimo":  "15:02",
-                     "tv":  "04:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "15:50",
                      "tv":  "05:02:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  28.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:51",
+                     "ultimo":  "16:29",
+                     "tv":  "05:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -285,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:03",
                      "ultimo":  "16:05",
                      "tv":  "04:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "14:42",
                      "tv":  "04:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -316,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "16:07",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "15:41",
                      "tv":  "04:04:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  28.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:51",
-                     "ultimo":  "15:25",
-                     "tv":  "04:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "01:21:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                         "mun":  "AMERICANA",
+                         "in":  "16:15:34",
+                         "out":  "16:39:48",
+                         "km":  0.46,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -625,6 +634,15 @@ window.PAINEL = {
                          "out":  "15:02:35",
                          "km":  3.02,
                          "dur":  "00:53:00"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "ITU",
+                         "in":  "15:40:20",
+                         "out":  "16:32:27",
+                         "km":  0.98,
+                         "dur":  "00:52:00"
                      },
                      {
                          "nome":  "Costa",
@@ -1194,6 +1212,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
+                         "mun":  "CACAPAVA",
+                         "in":  "15:30:08",
+                         "out":  "16:29:57",
+                         "km":  0.25,
+                         "dur":  "00:59:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MAXBOM SUPERMERCADO RB LTDA",
                          "mun":  "ITAPEVA",
@@ -1477,7 +1504,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:17"
+                        "tempo":  "00:18:23"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1485,7 +1512,23 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:11"
+                        "tempo":  "00:16:17"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Davita",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:49"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Contato com cliente sobre propostas",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:09"
                     }
                 ],
     "semped":  [
@@ -1579,73 +1622,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:58:08"
+                         "tempo":  "01:13:11"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:33:58"
+                         "tempo":  "00:49:01"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SALTO",
-                         "tempo":  "00:16:05"
+                         "tempo":  "00:31:08"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:59:37"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "ITU",
-                         "tempo":  "00:43:48"
+                         "tempo":  "01:14:40"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:08:34"
+                         "tempo":  "00:23:37"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "ODALTIR DE MEDEIROS",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:49:09"
+                         "tempo":  "01:04:12"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:06:15"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:40:50"
+                         "tempo":  "00:55:53"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "54.841.749 JONAS GONCALVES VIEIRA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:14:00"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "149:03:53"
+                         "tempo":  "149:18:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:40:48"
+                         "tempo":  "00:55:51"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MERCADO UNIAO",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:22:35"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "00:54:00"
+                         "tempo":  "00:37:38"
                      }
                  ],
     "hist":  [
@@ -1756,7 +1799,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     103,
+                     105,
                      18
                  ]
              ],
@@ -26009,7 +26052,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26030,6 +26073,15 @@ window.PAINEL = {
                                                        "tv":  335
                                                    },
                                                    {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  68.19,
+                                                       "tv":  332
+                                                   },
+                                                   {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
@@ -26046,15 +26098,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  34.64,
                                                        "tv":  384
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  67.21,
-                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -26174,6 +26217,15 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  28.58,
+                                                       "tv":  336
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -26208,15 +26260,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  63.32,
                                                        "tv":  244
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  28.33,
-                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -26405,6 +26448,13 @@ window.PAINEL = {
                                                          "tv":  81
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                                                         "p":  1,
+                                                         "km":  0.46,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -26431,6 +26481,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.02,
                                                          "tv":  53
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  0.98,
+                                                         "tv":  52
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -26872,6 +26929,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.32,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
+                                                         "p":  1,
+                                                         "km":  0.25,
+                                                         "tv":  59
                                                      },
                                                      {
                                                          "n":  "Nelson",

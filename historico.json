@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24268,6 +24268,15 @@
                                      "tv":  335
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  68.19,
+                                     "tv":  332
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -24284,15 +24293,6 @@
                                      "pe":  0,
                                      "km":  34.64,
                                      "tv":  384
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  67.21,
-                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -24412,6 +24412,15 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  28.58,
+                                     "tv":  336
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -24446,15 +24455,6 @@
                                      "pe":  3,
                                      "km":  63.32,
                                      "tv":  244
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  28.33,
-                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24643,6 +24643,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  0.46,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -24669,6 +24676,13 @@
                                        "p":  1,
                                        "km":  3.02,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  0.98,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Costa",
@@ -25110,6 +25124,13 @@
                                        "p":  1,
                                        "km":  3.32,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
+                                       "p":  1,
+                                       "km":  0.25,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Nelson",
