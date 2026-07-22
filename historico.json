@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24268,6 +24268,15 @@
                                      "tv":  335
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  15.03,
+                                     "tv":  403
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -24284,15 +24293,6 @@
                                      "pe":  0,
                                      "km":  67.21,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  11.49,
-                                     "tv":  322
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -24352,10 +24352,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  10.01,
-                                     "tv":  298
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  10.38,
+                                     "tv":  333
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -24636,6 +24636,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
+                                       "p":  1,
+                                       "km":  3.54,
+                                       "tv":  81
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -24697,6 +24704,13 @@
                                        "p":  1,
                                        "km":  3.38,
                                        "tv":  108
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "DE CARLI E FERNANDES LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0.37,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Fernando",
