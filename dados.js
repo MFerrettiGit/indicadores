@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:06",
                      "ultimo":  "09:21",
                      "tv":  "01:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "09:29",
                      "tv":  "02:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -83,14 +83,14 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  1.96,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "07:42",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:54",
+                     "tv":  "02:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -180,8 +180,8 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "09:14",
                      "tv":  "01:10:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -411,6 +411,15 @@ window.PAINEL = {
                          "dur":  "02:33:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "07:42:39",
+                         "out":  "09:54:24",
+                         "km":  1.96,
+                         "dur":  "02:11:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -538,6 +547,14 @@ window.PAINEL = {
                         "tempo":  "00:29:04"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "itapira",
+                        "inicio":  "09:14",
+                        "final":  "09:48",
+                        "tempo":  "00:34:23"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a São Joaquim",
@@ -554,20 +571,12 @@ window.PAINEL = {
                         "tempo":  "00:55:00"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "itapira",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:25:38"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Conchas a Porangaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:22"
+                        "tempo":  "00:25:32"
                     }
                 ],
     "semped":  [
@@ -583,85 +592,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:38:17"
+                         "tempo":  "01:53:23"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:09:52"
+                         "tempo":  "01:24:58"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:18"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "HORTOLANDIA",
+                         "tempo":  "00:12:41"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:16:18"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "HIGA PROD. ALIM. LTDA.",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:56:42"
+                         "tempo":  "00:31:24"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "E G DAROS",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:06:51"
+                         "tempo":  "01:21:57"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "HELIO FERNANDO DELALANA LTDA",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:03:41"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "JW SUPERMERCADO LTDA.",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:19:28"
+                         "tempo":  "00:34:34"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAPA, FERNANDES",
                          "mun":  "LUIS ANTONIO",
-                         "tempo":  "00:10:32"
+                         "tempo":  "00:25:38"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MERCADO E PADARIA PANE SILVIO LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:15:06"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "MORUNGABA",
-                         "tempo":  "00:21:33"
+                         "tempo":  "00:36:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:32:21"
+                         "tempo":  "00:47:27"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:36:13"
+                         "tempo":  "00:51:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "142:19:06"
+                         "tempo":  "142:34:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL SUPERMAIS LTDA",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:22:12"
+                         "tempo":  "00:37:18"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:08:08"
+                         "tempo":  "00:23:14"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA CACAPAVA AT. E VAR. MERC.GERAL L",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:48:08"
+                         "tempo":  "01:03:14"
                      }
                  ],
     "hist":  [
@@ -772,7 +799,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     19,
+                     20,
                      1
                  ]
              ],
@@ -25025,7 +25052,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -25076,10 +25103,10 @@ window.PAINEL = {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  1.96,
+                                                       "tv":  131
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -25279,6 +25306,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  23.5,
                                                          "tv":  153
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "HIGA PROD. ALIM. LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.96,
+                                                         "tv":  131
                                                      },
                                                      {
                                                          "n":  "Vinicius",

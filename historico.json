@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24298,10 +24298,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  1.96,
+                                     "tv":  131
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -24501,6 +24501,13 @@
                                        "p":  1,
                                        "km":  23.5,
                                        "tv":  153
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  131
                                    },
                                    {
                                        "n":  "Vinicius",
