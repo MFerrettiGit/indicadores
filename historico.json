@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24259,22 +24259,22 @@
                                      "tv":  426
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  24.1,
+                                     "tv":  442
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  153.21,
+                                     "km":  161.84,
                                      "tv":  381
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  15.49,
-                                     "tv":  426
                                  },
                                  {
                                      "nome":  "Debora",
@@ -24304,8 +24304,8 @@
                                      "tv":  482
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24406,10 +24406,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  49.99,
-                                     "tv":  165
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  74.42,
+                                     "tv":  234
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -24676,6 +24676,13 @@
                                        "p":  1,
                                        "km":  0.46,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  8.61,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -25047,6 +25054,13 @@
                                        "p":  1,
                                        "km":  18.13,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO",
+                                       "p":  1,
+                                       "km":  24.43,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Cominato",
