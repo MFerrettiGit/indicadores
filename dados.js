@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  10.38,
+                     "km":  16.22,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  214.71,
+                     "km":  236.06,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:11",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  44.55,
+                     "km":  83.67,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
                      "ultimo":  "15:27",
                      "tv":  "05:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  54.81,
+                     "km":  88.31,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:32",
@@ -234,14 +234,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  71.22,
+                     "km":  129.57,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "09:19",
                      "ultimo":  "16:43",
                      "tv":  "04:57:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  63.85,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:10",
+                     "ultimo":  "18:04",
+                     "tv":  "06:24:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "16:07",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  63.32,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:10",
-                     "ultimo":  "15:41",
-                     "tv":  "04:04:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1372,6 +1372,15 @@ window.PAINEL = {
                          "out":  "15:41:15",
                          "km":  56,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITARARE",
+                         "in":  "15:43:20",
+                         "out":  "18:04:10",
+                         "km":  0.53,
+                         "dur":  "02:20:00"
                      }
                  ],
     "eventos":  [
@@ -1448,6 +1457,14 @@ window.PAINEL = {
                         "tempo":  "00:49:53"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "cubatao",
+                        "inicio":  "16:22",
+                        "final":  "17:55",
+                        "tempo":  "01:33:47"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a São Joaquim",
@@ -1462,6 +1479,14 @@ window.PAINEL = {
                         "inicio":  "12:42",
                         "final":  "13:42",
                         "tempo":  "01:00:37"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Joaquim da Barra a Franca",
+                        "inicio":  "17:04",
+                        "final":  "17:57",
+                        "tempo":  "00:52:52"
                     },
                     {
                         "nome":  "Nelson",
@@ -1632,28 +1657,12 @@ window.PAINEL = {
                         "tempo":  "00:59:42"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "cubatao",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:33:14"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:31:08"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Joaquim da Barra a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:46"
+                        "tempo":  "01:46:10"
                     }
                 ],
     "semped":  [
@@ -1753,13 +1762,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "150:33:52"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITARARE",
-                         "tempo":  "02:10:47"
+                         "tempo":  "150:48:50"
                      }
                  ],
     "hist":  [
@@ -1870,7 +1873,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     119,
+                     120,
                      19
                  ]
              ],
@@ -26123,7 +26126,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26230,7 +26233,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  10.38,
+                                                       "km":  16.22,
                                                        "tv":  333
                                                    },
                                                    {
@@ -26239,7 +26242,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  214.71,
+                                                       "km":  236.06,
                                                        "tv":  323
                                                    },
                                                    {
@@ -26248,7 +26251,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  44.55,
+                                                       "km":  83.67,
                                                        "tv":  328
                                                    },
                                                    {
@@ -26257,7 +26260,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  54.81,
+                                                       "km":  88.31,
                                                        "tv":  302
                                                    },
                                                    {
@@ -26266,7 +26269,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  71.22,
+                                                       "km":  129.57,
                                                        "tv":  297
                                                    },
                                                    {
@@ -26315,6 +26318,15 @@ window.PAINEL = {
                                                        "tv":  351
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  63.85,
+                                                       "tv":  384
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -26322,15 +26334,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  183.85,
                                                        "tv":  206
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  63.32,
-                                                       "tv":  244
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -27126,6 +27129,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  56,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  1,
+                                                         "km":  0.53,
+                                                         "tv":  140
                                                      }
                                                  ]
                                      }

@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24354,7 +24354,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  10.38,
+                                     "km":  16.22,
                                      "tv":  333
                                  },
                                  {
@@ -24363,7 +24363,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  214.71,
+                                     "km":  236.06,
                                      "tv":  323
                                  },
                                  {
@@ -24372,7 +24372,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  44.55,
+                                     "km":  83.67,
                                      "tv":  328
                                  },
                                  {
@@ -24381,7 +24381,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  54.81,
+                                     "km":  88.31,
                                      "tv":  302
                                  },
                                  {
@@ -24390,7 +24390,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  1,
-                                     "km":  71.22,
+                                     "km":  129.57,
                                      "tv":  297
                                  },
                                  {
@@ -24439,6 +24439,15 @@
                                      "tv":  351
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  63.85,
+                                     "tv":  384
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -24446,15 +24455,6 @@
                                      "pe":  2,
                                      "km":  183.85,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  63.32,
-                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -25250,6 +25250,13 @@
                                        "p":  1,
                                        "km":  56,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.53,
+                                       "tv":  140
                                    }
                                ]
                    }
