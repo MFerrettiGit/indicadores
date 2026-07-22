@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24304,8 +24304,8 @@
                                      "tv":  131
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24394,6 +24394,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  6.64,
+                                     "tv":  95
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -24410,15 +24419,6 @@
                                      "pe":  1,
                                      "km":  96.44,
                                      "tv":  68
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.5,
-                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Alan",
@@ -24442,10 +24442,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  22.87,
+                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Karina",
@@ -24594,11 +24594,25 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA CACAPAVA AT. E VAR. MERC.GERAL L",
+                                       "p":  1,
+                                       "km":  22.87,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "MAXBOM SUPERMERCADO RB LTDA",
                                        "p":  1,
                                        "km":  1.82,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIAL SUPERMAIS LTDA",
+                                       "p":  0,
+                                       "km":  4.14,
+                                       "tv":  42
                                    }
                                ]
                    }
