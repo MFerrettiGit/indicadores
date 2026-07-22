@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24394,6 +24394,15 @@
                                      "tv":  162
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  54.51,
+                                     "tv":  282
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -24412,13 +24421,22 @@
                                      "tv":  134
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  15.17,
+                                     "tv":  234
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  2,
-                                     "km":  53.5,
-                                     "tv":  182
+                                     "km":  121.53,
+                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -24437,24 +24455,6 @@
                                      "pe":  3,
                                      "km":  25.01,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  10.98,
-                                     "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  121.53,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24888,6 +24888,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "NELLO COMERCIAL LTDA.",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                        "p":  0,
@@ -24909,6 +24916,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MONTICO LTDA.",
+                                       "p":  1,
+                                       "km":  1.01,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1,
@@ -24928,6 +24942,13 @@
                                        "p":  1,
                                        "km":  8.98,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
+                                       "p":  1,
+                                       "km":  4.19,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Mariangela",

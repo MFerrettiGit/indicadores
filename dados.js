@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:42",
                      "ultimo":  "14:38",
                      "tv":  "05:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "13:44",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  54.51,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:00",
+                     "ultimo":  "14:42",
+                     "tv":  "04:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -255,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "12:46",
                      "tv":  "04:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,19 +289,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  15.17,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:03",
+                     "ultimo":  "14:52",
+                     "tv":  "03:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
                      "visitas":  3,
-                     "km":  53.5,
+                     "km":  121.53,
                      "semPed":  1,
                      "perc":  33.33,
-                     "primeiro":  "08:00",
-                     "ultimo":  "11:59",
-                     "tv":  "03:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "primeiro":  "08:02",
+                     "ultimo":  "14:42",
+                     "tv":  "03:10:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -315,36 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "13:03",
                      "tv":  "03:46:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  10.98,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:03",
-                     "ultimo":  "14:08",
-                     "tv":  "03:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  121.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "11:36",
-                     "tv":  "02:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -906,6 +906,15 @@ window.PAINEL = {
                          "dur":  "01:32:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "NELLO COMERCIAL LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "in":  "14:11:51",
+                         "out":  "14:42:38",
+                         "km":  0,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MP ITATIBA LTDA",
                          "mun":  "ITATIBA",
@@ -933,6 +942,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO MONTICO LTDA.",
+                         "mun":  "MORUNGABA",
+                         "in":  "13:01:26",
+                         "out":  "14:42:15",
+                         "km":  1.01,
+                         "dur":  "01:40:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -958,6 +976,15 @@ window.PAINEL = {
                          "out":  "14:08:41",
                          "km":  8.98,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "14:26:43",
+                         "out":  "14:52:36",
+                         "km":  4.19,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1192,6 +1219,14 @@ window.PAINEL = {
                         "tempo":  "00:30:37"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:45",
+                        "final":  "14:46",
+                        "tempo":  "01:00:37"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1216,20 +1251,20 @@ window.PAINEL = {
                         "tempo":  "01:10:42"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:32"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:49"
+                        "tempo":  "00:21:46"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Laranjal Paulista a Tiete",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:17"
                     }
                 ],
     "semped":  [
@@ -1276,6 +1311,12 @@ window.PAINEL = {
                        "obs":  "sugestão central"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "NELLO COMERCIAL LTDA.",
+                       "mun":  "LARANJAL PAULIS",
+                       "obs":  "Estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "DANIEL DE S. GONCALVES MERCADO",
                        "mun":  "SAO CARLOS",
@@ -1299,97 +1340,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:03:01"
+                         "tempo":  "02:18:01"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:15:41"
+                         "tempo":  "01:30:41"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:15:40"
+                         "tempo":  "00:30:40"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:44:34"
+                         "tempo":  "00:59:34"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:48:37"
+                         "tempo":  "02:03:37"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:30:01"
+                         "tempo":  "00:45:01"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:04:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MERCADINHO VILA IZAURA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:13:50"
+                         "tempo":  "00:28:50"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:34:09"
+                         "tempo":  "00:49:09"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:52:04"
+                         "tempo":  "01:07:04"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MARA EDITH LOURENCO",
+                         "mun":  "SANTA ROSA DE V",
+                         "tempo":  "00:07:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:49:22"
+                         "tempo":  "01:04:22"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO MONTICO LTDA.",
-                         "mun":  "MORUNGABA",
-                         "tempo":  "01:37:48"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:12:31"
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:00:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "147:18:59"
+                         "tempo":  "147:33:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:44:38"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "NELLO COMERCIAL LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:27:23"
+                         "tempo":  "00:59:38"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SM MAIS SUPERMERCADOS LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:05:49"
+                         "tempo":  "00:20:49"
                      }
                  ],
     "hist":  [
@@ -1500,8 +1541,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     77,
-                     12
+                     80,
+                     13
                  ]
              ],
     "historico":  {
@@ -25753,7 +25794,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25900,6 +25941,15 @@ window.PAINEL = {
                                                        "tv":  162
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  54.51,
+                                                       "tv":  282
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -25918,13 +25968,22 @@ window.PAINEL = {
                                                        "tv":  134
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  15.17,
+                                                       "tv":  234
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  2,
-                                                       "km":  53.5,
-                                                       "tv":  182
+                                                       "km":  121.53,
+                                                       "tv":  190
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -25943,24 +26002,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  25.01,
                                                        "tv":  226
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  10.98,
-                                                       "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  121.53,
-                                                       "tv":  160
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -26394,6 +26435,13 @@ window.PAINEL = {
                                                          "tv":  92
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "NELLO COMERCIAL LTDA.",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                                          "p":  0,
@@ -26415,6 +26463,13 @@ window.PAINEL = {
                                                          "tv":  50
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO MONTICO LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.01,
+                                                         "tv":  100
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                                          "p":  1,
@@ -26434,6 +26489,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.98,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
+                                                         "p":  1,
+                                                         "km":  4.19,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Mariangela",
