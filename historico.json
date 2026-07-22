@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24379,10 +24379,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  43.25,
-                                     "tv":  178
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  44.77,
+                                     "tv":  238
                                  },
                                  {
                                      "nome":  "Luis",
@@ -24430,6 +24430,15 @@
                                      "tv":  138
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  25.01,
+                                     "tv":  226
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -24439,22 +24448,13 @@
                                      "tv":  160
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  25.01,
-                                     "tv":  105
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
+                                     "vi":  2,
+                                     "pe":  2,
                                      "km":  2,
-                                     "tv":  102
+                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24664,6 +24664,13 @@
                                        "tv":  64
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "THIAGO CARLOS Z. PEREIRA EIRELI.",
+                                       "p":  1,
+                                       "km":  1.52,
+                                       "tv":  60
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -24839,6 +24846,13 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "DA PRAIA GUILHERME NOVAIS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SHIBATA CACAPAVA AT. E VAR. MERC.GERAL L",
                                        "p":  1,
@@ -24851,6 +24865,13 @@
                                        "p":  1,
                                        "km":  2.14,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Nelson",
