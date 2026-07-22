@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24257,6 +24257,15 @@
                                      "pe":  0,
                                      "km":  73.8,
                                      "tv":  426
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  153.21,
+                                     "tv":  381
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -24275,15 +24284,6 @@
                                      "pe":  0,
                                      "km":  54.68,
                                      "tv":  472
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  117.48,
-                                     "tv":  335
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -24327,7 +24327,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  67.8,
+                                     "km":  88.8,
                                      "tv":  404
                                  },
                                  {
@@ -24397,10 +24397,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  13.07,
-                                     "tv":  287
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  14.84,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Castro",
@@ -25005,6 +25005,13 @@
                                        "p":  1,
                                        "km":  2.42,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO ARIEL LTDA",
+                                       "p":  1,
+                                       "km":  1.77,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Castro",
