@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  40.25,
+                     "visitas":  2,
+                     "km":  43.25,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:32",
-                     "ultimo":  "10:27",
-                     "tv":  "01:54:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:45",
+                     "tv":  "02:58:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -537,6 +537,15 @@ window.PAINEL = {
                          "dur":  "01:54:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:40:57",
+                         "out":  "11:45:13",
+                         "km":  3,
+                         "dur":  "01:04:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -791,7 +800,7 @@ window.PAINEL = {
                         "obs":  "itapeva a Itararé",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:20"
+                        "tempo":  "01:02:53"
                     },
                     {
                         "nome":  "Edimilson",
@@ -799,7 +808,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:21"
+                        "tempo":  "00:52:54"
                     },
                     {
                         "nome":  "Eliana",
@@ -807,7 +816,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:12"
+                        "tempo":  "00:17:45"
                     },
                     {
                         "nome":  "Cominato",
@@ -815,7 +824,7 @@ window.PAINEL = {
                         "obs":  "Porangaba a Conchas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:53"
+                        "tempo":  "00:17:26"
                     }
                 ],
     "semped":  [
@@ -855,103 +864,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "03:38:12"
+                         "tempo":  "03:52:43"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:13:16"
+                         "tempo":  "01:27:47"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:33"
+                         "tempo":  "00:26:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:00:42"
+                         "tempo":  "00:15:13"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A.DE MELO E CIA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:01:21"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:58:19"
+                         "tempo":  "01:15:52"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:21:17"
+                         "tempo":  "00:35:48"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:55:08"
+                         "tempo":  "01:09:39"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "01:30:43"
+                         "tempo":  "01:45:14"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO E CIA LTDA.",
                          "mun":  "SANTA ROSA DE V",
-                         "tempo":  "00:30:47"
+                         "tempo":  "00:45:18"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO B Z LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:40:53"
+                         "tempo":  "00:55:24"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO CHAVES DE SAO CARLOS LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:26:40"
+                         "tempo":  "00:41:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CACULA LTDA.",
                          "mun":  "MORUNGABA",
-                         "tempo":  "00:30:07"
+                         "tempo":  "00:44:38"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:37"
+                         "tempo":  "00:39:08"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "DA PRAIA GUILHERME NOVAIS LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:03:10"
+                         "tempo":  "00:17:41"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "144:19:01"
+                         "tempo":  "144:33:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO DA CIDADE LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:37:22"
+                         "tempo":  "00:51:53"
                      }
                  ],
     "hist":  [
@@ -1062,7 +1065,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     46,
+                     47,
                      6
                  ]
              ],
@@ -25315,7 +25318,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -25447,10 +25450,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  40.25,
-                                                       "tv":  114
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  43.25,
+                                                       "tv":  178
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -25667,6 +25670,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  35.3,
                                                          "tv":  114
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                                         "p":  1,
+                                                         "km":  3,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Milene",

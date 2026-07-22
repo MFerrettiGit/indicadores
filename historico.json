@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24379,10 +24379,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.25,
-                                     "tv":  114
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  43.25,
+                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Luis",
@@ -24599,6 +24599,13 @@
                                        "p":  1,
                                        "km":  35.3,
                                        "tv":  114
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                       "p":  1,
+                                       "km":  3,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Milene",
