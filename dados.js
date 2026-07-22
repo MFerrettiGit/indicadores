@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "11:36",
                      "tv":  "04:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  12.28,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:48",
+                     "ultimo":  "12:53",
+                     "tv":  "03:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -166,22 +181,7 @@ window.PAINEL = {
                      "ultimo":  "11:56",
                      "tv":  "03:10:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  10.24,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:48",
-                     "ultimo":  "11:58",
-                     "tv":  "02:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -241,6 +241,21 @@ window.PAINEL = {
                      "ultimo":  "12:13",
                      "tv":  "02:42:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  10.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "12:46",
+                     "tv":  "04:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -287,21 +302,6 @@ window.PAINEL = {
                      "tv":  "02:18:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  7.68,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "12:19",
-                     "tv":  "03:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -708,6 +708,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MM MERCADO PEREIRA BATISTA LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "12:07:04",
+                         "out":  "12:53:39",
+                         "km":  2.04,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO PONTEL LTDA.",
                          "mun":  "CAMPINAS",
@@ -733,6 +742,15 @@ window.PAINEL = {
                          "out":  "12:19:28",
                          "km":  1.79,
                          "dur":  "01:04:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO PONTEL LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "12:29:58",
+                         "out":  "12:46:23",
+                         "km":  2.97,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Castro",
@@ -896,6 +914,14 @@ window.PAINEL = {
                         "tempo":  "00:57:32"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "itapeva a Itararé",
+                        "inicio":  "10:51",
+                        "final":  "12:45",
+                        "tempo":  "01:53:54"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Conchas a Porangaba",
@@ -936,20 +962,12 @@ window.PAINEL = {
                         "tempo":  "00:55:00"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "itapeva a Itararé",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:48:39"
-                    },
-                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:37"
+                        "tempo":  "00:54:51"
                     },
                     {
                         "nome":  "Rachel",
@@ -957,7 +975,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:58"
+                        "tempo":  "00:54:12"
                     },
                     {
                         "nome":  "Debora",
@@ -965,7 +983,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:11"
+                        "tempo":  "00:40:25"
                     },
                     {
                         "nome":  "Evandro",
@@ -973,7 +991,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:11"
+                        "tempo":  "00:32:25"
                     },
                     {
                         "nome":  "Vinicius",
@@ -981,7 +999,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:18"
+                        "tempo":  "00:19:32"
                     },
                     {
                         "nome":  "Cominato",
@@ -989,7 +1007,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:19"
+                        "tempo":  "00:16:33"
                     },
                     {
                         "nome":  "Silmara",
@@ -997,7 +1015,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:19"
+                        "tempo":  "00:16:33"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:33"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:45"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:18"
                     }
                 ],
     "semped":  [
@@ -1049,61 +1091,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:03:13"
+                         "tempo":  "00:18:31"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:38:17"
+                         "tempo":  "00:53:35"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:04:07"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "THIAGO CARLOS Z. PEREIRA EIRELI.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:34:29"
+                         "tempo":  "00:49:47"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:26:35"
+                         "tempo":  "00:41:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO",
                          "mun":  "SANTA ROSA DE V",
-                         "tempo":  "00:26:42"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MM MERCADO PEREIRA BATISTA LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:32:22"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO PONTEL LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:09:28"
+                         "tempo":  "00:42:00"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "DA PRAIA GUILHERME NOVAIS LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "01:03:20"
+                         "tempo":  "01:18:38"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "145:19:11"
+                         "tempo":  "145:34:29"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO DA CIDADE LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "01:37:32"
+                         "tempo":  "01:52:50"
                      }
                  ],
     "hist":  [
@@ -1214,7 +1250,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     61,
+                     63,
                      9
                  ]
              ],
@@ -25467,7 +25503,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25524,8 +25560,8 @@ window.PAINEL = {
                                                        "tv":  251
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -25533,8 +25569,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -25560,6 +25596,15 @@ window.PAINEL = {
                                                        "tv":  259
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  12.28,
+                                                       "tv":  198
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -25567,15 +25612,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  6.63,
                                                        "tv":  190
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  10.24,
-                                                       "tv":  152
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -25614,6 +25650,15 @@ window.PAINEL = {
                                                        "tv":  162
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  10.65,
+                                                       "tv":  246
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -25639,15 +25684,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  7.32,
                                                        "tv":  138
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  7.68,
-                                                       "tv":  230
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -25954,6 +25990,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MM MERCADO PEREIRA BATISTA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.04,
+                                                         "tv":  46
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "SUPERMERCADO PONTEL LTDA.",
                                                          "p":  1,
@@ -25973,6 +26016,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.79,
                                                          "tv":  64
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO PONTEL LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.97,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Castro",
