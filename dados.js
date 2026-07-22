@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  77.84,
+                     "km":  134.47,
                      "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:01",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "15:50",
                      "tv":  "05:02:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  14.84,
+                     "visitas":  7,
+                     "km":  15.26,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:13",
-                     "ultimo":  "16:57",
-                     "tv":  "06:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:45",
+                     "tv":  "06:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,6 +270,21 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "17:11",
                      "tv":  "03:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  31.57,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:51",
+                     "ultimo":  "17:41",
+                     "tv":  "06:36:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -289,33 +304,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  28.58,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:51",
-                     "ultimo":  "16:29",
-                     "tv":  "05:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  54.51,
+                     "visitas":  5,
+                     "km":  101.54,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:00",
-                     "ultimo":  "14:42",
-                     "tv":  "04:42:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:42",
+                     "tv":  "05:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1086,6 +1086,15 @@ window.PAINEL = {
                          "dur":  "01:14:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "COTO SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "17:01:58",
+                         "out":  "17:45:09",
+                         "km":  0.42,
+                         "dur":  "00:42:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO PARAZZI LTDA",
                          "mun":  "JUNDIAI",
@@ -1212,6 +1221,15 @@ window.PAINEL = {
                          "dur":  "01:40:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "16:32:56",
+                         "out":  "17:42:50",
+                         "km":  47.03,
+                         "dur":  "01:09:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -1311,6 +1329,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "in":  "16:40:43",
+                         "out":  "17:41:19",
+                         "km":  2.99,
+                         "dur":  "01:00:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MAXBOM SUPERMERCADO RB LTDA",
                          "mun":  "ITAPEVA",
@@ -1355,6 +1382,14 @@ window.PAINEL = {
                         "inicio":  "13:09",
                         "final":  "14:11",
                         "tempo":  "01:02:01"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Davita",
+                        "inicio":  "16:26",
+                        "final":  "17:48",
+                        "tempo":  "01:22:17"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1602,7 +1637,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:18:14"
+                        "tempo":  "01:33:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1610,15 +1645,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:16:08"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta Davita",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:13:40"
+                        "tempo":  "01:31:08"
                     },
                     {
                         "nome":  "Luis",
@@ -1626,7 +1653,7 @@ window.PAINEL = {
                         "obs":  "São Joaquim da Barra a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:46"
+                        "tempo":  "00:50:46"
                     }
                 ],
     "semped":  [
@@ -1723,40 +1750,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:40:56"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:06:09"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "COTO SUPERMERCADO LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:37:07"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "150:18:50"
+                         "tempo":  "150:33:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:55:45"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "00:58:22"
+                         "tempo":  "02:10:47"
                      }
                  ],
     "hist":  [
@@ -1867,7 +1870,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     115,
+                     119,
                      19
                  ]
              ],
@@ -26120,7 +26123,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26177,8 +26180,8 @@ window.PAINEL = {
                                                        "tv":  482
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -26186,8 +26189,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -26209,7 +26212,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  77.84,
+                                                       "km":  134.47,
                                                        "tv":  462
                                                    },
                                                    {
@@ -26270,10 +26273,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  14.84,
-                                                       "tv":  361
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  15.26,
+                                                       "tv":  403
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -26285,6 +26288,15 @@ window.PAINEL = {
                                                        "tv":  234
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  31.57,
+                                                       "tv":  396
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -26294,22 +26306,13 @@ window.PAINEL = {
                                                        "tv":  319
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  28.58,
-                                                       "tv":  336
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  54.51,
-                                                       "tv":  282
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  101.54,
+                                                       "tv":  351
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -26901,6 +26904,13 @@ window.PAINEL = {
                                                          "tv":  74
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "COTO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.42,
+                                                         "tv":  42
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO PARAZZI LTDA",
                                                          "p":  1,
@@ -26999,6 +27009,13 @@ window.PAINEL = {
                                                          "tv":  100
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  47.03,
+                                                         "tv":  69
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                                          "p":  1,
@@ -27074,6 +27091,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.25,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                                         "p":  1,
+                                                         "km":  2.99,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Nelson",

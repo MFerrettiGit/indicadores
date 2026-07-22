@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24304,8 +24304,8 @@
                                      "tv":  482
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24336,7 +24336,7 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  77.84,
+                                     "km":  134.47,
                                      "tv":  462
                                  },
                                  {
@@ -24397,10 +24397,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  14.84,
-                                     "tv":  361
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  15.26,
+                                     "tv":  403
                                  },
                                  {
                                      "nome":  "Castro",
@@ -24412,6 +24412,15 @@
                                      "tv":  234
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  31.57,
+                                     "tv":  396
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -24421,22 +24430,13 @@
                                      "tv":  319
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  28.58,
-                                     "tv":  336
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  54.51,
-                                     "tv":  282
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  101.54,
+                                     "tv":  351
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -25028,6 +25028,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "COTO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  0.42,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO PARAZZI LTDA",
                                        "p":  1,
@@ -25126,6 +25133,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  47.03,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1,
@@ -25201,6 +25215,13 @@
                                        "p":  1,
                                        "km":  0.25,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                       "p":  1,
+                                       "km":  2.99,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Nelson",
