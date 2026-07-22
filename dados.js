@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -49,6 +49,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  35.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:15",
+                     "ultimo":  "08:55",
+                     "tv":  "01:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
@@ -58,21 +73,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "06:55",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:15",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:51",
                      "tv":  "00:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -234,7 +234,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  1.79,
+                     "km":  63.96,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -259,6 +259,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  2.5,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:10",
+                     "ultimo":  "09:04",
+                     "tv":  "00:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  4.32,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "09:00",
+                     "tv":  "00:46:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -268,36 +298,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.68,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:10",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:13",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -342,11 +342,11 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:03",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -393,6 +393,15 @@ window.PAINEL = {
                          "dur":  "01:57:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PORTO FELIZ",
+                         "in":  "07:15:00",
+                         "out":  "08:55:38",
+                         "km":  35.37,
+                         "dur":  "01:40:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "JC BELTRAM SUPERMERCADOS LTDA - EPP",
                          "mun":  "LEME",
@@ -420,6 +429,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO PONTEL LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:13:12",
+                         "out":  "09:00:13",
+                         "km":  4.32,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MP ITATIBA LTDA",
                          "mun":  "ITATIBA",
@@ -427,9 +445,26 @@ window.PAINEL = {
                          "out":  "08:40:03",
                          "km":  32.35,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MAXBOM SUPERMERCADO RB LTDA",
+                         "mun":  "ITAPEVA",
+                         "in":  "08:10:30",
+                         "out":  "09:04:39",
+                         "km":  1.82,
+                         "dur":  "00:53:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "ubatuba",
+                        "inicio":  "08:33",
+                        "final":  "09:02",
+                        "tempo":  "00:29:04"
+                    },
                     {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
@@ -445,14 +480,6 @@ window.PAINEL = {
                         "inicio":  "07:52",
                         "final":  "08:47",
                         "tempo":  "00:55:00"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Em Viagem",
-                        "obs":  "ubatuba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:21:16"
                     }
                 ],
     "semped":  [
@@ -468,97 +495,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:53:12"
+                         "tempo":  "01:08:19"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:24:47"
+                         "tempo":  "00:39:54"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:58:47"
+                         "tempo":  "02:13:54"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:18:21"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PORTO FELIZ",
-                         "tempo":  "01:39:16"
+                         "tempo":  "00:33:28"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:11:37"
+                         "tempo":  "01:26:44"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "E G DAROS",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:21:46"
+                         "tempo":  "00:36:53"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:50:35"
+                         "tempo":  "01:05:42"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:59:18"
+                         "tempo":  "01:14:25"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "TOKA SUPERMERCADO LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:12:32"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:06:06"
+                         "tempo":  "00:21:13"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "SUPERMERCADO PONTEL LTDA.",
+                         "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:41:04"
+                         "tempo":  "00:02:23"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:06:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "141:34:01"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MAXBOM SUPERMERCADO RB LTDA",
-                         "mun":  "ITAPEVA",
-                         "tempo":  "00:43:46"
+                         "tempo":  "141:49:08"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO PARAZZI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:14:30"
+                         "tempo":  "00:29:37"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MARIA HELENA BERNARDINI LIBARDI",
                          "mun":  "CONCHAS",
-                         "tempo":  "00:52:05"
+                         "tempo":  "01:07:12"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA CACAPAVA AT. E VAR. MERC.GERAL L",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:03:03"
+                         "tempo":  "00:18:10"
                      }
                  ],
     "hist":  [
@@ -669,7 +696,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     7,
+                     11,
                      1
                  ]
              ],
@@ -24922,7 +24949,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -24952,17 +24979,17 @@ window.PAINEL = {
                                                        "tv":  68
                                                    },
                                                    {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  35.37,
+                                                       "tv":  100
+                                                   },
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -25065,7 +25092,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  1.79,
+                                                       "km":  63.96,
                                                        "tv":  0
                                                    },
                                                    {
@@ -25078,30 +25105,30 @@ window.PAINEL = {
                                                        "tv":  39
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.5,
+                                                       "tv":  53
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.32,
+                                                       "tv":  46
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  55.12,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.68,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -25164,6 +25191,13 @@ window.PAINEL = {
                                                          "tv":  117
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  35.37,
+                                                         "tv":  100
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "JC BELTRAM SUPERMERCADOS LTDA - EPP",
                                                          "p":  1,
@@ -25185,11 +25219,25 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO PONTEL LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.32,
+                                                         "tv":  46
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                                          "p":  0,
                                                          "km":  32.35,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MAXBOM SUPERMERCADO RB LTDA",
+                                                         "p":  1,
+                                                         "km":  1.82,
+                                                         "tv":  53
                                                      }
                                                  ]
                                      }

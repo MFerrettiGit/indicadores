@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -24277,17 +24277,17 @@
                                      "tv":  68
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  35.37,
+                                     "tv":  100
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24390,7 +24390,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  1.79,
+                                     "km":  63.96,
                                      "tv":  0
                                  },
                                  {
@@ -24403,30 +24403,30 @@
                                      "tv":  39
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.5,
+                                     "tv":  53
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.32,
+                                     "tv":  46
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  55.12,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.68,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -24489,6 +24489,13 @@
                                        "tv":  117
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  35.37,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "JC BELTRAM SUPERMERCADOS LTDA - EPP",
                                        "p":  1,
@@ -24510,11 +24517,25 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO PONTEL LTDA.",
+                                       "p":  1,
+                                       "km":  4.32,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                        "p":  0,
                                        "km":  32.35,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MAXBOM SUPERMERCADO RB LTDA",
+                                       "p":  1,
+                                       "km":  1.82,
+                                       "tv":  53
                                    }
                                ]
                    }
