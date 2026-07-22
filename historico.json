@@ -24247,16 +24247,16 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  66.1,
-                                     "tv":  352
+                                     "km":  68.12,
+                                     "tv":  367
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -24352,19 +24352,19 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  6.63,
-                                     "tv":  190
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  10.01,
+                                     "tv":  298
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  40.6,
-                                     "tv":  266
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  44.55,
+                                     "tv":  328
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -24394,6 +24394,15 @@
                                      "tv":  229
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  13.07,
+                                     "tv":  287
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -24403,15 +24412,6 @@
                                      "tv":  282
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  10.65,
-                                     "tv":  246
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -24419,6 +24419,15 @@
                                      "pe":  2,
                                      "km":  31.86,
                                      "tv":  134
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  28.33,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Karina",
@@ -24446,15 +24455,6 @@
                                      "pe":  2,
                                      "km":  7.32,
                                      "tv":  138
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  25.01,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24594,6 +24594,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                       "p":  1,
+                                       "km":  2.02,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -24676,6 +24683,13 @@
                                        "p":  1,
                                        "km":  0.31,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SAO RAFAEL SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  3.38,
+                                       "tv":  108
                                    },
                                    {
                                        "n":  "Fernando",
@@ -24818,6 +24832,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "MERCADINHO VILA IZAURA LTDA",
+                                       "p":  1,
+                                       "km":  3.95,
+                                       "tv":  62
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                                        "p":  1,
@@ -24893,6 +24914,13 @@
                                        "p":  1,
                                        "km":  2.97,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.42,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Castro",
@@ -25019,6 +25047,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SM MAIS SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.32,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Nelson",
