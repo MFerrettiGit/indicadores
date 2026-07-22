@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/07/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:06",
                      "ultimo":  "15:12",
                      "tv":  "05:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  64.72,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  77.84,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:01",
-                     "ultimo":  "12:20",
-                     "tv":  "04:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:00",
+                     "tv":  "07:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,6 +270,21 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "15:51",
                      "tv":  "02:45:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  25.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:03",
+                     "ultimo":  "16:05",
+                     "tv":  "04:15:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -285,6 +300,21 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "14:42",
                      "tv":  "04:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  183.85,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:02",
+                     "ultimo":  "16:07",
+                     "tv":  "03:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -315,36 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "15:25",
                      "tv":  "04:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  15.17,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:03",
-                     "ultimo":  "14:52",
-                     "tv":  "03:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  142.88,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:02",
-                     "ultimo":  "14:42",
-                     "tv":  "03:10:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -454,6 +454,15 @@ window.PAINEL = {
                          "out":  "12:20:10",
                          "km":  64.72,
                          "dur":  "04:19:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "12:36:13",
+                         "out":  "16:00:11",
+                         "km":  13.12,
+                         "dur":  "03:23:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -1041,6 +1050,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:50:41",
+                         "out":  "16:07:01",
+                         "km":  40.97,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MP ITATIBA LTDA",
                          "mun":  "ITATIBA",
@@ -1111,6 +1129,15 @@ window.PAINEL = {
                          "out":  "14:52:36",
                          "km":  4.19,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:44:22",
+                         "out":  "16:05:44",
+                         "km":  10.14,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1424,7 +1451,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:48"
+                        "tempo":  "00:39:17"
                     }
                 ],
     "semped":  [
@@ -1443,6 +1470,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "HIGA PROD. ALIM. LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
@@ -1483,6 +1516,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Ausente"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "DANIEL DE S. GONCALVES MERCADO",
                        "mun":  "SAO CARLOS",
@@ -1503,88 +1542,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "03:17:31"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:27:44"
+                         "tempo":  "00:43:11"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:03:34"
+                         "tempo":  "00:19:01"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:01:08"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:29:13"
+                         "tempo":  "00:44:40"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:13:24"
+                         "tempo":  "00:28:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:03:42"
+                         "tempo":  "01:19:09"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "ODALTIR DE MEDEIROS",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:18:45"
+                         "tempo":  "00:34:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DE CARLI E FERNANDES LTDA-ME.",
                          "mun":  "LEME",
-                         "tempo":  "00:13:47"
+                         "tempo":  "00:29:14"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:26"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:09:22"
+                         "tempo":  "00:25:53"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "148:33:29"
+                         "tempo":  "148:48:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:10:24"
+                         "tempo":  "00:25:51"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:03:03"
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:07:38"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:23:36"
+                         "tempo":  "00:39:03"
                      }
                  ],
     "hist":  [
@@ -1695,8 +1728,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/07",
-                     97,
-                     15
+                     100,
+                     17
                  ]
              ],
     "historico":  {
@@ -25948,7 +25981,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-22":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26035,10 +26068,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  64.72,
-                                                       "tv":  259
+                                                       "km":  77.84,
+                                                       "tv":  462
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -26113,6 +26146,15 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  25.31,
+                                                       "tv":  255
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -26120,6 +26162,15 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  54.51,
                                                        "tv":  282
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  183.85,
+                                                       "tv":  206
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -26138,24 +26189,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  28.33,
                                                        "tv":  277
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  15.17,
-                                                       "tv":  234
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  142.88,
-                                                       "tv":  190
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -26237,6 +26270,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  64.72,
                                                          "tv":  259
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  13.12,
+                                                         "tv":  203
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -26694,6 +26734,13 @@ window.PAINEL = {
                                                          "tv":  30
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                                                         "p":  0,
+                                                         "km":  40.97,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                                          "p":  0,
@@ -26748,6 +26795,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.19,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  10.14,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Mariangela",

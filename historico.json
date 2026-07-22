@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24334,10 +24334,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  64.72,
-                                     "tv":  259
+                                     "km":  77.84,
+                                     "tv":  462
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -24412,6 +24412,15 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  25.31,
+                                     "tv":  255
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -24419,6 +24428,15 @@
                                      "pe":  3,
                                      "km":  54.51,
                                      "tv":  282
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  183.85,
+                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -24437,24 +24455,6 @@
                                      "pe":  4,
                                      "km":  28.33,
                                      "tv":  277
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  15.17,
-                                     "tv":  234
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  142.88,
-                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24536,6 +24536,13 @@
                                        "p":  0,
                                        "km":  64.72,
                                        "tv":  259
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  13.12,
+                                       "tv":  203
                                    },
                                    {
                                        "n":  "Eliana",
@@ -24993,6 +25000,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                                       "p":  0,
+                                       "km":  40.97,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO MP ITATIBA LTDA",
                                        "p":  0,
@@ -25047,6 +25061,13 @@
                                        "p":  1,
                                        "km":  4.19,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  10.14,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Mariangela",
