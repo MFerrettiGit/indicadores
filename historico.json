@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24259,6 +24259,15 @@
                                      "tv":  352
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  117.48,
+                                     "tv":  335
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -24266,15 +24275,6 @@
                                      "pe":  0,
                                      "km":  34.64,
                                      "tv":  384
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  83.11,
-                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -24298,19 +24298,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
                                      "km":  10.44,
-                                     "tv":  249
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "tv":  394
                                  },
                                  {
                                      "nome":  "Aline",
@@ -24322,13 +24313,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  53.89,
-                                     "tv":  314
+                                     "km":  67.8,
+                                     "tv":  404
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -24388,10 +24388,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  67.67,
-                                     "tv":  162
+                                     "km":  69.1,
+                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -24524,6 +24524,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  34.37,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  0,
@@ -24543,6 +24550,13 @@
                                        "p":  1,
                                        "km":  6.28,
                                        "tv":  132
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  145
                                    },
                                    {
                                        "n":  "Evandro",
@@ -24706,6 +24720,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  1.43,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "E G DAROS",
                                        "p":  1,
@@ -24760,6 +24781,13 @@
                                        "p":  1,
                                        "km":  1.47,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO SB BABA LTDA.",
+                                       "p":  1,
+                                       "km":  13.91,
+                                       "tv":  90
                                    },
                                    {
                                        "n":  "Rachel",
