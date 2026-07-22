@@ -24247,8 +24247,26 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  38.81,
+                                     "tv":  273
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  32.09,
+                                     "tv":  286
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -24266,24 +24284,6 @@
                                      "pe":  0,
                                      "km":  10.44,
                                      "tv":  249
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  30.36,
-                                     "tv":  235
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  31.12,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -24325,10 +24325,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  27.18,
-                                     "tv":  135
+                                     "km":  52.42,
+                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -24343,37 +24343,37 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  6.32,
-                                     "tv":  132
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  6.63,
+                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  9.84,
-                                     "tv":  107
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  10.24,
+                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  37.89,
-                                     "tv":  154
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  38.34,
+                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  83.48,
-                                     "tv":  85
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  121.64,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Maira",
@@ -24403,6 +24403,15 @@
                                      "tv":  134
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  53.5,
+                                     "tv":  182
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -24410,15 +24419,6 @@
                                      "pe":  2,
                                      "km":  7.32,
                                      "tv":  138
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  53.16,
-                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -24482,6 +24482,13 @@
                                        "tv":  108
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.97,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -24531,6 +24538,13 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  8.45,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -24573,6 +24587,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO B Z LTDA",
+                                       "p":  1,
+                                       "km":  0.31,
+                                       "tv":  58
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -24585,6 +24606,13 @@
                                        "p":  1,
                                        "km":  53.35,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MARA EDITH LOURENCO E CIA LTDA.",
+                                       "p":  1,
+                                       "km":  38.16,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Luis",
@@ -24622,6 +24650,13 @@
                                        "tv":  101
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  25.24,
+                                       "tv":  115
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -24634,6 +24669,13 @@
                                        "p":  1,
                                        "km":  36.81,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0.45,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -24655,6 +24697,13 @@
                                        "p":  0,
                                        "km":  0.96,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO CHAVES DE SAO CARLOS LTDA",
+                                       "p":  1,
+                                       "km":  0.4,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Alan",
@@ -24725,6 +24774,13 @@
                                        "p":  1,
                                        "km":  19.71,
                                        "tv":  93
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO CACULA LTDA.",
+                                       "p":  1,
+                                       "km":  0.34,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Karina",
