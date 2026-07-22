@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -24304,8 +24304,8 @@
                                      "tv":  131
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24343,10 +24343,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  5.05,
-                                     "tv":  84
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  6.32,
+                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -24397,10 +24397,19 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  7.32,
+                                     "tv":  138
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  1,
-                                     "km":  6.64,
-                                     "tv":  95
+                                     "km":  53.16,
+                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Castro",
@@ -24412,13 +24421,13 @@
                                      "tv":  103
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  33.45,
-                                     "tv":  39
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  25.01,
+                                     "tv":  105
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -24439,22 +24448,13 @@
                                      "tv":  46
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  22.87,
-                                     "tv":  63
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2,
+                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24536,6 +24536,13 @@
                                        "p":  1,
                                        "km":  1.88,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "FIALHO",
+                                       "p":  1,
+                                       "km":  1.27,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Fernando",
@@ -24636,11 +24643,32 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  19.71,
+                                       "tv":  93
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  2,
+                                       "tv":  102
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SHIBATA CACAPAVA AT. E VAR. MERC.GERAL L",
                                        "p":  1,
                                        "km":  22.87,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  2.14,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Nelson",
@@ -24655,6 +24683,13 @@
                                        "p":  0,
                                        "km":  4.14,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "REDE SUPERMERCADO AMIZADE ITAPEVA LTDA",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  43
                                    }
                                ]
                    }
