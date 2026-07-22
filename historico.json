@@ -24247,8 +24247,26 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  79.39,
+                                     "tv":  188
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  30.36,
+                                     "tv":  235
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -24259,15 +24277,6 @@
                                      "tv":  186
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  70.75,
-                                     "tv":  113
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -24275,15 +24284,6 @@
                                      "pe":  0,
                                      "km":  4.16,
                                      "tv":  117
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  23.5,
-                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -24349,6 +24349,15 @@
                                      "tv":  132
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  9.84,
+                                     "tv":  107
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -24356,15 +24365,6 @@
                                      "pe":  2,
                                      "km":  83.48,
                                      "tv":  85
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.88,
-                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -24403,6 +24403,15 @@
                                      "tv":  138
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  27.63,
+                                     "tv":  119
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -24412,13 +24421,13 @@
                                      "tv":  132
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  27.63,
-                                     "tv":  103
+                                     "pe":  2,
+                                     "km":  5.89,
+                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -24437,15 +24446,6 @@
                                      "pe":  1,
                                      "km":  96.44,
                                      "tv":  68
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.32,
-                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Karina",
@@ -24496,6 +24496,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.64,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -24508,6 +24515,13 @@
                                        "p":  1,
                                        "km":  23.5,
                                        "tv":  153
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  6.86,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Silmara",
@@ -24608,11 +24622,25 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "DANIEL DE S. GONCALVES MERCADO",
+                                       "p":  0,
+                                       "km":  0.96,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "SUPERMERCADO PONTEL LTDA.",
                                        "p":  1,
                                        "km":  4.32,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "PONTEL",
+                                       "p":  1,
+                                       "km":  1.57,
+                                       "tv":  120
                                    },
                                    {
                                        "n":  "Castro",
@@ -24627,6 +24655,13 @@
                                        "p":  0,
                                        "km":  8.72,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Cominato",
