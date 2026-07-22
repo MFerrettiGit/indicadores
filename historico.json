@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24268,6 +24268,15 @@
                                      "tv":  117
                                  },
                                  {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  23.5,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -24284,15 +24293,6 @@
                                      "pe":  0,
                                      "km":  35.37,
                                      "tv":  100
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -24325,10 +24325,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  19.31,
-                                     "tv":  34
+                                     "km":  27.18,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -24343,10 +24343,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.17,
-                                     "tv":  49
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.05,
+                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -24367,21 +24367,21 @@
                                      "tv":  27
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.53,
+                                     "tv":  40
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  4.95,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.77,
                                      "tv":  0
                                  },
                                  {
@@ -24496,6 +24496,13 @@
                                        "tv":  117
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  23.5,
+                                       "tv":  153
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -24508,6 +24515,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "TOKA SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.88,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Fernando",
@@ -24524,11 +24538,25 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  7.87,
+                                       "tv":  101
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  1,
                                        "km":  0.7,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Alan",
