@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "08:00",
+                       "dataHora":  "08:15",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -24345,7 +24345,16 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  3.17,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.38,
                                      "tv":  0
                                  },
                                  {
@@ -24363,7 +24372,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  4.95,
                                      "tv":  0
                                  },
                                  {
@@ -24373,15 +24382,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.79,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -24403,21 +24403,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
+                                     "km":  55.12,
                                      "tv":  0
                                  },
                                  {
@@ -24457,12 +24448,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  55.12,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
