@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24277,6 +24277,15 @@
                                      "tv":  188
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.19,
+                                     "tv":  227
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -24284,15 +24293,6 @@
                                      "pe":  0,
                                      "km":  10.44,
                                      "tv":  249
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  62.88,
-                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -24334,10 +24334,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  64.72,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Costa",
@@ -24388,10 +24388,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  65.71,
-                                     "tv":  74
+                                     "km":  67.67,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Castro",
@@ -24421,6 +24421,15 @@
                                      "tv":  138
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  7.68,
+                                     "tv":  230
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -24428,15 +24437,6 @@
                                      "pe":  2,
                                      "km":  121.53,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  5.89,
-                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -24510,6 +24510,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  64.72,
+                                       "tv":  259
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -24566,6 +24573,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.31,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "JC BELTRAM SUPERMERCADOS LTDA - EPP",
                                        "p":  1,
@@ -24620,6 +24634,13 @@
                                        "p":  1,
                                        "km":  1.75,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  1.96,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Maira",
@@ -24718,6 +24739,13 @@
                                        "p":  1,
                                        "km":  1.57,
                                        "tv":  120
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LUNGA SUPERMERCADO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  1.79,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Castro",
