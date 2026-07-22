@@ -24247,16 +24247,34 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  73.8,
+                                     "tv":  426
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  68.12,
-                                     "tv":  367
+                                     "km":  15.49,
+                                     "tv":  426
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  54.68,
+                                     "tv":  472
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -24277,31 +24295,13 @@
                                      "tv":  332
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  15.03,
-                                     "tv":  403
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  34.64,
-                                     "tv":  384
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  10.44,
-                                     "tv":  394
+                                     "km":  11.4,
+                                     "tv":  482
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -24388,10 +24388,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  69.1,
-                                     "tv":  229
+                                     "km":  71.22,
+                                     "tv":  297
                                  },
                                  {
                                      "nome":  "Alan",
@@ -24496,6 +24496,13 @@
                                        "tv":  98
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  1,
+                                       "km":  20.04,
+                                       "tv":  88
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -24531,6 +24538,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  35.73,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  0,
@@ -24564,6 +24578,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  145
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  0.96,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Evandro",
@@ -24606,6 +24627,13 @@
                                        "p":  1,
                                        "km":  2.02,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                       "p":  1,
+                                       "km":  5.68,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Silmara",
@@ -24781,6 +24809,13 @@
                                        "p":  0,
                                        "km":  1.43,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ODALTIR DE MEDEIROS",
+                                       "p":  0,
+                                       "km":  0.66,
+                                       "tv":  68
                                    },
                                    {
                                        "n":  "Maira",
