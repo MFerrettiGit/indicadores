@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24304,8 +24304,8 @@
                                      "tv":  251
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24343,10 +24343,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  4,
-                                     "km":  13.69,
-                                     "tv":  215
+                                     "km":  20.02,
+                                     "tv":  230
                                  },
                                  {
                                      "nome":  "Costa",
@@ -24358,6 +24358,15 @@
                                      "tv":  190
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  127.32,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -24365,15 +24374,6 @@
                                      "pe":  3,
                                      "km":  38.34,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  121.64,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Maira",
@@ -24643,6 +24643,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "MARA EDITH LOURENCO",
+                                       "p":  1,
+                                       "km":  5.68,
+                                       "tv":  91
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "JW SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -24767,6 +24774,13 @@
                                        "p":  0,
                                        "km":  1.41,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ENIVALDO RUI RATTI - EPP.",
+                                       "p":  0,
+                                       "km":  6.33,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Alan",
