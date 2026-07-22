@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -24257,6 +24257,15 @@
                                      "pe":  0,
                                      "km":  79.39,
                                      "tv":  188
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  10.44,
+                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -24286,15 +24295,6 @@
                                      "tv":  185
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.16,
-                                     "tv":  117
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -24304,8 +24304,8 @@
                                      "tv":  131
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24421,6 +24421,15 @@
                                      "tv":  132
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  121.53,
+                                     "tv":  160
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -24437,15 +24446,6 @@
                                      "pe":  2,
                                      "km":  25.01,
                                      "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  96.44,
-                                     "tv":  68
                                  },
                                  {
                                      "nome":  "Karina",
@@ -24508,6 +24508,13 @@
                                        "p":  1,
                                        "km":  3.52,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.28,
+                                       "tv":  132
                                    },
                                    {
                                        "n":  "Evandro",
@@ -24690,6 +24697,13 @@
                                        "p":  1,
                                        "km":  41.32,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO LIBARDI LTDA",
+                                       "p":  1,
+                                       "km":  25.09,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Eugenio",
