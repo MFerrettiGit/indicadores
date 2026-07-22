@@ -24247,7 +24247,7 @@
                                ]
                    },
     "2026-07-22":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -24304,8 +24304,8 @@
                                      "tv":  394
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24313,8 +24313,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -24370,19 +24370,19 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
+                                     "vi":  5,
+                                     "pe":  5,
                                      "km":  127.32,
-                                     "tv":  225
+                                     "tv":  288
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  48.52,
-                                     "tv":  254
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  54.81,
+                                     "tv":  302
                                  },
                                  {
                                      "nome":  "Luis",
@@ -24403,6 +24403,15 @@
                                      "tv":  287
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  49.99,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -24412,13 +24421,13 @@
                                      "tv":  282
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  2,
-                                     "km":  31.86,
-                                     "tv":  134
+                                     "pe":  3,
+                                     "km":  63.32,
+                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -24446,15 +24455,6 @@
                                      "pe":  2,
                                      "km":  142.88,
                                      "tv":  190
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  7.32,
-                                     "tv":  138
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -24720,6 +24720,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "MARA EDITH LOURENCO",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "JW SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -24767,6 +24774,13 @@
                                        "p":  0,
                                        "km":  3.75,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "DE CASA LTDA",
+                                       "p":  1,
+                                       "km":  6.29,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Milene",
@@ -24951,6 +24965,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MESQUITA M",
+                                       "p":  1,
+                                       "km":  18.13,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                        "p":  1,
@@ -25075,6 +25096,13 @@
                                        "p":  1,
                                        "km":  0.68,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  56,
+                                       "tv":  106
                                    }
                                ]
                    }
