@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25339,10 +25339,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  31.72,
-                                     "tv":  330
+                                     "km":  32.89,
+                                     "tv":  370
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -25752,6 +25752,13 @@
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  3.72,
+                                       "tv":  40
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  1.17,
                                        "tv":  40
                                    },
                                    {

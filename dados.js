@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:16",
                      "ultimo":  "14:37",
                      "tv":  "05:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "14:32",
                      "tv":  "04:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,13 +128,13 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  31.72,
+                     "visitas":  6,
+                     "km":  32.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:09",
-                     "ultimo":  "14:07",
-                     "tv":  "05:30:00",
+                     "ultimo":  "14:59",
+                     "tv":  "06:10:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -717,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "14:18:01",
+                         "out":  "14:59:00",
+                         "km":  1.17,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "ITAPIRA",
@@ -1172,7 +1181,7 @@ window.PAINEL = {
                         "obs":  "zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:35"
+                        "tempo":  "02:08:42"
                     },
                     {
                         "nome":  "Silmara",
@@ -1180,7 +1189,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:02"
+                        "tempo":  "00:22:09"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:47"
                     }
                 ],
     "semped":  [
@@ -1256,67 +1273,79 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:01:29"
+                         "tempo":  "00:16:30"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:44"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:04:09"
+                         "tempo":  "01:19:10"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SANTO COM.",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:13:18"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO STA.U.WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:05:44"
+                         "tempo":  "00:20:45"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "00:24:18"
+                         "tempo":  "00:39:19"
                      },
                      {
                          "nome":  "Milene",
-                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:36:16"
+                         "tempo":  "00:02:40"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PARROTI SAO JOAO SUPERMERCADO LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:08:18"
+                         "tempo":  "00:23:19"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:09:52"
+                         "tempo":  "01:24:53"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO NOVO HORIZONTE CAMPINAS LTD",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:55:34"
+                         "tempo":  "01:10:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "171:34:02"
+                         "tempo":  "171:49:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:59:53"
+                         "tempo":  "01:14:54"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:12:29"
+                         "tempo":  "00:27:30"
                      }
                  ],
     "hist":  [
@@ -1427,7 +1456,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     76,
+                     77,
                      12
                  ]
              ],
@@ -26694,7 +26723,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -26772,10 +26801,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  31.72,
-                                                       "tv":  330
+                                                       "km":  32.89,
+                                                       "tv":  370
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -27185,6 +27214,13 @@ window.PAINEL = {
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  1,
                                                          "km":  3.72,
+                                                         "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                                         "p":  1,
+                                                         "km":  1.17,
                                                          "tv":  40
                                                      },
                                                      {
