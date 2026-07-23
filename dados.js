@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -17,6 +17,21 @@ window.PAINEL = {
                      "tv":  "02:39:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  52.44,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:56",
+                     "ultimo":  "12:43",
+                     "tv":  "04:49:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Silmara",
@@ -49,21 +64,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  52.32,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:56",
-                     "ultimo":  "12:00",
-                     "tv":  "04:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "10:28",
                      "tv":  "02:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,6 +196,21 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "02:49:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  10.2,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:44",
+                     "ultimo":  "12:42",
+                     "tv":  "03:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -229,19 +244,19 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  7.48,
+                     "visitas":  6,
+                     "km":  51.11,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:44",
-                     "ultimo":  "11:38",
-                     "tv":  "02:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "primeiro":  "09:07",
+                     "ultimo":  "12:47",
+                     "tv":  "02:54:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -257,21 +272,6 @@ window.PAINEL = {
                      "tv":  "03:16:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  30.68,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:07",
-                     "ultimo":  "11:15",
-                     "tv":  "01:31:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:03",
                      "tv":  "04:01:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  37.93,
+                     "visitas":  2,
+                     "km":  38.7,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:39",
-                     "ultimo":  "11:10",
-                     "tv":  "01:30:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:47",
+                     "tv":  "03:02:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -409,6 +409,15 @@ window.PAINEL = {
                          "out":  "12:00:35",
                          "km":  24.96,
                          "dur":  "01:15:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "12:04:23",
+                         "out":  "12:43:46",
+                         "km":  0.12,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -645,6 +654,15 @@ window.PAINEL = {
                          "dur":  "01:44:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "11:51:47",
+                         "out":  "12:42:57",
+                         "km":  2.72,
+                         "dur":  "00:51:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -706,6 +724,15 @@ window.PAINEL = {
                          "out":  "11:15:43",
                          "km":  0.4,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                         "mun":  "ITUPEVA",
+                         "in":  "11:22:44",
+                         "out":  "12:47:07",
+                         "km":  20.43,
+                         "dur":  "01:23:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -816,6 +843,15 @@ window.PAINEL = {
                          "dur":  "01:30:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO SERV MAGO LTDA",
+                         "mun":  "GUARAREMA",
+                         "in":  "11:14:55",
+                         "out":  "12:47:43",
+                         "km":  0.77,
+                         "dur":  "01:32:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
@@ -881,7 +917,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:08"
+                        "tempo":  "00:53:05"
                     },
                     {
                         "nome":  "Edimilson",
@@ -889,7 +925,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:59"
+                        "tempo":  "00:40:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -897,7 +933,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:04"
+                        "tempo":  "00:36:01"
                     },
                     {
                         "nome":  "Alan",
@@ -905,7 +941,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:49"
+                        "tempo":  "00:31:46"
                     },
                     {
                         "nome":  "Maira",
@@ -913,7 +949,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:09"
+                        "tempo":  "00:28:06"
                     },
                     {
                         "nome":  "Eugenio",
@@ -921,7 +957,39 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:09"
+                        "tempo":  "00:26:06"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:39"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:19"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:02"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:18"
                     }
                 ],
     "semped":  [
@@ -966,6 +1034,12 @@ window.PAINEL = {
                        "razao":  "BALTIERI BALTIERI",
                        "mun":  "SAO PEDRO",
                        "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -973,55 +1047,37 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:09:51"
+                         "tempo":  "00:24:49"
                      },
                      {
-                         "nome":  "Eliana",
-                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
-                         "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:34:51"
+                         "nome":  "Vinicius",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:09:18"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:05:59"
+                         "tempo":  "01:20:57"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAMAVI PERFUMARIA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:01:40"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:47:27"
+                         "tempo":  "01:16:38"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:26:19"
+                         "tempo":  "00:41:17"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "169:18:59"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "01:16:30"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO SERV MAGO LTDA",
-                         "mun":  "GUARAREMA",
-                         "tempo":  "01:24:19"
+                         "tempo":  "169:33:57"
                      }
                  ],
     "hist":  [
@@ -1132,8 +1188,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     57,
-                     8
+                     61,
+                     9
                  ]
              ],
     "historico":  {
@@ -26399,7 +26455,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26409,6 +26465,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  86.5,
                                                        "tv":  159
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  52.44,
+                                                       "tv":  289
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -26427,15 +26492,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  24.33,
                                                        "tv":  254
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  52.32,
-                                                       "tv":  250
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -26519,6 +26575,15 @@ window.PAINEL = {
                                                        "tv":  169
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  10.2,
+                                                       "tv":  222
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -26537,13 +26602,13 @@ window.PAINEL = {
                                                        "tv":  156
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  7.48,
-                                                       "tv":  171
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  51.11,
+                                                       "tv":  174
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -26553,15 +26618,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  25.67,
                                                        "tv":  196
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  30.68,
-                                                       "tv":  91
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -26603,10 +26659,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  37.93,
-                                                       "tv":  90
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  38.7,
+                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -26653,6 +26709,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.96,
                                                          "tv":  75
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  0.12,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Evandro",
@@ -26837,6 +26900,13 @@ window.PAINEL = {
                                                          "tv":  104
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
+                                                         "p":  0,
+                                                         "km":  2.72,
+                                                         "tv":  51
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                                          "p":  1,
@@ -26884,6 +26954,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.4,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                                         "p":  1,
+                                                         "km":  20.43,
+                                                         "tv":  83
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -26968,6 +27045,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  37.93,
                                                          "tv":  90
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO SERV MAGO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.77,
+                                                         "tv":  92
                                                      },
                                                      {
                                                          "n":  "Nelson",

@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25271,6 +25271,15 @@
                                      "pe":  0,
                                      "km":  86.5,
                                      "tv":  159
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  52.44,
+                                     "tv":  289
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -25289,15 +25298,6 @@
                                      "pe":  0,
                                      "km":  24.33,
                                      "tv":  254
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  52.32,
-                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -25381,6 +25381,15 @@
                                      "tv":  169
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  10.2,
+                                     "tv":  222
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -25399,13 +25408,13 @@
                                      "tv":  156
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.48,
-                                     "tv":  171
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  51.11,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -25415,15 +25424,6 @@
                                      "pe":  4,
                                      "km":  25.67,
                                      "tv":  196
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  30.68,
-                                     "tv":  91
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -25465,10 +25465,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  37.93,
-                                     "tv":  90
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  38.7,
+                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -25515,6 +25515,13 @@
                                        "p":  1,
                                        "km":  24.96,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  0.12,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Evandro",
@@ -25699,6 +25706,13 @@
                                        "tv":  104
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
+                                       "p":  0,
+                                       "km":  2.72,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -25746,6 +25760,13 @@
                                        "p":  1,
                                        "km":  0.4,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                       "p":  1,
+                                       "km":  20.43,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Cominato",
@@ -25830,6 +25851,13 @@
                                        "p":  1,
                                        "km":  37.93,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO SERV MAGO LTDA",
+                                       "p":  1,
+                                       "km":  0.77,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Nelson",
