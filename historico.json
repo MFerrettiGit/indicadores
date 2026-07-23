@@ -25261,25 +25261,25 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  78.44,
-                                     "tv":  241
+                                     "km":  84.91,
+                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  92.92,
-                                     "tv":  227
+                                     "km":  95.74,
+                                     "tv":  261
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -25408,6 +25408,15 @@
                                      "tv":  156
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  1,
+                                     "km":  46.69,
+                                     "tv":  274
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -25415,15 +25424,6 @@
                                      "pe":  6,
                                      "km":  51.11,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  45.59,
-                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -25599,6 +25599,13 @@
                                        "p":  1,
                                        "km":  25.58,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
+                                       "p":  1,
+                                       "km":  6.47,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Vinicius",
