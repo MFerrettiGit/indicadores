@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25363,6 +25363,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  19.66,
+                                     "tv":  128
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -25372,13 +25381,13 @@
                                      "tv":  97
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  17.17,
-                                     "tv":  101
+                                     "pe":  2,
+                                     "km":  67.45,
+                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -25399,15 +25408,6 @@
                                      "tv":  123
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  65.11,
-                                     "tv":  126
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -25415,6 +25415,15 @@
                                      "pe":  5,
                                      "km":  30.68,
                                      "tv":  91
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  24.37,
+                                     "tv":  169
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -25426,13 +25435,22 @@
                                      "tv":  167
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  15.43,
-                                     "tv":  150
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  28.57,
+                                     "tv":  212
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  4.74,
+                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -25442,24 +25460,6 @@
                                      "pe":  1,
                                      "km":  2.54,
                                      "tv":  195
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  26.74,
-                                     "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.05,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -25594,6 +25594,13 @@
                                        "tv":  126
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FERNANDO PALMIERI",
+                                       "p":  1,
+                                       "km":  2.34,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                        "p":  1,
@@ -25606,6 +25613,13 @@
                                        "p":  0,
                                        "km":  3.35,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "BRAIT",
+                                       "p":  0,
+                                       "km":  2.49,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Milene",
@@ -25648,6 +25662,13 @@
                                        "p":  1,
                                        "km":  26.74,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "JASON ROQUE DE CASTILHO JUNIOR",
+                                       "p":  1,
+                                       "km":  1.83,
+                                       "tv":  122
                                    },
                                    {
                                        "n":  "Castro",
@@ -25727,11 +25748,25 @@
                                        "tv":  60
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  8.94,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1,
                                        "km":  2.05,
                                        "tv":  103
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  2.69,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Mariangela",

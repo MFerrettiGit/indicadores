@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  19.66,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:21",
+                     "ultimo":  "11:49",
+                     "tv":  "02:08:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -184,18 +199,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  17.17,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:21",
-                     "ultimo":  "10:24",
-                     "tv":  "01:41:00",
-                     "emVisita":  1,
+                     "km":  67.45,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:41",
+                     "ultimo":  "11:44",
+                     "tv":  "02:28:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "11:38",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "10:19",
                      "tv":  "02:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  65.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:41",
-                     "ultimo":  "10:48",
-                     "tv":  "02:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  24.37,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:20",
+                     "ultimo":  "11:44",
+                     "tv":  "02:49:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -274,18 +289,33 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  15.43,
+                     "visitas":  2,
+                     "km":  28.57,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "11:07",
-                     "tv":  "02:30:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:02",
+                     "ultimo":  "11:44",
+                     "tv":  "03:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  4.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:01",
+                     "ultimo":  "11:43",
+                     "tv":  "02:28:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,36 +330,6 @@ window.PAINEL = {
                      "primeiro":  "07:54",
                      "ultimo":  "11:09",
                      "tv":  "03:15:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  26.74,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "09:32",
-                     "tv":  "01:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  2.05,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:01",
-                     "ultimo":  "10:44",
-                     "tv":  "01:43:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -510,6 +510,15 @@ window.PAINEL = {
                          "dur":  "02:06:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "in":  "11:21:07",
+                         "out":  "11:44:06",
+                         "km":  2.34,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
@@ -526,6 +535,15 @@ window.PAINEL = {
                          "out":  "10:24:36",
                          "km":  3.35,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT",
+                         "mun":  "AMERICANA",
+                         "in":  "11:21:46",
+                         "out":  "11:49:08",
+                         "km":  2.49,
+                         "dur":  "00:27:00"
                      },
                      {
                          "nome":  "Milene",
@@ -580,6 +598,15 @@ window.PAINEL = {
                          "out":  "09:32:52",
                          "km":  26.74,
                          "dur":  "01:30:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "JASON ROQUE DE CASTILHO JUNIOR",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:42:28",
+                         "out":  "11:44:39",
+                         "km":  1.83,
+                         "dur":  "02:02:00"
                      },
                      {
                          "nome":  "Castro",
@@ -681,6 +708,15 @@ window.PAINEL = {
                          "dur":  "01:00:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "11:25:01",
+                         "out":  "11:44:35",
+                         "km":  8.94,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -688,6 +724,15 @@ window.PAINEL = {
                          "out":  "10:44:18",
                          "km":  2.05,
                          "dur":  "01:43:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "10:57:43",
+                         "out":  "11:43:38",
+                         "km":  2.69,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -747,7 +792,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:41"
+                        "tempo":  "00:44:35"
                     }
                 ],
     "semped":  [
@@ -756,6 +801,18 @@ window.PAINEL = {
                        "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
                        "mun":  "AMERICANA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "BRAIT",
+                       "mun":  "AMERICANA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                       "mun":  "ATIBAIA",
+                       "obs":  "comprador afastado"
                    },
                    {
                        "nome":  "Cominato",
@@ -775,103 +832,85 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:22:56"
+                         "tempo":  "00:37:50"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:59:58"
+                         "tempo":  "01:14:52"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:54:18"
+                         "tempo":  "01:09:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:06:05"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BRAIT",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:17:34"
+                         "tempo":  "00:20:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:14:22"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "FERNANDO PALMIERI",
-                         "mun":  "GUARA",
-                         "tempo":  "00:18:13"
+                         "tempo":  "00:29:16"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:15:05"
+                         "tempo":  "00:29:59"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAMAVI PERFUMARIA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:46"
+                         "tempo":  "00:16:40"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:02:27"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:14:19"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "JASON ROQUE DE CASTILHO JUNIOR",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:56:52"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:41:37"
+                         "tempo":  "00:06:02"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "168:19:05"
+                         "tempo":  "168:33:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:22:24"
+                         "tempo":  "00:37:18"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:16:36"
+                         "tempo":  "00:31:30"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BALTIERI BALTIERI",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:05:39"
+                         "tempo":  "00:20:33"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO SERV MAGO LTDA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:24:25"
+                         "tempo":  "00:39:19"
                      }
                  ],
     "hist":  [
@@ -982,8 +1021,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     40,
-                     4
+                     46,
+                     6
                  ]
              ],
     "historico":  {
@@ -26249,7 +26288,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -26351,6 +26390,15 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  19.66,
+                                                       "tv":  128
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -26360,13 +26408,13 @@ window.PAINEL = {
                                                        "tv":  97
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  17.17,
-                                                       "tv":  101
+                                                       "pe":  2,
+                                                       "km":  67.45,
+                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -26387,15 +26435,6 @@ window.PAINEL = {
                                                        "tv":  123
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  65.11,
-                                                       "tv":  126
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -26403,6 +26442,15 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  30.68,
                                                        "tv":  91
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  24.37,
+                                                       "tv":  169
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -26414,13 +26462,22 @@ window.PAINEL = {
                                                        "tv":  167
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  15.43,
-                                                       "tv":  150
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  28.57,
+                                                       "tv":  212
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  4.74,
+                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -26430,24 +26487,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2.54,
                                                        "tv":  195
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  26.74,
-                                                       "tv":  90
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2.05,
-                                                       "tv":  103
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -26582,6 +26621,13 @@ window.PAINEL = {
                                                          "tv":  126
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "FERNANDO PALMIERI",
+                                                         "p":  1,
+                                                         "km":  2.34,
+                                                         "tv":  22
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                                          "p":  1,
@@ -26594,6 +26640,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.35,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT",
+                                                         "p":  0,
+                                                         "km":  2.49,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -26636,6 +26689,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  26.74,
                                                          "tv":  90
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "JASON ROQUE DE CASTILHO JUNIOR",
+                                                         "p":  1,
+                                                         "km":  1.83,
+                                                         "tv":  122
                                                      },
                                                      {
                                                          "n":  "Castro",
@@ -26715,11 +26775,25 @@ window.PAINEL = {
                                                          "tv":  60
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  8.94,
+                                                         "tv":  19
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                                          "p":  1,
                                                          "km":  2.05,
                                                          "tv":  103
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.69,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Mariangela",
