@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25282,6 +25282,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  19.15,
+                                     "tv":  146
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -25300,13 +25309,13 @@
                                      "tv":  175
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  13.36,
-                                     "tv":  59
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25320,15 +25329,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25408,6 +25408,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  29.17,
+                                     "tv":  60
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -25424,15 +25433,6 @@
                                      "pe":  2,
                                      "km":  14.27,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  26.77,
-                                     "tv":  45
                                  },
                                  {
                                      "nome":  "Alan",
@@ -25538,6 +25538,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.79,
+                                       "tv":  87
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PARROTTI A. BOA VISTA LTDA",
                                        "p":  1,
@@ -25620,6 +25627,13 @@
                                        "p":  1,
                                        "km":  10.04,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                                       "p":  1,
+                                       "km":  2.4,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
