@@ -25261,16 +25261,16 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  28.8,
-                                     "tv":  55
+                                     "km":  68.29,
+                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -25309,6 +25309,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -25320,15 +25329,6 @@
                                  {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25357,10 +25357,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.04,
-                                     "tv":  39
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  11.54,
+                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -25372,21 +25372,21 @@
                                      "tv":  16
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  13.82,
+                                     "tv":  77
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.55,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.78,
                                      "tv":  0
                                  },
                                  {
@@ -25417,6 +25417,15 @@
                                      "tv":  60
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  26.74,
+                                     "tv":  90
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -25426,21 +25435,21 @@
                                      "tv":  56
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.73,
+                                     "tv":  26
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.7,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -25453,8 +25462,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -25464,15 +25473,6 @@
                                  {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -25496,6 +25496,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  39.49,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -25517,6 +25524,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SABRINA APARECIDA PRADO SILVA SUP. LTDA",
+                                       "p":  1,
+                                       "km":  5.5,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                        "p":  1,
@@ -25524,11 +25538,32 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                       "p":  1,
+                                       "km":  11.04,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
                                        "km":  22.19,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                                       "p":  1,
+                                       "km":  26.74,
+                                       "tv":  90
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                       "p":  1,
+                                       "km":  16.73,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Cominato",
