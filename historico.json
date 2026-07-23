@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25282,6 +25282,15 @@
                                      "tv":  107
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  52.32,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -25300,13 +25309,13 @@
                                      "tv":  160
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  27.36,
-                                     "tv":  175
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25320,15 +25329,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25381,6 +25381,15 @@
                                      "tv":  97
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  40.42,
+                                     "tv":  156
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -25397,15 +25406,6 @@
                                      "pe":  2,
                                      "km":  7.48,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  39,
-                                     "tv":  123
                                  },
                                  {
                                      "nome":  "Castro",
@@ -25435,6 +25435,15 @@
                                      "tv":  167
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  3.45,
+                                     "tv":  241
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -25451,15 +25460,6 @@
                                      "pe":  2,
                                      "km":  4.74,
                                      "tv":  148
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.54,
-                                     "tv":  195
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -25503,6 +25503,13 @@
                                        "tv":  175
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  24.96,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -25514,6 +25521,13 @@
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
                                        "km":  39.49,
+                                       "tv":  52
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  18.21,
                                        "tv":  52
                                    },
                                    {
@@ -25641,6 +25655,13 @@
                                        "p":  1,
                                        "km":  36.45,
                                        "tv":  123
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  0,
+                                       "km":  1.42,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -25781,6 +25802,13 @@
                                        "p":  1,
                                        "km":  0.84,
                                        "tv":  195
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.91,
+                                       "tv":  46
                                    }
                                ]
                    }
