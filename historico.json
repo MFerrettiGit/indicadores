@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25444,6 +25444,15 @@
                                      "tv":  210
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  40.68,
+                                     "tv":  222
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -25460,15 +25469,6 @@
                                      "pe":  2,
                                      "km":  28.57,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  38.7,
-                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -25893,6 +25893,13 @@
                                        "p":  1,
                                        "km":  0.77,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                       "p":  1,
+                                       "km":  1.98,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Nelson",

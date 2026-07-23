@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,8 +45,8 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "12:43",
                      "tv":  "04:49:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:16",
                      "ultimo":  "12:13",
                      "tv":  "04:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "11:23",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "13:27",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "11:49",
                      "tv":  "02:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "02:49:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "02:54:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "12:16",
                      "tv":  "03:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  40.68,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:39",
+                     "ultimo":  "13:41",
+                     "tv":  "03:42:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -315,8 +330,8 @@ window.PAINEL = {
                      "primeiro":  "07:54",
                      "ultimo":  "12:03",
                      "tv":  "04:01:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "11:44",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  38.7,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:39",
-                     "ultimo":  "12:47",
-                     "tv":  "03:02:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -897,6 +897,15 @@ window.PAINEL = {
                          "dur":  "01:32:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                         "mun":  "GUARAREMA",
+                         "in":  "13:01:09",
+                         "out":  "13:41:54",
+                         "km":  1.98,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
@@ -957,12 +966,36 @@ window.PAINEL = {
                         "tempo":  "00:47:47"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:47",
+                        "final":  "13:40",
+                        "tempo":  "00:52:52"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:46",
+                        "final":  "13:51",
+                        "tempo":  "01:04:24"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Em Viagem",
                         "obs":  ".",
                         "inicio":  "07:55",
                         "final":  "09:06",
                         "tempo":  "01:11:02"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:48",
+                        "final":  "13:48",
+                        "tempo":  "01:00:02"
                     },
                     {
                         "nome":  "Cominato",
@@ -989,6 +1022,14 @@ window.PAINEL = {
                         "tempo":  "00:58:45"
                     },
                     {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:44",
+                        "final":  "13:45",
+                        "tempo":  "01:00:45"
+                    },
+                    {
                         "nome":  "Vinicius",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1005,44 +1046,12 @@ window.PAINEL = {
                         "tempo":  "01:43:56"
                     },
                     {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:49"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:29"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:12"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:28"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:19"
+                        "tempo":  "00:53:09"
                     },
                     {
                         "nome":  "Karina",
@@ -1050,7 +1059,39 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:26"
+                        "tempo":  "00:26:16"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:21"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:15"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:51"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:40"
                     }
                 ],
     "semped":  [
@@ -1105,40 +1146,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:12:06"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VARZEA PAULISTA",
+                         "tempo":  "00:04:01"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:54:20"
+                         "tempo":  "01:09:15"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:02:35"
+                         "tempo":  "00:17:30"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:02:29"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:12:52"
+                         "tempo":  "00:27:47"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:09:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "170:18:59"
+                         "tempo":  "170:33:54"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BALTIERI BALTIERI E CIA LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:14:32"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
-                         "mun":  "GUARAREMA",
-                         "tempo":  "00:38:05"
+                         "tempo":  "00:29:27"
                      }
                  ],
     "hist":  [
@@ -1249,7 +1308,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     66,
+                     67,
                      9
                  ]
              ],
@@ -26516,7 +26575,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26699,6 +26758,15 @@ window.PAINEL = {
                                                        "tv":  210
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  40.68,
+                                                       "tv":  222
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -26715,15 +26783,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  28.57,
                                                        "tv":  212
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  38.7,
-                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -27148,6 +27207,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.77,
                                                          "tv":  92
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                                         "p":  1,
+                                                         "km":  1.98,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Nelson",
