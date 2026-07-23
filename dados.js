@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  55.12,
+                     "km":  59.53,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:16",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -96,21 +111,6 @@ window.PAINEL = {
                  {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.23,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -154,12 +154,27 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  119.18,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "17:44",
+                     "tv":  "05:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  18.89,
+                     "km":  21.02,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
@@ -169,27 +184,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  92.98,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "17:00",
-                     "tv":  "04:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  26.9,
+                     "km":  29.67,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:21",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "17:02",
                      "tv":  "05:20:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  79.13,
+                     "km":  80.48,
                      "semPed":  5,
                      "perc":  71.43,
                      "primeiro":  "08:02",
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  42.65,
+                     "km":  82.36,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:39",
@@ -697,6 +697,15 @@ window.PAINEL = {
                          "out":  "17:00:34",
                          "km":  15.95,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO JDS LTDA-ME",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:28:18",
+                         "out":  "17:44:44",
+                         "km":  26.2,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1227,8 +1236,8 @@ window.PAINEL = {
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:26",
-                        "final":  "13:26",
-                        "tempo":  "00:59:11"
+                        "final":  "17:48",
+                        "tempo":  "05:21:22"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1301,6 +1310,14 @@ window.PAINEL = {
                         "inicio":  "12:47",
                         "final":  "13:40",
                         "tempo":  "00:52:52"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Guará a Franca",
+                        "inicio":  "17:05",
+                        "final":  "17:53",
+                        "tempo":  "00:48:53"
                     },
                     {
                         "nome":  "Nelson",
@@ -1429,14 +1446,6 @@ window.PAINEL = {
                         "inicio":  "15:04",
                         "final":  "15:51",
                         "tempo":  "00:46:56"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Guará a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:22"
                     }
                 ],
     "semped":  [
@@ -1515,22 +1524,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO JDS LTDA-ME",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:10:53"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "174:18:56"
+                         "tempo":  "174:33:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "03:44:47"
+                         "tempo":  "03:59:48"
                      }
                  ],
     "hist":  [
@@ -1641,7 +1644,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     100,
+                     101,
                      13
                  ]
              ],
@@ -26908,7 +26911,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26934,7 +26937,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  55.12,
+                                                       "km":  59.53,
                                                        "tv":  426
                                                    },
                                                    {
@@ -26956,6 +26959,15 @@ window.PAINEL = {
                                                        "tv":  473
                                                    },
                                                    {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -26967,15 +26979,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -26997,8 +27000,17 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.23,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  119.18,
+                                                       "tv":  311
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -27006,17 +27018,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  18.89,
+                                                       "km":  21.02,
                                                        "tv":  242
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  92.98,
-                                                       "tv":  295
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -27024,7 +27027,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  26.9,
+                                                       "km":  29.67,
                                                        "tv":  245
                                                    },
                                                    {
@@ -27060,7 +27063,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  2,
-                                                       "km":  79.13,
+                                                       "km":  80.48,
                                                        "tv":  335
                                                    },
                                                    {
@@ -27105,7 +27108,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  42.65,
+                                                       "km":  82.36,
                                                        "tv":  279
                                                    },
                                                    {
@@ -27386,6 +27389,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  15.95,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO JDS LTDA-ME",
+                                                         "p":  1,
+                                                         "km":  26.2,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Luis",
