@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25309,15 +25309,6 @@
                                      "tv":  175
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -25329,6 +25320,15 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25381,6 +25381,15 @@
                                      "tv":  101
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.48,
+                                     "tv":  171
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -25397,15 +25406,6 @@
                                      "pe":  1,
                                      "km":  65.11,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.97,
-                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Castro",
@@ -25634,6 +25634,13 @@
                                        "p":  1,
                                        "km":  6.56,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO",
+                                       "p":  1,
+                                       "km":  0.51,
+                                       "tv":  104
                                    },
                                    {
                                        "n":  "Alan",
