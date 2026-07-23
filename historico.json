@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25309,6 +25309,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -25320,15 +25329,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25408,6 +25408,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  35.14,
+                                     "tv":  60
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -25426,15 +25435,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  9.47,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -25444,8 +25444,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -25471,8 +25471,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -25522,6 +25522,13 @@
                                        "p":  1,
                                        "km":  22.19,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI",
+                                       "p":  1,
+                                       "km":  25.67,
+                                       "tv":  60
                                    }
                                ]
                    }
