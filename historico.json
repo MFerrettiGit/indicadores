@@ -25261,8 +25261,17 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "07:45",
+                       "dataHora":  "08:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  28.8,
+                                     "tv":  55
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -25270,15 +25279,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
                                      "tv":  0
                                  },
                                  {
@@ -25386,7 +25386,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.13,
                                      "tv":  0
                                  },
                                  {
@@ -25395,7 +25395,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  2.55,
                                      "tv":  0
                                  },
                                  {
@@ -25440,7 +25440,7 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  1.7,
                                      "tv":  0
                                  },
                                  {
@@ -25481,7 +25481,13 @@
                                  }
                              ],
                        "cli":  [
-
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  28.62,
+                                       "tv":  55
+                                   }
                                ]
                    }
 }
