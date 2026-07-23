@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  92.92,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:56",
+                     "ultimo":  "13:37",
+                     "tv":  "03:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -15,21 +30,6 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "12:56",
                      "tv":  "03:42:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  86.5,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:56",
-                     "ultimo":  "12:09",
-                     "tv":  "02:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:09",
                      "ultimo":  "13:16",
                      "tv":  "04:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  67.66,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "13:27",
+                     "tv":  "03:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -181,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:49",
                      "tv":  "02:08:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  60.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "10:02",
-                     "tv":  "01:37:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:16",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "12:14",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "13:15",
                      "tv":  "03:30:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VALINHOS",
+                         "in":  "12:29:23",
+                         "out":  "13:37:28",
+                         "km":  6.42,
+                         "dur":  "01:08:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -544,6 +553,15 @@ window.PAINEL = {
                          "out":  "10:02:10",
                          "km":  18.99,
                          "dur":  "01:21:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "RAMAVI PERFUMARIA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "11:37:34",
+                         "out":  "13:27:32",
+                         "km":  6.74,
+                         "dur":  "01:49:00"
                      },
                      {
                          "nome":  "Luis",
@@ -899,6 +917,22 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:26",
+                        "final":  "13:26",
+                        "tempo":  "00:59:11"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:28",
+                        "final":  "13:29",
+                        "tempo":  "01:00:19"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -971,28 +1005,12 @@ window.PAINEL = {
                         "tempo":  "01:43:56"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:05"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:05"
-                    },
-                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:38"
+                        "tempo":  "00:55:49"
                     },
                     {
                         "nome":  "Nelson",
@@ -1000,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:18"
+                        "tempo":  "00:53:29"
                     },
                     {
                         "nome":  "Luis",
@@ -1008,7 +1026,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:01"
+                        "tempo":  "00:52:12"
                     },
                     {
                         "nome":  "Castro",
@@ -1016,7 +1034,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:17"
+                        "tempo":  "00:51:28"
                     },
                     {
                         "nome":  "Rachel",
@@ -1024,7 +1042,15 @@ window.PAINEL = {
                         "obs":  "zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:08"
+                        "tempo":  "00:38:19"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:26"
                     }
                 ],
     "semped":  [
@@ -1079,34 +1105,40 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Evandro",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "VALINHOS",
-                         "tempo":  "00:54:45"
-                     },
-                     {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:39:14"
+                         "tempo":  "00:54:20"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "RAMAVI PERFUMARIA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:46:34"
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:02:35"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:12:52"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "170:03:53"
+                         "tempo":  "170:18:59"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "BALTIERI BALTIERI E CIA LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "tempo":  "00:14:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:22:59"
+                         "tempo":  "00:38:05"
                      }
                  ],
     "hist":  [
@@ -1217,7 +1249,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     64,
+                     66,
                      9
                  ]
              ],
@@ -26484,8 +26516,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  92.92,
+                                                       "tv":  227
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -26494,15 +26535,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  52.86,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  86.5,
-                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -26586,6 +26618,15 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  67.66,
+                                                       "tv":  206
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -26611,15 +26652,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  10.2,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  60.92,
-                                                       "tv":  97
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -26768,6 +26800,13 @@ window.PAINEL = {
                                                          "tv":  52
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  6.42,
+                                                         "tv":  68
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -26843,6 +26882,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  18.99,
                                                          "tv":  81
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "RAMAVI PERFUMARIA",
+                                                         "p":  1,
+                                                         "km":  6.74,
+                                                         "tv":  109
                                                      },
                                                      {
                                                          "n":  "Luis",

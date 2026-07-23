@@ -25261,8 +25261,17 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  92.92,
+                                     "tv":  227
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -25271,15 +25280,6 @@
                                      "pe":  0,
                                      "km":  52.86,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  86.5,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -25363,6 +25363,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  67.66,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -25388,15 +25397,6 @@
                                      "pe":  2,
                                      "km":  10.2,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  60.92,
-                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -25545,6 +25545,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.42,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -25620,6 +25627,13 @@
                                        "p":  1,
                                        "km":  18.99,
                                        "tv":  81
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "RAMAVI PERFUMARIA",
+                                       "p":  1,
+                                       "km":  6.74,
+                                       "tv":  109
                                    },
                                    {
                                        "n":  "Luis",
