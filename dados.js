@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "14:10",
                      "tv":  "04:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  44.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:16",
+                     "ultimo":  "14:37",
+                     "tv":  "05:09:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
@@ -49,33 +64,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  24.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:16",
-                     "ultimo":  "12:13",
-                     "tv":  "04:14:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  19.15,
+                     "visitas":  3,
+                     "km":  26.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:11",
-                     "ultimo":  "10:28",
-                     "tv":  "02:26:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:32",
+                     "tv":  "04:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  24.82,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:21",
+                     "ultimo":  "14:39",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  19.66,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:21",
-                     "ultimo":  "11:49",
-                     "tv":  "02:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "12:20",
                      "tv":  "02:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "14:16",
                      "tv":  "04:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:41",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -393,6 +393,15 @@ window.PAINEL = {
                          "dur":  "01:34:00"
                      },
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "in":  "13:42:03",
+                         "out":  "14:37:25",
+                         "km":  19.77,
+                         "dur":  "00:55:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "FRANCISCO MORAT",
@@ -456,6 +465,15 @@ window.PAINEL = {
                          "dur":  "01:08:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "in":  "14:06:08",
+                         "out":  "14:40:19",
+                         "km":  2.82,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -517,6 +535,15 @@ window.PAINEL = {
                          "out":  "10:28:28",
                          "km":  5.79,
                          "dur":  "01:27:00"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "12:44:54",
+                         "out":  "14:32:18",
+                         "km":  7.7,
+                         "dur":  "01:47:00"
                      },
                      {
                          "nome":  "Costa",
@@ -625,6 +652,15 @@ window.PAINEL = {
                          "out":  "11:49:08",
                          "km":  2.49,
                          "dur":  "00:27:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "13:51:40",
+                         "out":  "14:39:18",
+                         "km":  5.16,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Milene",
@@ -832,6 +868,15 @@ window.PAINEL = {
                          "out":  "14:16:42",
                          "km":  1.4,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "in":  "14:24:39",
+                         "out":  "14:40:25",
+                         "km":  1.1,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1073,12 +1118,20 @@ window.PAINEL = {
                         "tempo":  "01:43:56"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:42",
+                        "final":  "14:39",
+                        "tempo":  "00:56:37"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:35"
+                        "tempo":  "01:38:40"
                     },
                     {
                         "nome":  "Karina",
@@ -1086,7 +1139,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:56:42"
+                        "tempo":  "01:11:47"
                     },
                     {
                         "nome":  "Fernando",
@@ -1094,15 +1147,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:47"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:41"
+                        "tempo":  "00:57:52"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1110,7 +1155,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:17"
+                        "tempo":  "00:57:22"
                     },
                     {
                         "nome":  "Costa",
@@ -1118,7 +1163,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:06"
+                        "tempo":  "00:57:11"
                     }
                 ],
     "semped":  [
@@ -1133,6 +1178,12 @@ window.PAINEL = {
                        "razao":  "BRAIT",
                        "mun":  "AMERICANA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "pedido na central"
                    },
                    {
                        "nome":  "Eugenio",
@@ -1171,6 +1222,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO SCOTON LTDA.",
+                       "mun":  "SAO PEDRO",
+                       "obs":  "Ausente"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
                        "mun":  "SAO CARLOS",
@@ -1182,61 +1239,61 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:18:13"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "SALTO",
-                         "tempo":  "00:42:18"
+                         "tempo":  "00:33:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:34:13"
+                         "tempo":  "00:49:14"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "01:39:27"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:32:41"
+                         "tempo":  "00:08:21"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "tempo":  "00:09:23"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:06:20"
+                         "tempo":  "00:21:21"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:39:56"
+                         "tempo":  "00:54:57"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO NOVO HORIZONTE CAMPINAS LTD",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:25:38"
+                         "tempo":  "00:40:39"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "171:04:06"
+                         "tempo":  "171:19:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:29:57"
+                         "tempo":  "00:44:58"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "tempo":  "00:14:43"
                      }
                  ],
     "hist":  [
@@ -1347,8 +1404,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     70,
-                     10
+                     73,
+                     11
                  ]
              ],
     "historico":  {
@@ -26614,7 +26671,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -26635,6 +26692,15 @@ window.PAINEL = {
                                                        "tv":  227
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  44.1,
+                                                       "tv":  309
+                                                   },
+                                                   {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
@@ -26644,22 +26710,13 @@ window.PAINEL = {
                                                        "tv":  289
                                                    },
                                                    {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  24.33,
-                                                       "tv":  254
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  19.15,
-                                                       "tv":  146
+                                                       "km":  26.85,
+                                                       "tv":  253
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -26707,6 +26764,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  24.82,
+                                                       "tv":  175
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -26723,15 +26789,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  67.66,
                                                        "tv":  206
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  19.66,
-                                                       "tv":  128
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -26856,6 +26913,13 @@ window.PAINEL = {
                                                          "tv":  94
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  19.77,
+                                                         "tv":  55
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA",
                                                          "p":  1,
@@ -26905,6 +26969,13 @@ window.PAINEL = {
                                                          "tv":  68
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  2.82,
+                                                         "tv":  34
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -26952,6 +27023,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.79,
                                                          "tv":  87
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  7.7,
+                                                         "tv":  107
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -27036,6 +27114,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.49,
                                                          "tv":  27
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  5.16,
+                                                         "tv":  47
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -27197,6 +27282,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.4,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SCOTON LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.1,
+                                                         "tv":  15
                                                      },
                                                      {
                                                          "n":  "Eugenio",

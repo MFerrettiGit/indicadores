@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25282,6 +25282,15 @@
                                      "tv":  227
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  44.1,
+                                     "tv":  309
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -25291,22 +25300,13 @@
                                      "tv":  289
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  24.33,
-                                     "tv":  254
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  19.15,
-                                     "tv":  146
+                                     "km":  26.85,
+                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25354,6 +25354,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  24.82,
+                                     "tv":  175
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -25370,15 +25379,6 @@
                                      "pe":  3,
                                      "km":  67.66,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  19.66,
-                                     "tv":  128
                                  },
                                  {
                                      "nome":  "Luis",
@@ -25503,6 +25503,13 @@
                                        "tv":  94
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  19.77,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -25552,6 +25559,13 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  2.82,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -25599,6 +25613,13 @@
                                        "p":  1,
                                        "km":  5.79,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.7,
+                                       "tv":  107
                                    },
                                    {
                                        "n":  "Costa",
@@ -25683,6 +25704,13 @@
                                        "p":  0,
                                        "km":  2.49,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  5.16,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Milene",
@@ -25844,6 +25872,13 @@
                                        "p":  0,
                                        "km":  1.4,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA.",
+                                       "p":  0,
+                                       "km":  1.1,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Eugenio",
