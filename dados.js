@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "13:27",
                      "tv":  "03:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -240,8 +240,8 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "11:58",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "14:40",
                      "tv":  "04:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:01",
                      "ultimo":  "13:15",
                      "tv":  "03:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1056,6 +1056,14 @@ window.PAINEL = {
                         "tempo":  "00:58:27"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "zeferino",
+                        "inicio":  "13:01",
+                        "final":  "15:15",
+                        "tempo":  "02:13:49"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guará",
@@ -1176,20 +1184,12 @@ window.PAINEL = {
                         "tempo":  "01:00:03"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "zeferino",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:08:42"
-                    },
-                    {
                         "nome":  "Silmara",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:09"
+                        "tempo":  "00:36:44"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1197,7 +1197,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:47"
+                        "tempo":  "00:20:22"
                     }
                 ],
     "semped":  [
@@ -1273,79 +1273,103 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:16:30"
+                         "tempo":  "00:31:19"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:44"
+                         "tempo":  "00:26:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:19:10"
+                         "tempo":  "01:33:59"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:13:18"
+                         "tempo":  "00:28:07"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO STA.U.WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:20:45"
+                         "tempo":  "00:35:34"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:08:08"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "00:39:19"
+                         "tempo":  "00:54:08"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:02:40"
+                         "tempo":  "00:17:29"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:09:55"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PARROTI SAO JOAO SUPERMERCADO LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:23:19"
+                         "tempo":  "00:38:08"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:24:53"
+                         "tempo":  "01:39:42"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO NOVO HORIZONTE CAMPINAS LTD",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:35"
+                         "tempo":  "01:25:24"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MARIA DULCE DIAS",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:14:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "171:49:03"
+                         "tempo":  "172:03:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:14:54"
+                         "tempo":  "01:29:43"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "DISTRUBUIDORA DE ALIMENTOS SAO PAULO DE",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:09:12"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:27:30"
+                         "tempo":  "00:42:19"
                      }
                  ],
     "hist":  [
@@ -26723,7 +26747,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
