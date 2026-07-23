@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -96,21 +111,6 @@ window.PAINEL = {
                  {
                      "nome":  "Alex A.",
                      "setor":  "PROMO-ITAPIRA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "17:00",
                      "tv":  "04:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,6 +195,21 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "15:59",
                      "tv":  "04:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  19.91,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:44",
+                     "ultimo":  "17:31",
+                     "tv":  "04:59:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -214,21 +229,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  17.99,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:44",
-                     "ultimo":  "16:38",
-                     "tv":  "04:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "15:40",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -906,6 +906,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JADE CAROLINE CONFELLA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:00:07",
+                         "out":  "17:31:37",
+                         "km":  1.92,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -1270,6 +1279,14 @@ window.PAINEL = {
                         "tempo":  "02:13:49"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "antonelli",
+                        "inicio":  "15:48",
+                        "final":  "17:33",
+                        "tempo":  "01:44:37"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guará",
@@ -1414,20 +1431,12 @@ window.PAINEL = {
                         "tempo":  "00:46:56"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "antonelli",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:36:56"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Guará a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:22"
+                        "tempo":  "00:35:22"
                     }
                 ],
     "semped":  [
@@ -1506,22 +1515,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "JADE CAROLINE CONFELLA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:24:05"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO JDS LTDA-ME",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:10:53"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "174:03:57"
+                         "tempo":  "174:18:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "03:29:48"
+                         "tempo":  "03:44:47"
                      }
                  ],
     "hist":  [
@@ -1632,7 +1641,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     99,
+                     100,
                      13
                  ]
              ],
@@ -26899,7 +26908,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26947,6 +26956,15 @@ window.PAINEL = {
                                                        "tv":  473
                                                    },
                                                    {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -26958,15 +26976,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Alex A.",
                                                        "setor":  "PROMO-ITAPIRA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27019,6 +27028,15 @@ window.PAINEL = {
                                                        "tv":  245
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  19.91,
+                                                       "tv":  299
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -27026,15 +27044,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  69.83,
                                                        "tv":  320
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  17.99,
-                                                       "tv":  268
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -27538,6 +27547,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.79,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JADE CAROLINE CONFELLA",
+                                                         "p":  1,
+                                                         "km":  1.92,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Alan",
