@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  17.99,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:44",
+                     "ultimo":  "16:38",
+                     "tv":  "04:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -229,21 +244,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  10.2,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:44",
-                     "ultimo":  "12:42",
-                     "tv":  "03:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "16:16",
                      "tv":  "05:35:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "15:34",
                      "tv":  "05:05:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -834,6 +834,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MARLI TASSI CASTR0-ME.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:52:02",
+                         "out":  "16:38:23",
+                         "km":  7.79,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -1220,6 +1229,14 @@ window.PAINEL = {
                         "tempo":  "01:00:36"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Manutencao",
+                        "obs":  "Carro falhando",
+                        "inicio":  "16:19",
+                        "final":  "16:33",
+                        "tempo":  "00:13:27"
+                    },
+                    {
                         "nome":  "Evandro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1313,15 +1330,7 @@ window.PAINEL = {
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:52"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Manutencao",
-                        "obs":  "Carro falhando",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:05:21"
+                        "tempo":  "00:51:56"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1329,7 +1338,7 @@ window.PAINEL = {
                         "obs":  "digitação de pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:34"
+                        "tempo":  "00:15:38"
                     }
                 ],
     "semped":  [
@@ -1411,73 +1420,67 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:31:24"
+                         "tempo":  "01:46:26"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:37:10"
+                         "tempo":  "00:52:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "02:34:04"
+                         "tempo":  "02:49:06"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:19:50"
+                         "tempo":  "00:34:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "01:54:13"
+                         "tempo":  "02:09:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MINI MERCADO AUREA LTDA EPP",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:12:12"
+                         "tempo":  "00:27:14"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "JOSE PARROTTI",
                          "mun":  "LEME",
-                         "tempo":  "00:24:50"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MARLI TASSI CASTR0-ME.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:32:10"
+                         "tempo":  "00:39:52"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GUARANI LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:38:39"
+                         "tempo":  "00:53:41"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:27:32"
+                         "tempo":  "00:42:34"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "173:03:57"
+                         "tempo":  "173:18:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "02:29:48"
+                         "tempo":  "02:44:50"
                      }
                  ],
     "hist":  [
@@ -1588,7 +1591,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     89,
+                     90,
                      13
                  ]
              ],
@@ -26855,7 +26858,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -26975,6 +26978,15 @@ window.PAINEL = {
                                                        "tv":  247
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  17.99,
+                                                       "tv":  268
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -26991,15 +27003,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  68.62,
                                                        "tv":  169
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  10.2,
-                                                       "tv":  222
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -27438,6 +27441,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.72,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MARLI TASSI CASTR0-ME.",
+                                                         "p":  1,
+                                                         "km":  7.79,
+                                                         "tv":  46
                                                      },
                                                      {
                                                          "n":  "Alan",

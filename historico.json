@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25381,6 +25381,15 @@
                                      "tv":  247
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  17.99,
+                                     "tv":  268
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -25397,15 +25406,6 @@
                                      "pe":  3,
                                      "km":  68.62,
                                      "tv":  169
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  10.2,
-                                     "tv":  222
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -25844,6 +25844,13 @@
                                        "p":  0,
                                        "km":  2.72,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MARLI TASSI CASTR0-ME.",
+                                       "p":  1,
+                                       "km":  7.79,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Alan",
