@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25282,6 +25282,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  20.84,
+                                     "tv":  160
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -25298,15 +25307,6 @@
                                      "pe":  0,
                                      "km":  13.36,
                                      "tv":  59
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  19.64,
-                                     "tv":  118
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25375,10 +25375,19 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  17.17,
+                                     "tv":  101
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  13.82,
-                                     "tv":  77
+                                     "km":  39,
+                                     "tv":  123
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -25388,15 +25397,6 @@
                                      "pe":  1,
                                      "km":  6.97,
                                      "tv":  67
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.55,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Luis",
@@ -25426,6 +25426,15 @@
                                      "tv":  90
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  26.77,
+                                     "tv":  45
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -25433,15 +25442,6 @@
                                      "pe":  1,
                                      "km":  26.74,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.73,
-                                     "tv":  26
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -25487,6 +25487,13 @@
                                        "p":  1,
                                        "km":  19.64,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Eliana",
@@ -25566,11 +25573,25 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                       "p":  0,
+                                       "km":  3.35,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
                                        "km":  22.19,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  36.45,
+                                       "tv":  123
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -25592,6 +25613,13 @@
                                        "p":  1,
                                        "km":  16.73,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                                       "p":  1,
+                                       "km":  10.04,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Cominato",
