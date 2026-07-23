@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25271,6 +25271,15 @@
                                      "pe":  0,
                                      "km":  68.29,
                                      "tv":  107
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  27.36,
+                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -25298,15 +25307,6 @@
                                      "pe":  0,
                                      "km":  19.64,
                                      "tv":  118
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25381,6 +25381,15 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.97,
+                                     "tv":  67
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -25396,15 +25405,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.13,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.41,
                                      "tv":  0
                                  },
                                  {
@@ -25489,6 +25489,13 @@
                                        "tv":  118
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  27.36,
+                                       "tv":  175
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -25552,6 +25559,13 @@
                                        "tv":  89
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "AMAURI DE SOUZA JUNIOR",
+                                       "p":  1,
+                                       "km":  6.56,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -25571,6 +25585,13 @@
                                        "p":  1,
                                        "km":  25.67,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA",
+                                       "p":  0,
+                                       "km":  0.1,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Eugenio",

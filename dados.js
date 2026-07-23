@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,6 +15,21 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "09:32",
                      "tv":  "01:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  27.36,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:56",
+                     "ultimo":  "09:52",
+                     "tv":  "02:55:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -60,21 +75,6 @@ window.PAINEL = {
                      "primeiro":  "07:16",
                      "ultimo":  "09:15",
                      "tv":  "01:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "06:56",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  6.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:44",
+                     "ultimo":  "09:52",
+                     "tv":  "01:07:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -223,21 +238,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:41",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.41,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:44",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "09:32",
                      "tv":  "01:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:07",
                      "ultimo":  "09:34",
                      "tv":  "00:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -373,6 +373,15 @@ window.PAINEL = {
                          "out":  "09:15:36",
                          "km":  19.64,
                          "dur":  "01:58:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "FRANCISCO MORAT",
+                         "in":  "06:56:15",
+                         "out":  "09:52:11",
+                         "km":  27.36,
+                         "dur":  "02:55:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -456,6 +465,15 @@ window.PAINEL = {
                          "dur":  "01:29:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "AMAURI DE SOUZA JUNIOR",
+                         "mun":  "SAO CARLOS",
+                         "in":  "08:44:39",
+                         "out":  "09:52:29",
+                         "km":  6.56,
+                         "dur":  "01:07:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -481,6 +499,15 @@ window.PAINEL = {
                          "out":  "09:03:30",
                          "km":  25.67,
                          "dur":  "01:00:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA",
+                         "mun":  "AGUAS DE SAO PE",
+                         "in":  "09:07:47",
+                         "out":  "09:54:26",
+                         "km":  0.1,
+                         "dur":  "00:46:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -519,92 +546,103 @@ window.PAINEL = {
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO SCOTON LTDA",
+                       "mun":  "AGUAS DE SAO PE",
+                       "obs":  "Levantamento"
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:04:16"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "FRANCISCO MORAT",
-                         "tempo":  "02:42:56"
+                         "tempo":  "00:19:14"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:37:50"
+                         "tempo":  "00:52:48"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:50:38"
+                         "tempo":  "01:05:36"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:23:39"
+                         "tempo":  "01:38:37"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "00:57:57"
+                         "tempo":  "01:12:55"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:52:22"
+                         "tempo":  "01:07:20"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO JDS LTDA-ME.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:58:09"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "AMAURI DE SOUZA JUNIOR",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:54:32"
+                         "tempo":  "01:13:07"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:16:27"
+                         "tempo":  "00:31:25"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "JASON ROQUE DE CASTILHO JUNIOR",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:41"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:38:02"
+                         "tempo":  "00:53:00"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "166:18:56"
+                         "tempo":  "166:33:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:44:44"
+                         "tempo":  "01:59:42"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:03:12"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA",
                          "mun":  "AGUAS DE SAO PE",
-                         "tempo":  "00:31:24"
+                         "tempo":  "00:46:22"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                         "mun":  "GUARAREMA",
+                         "tempo":  "00:14:45"
                      }
                  ],
     "hist":  [
@@ -715,7 +753,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     14,
+                     16,
                      0
                  ]
              ],
@@ -25982,7 +26020,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -25992,6 +26030,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  68.29,
                                                        "tv":  107
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  27.36,
+                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -26019,15 +26066,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  19.64,
                                                        "tv":  118
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -26102,6 +26140,15 @@ window.PAINEL = {
                                                        "tv":  77
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  6.97,
+                                                       "tv":  67
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -26117,15 +26164,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.13,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.41,
                                                        "tv":  0
                                                    },
                                                    {
@@ -26210,6 +26248,13 @@ window.PAINEL = {
                                                          "tv":  118
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  27.36,
+                                                         "tv":  175
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  1,
@@ -26273,6 +26318,13 @@ window.PAINEL = {
                                                          "tv":  89
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "AMAURI DE SOUZA JUNIOR",
+                                                         "p":  1,
+                                                         "km":  6.56,
+                                                         "tv":  67
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                                          "p":  1,
@@ -26292,6 +26344,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.67,
                                                          "tv":  60
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SCOTON LTDA",
+                                                         "p":  0,
+                                                         "km":  0.1,
+                                                         "tv":  46
                                                      },
                                                      {
                                                          "n":  "Eugenio",
