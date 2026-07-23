@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "08:30",
+    "dataHora":  "08:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -259,12 +259,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  9.47,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:02",
@@ -274,12 +274,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  9.47,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:02",
@@ -400,6 +400,15 @@ window.PAINEL = {
                          "out":  "08:23:07",
                          "km":  21.54,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "07:09:03",
+                         "out":  "08:39:13",
+                         "km":  22.19,
+                         "dur":  "01:29:00"
                      }
                  ],
     "eventos":  [
@@ -409,7 +418,7 @@ window.PAINEL = {
                         "obs":  "guararema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:47"
+                        "tempo":  "00:53:29"
                     },
                     {
                         "nome":  "Luis",
@@ -417,7 +426,7 @@ window.PAINEL = {
                         "obs":  "Franca a Guará",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:22"
+                        "tempo":  "00:47:04"
                     },
                     {
                         "nome":  "Castro",
@@ -425,7 +434,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:25"
+                        "tempo":  "00:44:07"
                     }
                 ],
     "semped":  [
@@ -436,67 +445,67 @@ window.PAINEL = {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:07:30"
+                         "tempo":  "01:22:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "FRANCISCO MORAT",
-                         "tempo":  "01:27:59"
+                         "tempo":  "01:42:41"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:02:49"
+                         "tempo":  "00:17:31"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:08:42"
+                         "tempo":  "00:23:24"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:15:11"
+                         "tempo":  "01:29:53"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PARROTTI A. BOA VISTA LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:22:00"
+                         "tempo":  "00:36:42"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "O.B. DE SOUZA",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:03:23"
+                         "tempo":  "00:18:05"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:05"
+                         "tempo":  "00:36:47"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "165:03:59"
+                         "tempo":  "165:18:41"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:29:47"
+                         "tempo":  "00:44:29"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BALTIERI BALTIERI",
                          "mun":  "AGUAS DE SAO PE",
-                         "tempo":  "00:21:29"
+                         "tempo":  "00:36:11"
                      }
                  ],
     "hist":  [
@@ -25874,7 +25883,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "08:30",
+                                         "dataHora":  "08:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -26030,21 +26039,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  9.47,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  9.47,
                                                        "tv":  0
                                                    },
                                                    {
@@ -26121,6 +26130,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.54,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1,
+                                                         "km":  22.19,
+                                                         "tv":  89
                                                      }
                                                  ]
                                      }
