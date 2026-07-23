@@ -25261,8 +25261,17 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  86.5,
+                                     "tv":  159
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -25273,13 +25282,13 @@
                                      "tv":  189
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  68.29,
-                                     "tv":  107
+                                     "km":  24.33,
+                                     "tv":  254
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -25300,24 +25309,6 @@
                                      "tv":  146
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  20.84,
-                                     "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -25336,13 +25327,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  23.94,
-                                     "tv":  230
+                                     "km":  25.88,
+                                     "tv":  275
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -25372,6 +25372,15 @@
                                      "tv":  128
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  68.62,
+                                     "tv":  169
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -25390,15 +25399,6 @@
                                      "tv":  156
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  67.45,
-                                     "tv":  148
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -25406,6 +25406,15 @@
                                      "pe":  2,
                                      "km":  7.48,
                                      "tv":  171
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  25.67,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Castro",
@@ -25417,22 +25426,13 @@
                                      "tv":  91
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  24.37,
-                                     "tv":  169
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  43.06,
-                                     "tv":  167
+                                     "km":  44.19,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -25494,6 +25494,13 @@
                                        "p":  1,
                                        "km":  1.2,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  3.49,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Eliana",
@@ -25615,6 +25622,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FERNANDO PALMIERI",
+                                       "p":  1,
+                                       "km":  1.17,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                        "p":  1,
@@ -25648,6 +25662,13 @@
                                        "p":  1,
                                        "km":  1.75,
                                        "tv":  141
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                                       "p":  1,
+                                       "km":  1.94,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Rachel",
@@ -25729,7 +25750,7 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "BALTIERI BALTIERI",
-                                       "p":  1,
+                                       "p":  0,
                                        "km":  25.67,
                                        "tv":  60
                                    },
@@ -25746,6 +25767,13 @@
                                        "p":  0,
                                        "km":  7.82,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI",
+                                       "p":  0,
+                                       "km":  1.13,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -25774,6 +25802,13 @@
                                        "p":  0,
                                        "km":  8.94,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1,
+                                       "km":  1.3,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Karina",
