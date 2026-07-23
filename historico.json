@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -25285,10 +25285,19 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  51.09,
+                                     "tv":  339
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  44.1,
-                                     "tv":  309
+                                     "km":  31.65,
+                                     "tv":  290
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -25300,13 +25309,13 @@
                                      "tv":  289
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  26.85,
-                                     "tv":  253
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -25320,15 +25329,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -25354,6 +25354,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  16.55,
+                                     "tv":  196
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -25361,15 +25370,6 @@
                                      "pe":  1,
                                      "km":  24.82,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  12.92,
-                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -25417,6 +25417,15 @@
                                      "tv":  274
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  38.12,
+                                     "tv":  305
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -25426,13 +25435,13 @@
                                      "tv":  174
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  25.67,
-                                     "tv":  196
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  42.72,
+                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Karina",
@@ -25460,15 +25469,6 @@
                                      "pe":  2,
                                      "km":  3.45,
                                      "tv":  241
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  28.57,
-                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -25508,6 +25508,13 @@
                                        "p":  1,
                                        "km":  19.77,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  6.99,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Eliana",
@@ -25629,6 +25636,13 @@
                                        "tv":  107
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM.",
+                                       "p":  1,
+                                       "km":  4.8,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PARROTTI A. BOA VISTA LTDA",
                                        "p":  1,
@@ -25648,6 +25662,13 @@
                                        "p":  1,
                                        "km":  1.38,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "PARROTI SAO JOAO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3.63,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Fernando",
@@ -25811,6 +25832,13 @@
                                        "tv":  122
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO NOVO HORIZONTE CAMPINAS LTD",
+                                       "p":  1,
+                                       "km":  14.15,
+                                       "tv":  89
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
                                        "p":  1,
@@ -25930,6 +25958,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  12.45,
+                                       "tv":  109
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1,
@@ -25970,6 +26005,13 @@
                                        "p":  1,
                                        "km":  1.98,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                       "p":  1,
+                                       "km":  1.97,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Nelson",
