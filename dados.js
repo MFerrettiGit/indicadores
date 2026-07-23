@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/07/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "12:09",
                      "tv":  "02:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "11:49",
                      "tv":  "02:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:16",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -881,7 +881,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:56"
+                        "tempo":  "00:38:08"
                     },
                     {
                         "nome":  "Edimilson",
@@ -889,7 +889,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:47"
+                        "tempo":  "00:25:59"
                     },
                     {
                         "nome":  "Cominato",
@@ -897,7 +897,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:52"
+                        "tempo":  "00:21:04"
                     },
                     {
                         "nome":  "Alan",
@@ -905,7 +905,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:37"
+                        "tempo":  "00:16:49"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:09"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:09"
                     }
                 ],
     "semped":  [
@@ -954,52 +970,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Evandro",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:09:51"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:19:34"
+                         "tempo":  "00:34:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:50:42"
+                         "tempo":  "01:05:59"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAMAVI PERFUMARIA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:46:23"
+                         "tempo":  "01:01:40"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUP. MOREIRA DE SAO CARLOS LTDA-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:32:10"
+                         "tempo":  "00:47:27"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:11:02"
+                         "tempo":  "00:26:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "169:03:42"
+                         "tempo":  "169:18:59"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "01:01:13"
+                         "tempo":  "01:16:30"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO SERV MAGO LTDA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "01:09:02"
+                         "tempo":  "01:24:19"
                      }
                  ],
     "hist":  [
@@ -1110,7 +1132,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/07",
-                     56,
+                     57,
                      8
                  ]
              ],
@@ -26377,7 +26399,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-23":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
