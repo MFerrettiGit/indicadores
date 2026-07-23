@@ -25261,7 +25261,7 @@
                                ]
                    },
     "2026-07-23":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -25273,6 +25273,15 @@
                                      "tv":  107
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  41.46,
+                                     "tv":  130
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -25280,15 +25289,6 @@
                                      "pe":  0,
                                      "km":  27.36,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.19,
-                                     "tv":  58
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -25366,10 +25366,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.93,
-                                     "tv":  16
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  60.92,
+                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Maira",
@@ -25411,10 +25411,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  35.14,
-                                     "tv":  60
+                                     "km":  35.24,
+                                     "tv":  106
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  14.27,
+                                     "tv":  90
                                  },
                                  {
                                      "nome":  "Alan",
@@ -25424,15 +25433,6 @@
                                      "pe":  1,
                                      "km":  26.74,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  12.41,
-                                     "tv":  56
                                  },
                                  {
                                      "nome":  "Castro",
@@ -25517,6 +25517,13 @@
                                        "tv":  58
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.27,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -25543,6 +25550,13 @@
                                        "p":  1,
                                        "km":  21.54,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO JDS LTDA-ME.",
+                                       "p":  1,
+                                       "km":  18.99,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Maira",
@@ -25599,6 +25613,13 @@
                                        "p":  1,
                                        "km":  12.06,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
+                                       "p":  1,
+                                       "km":  1.86,
+                                       "tv":  34
                                    }
                                ]
                    }
