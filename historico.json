@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26164,7 +26164,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  27.27,
+                                     "km":  41.56,
                                      "tv":  325
                                  },
                                  {
@@ -26279,10 +26279,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  46.59,
-                                     "tv":  255
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  49.12,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -26648,6 +26648,13 @@
                                        "p":  1,
                                        "km":  2.62,
                                        "tv":  111
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  1,
+                                       "km":  2.53,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Sao Carlos",

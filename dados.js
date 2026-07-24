@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  27.27,
+                     "km":  41.56,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:16",
@@ -203,14 +203,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  46.59,
+                     "visitas":  4,
+                     "km":  49.12,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "09:13",
-                     "ultimo":  "15:20",
-                     "tv":  "04:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:13",
+                     "tv":  "04:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "03:33:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "09:15",
                      "ultimo":  "15:31",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -715,6 +715,15 @@ window.PAINEL = {
                          "out":  "15:20:36",
                          "km":  2.62,
                          "dur":  "01:51:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "J.L. DAOLIO",
+                         "mun":  "AMPARO",
+                         "in":  "15:57:50",
+                         "out":  "16:13:54",
+                         "km":  2.53,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -1201,6 +1210,14 @@ window.PAINEL = {
                         "tempo":  "01:02:37"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedidos",
+                        "inicio":  "15:32",
+                        "final":  "16:22",
+                        "tempo":  "00:49:55"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Consulta",
                         "obs":  "retorno medico",
@@ -1241,20 +1258,12 @@ window.PAINEL = {
                         "tempo":  "00:59:23"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitando pedidos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:37:48"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Ribeirão Bonito a São carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:14"
+                        "tempo":  "00:45:05"
                     }
                 ],
     "semped":  [
@@ -1366,49 +1375,49 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:07:46"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "J.L. DAOLIO",
-                         "mun":  "AMPARO",
-                         "tempo":  "00:11:26"
+                         "tempo":  "00:22:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:49:32"
+                         "tempo":  "01:04:30"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:15:49"
+                         "tempo":  "00:30:47"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "196:49:01"
+                         "tempo":  "197:03:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:18:42"
+                         "tempo":  "01:33:40"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:03:28"
+                         "tempo":  "02:18:26"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:02:45"
+                         "tempo":  "00:17:43"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:05:26"
                      }
                  ],
     "hist":  [
@@ -1519,7 +1528,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     73,
+                     74,
                      17
                  ]
              ],
@@ -27681,7 +27690,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -27689,7 +27698,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  27.27,
+                                                       "km":  41.56,
                                                        "tv":  325
                                                    },
                                                    {
@@ -27804,10 +27813,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  46.59,
-                                                       "tv":  255
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  49.12,
+                                                       "tv":  270
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -28173,6 +28182,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.62,
                                                          "tv":  111
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "J.L. DAOLIO",
+                                                         "p":  1,
+                                                         "km":  2.53,
+                                                         "tv":  15
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
