@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "09:01",
                      "ultimo":  "15:39",
                      "tv":  "04:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  8,
+                     "km":  70.1,
+                     "semPed":  2,
+                     "perc":  25,
+                     "primeiro":  "08:25",
+                     "ultimo":  "17:38",
+                     "tv":  "06:04:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -256,21 +271,6 @@ window.PAINEL = {
                      "ultimo":  "16:49",
                      "tv":  "05:55:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  39.87,
-                     "semPed":  2,
-                     "perc":  28.57,
-                     "primeiro":  "08:25",
-                     "ultimo":  "13:13",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -987,6 +987,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "15:19:44",
+                         "out":  "17:38:53",
+                         "km":  30.23,
+                         "dur":  "02:19:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
                          "mun":  "CARAGUATATUBA",
@@ -1325,7 +1334,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:31"
+                        "tempo":  "01:14:25"
                     }
                 ],
     "semped":  [
@@ -1446,22 +1455,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "02:04:30"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:02:33"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "198:03:59"
+                         "tempo":  "198:18:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:33:40"
+                         "tempo":  "02:48:35"
                      }
                  ],
     "hist":  [
@@ -1572,7 +1581,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     80,
+                     81,
                      19
                  ]
              ],
@@ -27734,7 +27743,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -27881,6 +27890,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  6,
+                                                       "km":  70.1,
+                                                       "tv":  364
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -27888,15 +27906,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  57.45,
                                                        "tv":  355
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  5,
-                                                       "km":  39.87,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -28436,6 +28445,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  30.23,
+                                                         "tv":  139
                                                      },
                                                      {
                                                          "n":  "Karina",
