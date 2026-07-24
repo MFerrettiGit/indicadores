@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26182,7 +26182,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  47.74,
+                                     "km":  51.73,
                                      "tv":  423
                                  },
                                  {
@@ -26204,15 +26204,6 @@
                                      "tv":  257
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -26224,6 +26215,15 @@
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26303,6 +26303,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  57.45,
+                                     "tv":  355
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -26312,40 +26321,31 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  55.35,
-                                     "tv":  300
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  92.18,
-                                     "tv":  171
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  100.19,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  21.78,
-                                     "tv":  250
+                                     "km":  23.79,
+                                     "tv":  297
                                  },
                                  {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  22.66,
-                                     "tv":  266
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  30.25,
+                                     "tv":  428
                                  },
                                  {
                                      "nome":  "Karina",
@@ -26748,6 +26748,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "MODELO SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -26769,6 +26776,13 @@
                                        "tv":  222
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  7.59,
+                                       "tv":  162
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -26788,6 +26802,13 @@
                                        "p":  0,
                                        "km":  8.55,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0,
+                                       "km":  2.01,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -26860,6 +26881,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "GOOD MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  6.7,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO SHIBATA TAUBATE LTDA",
                                        "p":  1,
@@ -26893,6 +26921,13 @@
                                        "p":  1,
                                        "km":  43.52,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                       "p":  1,
+                                       "km":  8.01,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Nelson",
