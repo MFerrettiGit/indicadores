@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26249,6 +26249,24 @@
                                      "tv":  154
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  70.12,
+                                     "tv":  236
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  50.84,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -26256,24 +26274,6 @@
                                      "pe":  1,
                                      "km":  15.32,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  60.8,
-                                     "tv":  185
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  48.53,
-                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -26330,6 +26330,15 @@
                                      "tv":  139
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  21.78,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -26346,15 +26355,6 @@
                                      "pe":  3,
                                      "km":  26.42,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  13.23,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -26396,6 +26396,13 @@
                                        "p":  1,
                                        "km":  1.09,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  1,
+                                       "km":  4.31,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -26559,6 +26566,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "VIZINHO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  9.32,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -26599,6 +26613,13 @@
                                        "p":  1,
                                        "km":  1.58,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ANA APARECIDA RIVA OPINI-ME",
+                                       "p":  0,
+                                       "km":  2.31,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Alan",
@@ -26669,6 +26690,13 @@
                                        "p":  0,
                                        "km":  2.91,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO NASTARO EIRELI - EPP",
+                                       "p":  0,
+                                       "km":  8.55,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Eugenio",
