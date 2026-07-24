@@ -26156,16 +26156,25 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  27.27,
+                                     "tv":  325
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  24.44,
-                                     "tv":  279
+                                     "km":  47.74,
+                                     "tv":  423
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -26175,15 +26184,6 @@
                                      "pe":  0,
                                      "km":  13.73,
                                      "tv":  296
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  43.25,
-                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -26198,10 +26198,19 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  80.82,
-                                     "tv":  130
+                                     "km":  86.11,
+                                     "tv":  257
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -26215,15 +26224,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26252,10 +26252,19 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  5,
+                                     "km":  74.72,
+                                     "tv":  291
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
                                      "vi":  6,
-                                     "pe":  4,
-                                     "km":  72.9,
-                                     "tv":  272
+                                     "pe":  5,
+                                     "km":  52.97,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Luis",
@@ -26265,15 +26274,6 @@
                                      "pe":  1,
                                      "km":  16.33,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  50.84,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -26315,10 +26315,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  45.31,
-                                     "tv":  243
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  55.35,
+                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -26405,6 +26405,13 @@
                                        "tv":  58
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  2.83,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  0,
@@ -26438,6 +26445,13 @@
                                        "p":  1,
                                        "km":  20.36,
                                        "tv":  135
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.49,
+                                       "tv":  123
                                    },
                                    {
                                        "n":  "Evandro",
@@ -26501,6 +26515,13 @@
                                        "p":  1,
                                        "km":  35.77,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "VITORINO CORREA NETO VOTORANTIM LTDA",
+                                       "p":  1,
+                                       "km":  5.29,
+                                       "tv":  127
                                    },
                                    {
                                        "n":  "Fernando",
@@ -26585,6 +26606,13 @@
                                        "p":  1,
                                        "km":  2.78,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                                       "p":  1,
+                                       "km":  1.82,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Rachel",
@@ -26683,6 +26711,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1,
+                                       "km":  10.04,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Castro",
