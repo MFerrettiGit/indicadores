@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26249,6 +26249,15 @@
                                      "tv":  154
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  72.9,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -26256,15 +26265,6 @@
                                      "pe":  1,
                                      "km":  16.33,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  70.12,
-                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -26324,10 +26324,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  48.66,
-                                     "tv":  139
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  92.18,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -26580,6 +26580,13 @@
                                        "tv":  51
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                                       "p":  1,
+                                       "km":  2.78,
+                                       "tv":  36
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -26634,6 +26641,13 @@
                                        "p":  0,
                                        "km":  2.31,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "N ARAUJO MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.13,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Alan",
@@ -26809,6 +26823,13 @@
                                        "p":  1,
                                        "km":  2.77,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  43.52,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Nelson",

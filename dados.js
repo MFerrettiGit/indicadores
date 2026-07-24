@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  72.9,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:40",
+                     "ultimo":  "15:26",
+                     "tv":  "04:32:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -167,21 +182,6 @@ window.PAINEL = {
                      "tv":  "04:50:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  70.12,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:40",
-                     "ultimo":  "14:37",
-                     "tv":  "03:56:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "03:33:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -278,14 +278,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  48.66,
+                     "visitas":  5,
+                     "km":  92.18,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:15",
-                     "ultimo":  "12:49",
-                     "tv":  "02:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:31",
+                     "tv":  "02:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -627,6 +627,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "in":  "14:49:48",
+                         "out":  "15:26:17",
+                         "km":  2.78,
+                         "dur":  "00:36:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -697,6 +706,15 @@ window.PAINEL = {
                          "out":  "14:34:12",
                          "km":  2.31,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "N ARAUJO MERCADO LTDA",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "14:41:15",
+                         "out":  "15:39:37",
+                         "km":  2.13,
+                         "dur":  "00:58:00"
                      },
                      {
                          "nome":  "Alan",
@@ -924,6 +942,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:59:01",
+                         "out":  "15:31:48",
+                         "km":  43.52,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
@@ -1132,7 +1159,7 @@ window.PAINEL = {
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:22:13"
+                        "tempo":  "07:36:43"
                     },
                     {
                         "nome":  "Karina",
@@ -1140,7 +1167,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:57"
+                        "tempo":  "00:53:27"
                     },
                     {
                         "nome":  "Luis",
@@ -1148,7 +1175,15 @@ window.PAINEL = {
                         "obs":  "Rede Comercial 3D Lopes",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:24"
+                        "tempo":  "00:52:54"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedidos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:04"
                     }
                 ],
     "semped":  [
@@ -1260,79 +1295,73 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:06:18"
+                         "tempo":  "02:20:44"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:26:43"
+                         "tempo":  "00:41:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:35:09"
+                         "tempo":  "01:49:35"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
                          "mun":  "VOTORANTIM",
-                         "tempo":  "01:47:07"
+                         "tempo":  "02:01:33"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:04:00"
+                         "tempo":  "00:18:26"
                      },
                      {
                          "nome":  "Maira",
-                         "razao":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                         "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:34:27"
+                         "tempo":  "00:05:16"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:43:00"
+                         "tempo":  "00:57:26"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:04:31"
+                         "tempo":  "00:18:57"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:38:13"
+                         "tempo":  "00:52:39"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "196:04:00"
+                         "tempo":  "196:18:26"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:33:41"
+                         "tempo":  "00:48:07"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:18:27"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:25:14"
+                         "tempo":  "01:32:53"
                      }
                  ],
     "hist":  [
@@ -1443,7 +1472,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     63,
+                     65,
                      17
                  ]
              ],
@@ -27605,7 +27634,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -27698,6 +27727,15 @@ window.PAINEL = {
                                                        "tv":  154
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  72.9,
+                                                       "tv":  272
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -27705,15 +27743,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  16.33,
                                                        "tv":  290
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  70.12,
-                                                       "tv":  236
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -27773,10 +27802,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  48.66,
-                                                       "tv":  139
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  92.18,
+                                                       "tv":  171
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -28029,6 +28058,13 @@ window.PAINEL = {
                                                          "tv":  51
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                                                         "p":  1,
+                                                         "km":  2.78,
+                                                         "tv":  36
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -28083,6 +28119,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.31,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "N ARAUJO MERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  2.13,
+                                                         "tv":  58
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -28258,6 +28301,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.77,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1,
+                                                         "km":  43.52,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Nelson",
