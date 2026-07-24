@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26200,17 +26200,8 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  86.11,
+                                     "km":  96.43,
                                      "tv":  257
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Debora",
@@ -26224,6 +26215,15 @@
                                  {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26252,10 +26252,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  5,
-                                     "km":  74.72,
-                                     "tv":  291
+                                     "km":  76.64,
+                                     "tv":  321
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -26627,6 +26627,13 @@
                                        "p":  1,
                                        "km":  1.82,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
+                                       "p":  0,
+                                       "km":  1.92,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Rachel",

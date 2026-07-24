@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -69,27 +69,12 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  86.11,
+                     "km":  96.43,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:31",
                      "ultimo":  "15:44",
                      "tv":  "04:17:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -111,6 +96,21 @@ window.PAINEL = {
                  {
                      "nome":  "Alex A.",
                      "setor":  "PROMO-ITAPIRA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  74.72,
-                     "semPed":  2,
-                     "perc":  28.57,
+                     "visitas":  8,
+                     "km":  76.64,
+                     "semPed":  3,
+                     "perc":  37.5,
                      "primeiro":  "08:40",
-                     "ultimo":  "15:52",
-                     "tv":  "04:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:31",
+                     "tv":  "05:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "16:13",
                      "tv":  "04:30:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "11:30",
                      "ultimo":  "14:04",
                      "tv":  "01:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -688,6 +688,15 @@ window.PAINEL = {
                          "out":  "15:52:53",
                          "km":  1.82,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "in":  "16:01:30",
+                         "out":  "16:31:44",
+                         "km":  1.92,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -1263,7 +1272,15 @@ window.PAINEL = {
                         "obs":  "Ribeirão Bonito a São carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:05"
+                        "tempo":  "00:59:36"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:57"
                     }
                 ],
     "semped":  [
@@ -1276,6 +1293,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "VIZINHO SUPERMERCADOS LTDA",
+                       "mun":  "ARTUR NOGUEIRA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
                        "mun":  "ARTUR NOGUEIRA",
                        "obs":  "estocado"
                    },
@@ -1372,52 +1395,52 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
-                         "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:22:44"
-                     },
-                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:04:30"
+                         "tempo":  "01:18:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:30:47"
+                         "tempo":  "00:45:16"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "GOOD MERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:04:37"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "197:03:59"
+                         "tempo":  "197:18:28"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:33:40"
+                         "tempo":  "01:48:09"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:18:26"
+                         "tempo":  "02:32:55"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:17:43"
+                         "tempo":  "00:32:12"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:05:26"
+                         "tempo":  "00:19:55"
                      }
                  ],
     "hist":  [
@@ -1528,8 +1551,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     74,
-                     17
+                     75,
+                     18
                  ]
              ],
     "historico":  {
@@ -27690,7 +27713,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -27734,17 +27757,8 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  86.11,
+                                                       "km":  96.43,
                                                        "tv":  257
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -27758,6 +27772,15 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Alex A.",
                                                        "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27786,10 +27809,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  5,
-                                                       "km":  74.72,
-                                                       "tv":  291
+                                                       "km":  76.64,
+                                                       "tv":  321
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -28161,6 +28184,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.82,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
+                                                         "p":  0,
+                                                         "km":  1.92,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Rachel",
