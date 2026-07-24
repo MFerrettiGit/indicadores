@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -26198,19 +26198,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  1.78,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  2.26,
+                                     "tv":  68
                                  },
                                  {
                                      "nome":  "Aline",
@@ -26224,6 +26215,15 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26276,15 +26276,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  3.59,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -26303,22 +26294,31 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  3.59,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  8.86,
-                                     "tv":  29
+                                     "km":  11.38,
+                                     "tv":  44
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  29.79,
-                                     "tv":  18
+                                     "km":  32.28,
+                                     "tv":  40
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -26357,8 +26357,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26366,8 +26366,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26405,6 +26405,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  0.48,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -26419,11 +26426,25 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA-LJ.02",
+                                       "p":  0,
+                                       "km":  2.52,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                        "p":  0,
                                        "km":  21.82,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MW METEORO LTDA.",
+                                       "p":  0,
+                                       "km":  2.49,
+                                       "tv":  22
                                    }
                                ]
                    }
