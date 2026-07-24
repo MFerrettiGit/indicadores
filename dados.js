@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "12:44",
                      "tv":  "05:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:41:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -96,21 +111,6 @@ window.PAINEL = {
                  {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
+                     "visitas":  7,
                      "km":  39.87,
                      "semPed":  2,
-                     "perc":  33.33,
+                     "perc":  28.57,
                      "primeiro":  "08:25",
-                     "ultimo":  "12:47",
-                     "tv":  "03:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:13",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
+                     "visitas":  5,
                      "km":  45.31,
-                     "semPed":  0,
-                     "perc":  0,
+                     "semPed":  1,
+                     "perc":  20,
                      "primeiro":  "08:18",
-                     "ultimo":  "12:56",
-                     "tv":  "03:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:14",
+                     "tv":  "04:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -315,8 +315,8 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "11:43",
                      "tv":  "03:01:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                         "mun":  "CAMPINAS",
+                         "in":  "12:59:05",
+                         "out":  "13:14:24",
+                         "km":  0,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
@@ -769,6 +778,15 @@ window.PAINEL = {
                          "out":  "12:47:22",
                          "km":  1.57,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "12:49:18",
+                         "out":  "13:13:28",
+                         "km":  0,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Karina",
@@ -884,6 +902,22 @@ window.PAINEL = {
                         "tempo":  "01:35:29"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:14",
+                        "final":  "13:14",
+                        "tempo":  "01:00:02"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:14",
+                        "final":  "13:12",
+                        "tempo":  "00:57:34"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Consulta",
                         "obs":  "retorno medico",
@@ -913,23 +947,7 @@ window.PAINEL = {
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:07:01"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:20"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:14"
+                        "tempo":  "05:21:28"
                     },
                     {
                         "nome":  "Vinicius",
@@ -937,7 +955,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:02"
+                        "tempo":  "00:55:29"
                     },
                     {
                         "nome":  "Maira",
@@ -945,7 +963,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:20"
+                        "tempo":  "00:47:47"
                     },
                     {
                         "nome":  "Rachel",
@@ -953,7 +971,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:46"
+                        "tempo":  "00:47:13"
                     },
                     {
                         "nome":  "Nelson",
@@ -961,7 +979,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:10"
+                        "tempo":  "00:44:37"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -969,7 +987,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:48"
+                        "tempo":  "00:44:15"
                     },
                     {
                         "nome":  "Eliana",
@@ -977,7 +995,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:10"
+                        "tempo":  "00:38:37"
                     },
                     {
                         "nome":  "Castro",
@@ -985,7 +1003,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:29"
+                        "tempo":  "00:33:56"
                     }
                 ],
     "semped":  [
@@ -1006,6 +1024,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO MW METEORO LTDA.",
                        "mun":  "BRAGANCA PAULIS",
                        "obs":  "comprador afastado"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                       "mun":  "CAMPINAS",
+                       "obs":  "comprador ausente."
                    },
                    {
                        "nome":  "Eduardo",
@@ -1058,34 +1082,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Evandro",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:05:46"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:02:27"
+                         "tempo":  "01:16:58"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO QUATI LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:05:40"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:19:54"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:10:07"
+                         "tempo":  "00:20:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "193:48:57"
+                         "tempo":  "194:03:28"
                      }
                  ],
     "hist":  [
@@ -1196,8 +1214,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     52,
-                     11
+                     54,
+                     12
                  ]
              ],
     "historico":  {
@@ -27358,7 +27376,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -27406,6 +27424,15 @@ window.PAINEL = {
                                                        "tv":  130
                                                    },
                                                    {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -27417,15 +27444,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27508,19 +27526,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  4,
+                                                       "vi":  7,
+                                                       "pe":  5,
                                                        "km":  39.87,
-                                                       "tv":  201
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  4,
                                                        "km":  45.31,
-                                                       "tv":  228
+                                                       "tv":  243
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -27817,6 +27835,13 @@ window.PAINEL = {
                                                          "tv":  39
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "MODELO SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -27892,6 +27917,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.57,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Karina",
