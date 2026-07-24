@@ -26156,43 +26156,43 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "08:15",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  12.5,
+                                     "tv":  89
                                  },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  23.47,
+                                     "tv":  88
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0.14,
-                                     "tv":  0
+                                     "km":  15.3,
+                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  45.05,
+                                     "tv":  52
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -26303,6 +26303,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  8.86,
+                                     "tv":  29
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -26312,8 +26321,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26327,6 +26336,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  7.97,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -26355,28 +26373,44 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
-
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  15.16,
+                                       "tv":  81
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  12.5,
+                                       "tv":  89
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  23.47,
+                                       "tv":  88
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO MAIRINQUE LTDA.",
+                                       "p":  1,
+                                       "km":  45.05,
+                                       "tv":  52
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MODELO SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  8.86,
+                                       "tv":  29
+                                   }
                                ]
                    }
 }
