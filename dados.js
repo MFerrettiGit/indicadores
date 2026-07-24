@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "07:45",
+    "dataHora":  "08:00",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -64,23 +64,23 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  1.78,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "07:51",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.41,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -232,6 +232,36 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
@@ -332,36 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -374,7 +374,7 @@ window.PAINEL = {
                         "obs":  "Itararé a Itapeva",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:49"
+                        "tempo":  "00:21:46"
                     },
                     {
                         "nome":  "Mariangela",
@@ -382,7 +382,7 @@ window.PAINEL = {
                         "obs":  "taubate",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:54"
+                        "tempo":  "00:15:51"
                     }
                 ],
     "semped":  [
@@ -393,31 +393,37 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:42:43"
+                         "tempo":  "00:57:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:22:32"
+                         "tempo":  "00:37:32"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:47:09"
+                         "tempo":  "01:02:09"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO MAIRINQUE LTDA.",
                          "mun":  "MAIRINQUE",
-                         "tempo":  "00:07:47"
+                         "tempo":  "00:22:47"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:03:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "188:18:58"
+                         "tempo":  "188:33:58"
                      }
                  ],
     "hist":  [
@@ -26685,7 +26691,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "07:45",
+                                         "dataHora":  "08:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -26724,17 +26730,17 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  1.78,
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -26792,7 +26798,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.41,
                                                        "tv":  0
                                                    },
                                                    {
@@ -26826,6 +26832,24 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
@@ -26883,24 +26907,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  7.97,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],

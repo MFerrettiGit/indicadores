@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "07:45",
+                       "dataHora":  "08:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -26195,17 +26195,17 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  1.78,
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26263,7 +26263,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.41,
                                      "tv":  0
                                  },
                                  {
@@ -26297,6 +26297,24 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -26354,24 +26372,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  7.97,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
