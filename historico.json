@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -26303,6 +26303,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  32.28,
+                                     "tv":  63
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -26312,13 +26321,22 @@
                                      "tv":  44
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  32.28,
-                                     "tv":  40
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.39,
+                                     "tv":  66
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  43.51,
+                                     "tv":  22
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -26327,15 +26345,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.76,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -26348,8 +26357,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26359,15 +26368,6 @@
                                  {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26419,6 +26419,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
+                                       "p":  1,
+                                       "km":  16.39,
+                                       "tv":  66
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "MODELO SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -26444,6 +26451,20 @@
                                        "r":  "SUPERMERCADO MW METEORO LTDA.",
                                        "p":  0,
                                        "km":  2.49,
+                                       "tv":  22
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  23
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO SHIBATA TAUBATE LTDA",
+                                       "p":  1,
+                                       "km":  43.51,
                                        "tv":  22
                                    }
                                ]
