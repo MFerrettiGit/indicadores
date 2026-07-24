@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26204,15 +26204,6 @@
                                      "tv":  130
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -26224,6 +26215,15 @@
                                  {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26249,6 +26249,24 @@
                                      "tv":  154
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  60.8,
+                                     "tv":  185
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  48.53,
+                                     "tv":  184
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -26256,24 +26274,6 @@
                                      "pe":  1,
                                      "km":  9.64,
                                      "tv":  196
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  49.25,
-                                     "tv":  141
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  46.95,
-                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -26524,6 +26524,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "GUIDOLIN",
+                                       "p":  0,
+                                       "km":  11.55,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -26557,6 +26564,13 @@
                                        "p":  1,
                                        "km":  0.91,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MINIMERCADO BONI LTDA",
+                                       "p":  1,
+                                       "km":  1.58,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Alan",
