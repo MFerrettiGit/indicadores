@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  77.78,
+                     "km":  134.29,
                      "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:26",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  16.33,
+                     "km":  18.55,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:02",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  49.12,
+                     "km":  52.82,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "09:13",
                      "ultimo":  "16:13",
                      "tv":  "04:30:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  14.61,
+                     "km":  36.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:45",
@@ -279,7 +279,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  100.19,
+                     "km":  107.34,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:15",
@@ -1161,6 +1161,14 @@ window.PAINEL = {
                         "tempo":  "00:50:01"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio",
+                        "inicio":  "16:25",
+                        "final":  "17:49",
+                        "tempo":  "01:23:12"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1327,14 +1335,6 @@ window.PAINEL = {
                         "inicio":  "15:40",
                         "final":  "16:54",
                         "tempo":  "01:14:36"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "daolio",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:14:25"
                     }
                 ],
     "semped":  [
@@ -1458,19 +1458,19 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:02:33"
+                         "tempo":  "00:17:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "198:18:54"
+                         "tempo":  "198:33:46"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:48:35"
+                         "tempo":  "03:03:27"
                      }
                  ],
     "hist":  [
@@ -27743,7 +27743,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -27832,7 +27832,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  77.78,
+                                                       "km":  134.29,
                                                        "tv":  154
                                                    },
                                                    {
@@ -27859,7 +27859,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  16.33,
+                                                       "km":  18.55,
                                                        "tv":  290
                                                    },
                                                    {
@@ -27868,7 +27868,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  49.12,
+                                                       "km":  52.82,
                                                        "tv":  270
                                                    },
                                                    {
@@ -27877,7 +27877,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  14.61,
+                                                       "km":  36.32,
                                                        "tv":  213
                                                    },
                                                    {
@@ -27913,7 +27913,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  100.19,
+                                                       "km":  107.34,
                                                        "tv":  196
                                                    },
                                                    {
