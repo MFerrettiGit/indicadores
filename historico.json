@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -26252,28 +26252,28 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  7.29,
-                                     "tv":  166
+                                     "km":  9.64,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  38.63,
-                                     "tv":  93
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  49.25,
+                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  46.04,
-                                     "tv":  89
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  46.95,
+                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -26306,10 +26306,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  32.28,
-                                     "tv":  63
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  33.24,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Castro",
@@ -26357,8 +26357,8 @@
                                      "tv":  150
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26366,8 +26366,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26461,6 +26461,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO DONNA BELLA LTDA",
+                                       "p":  0,
+                                       "km":  2.35,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO TENDA DAS FRUTAS LTDA",
                                        "p":  1,
@@ -26473,6 +26480,13 @@
                                        "p":  1,
                                        "km":  2.33,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "GUIDOLIN E GUIDOLIN LTDA.",
+                                       "p":  1,
+                                       "km":  10.62,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Rachel",
@@ -26494,6 +26508,13 @@
                                        "p":  1,
                                        "km":  0.55,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS OPINI LTDA-EPP.",
+                                       "p":  1,
+                                       "km":  0.91,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Alan",
@@ -26550,6 +26571,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  0.96,
+                                       "tv":  102
                                    },
                                    {
                                        "n":  "Mariangela",
