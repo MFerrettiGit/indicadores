@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -30,8 +30,8 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "12:45",
                      "tv":  "05:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:16",
                      "ultimo":  "11:45",
                      "tv":  "03:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -76,21 +76,6 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "02:10:00",
                      "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -111,6 +96,21 @@ window.PAINEL = {
                  {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  15.32,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:02",
+                     "ultimo":  "13:45",
+                     "tv":  "03:57:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -165,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:40",
                      "ultimo":  "12:28",
                      "tv":  "03:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "12:25",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  9.64,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:02",
-                     "ultimo":  "11:35",
-                     "tv":  "03:16:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:49",
                      "tv":  "02:19:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "11:30",
                      "ultimo":  "12:58",
                      "tv":  "01:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -553,6 +553,15 @@ window.PAINEL = {
                          "out":  "11:35:43",
                          "km":  2.35,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO QUATI LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "13:03:32",
+                         "out":  "13:45:57",
+                         "km":  5.68,
+                         "dur":  "00:41:00"
                      },
                      {
                          "nome":  "Maira",
@@ -927,6 +936,22 @@ window.PAINEL = {
                         "tempo":  "01:35:29"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:39",
+                        "final":  "13:48",
+                        "tempo":  "01:08:49"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:50",
+                        "final":  "13:40",
+                        "tempo":  "00:50:14"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -941,6 +966,14 @@ window.PAINEL = {
                         "inicio":  "12:14",
                         "final":  "13:12",
                         "tempo":  "00:57:34"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:45",
+                        "final":  "13:46",
+                        "tempo":  "01:00:55"
                     },
                     {
                         "nome":  "Vinicius",
@@ -988,31 +1021,7 @@ window.PAINEL = {
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:37:13"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:00:22"
-                    },
-                    {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:22"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:41"
+                        "tempo":  "05:52:03"
                     },
                     {
                         "nome":  "Fernando",
@@ -1020,7 +1029,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:21"
+                        "tempo":  "00:29:11"
                     },
                     {
                         "nome":  "Alan",
@@ -1028,7 +1037,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:14"
+                        "tempo":  "00:23:04"
                     },
                     {
                         "nome":  "Silmara",
@@ -1036,7 +1045,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:45"
+                        "tempo":  "00:15:35"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1044,7 +1053,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:11"
+                        "tempo":  "00:15:01"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "capão Bonito a Itapetininga",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:34"
                     }
                 ],
     "semped":  [
@@ -1103,6 +1120,12 @@ window.PAINEL = {
                        "obs":  "estoque alto"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO QUATI LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "MODELO SUPERMERCADO LTDA.",
                        "mun":  "ITATIBA",
@@ -1126,37 +1149,61 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:20"
+                         "tempo":  "00:36:16"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:12:25"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:05:07"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
                          "mun":  "VOTORANTIM",
-                         "tempo":  "00:02:09"
+                         "tempo":  "00:17:05"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VIZINHO SUPERMERCADOS LTDA",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "tempo":  "00:07:38"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:09:56"
+                         "tempo":  "00:24:52"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "SUPERMERCADO QUATI LTDA",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:35:45"
+                         "tempo":  "00:01:29"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:12:38"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "194:19:02"
+                         "tempo":  "194:33:58"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:15:34"
+                         "tempo":  "00:30:30"
                      }
                  ],
     "hist":  [
@@ -1267,8 +1314,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     55,
-                     12
+                     56,
+                     13
                  ]
              ],
     "historico":  {
@@ -27429,7 +27476,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -27477,15 +27524,6 @@ window.PAINEL = {
                                                        "tv":  130
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -27497,6 +27535,15 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27522,6 +27569,15 @@ window.PAINEL = {
                                                        "tv":  154
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  15.32,
+                                                       "tv":  237
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -27538,15 +27594,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  48.53,
                                                        "tv":  184
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  9.64,
-                                                       "tv":  196
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -27795,6 +27842,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.35,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO QUATI LTDA",
+                                                         "p":  0,
+                                                         "km":  5.68,
+                                                         "tv":  41
                                                      },
                                                      {
                                                          "n":  "Maira",
