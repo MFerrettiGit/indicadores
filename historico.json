@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26204,6 +26204,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -26215,15 +26224,6 @@
                                  {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26288,10 +26288,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5.17,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  14.61,
+                                     "tv":  213
                                  },
                                  {
                                      "nome":  "Costa",
@@ -26306,10 +26306,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  33.24,
-                                     "tv":  165
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  38.3,
+                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Alan",
@@ -26475,6 +26475,13 @@
                                        "tv":  78
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "MARA EDITH LOURENCO",
+                                       "p":  1,
+                                       "km":  9.44,
+                                       "tv":  213
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  1,
@@ -26627,6 +26634,13 @@
                                        "p":  1,
                                        "km":  0.96,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MP BRAGANCA HENEDINA LTDA",
+                                       "p":  1,
+                                       "km":  5.06,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Karina",
