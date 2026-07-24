@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26166,6 +26166,15 @@
                                      "pe":  0,
                                      "km":  20.13,
                                      "tv":  221
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  10.71,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -26193,15 +26202,6 @@
                                      "pe":  0,
                                      "km":  80.82,
                                      "tv":  130
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  5.99,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Debora",
@@ -26279,10 +26279,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.97,
-                                     "tv":  63
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  43.97,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -26299,7 +26299,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  3.59,
+                                     "km":  7.22,
                                      "tv":  0
                                  },
                                  {
@@ -26321,6 +26321,15 @@
                                      "tv":  189
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  45.89,
+                                     "tv":  104
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -26339,15 +26348,6 @@
                                      "tv":  44
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  45.09,
-                                     "tv":  58
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -26360,10 +26360,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  12.59,
+                                     "tv":  27
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -26454,6 +26454,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                                       "p":  1,
+                                       "km":  4.72,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -26515,6 +26522,13 @@
                                        "p":  0,
                                        "km":  38.43,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J L DAOLIO E CIA LTDA",
+                                       "p":  1,
+                                       "km":  4,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -26615,6 +26629,13 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
+                                       "p":  1,
+                                       "km":  12.59,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO SHIBATA TAUBATE LTDA",
                                        "p":  1,
@@ -26627,6 +26648,13 @@
                                        "p":  1,
                                        "km":  1.58,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO ANJO GABRIEL LTDA",
+                                       "p":  1,
+                                       "km":  0.8,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Nelson",
