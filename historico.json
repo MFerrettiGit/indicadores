@@ -26156,8 +26156,17 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  24.44,
+                                     "tv":  279
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -26184,15 +26193,6 @@
                                      "pe":  0,
                                      "km":  57.43,
                                      "tv":  300
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  20.13,
-                                     "tv":  221
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -26249,6 +26249,15 @@
                                      "tv":  154
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  16.33,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -26265,15 +26274,6 @@
                                      "pe":  4,
                                      "km":  50.84,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  15.32,
-                                     "tv":  237
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -26536,6 +26536,13 @@
                                        "p":  0,
                                        "km":  5.68,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.01,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Maira",
