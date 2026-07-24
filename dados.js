@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  13.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:51",
+                     "ultimo":  "13:38",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
                  {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
@@ -49,21 +64,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  10.71,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:51",
-                     "ultimo":  "12:01",
-                     "tv":  "03:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -75,8 +75,8 @@ window.PAINEL = {
                      "primeiro":  "07:31",
                      "ultimo":  "11:45",
                      "tv":  "02:10:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:28",
                      "tv":  "03:05:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "09:13",
                      "ultimo":  "11:55",
                      "tv":  "02:24:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "03:33:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "13:14",
                      "tv":  "04:03:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -490,6 +490,15 @@ window.PAINEL = {
                          "out":  "12:01:56",
                          "km":  4.72,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "12:06:45",
+                         "out":  "13:38:13",
+                         "km":  3.02,
+                         "dur":  "01:31:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -862,6 +871,14 @@ window.PAINEL = {
                         "tempo":  "00:37:24"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:36",
+                        "final":  "13:36",
+                        "tempo":  "00:59:23"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Outro",
                         "obs":  "trocando o pneu",
@@ -876,6 +893,14 @@ window.PAINEL = {
                         "inicio":  "07:56",
                         "final":  "09:10",
                         "tempo":  "01:13:49"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:37",
+                        "final":  "13:27",
+                        "tempo":  "00:50:01"
                     },
                     {
                         "nome":  "Luis",
@@ -918,6 +943,14 @@ window.PAINEL = {
                         "tempo":  "00:57:34"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:29",
+                        "final":  "13:33",
+                        "tempo":  "01:04:46"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Consulta",
                         "obs":  "retorno medico",
@@ -942,36 +975,20 @@ window.PAINEL = {
                         "tempo":  "01:02:28"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:40",
+                        "final":  "13:39",
+                        "tempo":  "00:59:23"
+                    },
+                    {
                         "nome":  "Milene",
                         "tipo":  "Outro",
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:21:28"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:29"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:47"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:13"
+                        "tempo":  "05:37:13"
                     },
                     {
                         "nome":  "Nelson",
@@ -979,15 +996,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:37"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:15"
+                        "tempo":  "01:00:22"
                     },
                     {
                         "nome":  "Eliana",
@@ -995,7 +1004,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:37"
+                        "tempo":  "00:54:22"
                     },
                     {
                         "nome":  "Castro",
@@ -1003,7 +1012,39 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:56"
+                        "tempo":  "00:49:41"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:21"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:14"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:45"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:11"
                     }
                 ],
     "semped":  [
@@ -1085,25 +1126,37 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:05:46"
+                         "tempo":  "00:21:20"
                      },
                      {
-                         "nome":  "Silmara",
-                         "razao":  "A.A. DE MELO",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:16:58"
+                         "nome":  "Vinicius",
+                         "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
+                         "mun":  "VOTORANTIM",
+                         "tempo":  "00:02:09"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:09:56"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO QUATI LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:20:11"
+                         "tempo":  "00:35:45"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "194:03:28"
+                         "tempo":  "194:19:02"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:15:34"
                      }
                  ],
     "hist":  [
@@ -1214,7 +1267,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     54,
+                     55,
                      12
                  ]
              ],
@@ -27376,8 +27429,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  13.73,
+                                                       "tv":  296
+                                                   },
                                                    {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
@@ -27404,15 +27466,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  20.13,
                                                        "tv":  221
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  10.71,
-                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -27693,6 +27746,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.72,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "A.A. DE MELO",
+                                                         "p":  1,
+                                                         "km":  3.02,
+                                                         "tv":  91
                                                      },
                                                      {
                                                          "n":  "Vinicius",

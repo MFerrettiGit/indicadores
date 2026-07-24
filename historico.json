@@ -26156,8 +26156,17 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  13.73,
+                                     "tv":  296
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -26184,15 +26193,6 @@
                                      "pe":  0,
                                      "km":  20.13,
                                      "tv":  221
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  10.71,
-                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -26473,6 +26473,13 @@
                                        "p":  1,
                                        "km":  4.72,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  3.02,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Vinicius",
