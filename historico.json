@@ -26156,8 +26156,26 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  43.25,
+                                     "tv":  300
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  57.43,
+                                     "tv":  300
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -26177,24 +26195,6 @@
                                      "tv":  205
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  22.89,
-                                     "tv":  165
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  36.39,
-                                     "tv":  270
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -26202,15 +26202,6 @@
                                      "pe":  0,
                                      "km":  80.82,
                                      "tv":  130
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -26224,6 +26215,15 @@
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26306,10 +26306,28 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  38.3,
-                                     "tv":  184
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  39.87,
+                                     "tv":  201
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  48.66,
+                                     "tv":  139
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  22.66,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Alan",
@@ -26321,15 +26339,6 @@
                                      "tv":  189
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  45.89,
-                                     "tv":  104
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -26337,15 +26346,6 @@
                                      "pe":  1,
                                      "km":  13.23,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  11.38,
-                                     "tv":  44
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -26426,6 +26426,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  20.36,
+                                       "tv":  135
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -26438,6 +26445,13 @@
                                        "p":  1,
                                        "km":  12.92,
                                        "tv":  182
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                                       "p":  1,
+                                       "km":  21.04,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Silmara",
@@ -26608,6 +26622,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  1,
+                                       "km":  11.28,
+                                       "tv":  222
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -26657,6 +26678,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "MERCEARIA CHORRO LTDA",
+                                       "p":  1,
+                                       "km":  1.57,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
                                        "p":  1,
@@ -26683,6 +26711,13 @@
                                        "p":  1,
                                        "km":  0.8,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO ALCINDA LTDA",
+                                       "p":  1,
+                                       "km":  2.77,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Nelson",
