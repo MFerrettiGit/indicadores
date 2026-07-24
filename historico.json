@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -26204,6 +26204,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -26215,15 +26224,6 @@
                                  {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -26279,10 +26279,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  43.97,
-                                     "tv":  144
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  46.59,
+                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -26592,6 +26592,13 @@
                                        "p":  1,
                                        "km":  4,
                                        "tv":  81
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  111
                                    },
                                    {
                                        "n":  "Sao Carlos",
