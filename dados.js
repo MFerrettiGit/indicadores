@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:51",
                      "ultimo":  "10:57",
                      "tv":  "02:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  64.86,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  77.78,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:26",
-                     "ultimo":  "08:45",
-                     "tv":  "00:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:15",
+                     "tv":  "02:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:15",
                      "ultimo":  "11:06",
                      "tv":  "00:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -361,6 +346,21 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "08:45:31",
                          "km":  64.63,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:59:45",
+                         "out":  "11:15:32",
+                         "km":  12.92,
+                         "dur":  "02:15:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -664,7 +673,7 @@ window.PAINEL = {
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:08:28"
+                        "tempo":  "03:21:24"
                     },
                     {
                         "nome":  "Costa",
@@ -672,7 +681,7 @@ window.PAINEL = {
                         "obs":  "retorno medico",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:06:43"
+                        "tempo":  "03:19:39"
                     },
                     {
                         "nome":  "Nelson",
@@ -680,7 +689,7 @@ window.PAINEL = {
                         "obs":  "Itapeva a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:22"
+                        "tempo":  "00:20:18"
                     }
                 ],
     "semped":  [
@@ -699,6 +708,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "HIGA PROD. ALIM. LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
@@ -729,94 +744,100 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:11:03"
-                     },
-                     {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:28:28"
+                         "tempo":  "02:41:25"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:28"
+                         "tempo":  "00:49:25"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:40:59"
+                         "tempo":  "00:53:56"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:43:21"
+                         "tempo":  "00:56:18"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:08:54"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "GUIDOLIN E GUIDOLIN LTDA.",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:25:14"
+                         "tempo":  "00:38:11"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:36:26"
+                         "tempo":  "00:49:23"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO DONNA BELLA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:05:43"
+                         "tempo":  "00:18:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "02:25:08"
+                         "tempo":  "02:38:05"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS OPINI LTDA-EPP.",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:28:22"
+                         "tempo":  "00:41:19"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:15:24"
+                         "tempo":  "01:28:21"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:29:35"
+                         "tempo":  "00:42:32"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "191:50:33"
+                         "tempo":  "192:03:30"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:06:22"
+                         "tempo":  "02:19:19"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:24:56"
+                         "tempo":  "00:37:53"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO ANJO GABRIEL LTDA",
+                         "mun":  "TAUBATE",
+                         "tempo":  "00:11:45"
                      }
                  ],
     "hist":  [
@@ -927,8 +948,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     27,
-                     7
+                     28,
+                     8
                  ]
              ],
     "historico":  {
@@ -27089,7 +27110,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -27176,10 +27197,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  64.86,
-                                                       "tv":  19
+                                                       "km":  77.78,
+                                                       "tv":  154
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -27290,8 +27311,8 @@ window.PAINEL = {
                                                        "tv":  150
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27299,8 +27320,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27329,6 +27350,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  64.63,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  12.92,
+                                                         "tv":  135
                                                      },
                                                      {
                                                          "n":  "Eliana",

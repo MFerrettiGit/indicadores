@@ -26156,7 +26156,7 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -26243,10 +26243,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  64.86,
-                                     "tv":  19
+                                     "km":  77.78,
+                                     "tv":  154
                                  },
                                  {
                                      "nome":  "Luis",
@@ -26357,8 +26357,8 @@
                                      "tv":  150
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26366,8 +26366,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -26396,6 +26396,13 @@
                                        "p":  0,
                                        "km":  64.63,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  12.92,
+                                       "tv":  135
                                    },
                                    {
                                        "n":  "Eliana",
