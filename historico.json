@@ -26156,16 +26156,16 @@
                                ]
                    },
     "2026-07-24":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  12.5,
-                                     "tv":  89
+                                     "km":  22.89,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -26249,17 +26249,17 @@
                                      "tv":  19
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  36.3,
+                                     "tv":  71
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -26398,6 +26398,13 @@
                                        "tv":  89
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  10.39,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  1,
@@ -26417,6 +26424,13 @@
                                        "p":  1,
                                        "km":  45.05,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO TENDA DAS FRUTAS LTDA",
+                                       "p":  1,
+                                       "km":  36.3,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Alan",

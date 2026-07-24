@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/07/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  12.5,
+                     "visitas":  2,
+                     "km":  22.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
-                     "ultimo":  "08:21",
-                     "tv":  "01:29:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:54",
+                     "tv":  "02:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  36.3,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:40",
+                     "ultimo":  "09:51",
+                     "tv":  "01:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -163,21 +178,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:40",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -393,6 +393,15 @@ window.PAINEL = {
                          "dur":  "01:29:00"
                      },
                      {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITUPEVA",
+                         "in":  "08:37:49",
+                         "out":  "09:54:25",
+                         "km":  10.39,
+                         "dur":  "01:16:00"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
@@ -418,6 +427,15 @@ window.PAINEL = {
                          "out":  "08:23:53",
                          "km":  45.05,
                          "dur":  "00:52:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO TENDA DAS FRUTAS LTDA",
+                         "mun":  "COSMOPOLIS",
+                         "in":  "08:40:31",
+                         "out":  "09:51:56",
+                         "km":  36.3,
+                         "dur":  "01:11:00"
                      },
                      {
                          "nome":  "Alan",
@@ -530,7 +548,7 @@ window.PAINEL = {
                         "obs":  "tempestade em ribeirao impossível acessar as lojas esperando normalizar",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:36:42"
+                        "tempo":  "01:51:56"
                     },
                     {
                         "nome":  "Costa",
@@ -538,7 +556,7 @@ window.PAINEL = {
                         "obs":  "retorno medico",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:34:57"
+                        "tempo":  "01:50:11"
                     },
                     {
                         "nome":  "Karina",
@@ -546,7 +564,7 @@ window.PAINEL = {
                         "obs":  "trocando o pneu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:15:13"
+                        "tempo":  "01:30:27"
                     }
                 ],
     "semped":  [
@@ -586,91 +604,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:39:24"
+                         "tempo":  "00:54:35"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:56:49"
+                         "tempo":  "01:12:00"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:33:23"
+                         "tempo":  "00:48:34"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "01:01:20"
+                         "tempo":  "01:16:31"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:13:41"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO TENDA DAS FRUTAS LTDA",
-                         "mun":  "COSMOPOLIS",
-                         "tempo":  "00:58:38"
+                         "tempo":  "00:28:52"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:26:04"
+                         "tempo":  "00:41:15"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SM. SAO PAULO LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:36:34"
+                         "tempo":  "01:51:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:53:29"
+                         "tempo":  "01:08:40"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "OPINI SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:37:25"
+                         "tempo":  "00:52:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:12"
+                         "tempo":  "00:23:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "190:18:54"
+                         "tempo":  "190:34:05"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:06:38"
+                         "tempo":  "01:21:49"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:34:43"
+                         "tempo":  "00:49:54"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:32:36"
+                         "tempo":  "01:47:47"
                      }
                  ],
     "hist":  [
@@ -781,7 +793,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/07",
-                     13,
+                     14,
                      5
                  ]
              ],
@@ -26943,16 +26955,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-24":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  12.5,
-                                                       "tv":  89
+                                                       "km":  22.89,
+                                                       "tv":  165
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -27036,17 +27048,17 @@ window.PAINEL = {
                                                        "tv":  19
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  36.3,
+                                                       "tv":  71
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27185,6 +27197,13 @@ window.PAINEL = {
                                                          "tv":  89
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  10.39,
+                                                         "tv":  76
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  1,
@@ -27204,6 +27223,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  45.05,
                                                          "tv":  52
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO TENDA DAS FRUTAS LTDA",
+                                                         "p":  1,
+                                                         "km":  36.3,
+                                                         "tv":  71
                                                      },
                                                      {
                                                          "n":  "Alan",
