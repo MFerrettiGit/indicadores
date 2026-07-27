@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -27057,6 +27057,15 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  46.1,
+                                     "tv":  261
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -27064,15 +27073,6 @@
                                      "pe":  2,
                                      "km":  11.15,
                                      "tv":  221
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  44.44,
-                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -27114,10 +27114,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  19,
-                                     "tv":  205
+                                     "km":  23.31,
+                                     "tv":  246
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  13.52,
+                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -27127,15 +27136,6 @@
                                      "pe":  3,
                                      "km":  51.3,
                                      "tv":  273
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  7.95,
-                                     "tv":  112
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27482,6 +27482,13 @@
                                        "tv":  148
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "COMERCIAL REMAFRA LTDA.",
+                                       "p":  1,
+                                       "km":  1.66,
+                                       "tv":  81
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA.",
                                        "p":  1,
@@ -27536,6 +27543,13 @@
                                        "p":  1,
                                        "km":  1.57,
                                        "tv":  99
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO D LUCA LTDA",
+                                       "p":  0,
+                                       "km":  4.31,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Castro",
@@ -27655,6 +27669,13 @@
                                        "p":  0,
                                        "km":  2.08,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADOS VMS EIRELI",
+                                       "p":  1,
+                                       "km":  5.57,
+                                       "tv":  117
                                    }
                                ]
                    }
