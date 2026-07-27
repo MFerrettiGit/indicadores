@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26956,6 +26956,24 @@
                                      "pe":  0,
                                      "km":  35.47,
                                      "tv":  333
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  45.48,
+                                     "tv":  467
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  42.89,
+                                     "tv":  476
                                  },
                                  {
                                      "nome":  "Aline",
@@ -26983,24 +27001,6 @@
                                      "pe":  0,
                                      "km":  58.95,
                                      "tv":  278
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  27.59,
-                                     "tv":  422
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  40.76,
-                                     "tv":  438
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -27093,6 +27093,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  79.78,
+                                     "tv":  360
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -27100,15 +27109,6 @@
                                      "pe":  6,
                                      "km":  29.25,
                                      "tv":  312
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  78.29,
-                                     "tv":  332
                                  },
                                  {
                                      "nome":  "Alan",
@@ -27230,6 +27230,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.13,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -27291,6 +27298,13 @@
                                        "p":  1,
                                        "km":  3.73,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  17.89,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Evandro",
@@ -27767,6 +27781,13 @@
                                        "p":  0,
                                        "km":  1.9,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO NAKAMITSU LTDA",
+                                       "p":  1,
+                                       "km":  1.49,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Karina",
