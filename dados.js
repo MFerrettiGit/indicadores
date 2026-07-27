@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Debora",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:25",
                      "ultimo":  "08:16",
                      "tv":  "00:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "08:44",
                      "tv":  "00:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  19.69,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:15",
+                     "ultimo":  "08:50",
+                     "tv":  "00:34:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -268,21 +283,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:15",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -319,15 +319,15 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.17,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:58",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -349,18 +349,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0.17,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -418,6 +418,15 @@ window.PAINEL = {
                          "out":  "08:44:06",
                          "km":  5.55,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                         "mun":  "LOUVEIRA",
+                         "in":  "08:15:59",
+                         "out":  "08:50:07",
+                         "km":  19.69,
+                         "dur":  "00:34:00"
                      }
                  ],
     "eventos":  [
@@ -427,7 +436,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Boa Esperança",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:53"
+                        "tempo":  "00:47:00"
                     },
                     {
                         "nome":  "Mariangela",
@@ -435,7 +444,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:23"
+                        "tempo":  "00:46:30"
                     },
                     {
                         "nome":  "Rachel",
@@ -443,108 +452,125 @@ window.PAINEL = {
                         "obs":  "holambra",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:13"
+                        "tempo":  "00:15:20"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                       "mun":  "LOUVEIRA",
+                       "obs":  "compras suspensa"
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:00:36"
+                         "tempo":  "00:15:40"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:36:43"
+                         "tempo":  "01:51:47"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:05:01"
+                         "tempo":  "01:20:05"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:02:57"
+                         "tempo":  "00:18:01"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:51:46"
+                         "tempo":  "02:06:50"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:00:22"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:09:02"
+                         "tempo":  "01:24:06"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:03:10"
+                         "tempo":  "00:18:14"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L.F. CINTRA FRANCA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:07:39"
+                         "tempo":  "00:22:43"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:03:08"
+                         "tempo":  "00:18:12"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:18:56"
+                         "tempo":  "00:34:00"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "RH COSTA SUPERMERCADO LTDA",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:28:10"
+                         "tempo":  "00:43:14"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:39:24"
+                         "tempo":  "00:54:28"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:01:02"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "261:24:14"
+                         "tempo":  "261:39:18"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:23:16"
+                         "tempo":  "00:38:20"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                         "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:28:30"
+                         "tempo":  "00:04:01"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:40:30"
+                         "tempo":  "00:55:34"
                      }
                  ],
     "hist":  [
@@ -645,8 +671,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     6,
-                     0
+                     7,
+                     1
                  ]
              ],
     "historico":  {
@@ -27597,7 +27623,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Debora",
@@ -27744,6 +27770,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  19.69,
+                                                       "tv":  34
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -27755,15 +27790,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27789,12 +27815,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.17,
                                                        "tv":  0
                                                    },
                                                    {
@@ -27807,12 +27833,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0.17,
+                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
@@ -27858,6 +27884,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.55,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA.",
+                                                         "p":  0,
+                                                         "km":  19.69,
+                                                         "tv":  34
                                                      }
                                                  ]
                                      }
