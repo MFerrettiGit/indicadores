@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -27039,6 +27039,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  45.73,
+                                     "tv":  148
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -27046,15 +27055,6 @@
                                      "pe":  1,
                                      "km":  9.19,
                                      "tv":  129
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  43.64,
-                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -27141,10 +27141,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.17,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.49,
+                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -27300,6 +27300,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "J.F. MENDES E CIA LTDA.",
+                                       "p":  0,
+                                       "km":  2.09,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -27410,6 +27417,13 @@
                                        "p":  1,
                                        "km":  50.52,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  2.32,
+                                       "tv":  161
                                    },
                                    {
                                        "n":  "Nelson",

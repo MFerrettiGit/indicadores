@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  45.73,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:41",
+                     "ultimo":  "11:39",
+                     "tv":  "02:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "10:53",
                      "tv":  "02:09:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  43.64,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:41",
-                     "ultimo":  "10:42",
-                     "tv":  "01:47:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "11:09",
                      "tv":  "01:52:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -323,14 +323,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.17,
+                     "visitas":  1,
+                     "km":  2.49,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:58",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:39",
+                     "tv":  "02:41:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -537,6 +537,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "J.F. MENDES E CIA LTDA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:58:13",
+                         "out":  "11:39:25",
+                         "km":  2.09,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
@@ -681,6 +690,15 @@ window.PAINEL = {
                          "dur":  "02:01:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "08:58:31",
+                         "out":  "11:39:38",
+                         "km":  2.32,
+                         "dur":  "02:41:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -731,7 +749,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:16:32"
+                        "tempo":  "03:31:36"
                     },
                     {
                         "nome":  "Eliana",
@@ -739,13 +757,27 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:29"
+                        "tempo":  "00:37:33"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:56"
                     }
                 ],
     "semped":  [
                    {
                        "nome":  "Maira",
                        "razao":  "A.T. CAETANO-ME.",
+                       "mun":  "LIMEIRA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "J.F. MENDES E CIA LTDA.",
                        "mun":  "LIMEIRA",
                        "obs":  "estocado"
                    },
@@ -797,109 +829,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:46:10"
+                         "tempo":  "01:01:13"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:17:42"
+                         "tempo":  "00:32:45"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:50:47"
+                         "tempo":  "01:05:50"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:35:41"
+                         "tempo":  "00:50:44"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:19:48"
+                         "tempo":  "00:34:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:09:50"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "J.F. MENDES E CIA LTDA.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:31:14"
+                         "tempo":  "00:24:53"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "01:59:40"
+                         "tempo":  "02:14:43"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RILU LTDA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:27:47"
+                         "tempo":  "00:42:50"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "00:22:42"
+                         "tempo":  "00:37:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:09:46"
+                         "tempo":  "01:24:49"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "RENATO MODENEZI COLIN - ME",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:12:08"
+                         "tempo":  "00:27:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO DONINE LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:59:15"
+                         "tempo":  "01:14:18"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:50"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:30:56"
+                         "tempo":  "01:17:53"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "264:09:12"
+                         "tempo":  "264:24:15"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:40:05"
+                         "tempo":  "00:55:08"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:34:35"
+                         "tempo":  "00:49:38"
                      }
                  ],
     "hist":  [
@@ -1000,8 +1020,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     39,
-                     8
+                     41,
+                     9
                  ]
              ],
     "historico":  {
@@ -27952,7 +27972,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -28045,6 +28065,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  45.73,
+                                                       "tv":  148
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -28052,15 +28081,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  9.19,
                                                        "tv":  129
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  43.64,
-                                                       "tv":  107
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -28147,10 +28167,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.17,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.49,
+                                                       "tv":  161
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -28306,6 +28326,13 @@ window.PAINEL = {
                                                          "tv":  32
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "J.F. MENDES E CIA LTDA.",
+                                                         "p":  0,
+                                                         "km":  2.09,
+                                                         "tv":  41
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -28416,6 +28443,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  50.52,
                                                          "tv":  121
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  2.32,
+                                                         "tv":  161
                                                      },
                                                      {
                                                          "n":  "Nelson",
