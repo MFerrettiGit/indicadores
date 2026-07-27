@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26985,6 +26985,15 @@
                                      "tv":  277
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  21.25,
+                                     "tv":  301
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -27001,15 +27010,6 @@
                                      "pe":  0,
                                      "km":  38.86,
                                      "tv":  358
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  16.37,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27147,8 +27147,8 @@
                                      "tv":  280
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27354,6 +27354,13 @@
                                        "p":  1,
                                        "km":  7.71,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM.",
+                                       "p":  1,
+                                       "km":  4.88,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Fernando",
