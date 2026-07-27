@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  44.78,
+                                     "tv":  129
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -26994,22 +27003,13 @@
                                      "tv":  50
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.79,
-                                     "tv":  101
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.11,
-                                     "tv":  0
+                                     "km":  4.07,
+                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27048,6 +27048,24 @@
                                      "tv":  32
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  41.81,
+                                     "tv":  105
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.38,
+                                     "tv":  84
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -27055,24 +27073,6 @@
                                      "pe":  0,
                                      "km":  42.59,
                                      "tv":  75
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.36,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -27096,10 +27096,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  26.22,
+                                     "tv":  99
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  21.28,
-                                     "tv":  69
+                                     "pe":  0,
+                                     "km":  5.87,
+                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -27120,15 +27129,6 @@
                                      "tv":  78
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  3.43,
-                                     "tv":  55
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -27147,8 +27147,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27202,11 +27202,39 @@
                                        "tv":  101
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  4.99,
+                                       "tv":  28
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  156
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  20.45,
+                                       "tv":  105
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "L.F. CINTRA FRANCA EPP.",
+                                       "p":  1,
+                                       "km":  7.38,
+                                       "tv":  84
                                    },
                                    {
                                        "n":  "Maira",
@@ -27265,6 +27293,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  1,
+                                       "km":  4.94,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                                        "p":  1,
@@ -27277,6 +27312,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "PTYP GOMES MINIMERCADO",
+                                       "p":  0,
+                                       "km":  2.44,
+                                       "tv":  40
                                    }
                                ]
                    }
