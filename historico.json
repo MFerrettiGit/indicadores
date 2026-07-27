@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.5,
+                                     "tv":  243
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -26985,6 +26994,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  5.96,
+                                     "tv":  174
+                                 },
+                                 {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
@@ -26992,24 +27010,6 @@
                                      "pe":  0,
                                      "km":  44.78,
                                      "tv":  129
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  5.86,
-                                     "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.07,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27057,6 +27057,15 @@
                                      "tv":  107
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  73.95,
+                                     "tv":  76
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -27073,15 +27082,6 @@
                                      "pe":  1,
                                      "km":  41.81,
                                      "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  72.71,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Costa",
@@ -27102,6 +27102,15 @@
                                      "tv":  132
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  7.95,
+                                     "tv":  112
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -27118,15 +27127,6 @@
                                      "pe":  1,
                                      "km":  17.43,
                                      "tv":  106
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  5.87,
-                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -27216,6 +27216,13 @@
                                        "tv":  154
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.64,
+                                       "tv":  89
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -27235,6 +27242,13 @@
                                        "p":  1,
                                        "km":  1.96,
                                        "tv":  156
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  1.89,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -27328,6 +27342,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JANE VERDOLINI BOMBARDA - ME.",
+                                       "p":  0,
+                                       "km":  1.24,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -27403,6 +27424,13 @@
                                        "p":  0,
                                        "km":  2.44,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO MIRANDA EXPRESS LTDA",
+                                       "p":  0,
+                                       "km":  2.08,
+                                       "tv":  17
                                    }
                                ]
                    }
