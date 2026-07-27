@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
+                 {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  57.89,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:07",
+                     "ultimo":  "13:24",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -32,21 +47,6 @@ window.PAINEL = {
                      "tv":  "04:01:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  44.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:07",
-                     "ultimo":  "12:01",
-                     "tv":  "04:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  76.11,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "09:44",
+                     "ultimo":  "13:29",
+                     "tv":  "02:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  75.58,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "09:44",
-                     "ultimo":  "11:54",
-                     "tv":  "01:53:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "11:59",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "03:48:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "12:01:54",
                          "km":  8.58,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                         "mun":  "SUMARE",
+                         "in":  "12:27:40",
+                         "out":  "13:24:56",
+                         "km":  13.46,
+                         "dur":  "00:57:00"
                      },
                      {
                          "nome":  "Debora",
@@ -735,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                         "mun":  "BOA ESPERANCA D",
+                         "in":  "13:00:14",
+                         "out":  "13:29:18",
+                         "km":  0.53,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -907,12 +925,28 @@ window.PAINEL = {
                         "tempo":  "00:44:32"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:16",
+                        "final":  "13:18",
+                        "tempo":  "01:01:23"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  "11:43",
                         "final":  "12:47",
                         "tempo":  "01:03:58"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:27",
+                        "final":  "13:18",
+                        "tempo":  "00:50:38"
                     },
                     {
                         "nome":  "Edimilson",
@@ -952,23 +986,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:01:44"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:39"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:45"
+                        "tempo":  "05:16:42"
                     },
                     {
                         "nome":  "Cominato",
@@ -976,7 +994,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:34"
+                        "tempo":  "00:57:32"
                     },
                     {
                         "nome":  "Alan",
@@ -984,7 +1002,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:19"
+                        "tempo":  "00:48:17"
                     },
                     {
                         "nome":  "Maira",
@@ -992,7 +1010,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:50"
+                        "tempo":  "00:38:48"
                     },
                     {
                         "nome":  "Luis",
@@ -1000,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:21"
+                        "tempo":  "00:29:19"
                     },
                     {
                         "nome":  "Fernando",
@@ -1008,7 +1026,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:32"
+                        "tempo":  "00:26:30"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1016,7 +1034,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:09"
+                        "tempo":  "00:23:07"
                     },
                     {
                         "nome":  "Evandro",
@@ -1024,7 +1042,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:58"
+                        "tempo":  "00:20:56"
                     }
                 ],
     "semped":  [
@@ -1093,6 +1111,12 @@ window.PAINEL = {
                        "razao":  "JANE VERDOLINI BOMBARDA - ME.",
                        "mun":  "BOA ESPERANCA D",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                       "mun":  "BOA ESPERANCA D",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -1100,61 +1124,49 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "02:31:11"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:46:48"
+                         "tempo":  "02:46:11"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:59"
+                         "tempo":  "00:24:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:03:04"
+                         "tempo":  "01:18:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:03:11"
+                         "tempo":  "00:18:11"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:14:18"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
-                         "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:14:14"
+                         "tempo":  "00:29:18"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "G. NASCIMENTO MERCADOS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "01:11:04"
+                         "tempo":  "01:26:04"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "265:54:13"
+                         "tempo":  "266:09:13"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:14:02"
+                         "tempo":  "00:29:02"
                      }
                  ],
     "hist":  [
@@ -1255,8 +1267,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     61,
-                     11
+                     63,
+                     12
                  ]
              ],
     "historico":  {
@@ -28207,8 +28219,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  57.89,
+                                                       "tv":  303
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -28226,15 +28247,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  49.78,
                                                        "tv":  241
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  44.43,
-                                                       "tv":  246
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -28309,6 +28321,15 @@ window.PAINEL = {
                                                        "tv":  178
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  76.11,
+                                                       "tv":  141
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -28316,15 +28337,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  11.15,
                                                        "tv":  221
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  75.58,
-                                                       "tv":  113
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -28447,6 +28459,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.58,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Aline",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                                                         "p":  1,
+                                                         "km":  13.46,
+                                                         "tv":  57
                                                      },
                                                      {
                                                          "n":  "Debora",
@@ -28713,6 +28732,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.63,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                                                         "p":  0,
+                                                         "km":  0.53,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Alan",
