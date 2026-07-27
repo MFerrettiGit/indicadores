@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  63.11,
+                                     "tv":  367
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -26974,15 +26983,6 @@
                                      "pe":  0,
                                      "km":  27.59,
                                      "tv":  422
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  57.89,
-                                     "tv":  303
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -27048,6 +27048,15 @@
                                      "tv":  216
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  52.94,
+                                     "tv":  256
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -27055,15 +27064,6 @@
                                      "pe":  3,
                                      "km":  28.68,
                                      "tv":  306
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  49.99,
-                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -27111,6 +27111,15 @@
                                      "tv":  228
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  76.39,
+                                     "tv":  314
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -27118,15 +27127,6 @@
                                      "pe":  2,
                                      "km":  23.31,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  74.98,
-                                     "tv":  297
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -27193,6 +27193,13 @@
                                        "p":  1,
                                        "km":  13.46,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.08",
+                                       "p":  1,
+                                       "km":  5.22,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Debora",
@@ -27440,6 +27447,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "ARCAL SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.95,
+                                       "tv":  78
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -27683,6 +27697,13 @@
                                        "p":  1,
                                        "km":  23.68,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO DO HAKUO LTDA",
+                                       "p":  1,
+                                       "km":  1.41,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Karina",
