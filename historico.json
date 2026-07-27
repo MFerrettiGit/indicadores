@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -27048,6 +27048,15 @@
                                      "tv":  32
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  42.59,
+                                     "tv":  75
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -27063,15 +27072,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5.21,
                                      "tv":  0
                                  },
                                  {
@@ -27147,8 +27147,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27207,6 +27207,13 @@
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.T. CAETANO-ME.",
+                                       "p":  0,
+                                       "km":  37.38,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Milene",
