@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  35.47,
+                                     "tv":  333
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -26958,13 +26967,13 @@
                                      "tv":  367
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  24.88,
-                                     "tv":  251
+                                     "km":  31.12,
+                                     "tv":  344
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -26992,15 +27001,6 @@
                                      "pe":  0,
                                      "km":  40.76,
                                      "tv":  438
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  21.94,
-                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -27093,6 +27093,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  29.25,
+                                     "tv":  312
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -27102,13 +27111,13 @@
                                      "tv":  332
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  5,
-                                     "km":  27.15,
-                                     "tv":  252
+                                     "pe":  3,
+                                     "km":  32.88,
+                                     "tv":  323
                                  },
                                  {
                                      "nome":  "Castro",
@@ -27127,15 +27136,6 @@
                                      "pe":  1,
                                      "km":  15.7,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  23.31,
-                                     "tv":  246
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27256,6 +27256,13 @@
                                        "p":  1,
                                        "km":  1.57,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  9.18,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Eliana",
@@ -27711,6 +27718,13 @@
                                        "p":  1,
                                        "km":  4.35,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Eugenio",
