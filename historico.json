@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -27141,10 +27141,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.49,
-                                     "tv":  161
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  21.37,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -27585,6 +27585,13 @@
                                        "p":  1,
                                        "km":  2.32,
                                        "tv":  161
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "G. NASCIMENTO MERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  18.88,
+                                       "tv":  119
                                    },
                                    {
                                        "n":  "Nelson",
