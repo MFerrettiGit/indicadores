@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  49.78,
+                                     "tv":  241
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -26983,15 +26992,6 @@
                                      "pe":  0,
                                      "km":  9.7,
                                      "tv":  208
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.28,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -27048,6 +27048,15 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  11.15,
+                                     "tv":  221
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -27073,15 +27082,6 @@
                                      "pe":  2,
                                      "km":  42.89,
                                      "tv":  213
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  9.19,
-                                     "tv":  129
                                  },
                                  {
                                      "nome":  "Costa",
@@ -27132,10 +27132,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  50.52,
-                                     "tv":  121
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  50.66,
+                                     "tv":  245
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27258,6 +27258,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADO TAQUARAL LTDA.",
+                                       "p":  1,
+                                       "km":  1.5,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -27326,6 +27333,13 @@
                                        "p":  0,
                                        "km":  1.81,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO RILU LTDA EPP.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Maira",
@@ -27508,6 +27522,13 @@
                                        "p":  1,
                                        "km":  50.52,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO DONINE LTDA.",
+                                       "p":  1,
+                                       "km":  0.14,
+                                       "tv":  124
                                    },
                                    {
                                        "n":  "Karina",
