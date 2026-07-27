@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Debora",
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -436,7 +436,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Boa Esperança",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:00"
+                        "tempo":  "01:02:57"
                     },
                     {
                         "nome":  "Mariangela",
@@ -444,7 +444,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:30"
+                        "tempo":  "01:02:27"
                     },
                     {
                         "nome":  "Rachel",
@@ -452,7 +452,7 @@ window.PAINEL = {
                         "obs":  "holambra",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:20"
+                        "tempo":  "00:31:17"
                     }
                 ],
     "semped":  [
@@ -468,109 +468,109 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:15:40"
+                         "tempo":  "00:31:42"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:51:47"
+                         "tempo":  "02:07:49"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:20:05"
+                         "tempo":  "01:36:07"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:18:01"
+                         "tempo":  "00:34:03"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:06:50"
+                         "tempo":  "02:22:52"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:00:22"
+                         "tempo":  "00:16:24"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:24:06"
+                         "tempo":  "01:40:08"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:18:14"
+                         "tempo":  "00:34:16"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L.F. CINTRA FRANCA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:22:43"
+                         "tempo":  "00:38:45"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:18:12"
+                         "tempo":  "00:34:14"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:34:00"
+                         "tempo":  "00:50:02"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "RH COSTA SUPERMERCADO LTDA",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:43:14"
+                         "tempo":  "00:59:16"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:54:28"
+                         "tempo":  "01:10:30"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:01:02"
+                         "tempo":  "00:17:04"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "261:39:18"
+                         "tempo":  "261:55:20"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:38:20"
+                         "tempo":  "00:54:22"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:04:01"
+                         "tempo":  "00:20:03"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:55:34"
+                         "tempo":  "01:11:36"
                      }
                  ],
     "hist":  [
@@ -27623,7 +27623,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Debora",
@@ -27824,8 +27824,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -27833,8 +27833,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
