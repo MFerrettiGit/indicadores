@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -1492,7 +1492,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:47:08"
+                        "tempo":  "10:02:09"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1500,7 +1500,7 @@ window.PAINEL = {
                         "obs":  "proposta para amanhã",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:08"
+                        "tempo":  "00:18:09"
                     }
                 ],
     "semped":  [
@@ -1618,13 +1618,13 @@ window.PAINEL = {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:20:08"
+                         "tempo":  "01:35:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "270:39:06"
+                         "tempo":  "270:54:09"
                      }
                  ],
     "hist":  [
@@ -28677,7 +28677,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
