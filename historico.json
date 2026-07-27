@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -27042,10 +27042,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  45.73,
-                                     "tv":  148
+                                     "km":  49.99,
+                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -27096,10 +27096,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  26.57,
-                                     "tv":  132
+                                     "km":  48.92,
+                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -27147,8 +27147,8 @@
                                      "tv":  161
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27349,6 +27349,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "EDSON MARCON EIRELI",
+                                       "p":  0,
+                                       "km":  4.26,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -27456,7 +27463,7 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA",
-                                       "p":  1,
+                                       "p":  0,
                                        "km":  4.94,
                                        "tv":  30
                                    },
@@ -27466,6 +27473,13 @@
                                        "p":  1,
                                        "km":  0.35,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  0,
+                                       "km":  22.35,
+                                       "tv":  96
                                    },
                                    {
                                        "n":  "Cominato",

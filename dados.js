@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Aline",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "12:01",
                      "tv":  "04:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "12:10",
                      "tv":  "03:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  45.73,
-                     "semPed":  2,
-                     "perc":  66.67,
+                     "visitas":  4,
+                     "km":  49.99,
+                     "semPed":  3,
+                     "perc":  75,
                      "primeiro":  "08:41",
-                     "ultimo":  "11:39",
-                     "tv":  "02:28:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:22",
+                     "tv":  "02:58:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:59",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -248,15 +248,15 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  26.57,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  48.92,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:15",
-                     "ultimo":  "10:45",
-                     "tv":  "02:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "12:26",
+                     "tv":  "03:48:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -600,6 +600,15 @@ window.PAINEL = {
                          "dur":  "00:41:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "EDSON MARCON EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:51:03",
+                         "out":  "12:22:05",
+                         "km":  4.26,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
@@ -753,6 +762,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO LOUVEIRA LTDA",
+                         "mun":  "LOUVEIRA",
+                         "in":  "10:49:22",
+                         "out":  "12:26:45",
+                         "km":  22.35,
+                         "dur":  "01:36:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                          "mun":  "PIRACICABA",
@@ -856,7 +874,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:01:33"
+                        "tempo":  "04:16:34"
                     },
                     {
                         "nome":  "Nelson",
@@ -864,7 +882,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:53"
+                        "tempo":  "00:46:54"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -872,7 +890,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:26"
+                        "tempo":  "00:27:27"
                     },
                     {
                         "nome":  "Edimilson",
@@ -880,7 +898,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:57"
+                        "tempo":  "00:18:58"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:29"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:35"
                     }
                 ],
     "semped":  [
@@ -895,6 +929,12 @@ window.PAINEL = {
                        "razao":  "J.F. MENDES E CIA LTDA.",
                        "mun":  "LIMEIRA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "EDSON MARCON EIRELI",
+                       "mun":  "LIMEIRA",
+                       "obs":  "comprador ausente"
                    },
                    {
                        "nome":  "Alan",
@@ -933,6 +973,12 @@ window.PAINEL = {
                        "obs":  "compras suspensa"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO LOUVEIRA LTDA",
+                       "mun":  "LOUVEIRA",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "JANE VERDOLINI BOMBARDA - ME.",
                        "mun":  "BOA ESPERANCA D",
@@ -944,61 +990,61 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:31:07"
+                         "tempo":  "01:46:07"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:01:44"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:33"
+                         "tempo":  "00:19:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:03:00"
+                         "tempo":  "00:18:00"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:12:02"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "EDSON MARCON EIRELI",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:23:21"
+                         "tempo":  "00:27:02"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RILU LTDA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:12:44"
+                         "tempo":  "01:27:44"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:03:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO DONINE LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "01:44:12"
+                         "tempo":  "01:59:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "G. NASCIMENTO MERCADOS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:11:00"
+                         "tempo":  "00:26:00"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "264:54:09"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO LOUVEIRA LTDA",
-                         "mun":  "LOUVEIRA",
-                         "tempo":  "01:25:02"
+                         "tempo":  "265:09:09"
                      }
                  ],
     "hist":  [
@@ -1099,8 +1145,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     52,
-                     9
+                     55,
+                     11
                  ]
              ],
     "historico":  {
@@ -28051,7 +28097,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Aline",
@@ -28147,10 +28193,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  1,
-                                                       "km":  45.73,
-                                                       "tv":  148
+                                                       "km":  49.99,
+                                                       "tv":  178
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -28201,10 +28247,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  26.57,
-                                                       "tv":  132
+                                                       "km":  48.92,
+                                                       "tv":  228
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -28252,8 +28298,8 @@ window.PAINEL = {
                                                        "tv":  161
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28261,8 +28307,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28454,6 +28500,13 @@ window.PAINEL = {
                                                          "tv":  41
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "EDSON MARCON EIRELI",
+                                                         "p":  0,
+                                                         "km":  4.26,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -28561,7 +28614,7 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO LOUVEIRA LTDA",
-                                                         "p":  1,
+                                                         "p":  0,
                                                          "km":  4.94,
                                                          "tv":  30
                                                      },
@@ -28571,6 +28624,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.35,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                                         "p":  0,
+                                                         "km":  22.35,
+                                                         "tv":  96
                                                      },
                                                      {
                                                          "n":  "Cominato",
