@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  12.19,
+                                     "tv":  235
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -26983,15 +26992,6 @@
                                      "pe":  0,
                                      "km":  16.37,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  9.7,
-                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -27120,6 +27120,15 @@
                                      "tv":  205
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  51.3,
+                                     "tv":  273
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -27127,15 +27136,6 @@
                                      "pe":  0,
                                      "km":  7.95,
                                      "tv":  112
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  50.66,
-                                     "tv":  245
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27284,6 +27284,13 @@
                                        "p":  1,
                                        "km":  3.74,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
+                                       "p":  1,
+                                       "km":  2.49,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -27536,6 +27543,13 @@
                                        "p":  1,
                                        "km":  0.14,
                                        "tv":  124
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO IB BRAGION LTDA.",
+                                       "p":  1,
+                                       "km":  0.64,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Karina",
