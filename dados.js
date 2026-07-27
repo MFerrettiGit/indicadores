@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  90.87,
+                     "visitas":  6,
+                     "km":  104.73,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:51",
-                     "ultimo":  "12:10",
-                     "tv":  "03:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:53",
+                     "tv":  "03:50:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:22",
                      "tv":  "02:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "11:09",
                      "tv":  "01:52:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "01:03:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "12:26:13",
+                         "out":  "12:53:09",
+                         "km":  13.86,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
                          "mun":  "AMPARO",
@@ -880,6 +889,14 @@ window.PAINEL = {
                         "tempo":  "00:44:32"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:43",
+                        "final":  "12:47",
+                        "tempo":  "01:03:58"
+                    },
+                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -896,28 +913,20 @@ window.PAINEL = {
                         "tempo":  "01:30:42"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:02",
+                        "final":  "12:59",
+                        "tempo":  "00:57:05"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:31:33"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:01:53"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:26"
+                        "tempo":  "04:46:37"
                     },
                     {
                         "nome":  "Edimilson",
@@ -925,7 +934,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:57"
+                        "tempo":  "00:49:01"
                     },
                     {
                         "nome":  "Rachel",
@@ -933,7 +942,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:28"
+                        "tempo":  "00:43:32"
                     },
                     {
                         "nome":  "Castro",
@@ -941,7 +950,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:34"
+                        "tempo":  "00:32:38"
                     },
                     {
                         "nome":  "Cominato",
@@ -949,7 +958,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:23"
+                        "tempo":  "00:27:27"
                     },
                     {
                         "nome":  "Alan",
@@ -957,7 +966,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:08"
+                        "tempo":  "00:18:12"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:43"
                     }
                 ],
     "semped":  [
@@ -1033,49 +1050,43 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "02:01:04"
+                         "tempo":  "02:16:06"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
                          "mun":  "SUMARE",
-                         "tempo":  "00:16:41"
+                         "tempo":  "00:31:43"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:32:57"
+                         "tempo":  "00:47:59"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:41:59"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "00:18:08"
+                         "tempo":  "00:57:01"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO IB BRAGION LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:06:55"
+                         "tempo":  "00:21:57"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "G. NASCIMENTO MERCADOS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:40:57"
+                         "tempo":  "00:55:59"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "265:24:06"
+                         "tempo":  "265:39:08"
                      }
                  ],
     "hist":  [
@@ -1176,7 +1187,7 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     58,
+                     59,
                      11
                  ]
              ],
@@ -28128,7 +28139,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -28206,10 +28217,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  90.87,
-                                                       "tv":  204
+                                                       "km":  104.73,
+                                                       "tv":  230
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -28585,6 +28596,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.2,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  13.86,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Rachel",

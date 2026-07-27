@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27024,10 +27024,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  90.87,
-                                     "tv":  204
+                                     "km":  104.73,
+                                     "tv":  230
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27403,6 +27403,13 @@
                                        "p":  1,
                                        "km":  1.2,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  13.86,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Rachel",
