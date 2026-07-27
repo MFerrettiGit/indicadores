@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -15,6 +15,21 @@ window.PAINEL = {
                      "primeiro":  "07:35",
                      "ultimo":  "16:30",
                      "tv":  "05:33:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  62.03,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:39",
+                     "ultimo":  "17:19",
+                     "tv":  "07:03:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -79,33 +94,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  58.95,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:39",
-                     "ultimo":  "14:41",
-                     "tv":  "04:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  21.25,
+                     "visitas":  5,
+                     "km":  33.54,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:25",
-                     "ultimo":  "15:01",
-                     "tv":  "05:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:28",
+                     "tv":  "06:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  53.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:25",
+                     "ultimo":  "17:22",
+                     "tv":  "05:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -212,21 +227,6 @@ window.PAINEL = {
                      "tv":  "04:21:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  43.73,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:25",
-                     "ultimo":  "16:22",
-                     "tv":  "05:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -323,29 +323,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  39.26,
+                     "visitas":  4,
+                     "km":  39.46,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:58",
-                     "ultimo":  "17:02",
-                     "tv":  "05:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:28",
+                     "tv":  "06:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:54:13",
+                         "out":  "17:19:39",
+                         "km":  3.08,
+                         "dur":  "02:25:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
@@ -681,6 +690,15 @@ window.PAINEL = {
                          "dur":  "01:50:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "15:43:11",
+                         "out":  "17:28:22",
+                         "km":  12.29,
+                         "dur":  "01:45:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -706,6 +724,15 @@ window.PAINEL = {
                          "out":  "16:22:28",
                          "km":  0.84,
                          "dur":  "01:28:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:01:29",
+                         "out":  "17:22:32",
+                         "km":  10.24,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1194,6 +1221,15 @@ window.PAINEL = {
                          "dur":  "01:01:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "EDSON LUCIO PASSOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:04:55",
+                         "out":  "17:28:08",
+                         "km":  0.2,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -1423,7 +1459,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:02:14"
+                        "tempo":  "09:17:09"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1431,7 +1467,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:02"
+                        "tempo":  "01:08:57"
                     },
                     {
                         "nome":  "Rachel",
@@ -1439,7 +1475,7 @@ window.PAINEL = {
                         "obs":  "guarani",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:14"
+                        "tempo":  "01:05:09"
                     },
                     {
                         "nome":  "Maira",
@@ -1447,7 +1483,7 @@ window.PAINEL = {
                         "obs":  "proposta Liderança max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:00"
+                        "tempo":  "01:03:55"
                     }
                 ],
     "semped":  [
@@ -1556,46 +1592,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Evandro",
-                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:20:14"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "01:31:16"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "POSTO DO TREVO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:12:58"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:35:14"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EDSON LUCIO PASSOS",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:09:32"
+                         "tempo":  "00:50:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "269:54:12"
+                         "tempo":  "270:09:09"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:57:36"
+                         "tempo":  "02:12:33"
                      }
                  ],
     "hist":  [
@@ -1696,7 +1708,7 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     101,
+                     106,
                      17
                  ]
              ],
@@ -28648,7 +28660,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28658,6 +28670,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  35.47,
                                                        "tv":  333
+                                                   },
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  62.03,
+                                                       "tv":  423
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -28696,22 +28717,13 @@ window.PAINEL = {
                                                        "tv":  344
                                                    },
                                                    {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  58.95,
-                                                       "tv":  278
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  21.25,
-                                                       "tv":  301
+                                                       "km":  33.54,
+                                                       "tv":  406
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -28768,6 +28780,15 @@ window.PAINEL = {
                                                        "tv":  256
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  53.97,
+                                                       "tv":  321
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -28775,15 +28796,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  46.1,
                                                        "tv":  261
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  43.73,
-                                                       "tv":  301
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -28843,14 +28855,14 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  39.26,
-                                                       "tv":  341
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  39.46,
+                                                       "tv":  363
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28858,8 +28870,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -29044,6 +29056,13 @@ window.PAINEL = {
                                                          "tv":  37
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.08,
+                                                         "tv":  145
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "HIGA PROD. ALIM. LTDA.",
                                                          "p":  1,
@@ -29114,6 +29133,13 @@ window.PAINEL = {
                                                          "tv":  110
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                                                         "p":  1,
+                                                         "km":  12.29,
+                                                         "tv":  105
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -29133,6 +29159,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.84,
                                                          "tv":  88
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1,
+                                                         "km":  10.24,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -29511,6 +29544,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  17.89,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "EDSON LUCIO PASSOS",
+                                                         "p":  1,
+                                                         "km":  0.2,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Nelson",

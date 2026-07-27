@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26956,6 +26956,15 @@
                                      "pe":  0,
                                      "km":  35.47,
                                      "tv":  333
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  62.03,
+                                     "tv":  423
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -26994,22 +27003,13 @@
                                      "tv":  344
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  58.95,
-                                     "tv":  278
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  21.25,
-                                     "tv":  301
+                                     "km":  33.54,
+                                     "tv":  406
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27066,6 +27066,15 @@
                                      "tv":  256
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  53.97,
+                                     "tv":  321
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -27073,15 +27082,6 @@
                                      "pe":  3,
                                      "km":  46.1,
                                      "tv":  261
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  43.73,
-                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Costa",
@@ -27141,14 +27141,14 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  39.26,
-                                     "tv":  341
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  39.46,
+                                     "tv":  363
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27342,6 +27342,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.08,
+                                       "tv":  145
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -27412,6 +27419,13 @@
                                        "tv":  110
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  12.29,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -27431,6 +27445,13 @@
                                        "p":  1,
                                        "km":  0.84,
                                        "tv":  88
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  10.24,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Luis",
@@ -27809,6 +27830,13 @@
                                        "p":  1,
                                        "km":  17.89,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "EDSON LUCIO PASSOS",
+                                       "p":  1,
+                                       "km":  0.2,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Nelson",
