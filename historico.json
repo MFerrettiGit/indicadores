@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -26985,6 +26985,15 @@
                                      "tv":  241
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  23.86,
+                                     "tv":  370
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -27003,15 +27012,6 @@
                                      "tv":  191
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.5,
-                                     "tv":  243
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -27024,10 +27024,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  104.73,
-                                     "tv":  230
+                                     "km":  107.4,
+                                     "tv":  313
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27039,6 +27039,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  77.23,
+                                     "tv":  188
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -27046,15 +27055,6 @@
                                      "pe":  1,
                                      "km":  49.99,
                                      "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  76.11,
-                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Luis",
@@ -27105,10 +27105,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  22.12,
-                                     "tv":  190
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  22.8,
+                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Alan",
@@ -27256,6 +27256,13 @@
                                        "p":  1,
                                        "km":  2.64,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  15.36,
+                                       "tv":  127
                                    },
                                    {
                                        "n":  "Evandro",
@@ -27440,6 +27447,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                                       "p":  1,
+                                       "km":  2.67,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -27480,6 +27494,13 @@
                                        "p":  0,
                                        "km":  0.53,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JANE VERDOLINI BOMBARDA - ME.",
+                                       "p":  0,
+                                       "km":  1.12,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Alan",
@@ -27557,6 +27578,13 @@
                                        "p":  1,
                                        "km":  4.85,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ETTORI",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Eugenio",
