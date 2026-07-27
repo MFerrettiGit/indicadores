@@ -26946,8 +26946,35 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  16.37,
+                                     "tv":  191
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  9.7,
+                                     "tv":  208
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  48.28,
+                                     "tv":  209
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -26983,33 +27010,6 @@
                                      "pe":  0,
                                      "km":  17.51,
                                      "tv":  161
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.66,
-                                     "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  5.96,
-                                     "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  44.78,
-                                     "tv":  129
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27048,6 +27048,24 @@
                                      "tv":  148
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  75.58,
+                                     "tv":  113
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  44.44,
+                                     "tv":  180
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -27055,24 +27073,6 @@
                                      "pe":  1,
                                      "km":  9.19,
                                      "tv":  129
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  73.95,
-                                     "tv":  76
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.92,
-                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -27237,6 +27237,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  3.5,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -27251,6 +27258,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  3.74,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -27263,6 +27277,13 @@
                                        "p":  1,
                                        "km":  5.8,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.71,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Fernando",
@@ -27342,6 +27363,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                       "p":  1,
+                                       "km":  38.52,
+                                       "tv":  148
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA.",
                                        "p":  1,
@@ -27354,6 +27382,13 @@
                                        "p":  0,
                                        "km":  1.24,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "RENATO MODENEZI COLIN - ME",
+                                       "p":  1,
+                                       "km":  1.63,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Alan",
