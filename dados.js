@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  45.48,
+                     "km":  48.01,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  33.54,
+                     "km":  47.95,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:25",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  79.78,
+                     "km":  107.25,
                      "semPed":  1,
                      "perc":  14.29,
                      "primeiro":  "08:16",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  33.84,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:05",
+                     "ultimo":  "18:20",
+                     "tv":  "07:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -294,28 +309,13 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  19.93,
+                     "km":  22.98,
                      "semPed":  4,
                      "perc":  66.67,
                      "primeiro":  "08:21",
                      "ultimo":  "17:04",
                      "tv":  "05:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  32.88,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:05",
-                     "ultimo":  "16:30",
-                     "tv":  "05:23:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -1032,6 +1032,15 @@ window.PAINEL = {
                          "dur":  "01:17:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:39:13",
+                         "out":  "18:20:13",
+                         "km":  0.96,
+                         "dur":  "01:40:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
@@ -1492,7 +1501,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:02:09"
+                        "tempo":  "10:17:07"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1500,7 +1509,7 @@ window.PAINEL = {
                         "obs":  "proposta para amanhã",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:09"
+                        "tempo":  "00:33:07"
                     }
                 ],
     "semped":  [
@@ -1539,6 +1548,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO D LUCA LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "prospecção de cliente"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "SUPERMERCADO CAMP. WENG LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising"
                    },
                    {
                        "nome":  "Luis",
@@ -1615,16 +1630,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:35:11"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "270:54:09"
+                         "tempo":  "271:09:07"
                      }
                  ],
     "hist":  [
@@ -1725,8 +1734,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     108,
-                     18
+                     110,
+                     19
                  ]
              ],
     "historico":  {
@@ -28677,7 +28686,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28703,7 +28712,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  45.48,
+                                                       "km":  48.01,
                                                        "tv":  467
                                                    },
                                                    {
@@ -28739,7 +28748,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  33.54,
+                                                       "km":  47.95,
                                                        "tv":  406
                                                    },
                                                    {
@@ -28829,7 +28838,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  6,
-                                                       "km":  79.78,
+                                                       "km":  107.25,
                                                        "tv":  360
                                                    },
                                                    {
@@ -28840,6 +28849,15 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  40.03,
                                                        "tv":  312
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  33.84,
+                                                       "tv":  423
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -28856,17 +28874,8 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  2,
-                                                       "km":  19.93,
+                                                       "km":  22.98,
                                                        "tv":  334
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  32.88,
-                                                       "tv":  323
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -28878,8 +28887,8 @@ window.PAINEL = {
                                                        "tv":  363
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28887,8 +28896,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -29414,6 +29423,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.57,
                                                          "tv":  77
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                                         "p":  0,
+                                                         "km":  0.96,
+                                                         "tv":  100
                                                      },
                                                      {
                                                          "n":  "Castro",

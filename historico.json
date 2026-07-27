@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "18:15",
+                       "dataHora":  "18:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26972,7 +26972,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  45.48,
+                                     "km":  48.01,
                                      "tv":  467
                                  },
                                  {
@@ -27008,7 +27008,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  33.54,
+                                     "km":  47.95,
                                      "tv":  406
                                  },
                                  {
@@ -27098,7 +27098,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  6,
-                                     "km":  79.78,
+                                     "km":  107.25,
                                      "tv":  360
                                  },
                                  {
@@ -27109,6 +27109,15 @@
                                      "pe":  6,
                                      "km":  40.03,
                                      "tv":  312
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  33.84,
+                                     "tv":  423
                                  },
                                  {
                                      "nome":  "Castro",
@@ -27125,17 +27134,8 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  2,
-                                     "km":  19.93,
+                                     "km":  22.98,
                                      "tv":  334
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  32.88,
-                                     "tv":  323
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27147,8 +27147,8 @@
                                      "tv":  363
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27683,6 +27683,13 @@
                                        "p":  1,
                                        "km":  9.57,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                       "p":  0,
+                                       "km":  0.96,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Castro",
