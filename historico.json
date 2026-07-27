@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -26985,6 +26985,15 @@
                                      "tv":  422
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  40.76,
+                                     "tv":  438
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -27001,15 +27010,6 @@
                                      "pe":  0,
                                      "km":  21.25,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  38.86,
-                                     "tv":  358
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27120,6 +27120,15 @@
                                      "tv":  314
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  15.7,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -27127,15 +27136,6 @@
                                      "pe":  2,
                                      "km":  23.31,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  13.52,
-                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27221,6 +27221,13 @@
                                        "p":  1,
                                        "km":  3.53,
                                        "tv":  167
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.9,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -27417,6 +27424,13 @@
                                        "p":  1,
                                        "km":  17.53,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                                       "p":  1,
+                                       "km":  0.89,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Maira",
@@ -27746,6 +27760,13 @@
                                        "p":  1,
                                        "km":  5.57,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  2.18,
+                                       "tv":  61
                                    }
                                ]
                    }
