@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:25",
                      "ultimo":  "15:01",
                      "tv":  "05:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  77.23,
-                     "semPed":  2,
-                     "perc":  40,
+                     "visitas":  6,
+                     "km":  111.96,
+                     "semPed":  3,
+                     "perc":  50,
                      "primeiro":  "09:44",
-                     "ultimo":  "14:23",
-                     "tv":  "03:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:40",
+                     "tv":  "03:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  28.68,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:36",
+                     "ultimo":  "15:44",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -197,21 +212,6 @@ window.PAINEL = {
                      "tv":  "04:21:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  11.15,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:36",
-                     "ultimo":  "12:34",
-                     "tv":  "03:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "15:25",
                      "tv":  "04:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "15:19",
                      "tv":  "04:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "01:32:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "14:18:59",
+                         "out":  "15:44:34",
+                         "km":  17.53,
+                         "dur":  "01:25:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
@@ -850,6 +859,15 @@ window.PAINEL = {
                          "out":  "14:23:43",
                          "km":  1.12,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUILHERME ZANIOLO AIELO",
+                         "mun":  "ARARAQUARA",
+                         "in":  "15:11:51",
+                         "out":  "15:40:16",
+                         "km":  34.73,
+                         "dur":  "00:28:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1227,7 +1245,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:16:49"
+                        "tempo":  "07:32:00"
                     },
                     {
                         "nome":  "Karina",
@@ -1235,7 +1253,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:50"
+                        "tempo":  "01:03:01"
                     },
                     {
                         "nome":  "Rachel",
@@ -1243,7 +1261,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:19"
+                        "tempo":  "00:46:30"
                     }
                 ],
     "semped":  [
@@ -1324,6 +1342,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
                        "mun":  "BOA ESPERANCA D",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "GUILHERME ZANIOLO AIELO",
+                       "mun":  "ARARAQUARA",
+                       "obs":  "estocado"
                    }
                ],
     "emvisita":  [
@@ -1331,79 +1355,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:42:26"
+                         "tempo":  "00:57:28"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:41:58"
+                         "tempo":  "00:57:00"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:35:14"
+                         "tempo":  "00:50:16"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:05:44"
+                         "tempo":  "00:20:46"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:01:18"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:21:52"
+                         "tempo":  "00:36:54"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "ARCAL SUPERMERCADO LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:00:32"
+                         "tempo":  "01:15:34"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:10:28"
+                         "tempo":  "01:25:30"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:35:29"
+                         "tempo":  "00:50:31"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GUILHERME ZANIOLO AIELO",
-                         "mun":  "ARARAQUARA",
-                         "tempo":  "00:17:36"
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO DO HAKUO LTDA",
+                         "mun":  "PIRACAIA",
+                         "tempo":  "00:10:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MARCIANO BERTUZZI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:16:54"
+                         "tempo":  "00:31:56"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "268:09:12"
+                         "tempo":  "268:24:14"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:22:29"
+                         "tempo":  "00:37:31"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:12:36"
+                         "tempo":  "00:27:38"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:01:42"
                      }
                  ],
     "hist":  [
@@ -1504,8 +1540,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     80,
-                     13
+                     81,
+                     14
                  ]
              ],
     "historico":  {
@@ -28456,7 +28492,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28552,10 +28588,19 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  3,
-                                                       "km":  77.23,
-                                                       "tv":  188
+                                                       "km":  111.96,
+                                                       "tv":  216
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  28.68,
+                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -28574,15 +28619,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  46.1,
                                                        "tv":  261
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  11.15,
-                                                       "tv":  221
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -28657,8 +28693,8 @@ window.PAINEL = {
                                                        "tv":  280
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28666,8 +28702,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28915,6 +28951,13 @@ window.PAINEL = {
                                                          "tv":  92
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                                                         "p":  1,
+                                                         "km":  17.53,
+                                                         "tv":  85
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "A.T. CAETANO-ME.",
                                                          "p":  0,
@@ -29053,6 +29096,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.12,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GUILHERME ZANIOLO AIELO",
+                                                         "p":  0,
+                                                         "km":  34.73,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Alan",

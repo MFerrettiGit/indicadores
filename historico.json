@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -27042,10 +27042,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  3,
-                                     "km":  77.23,
-                                     "tv":  188
+                                     "km":  111.96,
+                                     "tv":  216
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  28.68,
+                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Maira",
@@ -27064,15 +27073,6 @@
                                      "pe":  3,
                                      "km":  46.1,
                                      "tv":  261
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  11.15,
-                                     "tv":  221
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -27147,8 +27147,8 @@
                                      "tv":  280
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27405,6 +27405,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                                       "p":  1,
+                                       "km":  17.53,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "A.T. CAETANO-ME.",
                                        "p":  0,
@@ -27543,6 +27550,13 @@
                                        "p":  0,
                                        "km":  1.12,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUILHERME ZANIOLO AIELO",
+                                       "p":  0,
+                                       "km":  34.73,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Alan",
