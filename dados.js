@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "18:30",
+    "dataHora":  "18:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  56.14,
+                     "km":  63.28,
                      "semPed":  3,
                      "perc":  50,
                      "primeiro":  "08:15",
@@ -334,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -1501,7 +1501,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:17:07"
+                        "tempo":  "10:32:03"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1509,7 +1509,7 @@ window.PAINEL = {
                         "obs":  "proposta para amanhã",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:07"
+                        "tempo":  "00:48:03"
                     }
                 ],
     "semped":  [
@@ -1633,7 +1633,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "271:09:07"
+                         "tempo":  "271:24:05"
                      }
                  ],
     "hist":  [
@@ -28686,7 +28686,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "18:30",
+                                         "dataHora":  "18:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28865,7 +28865,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  3,
-                                                       "km":  56.14,
+                                                       "km":  63.28,
                                                        "tv":  373
                                                    },
                                                    {
@@ -28887,8 +28887,8 @@ window.PAINEL = {
                                                        "tv":  363
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28896,8 +28896,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
