@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -26956,6 +26956,15 @@
                                      "pe":  0,
                                      "km":  57.89,
                                      "tv":  303
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  21.94,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -26976,13 +26985,13 @@
                                      "tv":  241
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  20.37,
-                                     "tv":  237
+                                     "km":  38.86,
+                                     "tv":  358
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -27001,15 +27010,6 @@
                                      "pe":  0,
                                      "km":  8.5,
                                      "tv":  243
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  35.33,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27209,6 +27209,13 @@
                                        "tv":  106
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.53,
+                                       "tv":  167
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -27228,6 +27235,13 @@
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  76
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.57,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Eliana",
