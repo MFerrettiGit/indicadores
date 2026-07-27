@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:25",
                      "ultimo":  "16:22",
                      "tv":  "05:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  19.93,
+                     "semPed":  4,
+                     "perc":  66.67,
+                     "primeiro":  "08:21",
+                     "ultimo":  "17:04",
+                     "tv":  "05:34:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -304,32 +319,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  15.7,
-                     "semPed":  4,
-                     "perc":  80,
-                     "primeiro":  "08:21",
-                     "ultimo":  "16:08",
-                     "tv":  "04:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  21.37,
+                     "visitas":  3,
+                     "km":  39.26,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:58",
-                     "ultimo":  "14:03",
-                     "tv":  "04:40:00",
+                     "ultimo":  "17:02",
+                     "tv":  "05:41:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1185,6 +1185,15 @@ window.PAINEL = {
                          "dur":  "01:59:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "54.841.749 JONAS GONCALVES VIEIRA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:01:01",
+                         "out":  "17:02:49",
+                         "km":  17.89,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -1228,6 +1237,15 @@ window.PAINEL = {
                          "out":  "16:08:28",
                          "km":  2.18,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:20:14",
+                         "out":  "17:04:27",
+                         "km":  4.23,
+                         "dur":  "00:44:00"
                      }
                  ],
     "eventos":  [
@@ -1405,7 +1423,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:47:17"
+                        "tempo":  "09:02:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1413,7 +1431,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:05"
+                        "tempo":  "00:54:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -1421,7 +1439,7 @@ window.PAINEL = {
                         "obs":  "guarani",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:17"
+                        "tempo":  "00:50:14"
                     },
                     {
                         "nome":  "Maira",
@@ -1429,7 +1447,7 @@ window.PAINEL = {
                         "obs":  "proposta Liderança max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:03"
+                        "tempo":  "00:49:00"
                     }
                 ],
     "semped":  [
@@ -1541,43 +1559,43 @@ window.PAINEL = {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:05:17"
+                         "tempo":  "02:20:14"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:16:19"
+                         "tempo":  "01:31:16"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:12:58"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:20:17"
+                         "tempo":  "00:35:14"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "54.841.749 JONAS GONCALVES VIEIRA",
+                         "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:58:29"
+                         "tempo":  "00:09:32"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "269:39:15"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:39:16"
+                         "tempo":  "269:54:12"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:42:39"
+                         "tempo":  "01:57:36"
                      }
                  ],
     "hist":  [
@@ -1678,7 +1696,7 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     98,
+                     101,
                      17
                  ]
              ],
@@ -28630,7 +28648,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28795,6 +28813,15 @@ window.PAINEL = {
                                                        "tv":  312
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  2,
+                                                       "km":  19.93,
+                                                       "tv":  334
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -28813,22 +28840,13 @@ window.PAINEL = {
                                                        "tv":  228
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  1,
-                                                       "km":  15.7,
-                                                       "tv":  290
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  21.37,
-                                                       "tv":  280
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  39.26,
+                                                       "tv":  341
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -29488,6 +29506,13 @@ window.PAINEL = {
                                                          "tv":  119
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "54.841.749 JONAS GONCALVES VIEIRA",
+                                                         "p":  1,
+                                                         "km":  17.89,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                                                          "p":  0,
@@ -29521,6 +29546,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.18,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.23,
+                                                         "tv":  44
                                                      }
                                                  ]
                                      }

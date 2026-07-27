@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -27111,6 +27111,15 @@
                                      "tv":  312
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  2,
+                                     "km":  19.93,
+                                     "tv":  334
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -27129,22 +27138,13 @@
                                      "tv":  228
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  15.7,
-                                     "tv":  290
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  21.37,
-                                     "tv":  280
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  39.26,
+                                     "tv":  341
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -27804,6 +27804,13 @@
                                        "tv":  119
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "54.841.749 JONAS GONCALVES VIEIRA",
+                                       "p":  1,
+                                       "km":  17.89,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                                        "p":  0,
@@ -27837,6 +27844,13 @@
                                        "p":  0,
                                        "km":  2.18,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                                       "p":  1,
+                                       "km":  4.23,
+                                       "tv":  44
                                    }
                                ]
                    }
