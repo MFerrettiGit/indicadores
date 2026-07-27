@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -26965,6 +26965,15 @@
                                      "pe":  0,
                                      "km":  58.95,
                                      "tv":  278
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  27.59,
+                                     "tv":  422
                                  },
                                  {
                                      "nome":  "Aline",
@@ -26994,15 +27003,6 @@
                                      "tv":  301
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  23.86,
-                                     "tv":  370
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -27024,10 +27024,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  0,
-                                     "km":  107.4,
-                                     "tv":  313
+                                     "km":  110.13,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27093,6 +27093,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  27.15,
+                                     "tv":  252
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -27100,15 +27109,6 @@
                                      "pe":  3,
                                      "km":  48.92,
                                      "tv":  228
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  22.8,
-                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Alan",
@@ -27120,6 +27120,15 @@
                                      "tv":  246
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  74.98,
+                                     "tv":  297
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -27127,15 +27136,6 @@
                                      "pe":  1,
                                      "km":  13.52,
                                      "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  51.3,
-                                     "tv":  273
                                  },
                                  {
                                      "nome":  "Karina",
@@ -27147,8 +27147,8 @@
                                      "tv":  280
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27263,6 +27263,13 @@
                                        "p":  1,
                                        "km":  15.36,
                                        "tv":  127
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  3.73,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Evandro",
@@ -27475,6 +27482,13 @@
                                        "tv":  83
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.73,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -27622,6 +27636,13 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "BALAN SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  4.35,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "RH COSTA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -27641,6 +27662,13 @@
                                        "p":  1,
                                        "km":  0.64,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DMIX SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  23.68,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Karina",
