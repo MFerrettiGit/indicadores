@@ -26946,8 +26946,17 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  35.33,
+                                     "tv":  191
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -26956,6 +26965,15 @@
                                      "pe":  0,
                                      "km":  17.51,
                                      "tv":  161
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.66,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -26976,15 +26994,6 @@
                                      "tv":  154
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  31.67,
-                                     "tv":  85
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -26992,15 +27001,6 @@
                                      "pe":  0,
                                      "km":  24.69,
                                      "tv":  152
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.86,
-                                     "tv":  50
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -27039,6 +27039,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  43.64,
+                                     "tv":  107
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -27066,22 +27075,13 @@
                                      "tv":  84
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  42.59,
-                                     "tv":  75
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.08,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  72.71,
+                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Costa",
@@ -27102,6 +27102,15 @@
                                      "tv":  99
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  17.27,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -27118,15 +27127,6 @@
                                      "pe":  0,
                                      "km":  5.87,
                                      "tv":  95
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  13.42,
-                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -27147,8 +27147,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27179,6 +27179,13 @@
                                        "p":  1,
                                        "km":  31.67,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.66,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -27230,6 +27237,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.8,
+                                       "tv":  94
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -27249,6 +27263,13 @@
                                        "p":  0,
                                        "km":  37.38,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                       "p":  1,
+                                       "km":  1.05,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Milene",
@@ -27284,6 +27305,13 @@
                                        "p":  1,
                                        "km":  5.55,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TIBA LTDA.",
+                                       "p":  1,
+                                       "km":  70.63,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Alan",
@@ -27326,6 +27354,13 @@
                                        "p":  1,
                                        "km":  9.32,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "K.L.H. SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  3.85,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Eugenio",
