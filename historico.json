@@ -26946,8 +26946,26 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  24.88,
+                                     "tv":  251
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  58.95,
+                                     "tv":  278
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -26965,24 +26983,6 @@
                                      "pe":  0,
                                      "km":  21.94,
                                      "tv":  277
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  12.19,
-                                     "tv":  235
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  49.78,
-                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -27147,8 +27147,8 @@
                                      "tv":  280
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27156,8 +27156,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -27293,6 +27293,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  9.17,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -27319,6 +27326,13 @@
                                        "p":  1,
                                        "km":  2.49,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  12.69,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Vinicius",
