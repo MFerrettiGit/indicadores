@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  42.89,
+                     "km":  77.25,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  56.14,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:15",
+                     "ultimo":  "17:43",
+                     "tv":  "06:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -304,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  48.92,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:15",
-                     "ultimo":  "12:26",
-                     "tv":  "03:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -331,6 +331,21 @@ window.PAINEL = {
                      "ultimo":  "17:28",
                      "tv":  "06:03:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -1077,6 +1077,15 @@ window.PAINEL = {
                          "dur":  "01:36:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO TULON LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "15:16:51",
+                         "out":  "17:43:17",
+                         "km":  7.22,
+                         "dur":  "02:25:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                          "mun":  "PIRACICABA",
@@ -1459,7 +1468,7 @@ window.PAINEL = {
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:17:09"
+                        "tempo":  "09:32:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1467,7 +1476,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:57"
+                        "tempo":  "01:24:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -1475,7 +1484,7 @@ window.PAINEL = {
                         "obs":  "guarani",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:05:09"
+                        "tempo":  "01:20:14"
                     },
                     {
                         "nome":  "Maira",
@@ -1483,7 +1492,7 @@ window.PAINEL = {
                         "obs":  "proposta Liderança max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:55"
+                        "tempo":  "01:19:00"
                     }
                 ],
     "semped":  [
@@ -1566,6 +1575,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO TULON LTDA.",
+                       "mun":  "ITATIBA",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "JANE VERDOLINI BOMBARDA - ME.",
                        "mun":  "BOA ESPERANCA D",
@@ -1595,19 +1610,13 @@ window.PAINEL = {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:50:11"
+                         "tempo":  "01:05:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "270:09:09"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO TULON LTDA.",
-                         "mun":  "ITATIBA",
-                         "tempo":  "02:12:33"
+                         "tempo":  "270:24:11"
                      }
                  ],
     "hist":  [
@@ -1708,8 +1717,8 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     106,
-                     17
+                     107,
+                     18
                  ]
              ],
     "historico":  {
@@ -28660,7 +28669,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28695,7 +28704,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  42.89,
+                                                       "km":  77.25,
                                                        "tv":  476
                                                    },
                                                    {
@@ -28825,6 +28834,15 @@ window.PAINEL = {
                                                        "tv":  312
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  56.14,
+                                                       "tv":  373
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -28843,15 +28861,6 @@ window.PAINEL = {
                                                        "tv":  323
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  48.92,
-                                                       "tv":  228
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -28861,8 +28870,8 @@ window.PAINEL = {
                                                        "tv":  363
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28870,8 +28879,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -29432,6 +29441,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  22.35,
                                                          "tv":  96
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO TULON LTDA.",
+                                                         "p":  0,
+                                                         "km":  7.22,
+                                                         "tv":  145
                                                      },
                                                      {
                                                          "n":  "Cominato",
