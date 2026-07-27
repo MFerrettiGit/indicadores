@@ -26946,7 +26946,7 @@
                                ]
                    },
     "2026-07-27":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -27042,10 +27042,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.37,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  5.92,
+                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -27054,6 +27054,24 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  21.36,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  5.21,
                                      "tv":  0
                                  },
                                  {
@@ -27072,24 +27090,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.08,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5.21,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -27138,6 +27138,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -27153,15 +27162,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.17,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -27200,6 +27200,13 @@
                                        "p":  1,
                                        "km":  1.01,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  5.55,
+                                       "tv":  32
                                    }
                                ]
                    }
