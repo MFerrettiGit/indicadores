@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "27/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  29.57,
+                     "km":  35.9,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:36",
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  52.94,
+                     "km":  87.04,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:41",
                      "ultimo":  "15:47",
                      "tv":  "04:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  53.97,
+                     "km":  63.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:25",
@@ -219,14 +219,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  46.1,
+                     "km":  90.56,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:11",
                      "ultimo":  "14:58",
                      "tv":  "04:21:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -264,7 +264,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  29.25,
+                     "km":  40.03,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  39.46,
+                     "km":  41.55,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:58",
@@ -1303,6 +1303,14 @@ window.PAINEL = {
                         "tempo":  "01:01:39"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Liderança max",
+                        "inicio":  "16:26",
+                        "final":  "17:52",
+                        "tempo":  "01:25:17"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1349,6 +1357,14 @@ window.PAINEL = {
                         "inicio":  "14:59",
                         "final":  "16:01",
                         "tempo":  "01:02:10"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "guarani",
+                        "inicio":  "16:25",
+                        "final":  "17:53",
+                        "tempo":  "01:27:17"
                     },
                     {
                         "nome":  "Luis",
@@ -1463,36 +1479,28 @@ window.PAINEL = {
                         "tempo":  "00:47:04"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Araraquara a São Carlos",
+                        "inicio":  "16:21",
+                        "final":  "17:57",
+                        "tempo":  "01:35:26"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:32:14"
+                        "tempo":  "09:47:08"
                     },
                     {
                         "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Araraquara a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:24:02"
-                    },
-                    {
-                        "nome":  "Rachel",
                         "tipo":  "Proposta",
-                        "obs":  "guarani",
+                        "obs":  "proposta para amanhã",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:20:14"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta Liderança max",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:19:00"
+                        "tempo":  "00:03:08"
                     }
                 ],
     "semped":  [
@@ -1610,13 +1618,13 @@ window.PAINEL = {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:05:13"
+                         "tempo":  "01:20:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "270:24:11"
+                         "tempo":  "270:39:06"
                      }
                  ],
     "hist":  [
@@ -1717,7 +1725,7 @@ window.PAINEL = {
                  ],
                  [
                      "27/07",
-                     107,
+                     108,
                      18
                  ]
              ],
@@ -28669,7 +28677,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-27":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -28776,7 +28784,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  29.57,
+                                                       "km":  35.9,
                                                        "tv":  323
                                                    },
                                                    {
@@ -28785,7 +28793,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  52.94,
+                                                       "km":  87.04,
                                                        "tv":  256
                                                    },
                                                    {
@@ -28794,7 +28802,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  53.97,
+                                                       "km":  63.85,
                                                        "tv":  321
                                                    },
                                                    {
@@ -28803,7 +28811,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  46.1,
+                                                       "km":  90.56,
                                                        "tv":  261
                                                    },
                                                    {
@@ -28830,7 +28838,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  29.25,
+                                                       "km":  40.03,
                                                        "tv":  312
                                                    },
                                                    {
@@ -28866,7 +28874,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  39.46,
+                                                       "km":  41.55,
                                                        "tv":  363
                                                    },
                                                    {
