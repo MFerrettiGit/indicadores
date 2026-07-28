@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Aline",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:09",
                      "ultimo":  "08:37",
                      "tv":  "01:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -214,47 +244,17 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  6.67,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "08:43",
+                     "tv":  "00:42:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -409,6 +409,15 @@ window.PAINEL = {
                          "out":  "08:01:46",
                          "km":  35.37,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:00:19",
+                         "out":  "08:43:22",
+                         "km":  6.67,
+                         "dur":  "00:42:00"
                      }
                  ],
     "eventos":  [
@@ -442,7 +451,7 @@ window.PAINEL = {
                         "obs":  "reunião na escola da minha filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:28"
+                        "tempo":  "01:59:23"
                     },
                     {
                         "nome":  "Maira",
@@ -450,7 +459,7 @@ window.PAINEL = {
                         "obs":  "dentista",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:42"
+                        "tempo":  "01:03:37"
                     },
                     {
                         "nome":  "Luis",
@@ -458,7 +467,7 @@ window.PAINEL = {
                         "obs":  "Franca a Guaíra",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:08"
+                        "tempo":  "00:57:03"
                     },
                     {
                         "nome":  "Rachel",
@@ -466,7 +475,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:27"
+                        "tempo":  "00:56:22"
                     },
                     {
                         "nome":  "Mariangela",
@@ -474,7 +483,7 @@ window.PAINEL = {
                         "obs":  "santa Branca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:37"
+                        "tempo":  "00:54:32"
                     },
                     {
                         "nome":  "Fernando",
@@ -482,84 +491,95 @@ window.PAINEL = {
                         "obs":  "viagem para Guariba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:41"
+                        "tempo":  "00:43:36"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Alan",
+                       "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "reunião gestor rangel"
+                   }
                ],
     "emvisita":  [
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "PIRASSUNUNGA",
+                         "tempo":  "00:05:53"
+                     },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:39:44"
+                         "tempo":  "00:54:41"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:21:22"
+                         "tempo":  "01:36:19"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "01:47:04"
+                         "tempo":  "02:02:01"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:11:34"
+                         "tempo":  "00:26:31"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:19:48"
+                         "tempo":  "00:34:45"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "00:08:46"
+                         "tempo":  "00:23:43"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "M.C.B SERVICOS EMPRESARIAIS E PREDIAIS L",
                          "mun":  "TUIUTI",
-                         "tempo":  "00:29:29"
+                         "tempo":  "00:44:26"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:39:03"
+                         "tempo":  "00:04:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "285:19:07"
+                         "tempo":  "285:34:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "OZORIO SOARES DE LIMA MERCEARIA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:05:19"
+                         "tempo":  "00:20:16"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:06:29"
+                         "tempo":  "00:21:26"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:36:39"
+                         "tempo":  "00:51:36"
                      }
                  ],
     "hist":  [
@@ -665,8 +685,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     5,
-                     0
+                     6,
+                     1
                  ]
              ],
     "historico":  {
@@ -28568,7 +28588,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Aline",
@@ -28670,6 +28690,24 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -28697,31 +28735,13 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  6.67,
+                                                       "tv":  42
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -28760,6 +28780,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -28771,15 +28800,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28822,6 +28842,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  35.37,
                                                          "tv":  56
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  6.67,
+                                                         "tv":  42
                                                      }
                                                  ]
                                      }
