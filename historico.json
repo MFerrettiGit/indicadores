@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28065,19 +28065,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  73.05,
-                                     "tv":  326
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  100.32,
+                                     "tv":  407
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  35.27,
-                                     "tv":  287
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  36.43,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Castro",
@@ -28783,6 +28783,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  27.27,
+                                       "tv":  81
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                        "p":  1,
@@ -28872,6 +28879,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  131
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Nelson",

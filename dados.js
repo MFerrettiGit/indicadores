@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -278,14 +278,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  73.05,
+                     "visitas":  6,
+                     "km":  100.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
-                     "ultimo":  "15:38",
-                     "tv":  "05:26:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:37",
+                     "tv":  "06:47:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -293,14 +293,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  35.27,
+                     "visitas":  6,
+                     "km":  36.43,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:49",
-                     "ultimo":  "16:34",
-                     "tv":  "04:47:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:38",
+                     "tv":  "05:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1221,6 +1221,15 @@ window.PAINEL = {
                          "dur":  "01:26:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "16:16:05",
+                         "out":  "17:37:29",
+                         "km":  27.27,
+                         "dur":  "01:21:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
@@ -1336,6 +1345,15 @@ window.PAINEL = {
                          "out":  "16:34:52",
                          "km":  0,
                          "dur":  "02:11:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SANTA BRANCA",
+                         "in":  "17:07:56",
+                         "out":  "17:38:35",
+                         "km":  1.16,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1627,7 +1645,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido rede Qualimais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:16:39"
+                        "tempo":  "01:31:33"
                     },
                     {
                         "nome":  "Maira",
@@ -1635,7 +1653,7 @@ window.PAINEL = {
                         "obs":  "Qualymais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:08"
+                        "tempo":  "01:23:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -1643,7 +1661,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:00"
+                        "tempo":  "01:17:54"
                     },
                     {
                         "nome":  "Luis",
@@ -1651,7 +1669,7 @@ window.PAINEL = {
                         "obs":  "Rede Fernando Palmieri",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:01:44"
+                        "tempo":  "01:16:38"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1659,7 +1677,7 @@ window.PAINEL = {
                         "obs":  "Américo Brasiliense a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:24"
+                        "tempo":  "00:25:18"
                     }
                 ],
     "semped":  [
@@ -1780,34 +1798,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:08:13"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "294:04:03"
+                         "tempo":  "294:19:00"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:48:27"
+                         "tempo":  "02:03:24"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:25:37"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "SANTA BRANCA",
-                         "tempo":  "00:16:22"
+                         "tempo":  "02:40:34"
                      }
                  ],
     "hist":  [
@@ -1913,7 +1919,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     113,
+                     115,
                      21
                  ]
              ],
@@ -29816,7 +29822,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29984,19 +29990,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  73.05,
-                                                       "tv":  326
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  100.32,
+                                                       "tv":  407
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  35.27,
-                                                       "tv":  287
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  36.43,
+                                                       "tv":  317
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -30702,6 +30708,13 @@ window.PAINEL = {
                                                          "tv":  86
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  27.27,
+                                                         "tv":  81
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                                          "p":  1,
@@ -30791,6 +30804,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  131
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.16,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Nelson",
