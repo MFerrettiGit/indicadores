@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "08:00",
+    "dataHora":  "08:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,6 +15,36 @@ window.PAINEL = {
                      "primeiro":  "06:58",
                      "ultimo":  "07:34",
                      "tv":  "00:36:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  35.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "08:01",
+                     "tv":  "00:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  46.64,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:09",
+                     "ultimo":  "07:56",
+                     "tv":  "00:47:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -49,42 +79,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:04",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
                      "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  1.37,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "07:09",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -234,13 +234,43 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  21.35,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:00",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:02",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -332,36 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -373,6 +373,24 @@ window.PAINEL = {
                          "out":  "07:34:30",
                          "km":  21.46,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DEFAVARI LTDA.",
+                         "mun":  "RIO DAS PEDRAS",
+                         "in":  "07:09:34",
+                         "out":  "07:56:45",
+                         "km":  45.27,
+                         "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
+                         "mun":  "BOITUVA",
+                         "in":  "07:04:41",
+                         "out":  "08:01:46",
+                         "km":  35.37,
+                         "dur":  "00:56:00"
                      }
                  ],
     "eventos":  [
@@ -390,7 +408,7 @@ window.PAINEL = {
                         "obs":  "reunião na escola da minha filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:13"
+                        "tempo":  "01:14:15"
                     },
                     {
                         "nome":  "Maira",
@@ -398,7 +416,7 @@ window.PAINEL = {
                         "obs":  "dentista",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:27"
+                        "tempo":  "00:18:29"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -406,7 +424,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Araraquara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:03"
+                        "tempo":  "00:18:05"
                     },
                     {
                         "nome":  "Nelson",
@@ -414,7 +432,31 @@ window.PAINEL = {
                         "obs":  "Itapetininga a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:26"
+                        "tempo":  "00:16:28"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Guaíra",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:55"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "daolio",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:14"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa Branca",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:24"
                     }
                 ],
     "semped":  [
@@ -425,43 +467,49 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:45:09"
+                         "tempo":  "01:00:08"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:01:20"
+                         "tempo":  "01:16:19"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:09:35"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:14"
+                         "tempo":  "00:51:13"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "01:01:56"
+                         "tempo":  "01:16:55"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
-                         "mun":  "BOITUVA",
-                         "tempo":  "00:49:33"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADO DEFAVARI LTDA.",
-                         "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:44:40"
+                         "nome":  "Alan",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:54"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "284:33:59"
+                         "tempo":  "284:48:58"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "tempo":  "00:06:30"
                      }
                  ],
     "hist":  [
@@ -567,7 +615,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     1,
+                     3,
                      0
                  ]
              ],
@@ -28470,7 +28518,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "08:00",
+                                         "dataHora":  "08:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -28480,6 +28528,24 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  31.52,
                                                        "tv":  36
+                                                   },
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  35.37,
+                                                       "tv":  56
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  46.64,
+                                                       "tv":  47
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -28500,30 +28566,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  1.37,
                                                        "tv":  0
                                                    },
                                                    {
@@ -28613,6 +28661,24 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
+                                                       "km":  21.35,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
                                                    },
@@ -28669,24 +28735,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0.5,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -28696,6 +28744,20 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.46,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                                         "p":  1,
+                                                         "km":  45.27,
+                                                         "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
+                                                         "p":  1,
+                                                         "km":  35.37,
+                                                         "tv":  56
                                                      }
                                                  ]
                                      }

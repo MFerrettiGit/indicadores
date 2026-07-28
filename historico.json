@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "08:00",
+                       "dataHora":  "08:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27907,6 +27907,24 @@
                                      "pe":  0,
                                      "km":  31.52,
                                      "tv":  36
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  35.37,
+                                     "tv":  56
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  46.64,
+                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -27927,30 +27945,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.37,
                                      "tv":  0
                                  },
                                  {
@@ -28040,6 +28040,24 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
+                                     "km":  21.35,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
                                      "km":  0,
                                      "tv":  0
                                  },
@@ -28096,24 +28114,6 @@
                                      "pe":  0,
                                      "km":  0.5,
                                      "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -28123,6 +28123,20 @@
                                        "p":  1,
                                        "km":  21.46,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  1,
+                                       "km":  45.27,
+                                       "tv":  47
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
+                                       "p":  1,
+                                       "km":  35.37,
+                                       "tv":  56
                                    }
                                ]
                    }
