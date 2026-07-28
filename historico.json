@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27936,6 +27936,15 @@
                                      "tv":  122
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  51.65,
+                                     "tv":  299
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -27952,15 +27961,6 @@
                                      "pe":  0,
                                      "km":  46.86,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  50.5,
-                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -28047,10 +28047,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  3,
-                                     "km":  33.4,
-                                     "tv":  194
+                                     "km":  34.42,
+                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Castro",
@@ -28062,6 +28062,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  72.07,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -28071,13 +28080,13 @@
                                      "tv":  95
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  48.15,
-                                     "tv":  183
+                                     "km":  65.94,
+                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Karina",
@@ -28096,15 +28105,6 @@
                                      "pe":  1,
                                      "km":  33.14,
                                      "tv":  185
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  62.16,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -28151,6 +28151,13 @@
                                        "p":  1,
                                        "km":  2.3,
                                        "tv":  119
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.15,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -28419,6 +28426,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                       "p":  0,
+                                       "km":  1.02,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                                        "p":  1,
@@ -28468,6 +28482,13 @@
                                        "tv":  126
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "STEFANIE CAROLINE BUZATTO",
+                                       "p":  1,
+                                       "km":  23.92,
+                                       "tv":  26
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                        "p":  1,
@@ -28508,6 +28529,13 @@
                                        "p":  1,
                                        "km":  61.66,
                                        "tv":  100
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "REDE SUPERMERCADO AMIZADE CAPAO BONITO",
+                                       "p":  1,
+                                       "km":  3.78,
+                                       "tv":  86
                                    }
                                ]
                    }
