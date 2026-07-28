@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  2,
+                     "km":  60.69,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:09",
+                     "ultimo":  "10:05",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -60,21 +75,6 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "09:00",
                      "tv":  "02:07:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  46.64,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:09",
-                     "ultimo":  "07:56",
-                     "tv":  "00:47:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "09:16",
                      "ultimo":  "09:44",
                      "tv":  "00:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,6 +165,21 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "09:46",
                      "tv":  "01:15:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  4.84,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "09:10",
+                     "ultimo":  "09:56",
+                     "tv":  "00:45:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -178,21 +193,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "09:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:10",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "09:47",
                      "tv":  "01:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -286,6 +286,21 @@ window.PAINEL = {
                      "ultimo":  "09:07",
                      "tv":  "00:57:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  34.14,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:49",
+                     "ultimo":  "10:07",
+                     "tv":  "00:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -328,21 +343,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "09:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:49",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -429,6 +429,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                         "mun":  "PIRACICABA",
+                         "in":  "08:19:34",
+                         "out":  "10:05:48",
+                         "km":  14.05,
+                         "dur":  "01:46:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                          "mun":  "BOITUVA",
@@ -445,6 +454,15 @@ window.PAINEL = {
                          "out":  "09:07:56",
                          "km":  0,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "09:10:47",
+                         "out":  "09:56:09",
+                         "km":  4.84,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Milene",
@@ -517,6 +535,15 @@ window.PAINEL = {
                          "out":  "09:07:38",
                          "km":  48.15,
                          "dur":  "00:57:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
+                         "mun":  "SANTA BRANCA",
+                         "in":  "09:49:48",
+                         "out":  "10:07:57",
+                         "km":  34.14,
+                         "dur":  "00:18:00"
                      }
                  ],
     "eventos":  [
@@ -595,6 +622,12 @@ window.PAINEL = {
                 ],
     "semped":  [
                    {
+                       "nome":  "Maira",
+                       "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Alan",
                        "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                        "mun":  "CAMPINAS",
@@ -612,109 +645,109 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "00:28:55"
+                         "tempo":  "00:43:52"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:05:51"
+                         "tempo":  "01:20:48"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:27:23"
+                         "tempo":  "00:42:20"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:19:18"
+                         "tempo":  "00:34:15"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:03:49"
+                         "tempo":  "00:18:46"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:20:02"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "01:34:43"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:43:30"
+                         "tempo":  "00:34:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ALMIR ROGERIO RODRIGUES PRANDO",
                          "mun":  "SERRA NEGRA",
-                         "tempo":  "00:43:00"
+                         "tempo":  "00:57:57"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
                          "mun":  "GUAIRA",
-                         "tempo":  "00:16:55"
+                         "tempo":  "00:31:52"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:01:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:53:04"
+                         "tempo":  "01:08:01"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "F. CORVELLO COMERCIO VAREJISTA DE PRODUT",
+                         "mun":  "ARARAQUARA",
+                         "tempo":  "00:01:34"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MP TUIUTI LTDA",
                          "mun":  "TUIUTI",
-                         "tempo":  "00:34:25"
+                         "tempo":  "00:49:22"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "S M DOS SANTOS MERC- ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:00"
+                         "tempo":  "00:38:57"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:53:23"
+                         "tempo":  "01:08:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "286:34:02"
+                         "tempo":  "286:48:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "OZORIO SOARES DE LIMA MERCEARIA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "01:20:14"
+                         "tempo":  "01:35:11"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:05:59"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "01:51:34"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
-                         "mun":  "SANTA BRANCA",
-                         "tempo":  "00:04:29"
+                         "tempo":  "02:06:31"
                      }
                  ],
     "hist":  [
@@ -820,8 +853,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     17,
-                     2
+                     20,
+                     3
                  ]
              ],
     "historico":  {
@@ -28723,7 +28756,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -28744,6 +28777,15 @@ window.PAINEL = {
                                                        "tv":  96
                                                    },
                                                    {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  60.69,
+                                                       "tv":  153
+                                                   },
+                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -28760,15 +28802,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  25.34,
                                                        "tv":  127
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  46.64,
-                                                       "tv":  47
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -28825,21 +28858,21 @@ window.PAINEL = {
                                                        "tv":  75
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  4.84,
+                                                       "tv":  45
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  21.35,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -28897,6 +28930,15 @@ window.PAINEL = {
                                                        "tv":  57
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  34.14,
+                                                       "tv":  18
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -28917,15 +28959,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -28993,6 +29026,13 @@ window.PAINEL = {
                                                          "tv":  47
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                                         "p":  1,
+                                                         "km":  14.05,
+                                                         "tv":  106
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                                          "p":  1,
@@ -29005,6 +29045,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                                         "p":  0,
+                                                         "km":  4.84,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -29061,6 +29108,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  48.15,
                                                          "tv":  57
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
+                                                         "p":  1,
+                                                         "km":  34.14,
+                                                         "tv":  18
                                                      }
                                                  ]
                                      }

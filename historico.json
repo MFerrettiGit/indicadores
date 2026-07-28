@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27918,6 +27918,15 @@
                                      "tv":  96
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.69,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -27934,15 +27943,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  46.64,
-                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Debora",
@@ -27999,21 +27999,21 @@
                                      "tv":  75
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.84,
+                                     "tv":  45
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  21.35,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -28071,6 +28071,15 @@
                                      "tv":  57
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  34.14,
+                                     "tv":  18
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -28091,15 +28100,6 @@
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -28167,6 +28167,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  14.05,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -28179,6 +28186,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                       "p":  0,
+                                       "km":  4.84,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Milene",
@@ -28235,6 +28249,13 @@
                                        "p":  1,
                                        "km":  48.15,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
+                                       "p":  1,
+                                       "km":  34.14,
+                                       "tv":  18
                                    }
                                ]
                    }
