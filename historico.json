@@ -27897,25 +27897,25 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  41.07,
-                                     "tv":  272
+                                     "km":  42.37,
+                                     "tv":  319
                                  },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  71.05,
-                                     "tv":  251
+                                     "km":  74.41,
+                                     "tv":  320
                                  },
                                  {
                                      "nome":  "Aline",
@@ -28071,6 +28071,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  43.43,
+                                     "tv":  204
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -28078,15 +28087,6 @@
                                      "pe":  4,
                                      "km":  35.27,
                                      "tv":  156
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  43.31,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -28258,6 +28258,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                                       "p":  1,
+                                       "km":  1.3,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -28291,6 +28298,13 @@
                                        "p":  1,
                                        "km":  4.75,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  3.36,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -28613,6 +28627,13 @@
                                        "p":  1,
                                        "km":  0.35,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SALES I. ANDRE",
+                                       "p":  1,
+                                       "km":  0.12,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Mariangela",
