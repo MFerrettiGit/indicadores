@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  71.05,
+                                     "tv":  251
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -27916,15 +27925,6 @@
                                      "pe":  0,
                                      "km":  53.64,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  66.3,
-                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Aline",
@@ -28263,6 +28263,13 @@
                                        "p":  1,
                                        "km":  1.45,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
+                                       "p":  1,
+                                       "km":  4.75,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Vinicius",
