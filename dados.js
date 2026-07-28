@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  148.84,
+                     "km":  149.8,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:01",
@@ -219,14 +219,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  41.96,
+                     "km":  53.46,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "09:10",
                      "ultimo":  "15:59",
                      "tv":  "03:39:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  8,
-                     "km":  69.48,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  9,
+                     "km":  81.16,
+                     "semPed":  1,
+                     "perc":  11.11,
                      "primeiro":  "09:00",
-                     "ultimo":  "17:20",
-                     "tv":  "04:46:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:06",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -279,7 +279,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  100.32,
+                     "km":  100.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
@@ -339,7 +339,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  65.94,
+                     "km":  69.37,
                      "semPed":  1,
                      "perc":  33.33,
                      "primeiro":  "08:34",
@@ -1302,6 +1302,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MARITELMA DE SOUSA DUQUE",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "17:48:45",
+                         "out":  "18:06:32",
+                         "km":  11.68,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -1399,6 +1408,14 @@ window.PAINEL = {
                         "inicio":  "13:02",
                         "final":  "14:13",
                         "tempo":  "01:11:08"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Qualymais",
+                        "inicio":  "16:17",
+                        "final":  "18:00",
+                        "tempo":  "01:43:05"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1673,20 +1690,12 @@ window.PAINEL = {
                         "tempo":  "00:58:53"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Qualymais",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:38:09"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Américo Brasiliense a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:25"
+                        "tempo":  "00:55:09"
                     }
                 ],
     "semped":  [
@@ -1731,6 +1740,12 @@ window.PAINEL = {
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de informações."
+                   },
+                   {
+                       "nome":  "Karina",
+                       "razao":  "MARITELMA DE SOUSA DUQUE",
+                       "mun":  "NATIVIDADE DA S",
+                       "obs":  "compradora está pegando um outro mercado com muita mercadoria"
                    },
                    {
                        "nome":  "Eduardo",
@@ -1813,22 +1828,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Karina",
-                         "razao":  "MARITELMA DE SOUSA DUQUE",
-                         "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:05:33"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "294:34:03"
+                         "tempo":  "294:48:58"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:55:37"
+                         "tempo":  "03:10:32"
                      }
                  ],
     "hist":  [
@@ -1934,8 +1943,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     116,
-                     22
+                     117,
+                     23
                  ]
              ],
     "historico":  {
@@ -29837,7 +29846,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29953,7 +29962,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  148.84,
+                                                       "km":  149.8,
                                                        "tv":  255
                                                    },
                                                    {
@@ -29971,7 +29980,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  41.96,
+                                                       "km":  53.46,
                                                        "tv":  219
                                                    },
                                                    {
@@ -29996,10 +30005,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  8,
+                                                       "vi":  9,
                                                        "pe":  8,
-                                                       "km":  69.48,
-                                                       "tv":  286
+                                                       "km":  81.16,
+                                                       "tv":  303
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -30007,7 +30016,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  100.32,
+                                                       "km":  100.82,
                                                        "tv":  407
                                                    },
                                                    {
@@ -30043,7 +30052,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  2,
-                                                       "km":  65.94,
+                                                       "km":  69.37,
                                                        "tv":  311
                                                    },
                                                    {
@@ -30739,7 +30748,7 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "MARITELMA DE SOUSA DUQUE",
-                                                         "p":  1,
+                                                         "p":  0,
                                                          "km":  42.96,
                                                          "tv":  31
                                                      },
@@ -30784,6 +30793,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.74,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MARITELMA DE SOUSA DUQUE",
+                                                         "p":  0,
+                                                         "km":  11.68,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Mariangela",

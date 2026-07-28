@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28013,7 +28013,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  148.84,
+                                     "km":  149.8,
                                      "tv":  255
                                  },
                                  {
@@ -28031,7 +28031,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  1,
-                                     "km":  41.96,
+                                     "km":  53.46,
                                      "tv":  219
                                  },
                                  {
@@ -28056,10 +28056,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  8,
+                                     "vi":  9,
                                      "pe":  8,
-                                     "km":  69.48,
-                                     "tv":  286
+                                     "km":  81.16,
+                                     "tv":  303
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -28067,7 +28067,7 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  100.32,
+                                     "km":  100.82,
                                      "tv":  407
                                  },
                                  {
@@ -28103,7 +28103,7 @@
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  2,
-                                     "km":  65.94,
+                                     "km":  69.37,
                                      "tv":  311
                                  },
                                  {
@@ -28799,7 +28799,7 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "MARITELMA DE SOUSA DUQUE",
-                                       "p":  1,
+                                       "p":  0,
                                        "km":  42.96,
                                        "tv":  31
                                    },
@@ -28844,6 +28844,13 @@
                                        "p":  1,
                                        "km":  5.74,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARITELMA DE SOUSA DUQUE",
+                                       "p":  0,
+                                       "km":  11.68,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Mariangela",
