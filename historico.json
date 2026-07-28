@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28029,10 +28029,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  23.64,
-                                     "tv":  187
+                                     "km":  41.96,
+                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28445,6 +28445,13 @@
                                        "p":  0,
                                        "km":  11.52,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                       "p":  0,
+                                       "km":  18.32,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Milene",

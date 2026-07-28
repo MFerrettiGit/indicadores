@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  23.64,
-                     "semPed":  2,
-                     "perc":  66.67,
+                     "visitas":  4,
+                     "km":  41.96,
+                     "semPed":  3,
+                     "perc":  75,
                      "primeiro":  "09:10",
-                     "ultimo":  "15:01",
-                     "tv":  "03:07:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:59",
+                     "tv":  "03:39:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "15:40",
                      "tv":  "05:15:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -787,6 +787,15 @@ window.PAINEL = {
                          "out":  "15:01:17",
                          "km":  11.52,
                          "dur":  "00:27:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "15:27:05",
+                         "out":  "15:59:46",
+                         "km":  18.32,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1467,7 +1476,7 @@ window.PAINEL = {
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:59"
+                        "tempo":  "01:06:00"
                     },
                     {
                         "nome":  "Rachel",
@@ -1475,7 +1484,15 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:48"
+                        "tempo":  "00:37:49"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido rede Qualimais",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:37"
                     }
                 ],
     "semped":  [
@@ -1488,6 +1505,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
                    },
@@ -1587,91 +1610,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:11:48"
+                         "tempo":  "00:26:46"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:11:06"
+                         "tempo":  "00:26:04"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:46:47"
+                         "tempo":  "01:01:45"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:49:18"
+                         "tempo":  "01:04:16"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:53:05"
+                         "tempo":  "02:08:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:05:21"
+                         "tempo":  "00:20:19"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:10:05"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:27:18"
+                         "tempo":  "00:25:03"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:21:34"
+                         "tempo":  "00:36:32"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:12:14"
+                         "tempo":  "00:27:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ANGELA BENEDITA DE PAULO BONI",
                          "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:08:00"
+                         "tempo":  "00:22:58"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "292:34:08"
+                         "tempo":  "292:49:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:18:32"
+                         "tempo":  "00:33:30"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:55:42"
+                         "tempo":  "01:10:40"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:30:37"
+                         "tempo":  "01:45:35"
                      }
                  ],
     "hist":  [
@@ -1777,8 +1794,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     97,
-                     19
+                     98,
+                     20
                  ]
              ],
     "historico":  {
@@ -29680,7 +29697,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29812,10 +29829,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  1,
-                                                       "km":  23.64,
-                                                       "tv":  187
+                                                       "km":  41.96,
+                                                       "tv":  219
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -30228,6 +30245,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  11.52,
                                                          "tv":  27
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                                         "p":  0,
+                                                         "km":  18.32,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Milene",
