@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27999,6 +27999,15 @@
                                      "tv":  75
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  78.96,
+                                     "tv":  72
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -28006,15 +28015,6 @@
                                      "pe":  0,
                                      "km":  4.84,
                                      "tv":  45
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.35,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -28044,6 +28044,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  29.5,
+                                     "tv":  113
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -28053,15 +28062,6 @@
                                      "tv":  69
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  8.36,
-                                     "tv":  59
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28069,6 +28069,24 @@
                                      "pe":  1,
                                      "km":  48.15,
                                      "tv":  57
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  62.16,
+                                     "tv":  100
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0,
+                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -28083,24 +28101,6 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.5,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -28188,6 +28188,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  57.61,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28223,6 +28230,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "S M DOS SANTOS MERC- ME",
+                                       "p":  1,
+                                       "km":  21.14,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                                        "p":  1,
@@ -28251,11 +28265,25 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                        "p":  1,
                                        "km":  34.14,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "OZORIO SOARES DE LIMA MERCEARIA",
+                                       "p":  1,
+                                       "km":  61.66,
+                                       "tv":  100
                                    }
                                ]
                    }
