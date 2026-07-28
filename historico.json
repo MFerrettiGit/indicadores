@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27975,10 +27975,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  53.75,
-                                     "tv":  65
+                                     "km":  57.9,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27990,6 +27990,15 @@
                                      "tv":  119
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  117.24,
+                                     "tv":  127
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -27999,22 +28008,13 @@
                                      "tv":  181
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  116.14,
-                                     "tv":  110
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  80.15,
-                                     "tv":  94
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  120.28,
+                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -28056,10 +28056,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  25.28,
-                                     "tv":  69
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  48.05,
+                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -28286,6 +28286,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CAMPOS LTDA.",
+                                       "p":  1,
+                                       "km":  40.13,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
                                        "p":  0,
@@ -28307,6 +28314,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  1.1,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28326,6 +28340,13 @@
                                        "p":  1,
                                        "km":  4.84,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.15,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Rachel",
@@ -28417,6 +28438,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
+                                       "p":  1,
+                                       "km":  22.77,
+                                       "tv":  133
                                    },
                                    {
                                        "n":  "Cominato",
