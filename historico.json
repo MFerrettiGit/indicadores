@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27921,10 +27921,10 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  90.19,
-                                     "tv":  319
+                                     "km":  106.46,
+                                     "tv":  376
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -28144,6 +28144,13 @@
                                        "p":  1,
                                        "km":  2.11,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
+                                       "p":  1,
+                                       "km":  16.27,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Debora",

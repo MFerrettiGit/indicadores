@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -38,14 +38,14 @@ window.PAINEL = {
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  90.19,
+                     "visitas":  5,
+                     "km":  106.46,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
-                     "ultimo":  "13:50",
-                     "tv":  "05:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:19",
+                     "tv":  "06:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "09:11",
                      "ultimo":  "15:09",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "14:41",
                      "tv":  "03:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -400,6 +400,15 @@ window.PAINEL = {
                          "out":  "13:50:42",
                          "km":  2.11,
                          "dur":  "01:45:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
+                         "mun":  "PAULINIA",
+                         "in":  "14:21:27",
+                         "out":  "15:19:44",
+                         "km":  16.27,
+                         "dur":  "00:57:00"
                      },
                      {
                          "nome":  "Debora",
@@ -1370,7 +1379,7 @@ window.PAINEL = {
                         "obs":  "Capão Bonito a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:25:47"
+                        "tempo":  "01:40:43"
                     },
                     {
                         "nome":  "Silmara",
@@ -1378,7 +1387,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:22"
+                        "tempo":  "00:34:18"
                     },
                     {
                         "nome":  "Luis",
@@ -1386,7 +1395,7 @@ window.PAINEL = {
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:42"
+                        "tempo":  "00:20:38"
                     }
                 ],
     "semped":  [
@@ -1498,79 +1507,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:51:09"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
-                         "mun":  "PAULINIA",
-                         "tempo":  "00:47:50"
+                         "tempo":  "01:06:07"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:01:41"
+                         "tempo":  "00:16:39"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:04:12"
+                         "tempo":  "00:19:10"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:07:59"
+                         "tempo":  "01:22:57"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "01:10:11"
+                         "tempo":  "01:25:09"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "tempo":  "00:12:34"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "D. ALVES JUNIOR E CIA LTDA-ME.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "01:03:16"
+                         "tempo":  "01:18:14"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:57:35"
+                         "tempo":  "01:12:33"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:05:38"
+                         "tempo":  "01:20:36"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "53.793.199 RAISSA DE CASSIA AVELINO",
+                         "mun":  "NATIVIDADE DA S",
+                         "tempo":  "00:05:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "291:49:02"
+                         "tempo":  "292:04:00"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:10:36"
+                         "tempo":  "00:25:34"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BELLA PLANTA SUPERMERCADOS LTDA",
                          "mun":  "CHARQUEADA",
-                         "tempo":  "01:04:05"
+                         "tempo":  "01:19:03"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:45:31"
+                         "tempo":  "01:00:29"
                      }
                  ],
     "hist":  [
@@ -1676,7 +1691,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     88,
+                     89,
                      19
                  ]
              ],
@@ -29579,7 +29594,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29603,10 +29618,10 @@ window.PAINEL = {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  90.19,
-                                                       "tv":  319
+                                                       "km":  106.46,
+                                                       "tv":  376
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -29826,6 +29841,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.11,
                                                          "tv":  105
+                                                     },
+                                                     {
+                                                         "n":  "Aline",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
+                                                         "p":  1,
+                                                         "km":  16.27,
+                                                         "tv":  57
                                                      },
                                                      {
                                                          "n":  "Debora",
