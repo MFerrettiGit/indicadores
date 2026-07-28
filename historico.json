@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  45.62,
+                                     "tv":  425
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -27918,22 +27927,13 @@
                                      "tv":  425
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  42.37,
-                                     "tv":  319
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  53.76,
-                                     "tv":  287
+                                     "km":  57.09,
+                                     "tv":  343
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -27941,8 +27941,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  36.47,
+                                     "km":  54.5,
                                      "tv":  327
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  65.65,
+                                     "tv":  472
                                  },
                                  {
                                      "nome":  "Debora",
@@ -27952,15 +27961,6 @@
                                      "pe":  0,
                                      "km":  95.15,
                                      "tv":  368
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  57.56,
-                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27990,6 +27990,15 @@
                                      "tv":  233
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  59.73,
+                                     "tv":  362
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -27997,15 +28006,6 @@
                                      "pe":  5,
                                      "km":  24.76,
                                      "tv":  252
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  57.62,
-                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Luis",
@@ -28056,10 +28056,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  56.76,
-                                     "tv":  250
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  63.74,
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -28258,6 +28258,13 @@
                                        "tv":  110
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  1,
+                                       "km":  8.09,
+                                       "tv":  171
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -28298,6 +28305,13 @@
                                        "p":  1,
                                        "km":  1.3,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                       "p":  1,
+                                       "km":  3.25,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Silmara",
@@ -28382,6 +28396,13 @@
                                        "p":  1,
                                        "km":  0.12,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  3.33,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Fernando",
@@ -28587,6 +28608,13 @@
                                        "tv":  79
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MERCATELLO LTDA.",
+                                       "p":  1,
+                                       "km":  2.11,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -28774,6 +28802,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "HILDA APARECIDA BONIFACIO 33035506892",
+                                       "p":  1,
+                                       "km":  6.98,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Mariangela",
