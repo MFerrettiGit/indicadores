@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27957,10 +27957,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  15.39,
-                                     "tv":  120
+                                     "km":  19.11,
+                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -28071,6 +28071,15 @@
                                      "tv":  39
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  33.14,
+                                     "tv":  185
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28096,15 +28105,6 @@
                                      "pe":  1,
                                      "km":  0,
                                      "tv":  72
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -28151,6 +28151,13 @@
                                        "p":  1,
                                        "km":  13.77,
                                        "tv":  120
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.72,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Eliana",
@@ -28333,6 +28340,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA.",
+                                       "p":  1,
+                                       "km":  33.14,
+                                       "tv":  185
                                    },
                                    {
                                        "n":  "Eugenio",
