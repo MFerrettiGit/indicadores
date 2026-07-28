@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28062,6 +28062,15 @@
                                      "tv":  326
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  56.76,
+                                     "tv":  226
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -28069,15 +28078,6 @@
                                      "pe":  3,
                                      "km":  48.05,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  43.43,
-                                     "tv":  204
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -28092,10 +28092,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  54.09,
-                                     "tv":  220
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  54.71,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -28725,6 +28725,13 @@
                                        "p":  1,
                                        "km":  0.12,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "53.793.199 RAISSA DE CASSIA AVELINO",
+                                       "p":  1,
+                                       "km":  13.33,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Mariangela",

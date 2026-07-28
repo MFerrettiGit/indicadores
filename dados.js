@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,8 +30,8 @@ window.PAINEL = {
                      "primeiro":  "07:09",
                      "ultimo":  "14:44",
                      "tv":  "05:20:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "15:19",
                      "tv":  "06:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "15:35",
                      "tv":  "04:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:09",
                      "ultimo":  "15:27",
                      "tv":  "06:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "15:29",
                      "tv":  "05:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  56.76,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:00",
+                     "ultimo":  "15:41",
+                     "tv":  "03:46:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -285,21 +300,6 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "12:17",
                      "tv":  "03:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  43.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:00",
-                     "ultimo":  "14:41",
-                     "tv":  "03:24:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -323,14 +323,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  54.09,
+                     "visitas":  3,
+                     "km":  54.71,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:02",
-                     "ultimo":  "13:58",
-                     "tv":  "03:40:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:40",
+                     "tv":  "05:15:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1149,6 +1149,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "53.793.199 RAISSA DE CASSIA AVELINO",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "15:19:00",
+                         "out":  "15:41:41",
+                         "km":  13.33,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -1381,6 +1390,14 @@ window.PAINEL = {
                         "tempo":  "01:01:43"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:51",
+                        "final":  "15:42",
+                        "tempo":  "00:50:53"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Guariba",
@@ -1445,20 +1462,12 @@ window.PAINEL = {
                         "tempo":  "00:58:53"
                     },
                     {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:34"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:54"
+                        "tempo":  "00:50:59"
                     },
                     {
                         "nome":  "Rachel",
@@ -1466,7 +1475,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:43"
+                        "tempo":  "00:22:48"
                     }
                 ],
     "semped":  [
@@ -1575,70 +1584,94 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:11:48"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:11:06"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:31:44"
+                         "tempo":  "00:46:47"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:34:15"
+                         "tempo":  "00:49:18"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:38:02"
+                         "tempo":  "01:53:05"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:05:21"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:10:05"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:12:15"
+                         "tempo":  "00:27:18"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:06:31"
+                         "tempo":  "00:21:34"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:14"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "53.793.199 RAISSA DE CASSIA AVELINO",
+                         "razao":  "ANGELA BENEDITA DE PAULO BONI",
                          "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:20:20"
+                         "tempo":  "00:08:00"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "292:19:05"
+                         "tempo":  "292:34:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:03:29"
+                         "tempo":  "00:18:32"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:40:39"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "BELLA PLANTA SUPERMERCADOS LTDA",
-                         "mun":  "CHARQUEADA",
-                         "tempo":  "01:34:08"
+                         "tempo":  "00:55:42"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:15:34"
+                         "tempo":  "01:30:37"
                      }
                  ],
     "hist":  [
@@ -1744,7 +1777,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     95,
+                     97,
                      19
                  ]
              ],
@@ -29647,7 +29680,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29812,6 +29845,15 @@ window.PAINEL = {
                                                        "tv":  326
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  56.76,
+                                                       "tv":  226
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -29819,15 +29861,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  48.05,
                                                        "tv":  202
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  43.43,
-                                                       "tv":  204
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -29842,10 +29875,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  54.09,
-                                                       "tv":  220
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  54.71,
+                                                       "tv":  315
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -30475,6 +30508,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.12,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "53.793.199 RAISSA DE CASSIA AVELINO",
+                                                         "p":  1,
+                                                         "km":  13.33,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Mariangela",
