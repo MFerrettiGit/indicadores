@@ -27897,16 +27897,34 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
                                      "km":  35.87,
-                                     "tv":  130
+                                     "tv":  190
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  77.3,
+                                     "tv":  163
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  46.86,
+                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -27925,24 +27943,6 @@
                                      "pe":  0,
                                      "km":  60.69,
                                      "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  30.8,
-                                     "tv":  100
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  25.34,
-                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Debora",
@@ -27993,10 +27993,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  41.58,
-                                     "tv":  75
+                                     "km":  44.6,
+                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -28020,19 +28020,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.19,
+                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  113.39,
+                                     "tv":  55
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28125,6 +28125,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
+                                       "p":  1,
+                                       "km":  46.5,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -28146,6 +28153,13 @@
                                        "tv":  127
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  21.52,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -28158,6 +28172,13 @@
                                        "p":  1,
                                        "km":  4.35,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Silmara",
@@ -28195,6 +28216,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
+                                       "p":  0,
+                                       "km":  113.39,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28209,11 +28237,25 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "ALMIR ROGERIO RODRIGUES PRANDO",
+                                       "p":  1,
+                                       "km":  16.19,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA",
                                        "p":  1,
                                        "km":  40.86,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "F. CORVELLO COMERCIO VAREJISTA DE PRODUT",
+                                       "p":  0,
+                                       "km":  3.02,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Alan",
