@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27936,6 +27936,15 @@
                                      "tv":  343
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  101.27,
+                                     "tv":  441
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -27952,15 +27961,6 @@
                                      "pe":  0,
                                      "km":  65.65,
                                      "tv":  472
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  95.15,
-                                     "tv":  368
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -28008,6 +28008,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  148.84,
+                                     "tv":  255
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -28015,15 +28024,6 @@
                                      "pe":  1,
                                      "km":  154.43,
                                      "tv":  204
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  121.23,
-                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Maira",
@@ -28186,6 +28186,13 @@
                                        "p":  1,
                                        "km":  43.5,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                                       "p":  1,
+                                       "km":  6.12,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -28431,6 +28438,13 @@
                                        "p":  1,
                                        "km":  0.95,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  27.61,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Luis",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -64,6 +64,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  101.27,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:09",
+                     "ultimo":  "16:56",
+                     "tv":  "07:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
@@ -91,21 +106,6 @@ window.PAINEL = {
                      "ultimo":  "16:52",
                      "tv":  "07:52:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  95.15,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:09",
-                     "ultimo":  "15:27",
-                     "tv":  "06:08:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "16:42",
                      "tv":  "06:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  148.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:01",
+                     "ultimo":  "17:07",
+                     "tv":  "04:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -197,21 +212,6 @@ window.PAINEL = {
                      "tv":  "03:24:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  121.23,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:01",
-                     "ultimo":  "13:19",
-                     "tv":  "03:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "16:46",
                      "tv":  "04:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:49",
                      "ultimo":  "16:34",
                      "tv":  "04:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -454,6 +454,15 @@ window.PAINEL = {
                          "out":  "15:27:52",
                          "km":  43.5,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                         "mun":  "ARARAS",
+                         "in":  "15:42:35",
+                         "out":  "16:56:26",
+                         "km":  6.12,
+                         "dur":  "01:13:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -769,6 +778,15 @@ window.PAINEL = {
                          "out":  "13:19:09",
                          "km":  0.95,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:13:55",
+                         "out":  "17:07:47",
+                         "km":  27.61,
+                         "dur":  "00:53:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1591,7 +1609,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido rede Qualimais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:49"
+                        "tempo":  "01:01:32"
                     },
                     {
                         "nome":  "Maira",
@@ -1599,7 +1617,7 @@ window.PAINEL = {
                         "obs":  "Qualymais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:18"
+                        "tempo":  "00:53:01"
                     },
                     {
                         "nome":  "Rachel",
@@ -1607,7 +1625,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:10"
+                        "tempo":  "00:47:53"
                     },
                     {
                         "nome":  "Luis",
@@ -1615,7 +1633,7 @@ window.PAINEL = {
                         "obs":  "Rede Fernando Palmieri",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:54"
+                        "tempo":  "00:46:37"
                     }
                 ],
     "semped":  [
@@ -1730,46 +1748,46 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
-                         "mun":  "ARARAS",
-                         "tempo":  "01:11:52"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:46:51"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SILMELO SUPERMERCADO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:40:32"
+                         "nome":  "Sao Carlos",
+                         "razao":  "A. BELINELLI DE JESUS EIRELI",
+                         "mun":  "AMERICO BRASILI",
+                         "tempo":  "00:12:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:38:22"
+                         "tempo":  "00:53:15"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ANTONIO RODRIGUES DE MOURA JUNIOR 407611",
+                         "mun":  "NATIVIDADE DA S",
+                         "tempo":  "00:09:39"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "293:34:12"
+                         "tempo":  "293:49:05"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:18:36"
+                         "tempo":  "01:33:29"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:55:46"
+                         "tempo":  "02:10:39"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SANTA BRANCA",
+                         "tempo":  "00:01:24"
                      }
                  ],
     "hist":  [
@@ -1875,7 +1893,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     108,
+                     111,
                      20
                  ]
              ],
@@ -29778,7 +29796,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29817,6 +29835,15 @@ window.PAINEL = {
                                                        "tv":  343
                                                    },
                                                    {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  101.27,
+                                                       "tv":  441
+                                                   },
+                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -29833,15 +29860,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  65.65,
                                                        "tv":  472
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  95.15,
-                                                       "tv":  368
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -29889,6 +29907,15 @@ window.PAINEL = {
                                                        "tv":  252
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  148.84,
+                                                       "tv":  255
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -29896,15 +29923,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  154.43,
                                                        "tv":  204
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  121.23,
-                                                       "tv":  202
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -30067,6 +30085,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  43.5,
                                                          "tv":  69
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                                                         "p":  1,
+                                                         "km":  6.12,
+                                                         "tv":  73
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -30312,6 +30337,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.95,
                                                          "tv":  56
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  27.61,
+                                                         "tv":  53
                                                      },
                                                      {
                                                          "n":  "Luis",
