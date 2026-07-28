@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -1695,7 +1695,7 @@ window.PAINEL = {
                         "obs":  "Américo Brasiliense a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:55:09"
+                        "tempo":  "01:09:35"
                     }
                 ],
     "semped":  [
@@ -1831,13 +1831,13 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "294:48:58"
+                         "tempo":  "295:03:29"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:10:32"
+                         "tempo":  "03:25:03"
                      }
                  ],
     "hist":  [
@@ -29846,7 +29846,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
