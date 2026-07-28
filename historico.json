@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27930,10 +27930,19 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  53.76,
+                                     "tv":  287
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  53.64,
-                                     "tv":  191
+                                     "km":  95.15,
+                                     "tv":  368
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -27952,15 +27961,6 @@
                                      "pe":  0,
                                      "km":  57.56,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  51.65,
-                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -27993,10 +27993,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  24.76,
+                                     "tv":  252
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
                                      "vi":  5,
-                                     "pe":  4,
-                                     "km":  23.66,
-                                     "tv":  232
+                                     "pe":  3,
+                                     "km":  57.62,
+                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Luis",
@@ -28006,15 +28015,6 @@
                                      "pe":  1,
                                      "km":  154.43,
                                      "tv":  204
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  56.92,
-                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -28047,19 +28047,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  3,
-                                     "km":  35.46,
-                                     "tv":  242
+                                     "vi":  8,
+                                     "pe":  4,
+                                     "km":  46.26,
+                                     "tv":  327
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  72.07,
-                                     "tv":  240
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  73.05,
+                                     "tv":  326
                                  },
                                  {
                                      "nome":  "Castro",
@@ -28172,6 +28172,13 @@
                                        "p":  1,
                                        "km":  1.15,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                       "p":  1,
+                                       "km":  43.5,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -28349,6 +28356,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  0.12,
+                                       "tv":  96
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -28503,6 +28517,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA",
+                                       "p":  1,
+                                       "km":  1.1,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA",
                                        "p":  1,
@@ -28529,6 +28550,13 @@
                                        "p":  0,
                                        "km":  12.08,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "D. ALVES JUNIOR E CIA LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0.7,
+                                       "tv":  79
                                    },
                                    {
                                        "n":  "Alan",
@@ -28580,6 +28608,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  10.8,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                                        "p":  1,
@@ -28622,6 +28657,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "BELLA PLANTA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.62,
+                                       "tv":  95
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "M.C.B SERVICOS EMPRESARIAIS E PREDIAIS L",
                                        "p":  1,
@@ -28648,6 +28690,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  0.98,
+                                       "tv":  86
                                    },
                                    {
                                        "n":  "Karina",
