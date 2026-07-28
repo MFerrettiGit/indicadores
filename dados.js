@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "11:42",
                      "tv":  "03:48:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -47,6 +47,21 @@ window.PAINEL = {
                      "tv":  "03:34:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  57.56,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:52",
+                     "ultimo":  "12:46",
+                     "tv":  "05:01:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Vinicius",
@@ -92,21 +107,6 @@ window.PAINEL = {
                      "tv":  "03:42:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  46.86,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:52",
-                     "ultimo":  "10:39",
-                     "tv":  "03:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  12.12,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "09:10",
+                     "ultimo":  "12:41",
+                     "tv":  "02:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -212,21 +227,6 @@ window.PAINEL = {
                      "tv":  "02:27:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  4.84,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "09:10",
-                     "ultimo":  "09:56",
-                     "tv":  "00:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "12:29",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -472,6 +472,15 @@ window.PAINEL = {
                          "out":  "10:39:03",
                          "km":  21.52,
                          "dur":  "01:04:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "10:56:15",
+                         "out":  "12:46:30",
+                         "km":  10.7,
+                         "dur":  "01:50:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -643,6 +652,15 @@ window.PAINEL = {
                          "out":  "09:56:09",
                          "km":  4.84,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO STA.U.WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "10:46:23",
+                         "out":  "12:41:48",
+                         "km":  7.28,
+                         "dur":  "01:55:00"
                      },
                      {
                          "nome":  "Milene",
@@ -948,12 +966,28 @@ window.PAINEL = {
                         "tempo":  "01:29:47"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Guaíra o Ipuã",
+                        "inicio":  "12:15",
+                        "final":  "12:52",
+                        "tempo":  "00:36:58"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a Capão Bonito",
                         "inicio":  "07:53",
                         "final":  "08:33",
                         "tempo":  "00:40:04"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:52",
+                        "final":  "12:54",
+                        "tempo":  "01:02:05"
                     },
                     {
                         "nome":  "Milene",
@@ -1004,20 +1038,12 @@ window.PAINEL = {
                         "tempo":  "00:24:58"
                     },
                     {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:59"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:49"
+                        "tempo":  "00:54:53"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1025,15 +1051,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:35"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Guaíra o Ipuã",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:18"
+                        "tempo":  "00:46:39"
                     },
                     {
                         "nome":  "Cominato",
@@ -1041,7 +1059,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:53"
+                        "tempo":  "00:32:57"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1049,7 +1067,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:54"
+                        "tempo":  "00:30:58"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1057,7 +1075,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:02"
+                        "tempo":  "00:20:06"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:10"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:26"
                     }
                 ],
     "semped":  [
@@ -1133,61 +1167,49 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "COSMOPOLIS",
-                         "tempo":  "00:34:19"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "01:43:01"
+                         "tempo":  "00:49:21"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:53:24"
+                         "tempo":  "01:08:26"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:17:10"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO STA.U.WENG LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:52:53"
+                         "tempo":  "00:32:12"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:05:34"
+                         "tempo":  "00:20:36"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "LUCAS SUPERMERCADO DUMONT LTDA",
                          "mun":  "DUMONT",
-                         "tempo":  "00:16:23"
+                         "tempo":  "00:31:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MARCIO APARECIDO DE PAULA LANCHONETE",
                          "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:34:55"
+                         "tempo":  "00:49:57"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "289:19:01"
+                         "tempo":  "289:34:03"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:30:01"
+                         "tempo":  "00:45:03"
                      }
                  ],
     "hist":  [
@@ -1293,7 +1315,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     62,
+                     64,
                      12
                  ]
              ],
@@ -29196,7 +29218,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29226,6 +29248,15 @@ window.PAINEL = {
                                                        "tv":  214
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  57.56,
+                                                       "tv":  301
+                                                   },
+                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
@@ -29251,15 +29282,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  20.19,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  46.86,
-                                                       "tv":  191
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -29316,6 +29338,15 @@ window.PAINEL = {
                                                        "tv":  146
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  12.12,
+                                                       "tv":  160
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -29323,15 +29354,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  19.12,
                                                        "tv":  147
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  4.84,
-                                                       "tv":  45
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -29501,6 +29523,13 @@ window.PAINEL = {
                                                          "tv":  64
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  10.7,
+                                                         "tv":  110
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "IRMAOS BOA LTDA",
                                                          "p":  1,
@@ -29632,6 +29661,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.84,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO STA.U.WENG LTDA",
+                                                         "p":  1,
+                                                         "km":  7.28,
+                                                         "tv":  115
                                                      },
                                                      {
                                                          "n":  "Milene",

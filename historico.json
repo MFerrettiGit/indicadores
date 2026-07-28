@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27927,6 +27927,15 @@
                                      "tv":  214
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  57.56,
+                                     "tv":  301
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -27952,15 +27961,6 @@
                                      "pe":  0,
                                      "km":  20.19,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  46.86,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -28017,6 +28017,15 @@
                                      "tv":  146
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  12.12,
+                                     "tv":  160
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -28024,15 +28033,6 @@
                                      "pe":  2,
                                      "km":  19.12,
                                      "tv":  147
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.84,
-                                     "tv":  45
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28202,6 +28202,13 @@
                                        "tv":  64
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  10.7,
+                                       "tv":  110
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -28333,6 +28340,13 @@
                                        "p":  0,
                                        "km":  4.84,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO STA.U.WENG LTDA",
+                                       "p":  1,
+                                       "km":  7.28,
+                                       "tv":  115
                                    },
                                    {
                                        "n":  "Milene",
