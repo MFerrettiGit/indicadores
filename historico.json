@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  76.92,
+                                     "tv":  352
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -27907,15 +27916,6 @@
                                      "pe":  0,
                                      "km":  42.37,
                                      "tv":  319
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  74.41,
-                                     "tv":  320
                                  },
                                  {
                                      "nome":  "Aline",
@@ -27936,6 +27936,15 @@
                                      "tv":  287
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  36.47,
+                                     "tv":  327
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -27943,15 +27952,6 @@
                                      "pe":  0,
                                      "km":  95.15,
                                      "tv":  368
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  28.15,
-                                     "tv":  256
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -28053,6 +28053,15 @@
                                      "tv":  327
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  56.76,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28060,15 +28069,6 @@
                                      "pe":  5,
                                      "km":  73.05,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  56.76,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Castro",
@@ -28209,6 +28209,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  8.32,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                                        "p":  0,
@@ -28326,6 +28333,13 @@
                                        "p":  1,
                                        "km":  3.36,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  2.51,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -28739,6 +28753,13 @@
                                        "p":  1,
                                        "km":  13.33,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ANGELA BENEDITA DE PAULO BONI",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Mariangela",
