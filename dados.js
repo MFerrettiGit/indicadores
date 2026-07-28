@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "07:45",
+    "dataHora":  "08:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -174,14 +174,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.72,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -324,14 +324,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.5,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -380,9 +380,9 @@ window.PAINEL = {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "Feriado /aniversário da Cidade de Sjc",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "23:25:56"
+                        "inicio":  "08:13",
+                        "final":  "07:47",
+                        "tempo":  "23:33:22"
                     },
                     {
                         "nome":  "Milene",
@@ -390,7 +390,31 @@ window.PAINEL = {
                         "obs":  "reunião na escola da minha filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:07"
+                        "tempo":  "00:59:13"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Consulta",
+                        "obs":  "dentista",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:27"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Araraquara",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:03"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Itapetininga a Capão Bonito",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:26"
                     }
                 ],
     "semped":  [
@@ -401,43 +425,43 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:30:03"
+                         "tempo":  "00:45:09"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:46:14"
+                         "tempo":  "01:01:20"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:21:08"
+                         "tempo":  "00:36:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "00:46:50"
+                         "tempo":  "01:01:56"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:34:27"
+                         "tempo":  "00:49:33"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:29:34"
+                         "tempo":  "00:44:40"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "284:18:53"
+                         "tempo":  "284:33:59"
                      }
                  ],
     "hist":  [
@@ -28446,7 +28470,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "07:45",
+                                         "dataHora":  "08:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -28553,7 +28577,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.72,
                                                        "tv":  0
                                                    },
                                                    {
@@ -28643,7 +28667,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.5,
                                                        "tv":  0
                                                    },
                                                    {
