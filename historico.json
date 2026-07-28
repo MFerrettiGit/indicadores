@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27975,10 +27975,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  57.9,
-                                     "tv":  135
+                                     "km":  61.45,
+                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27988,6 +27988,15 @@
                                      "pe":  0,
                                      "km":  78.02,
                                      "tv":  119
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  121.23,
+                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Luis",
@@ -28006,15 +28015,6 @@
                                      "pe":  2,
                                      "km":  44.84,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  120.28,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Maira",
@@ -28062,6 +28062,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  35.27,
+                                     "tv":  156
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28071,13 +28080,13 @@
                                      "tv":  209
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  34.83,
-                                     "tv":  95
+                                     "km":  43.31,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -28087,15 +28096,6 @@
                                      "pe":  2,
                                      "km":  65.94,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.96,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -28314,6 +28314,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "LUCAS SUPERMERCADO DUMONT LTDA",
+                                       "p":  1,
+                                       "km":  0.95,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
                                        "p":  0,
@@ -28375,6 +28382,13 @@
                                        "p":  1,
                                        "km":  4.15,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.55,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Rachel",
@@ -28550,6 +28564,13 @@
                                        "p":  1,
                                        "km":  0.55,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "RIBEIRO",
+                                       "p":  1,
+                                       "km":  0.44,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Nelson",
