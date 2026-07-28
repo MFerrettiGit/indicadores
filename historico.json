@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27907,6 +27907,15 @@
                                      "pe":  0,
                                      "km":  38.55,
                                      "tv":  228
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  53.64,
+                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -27934,15 +27943,6 @@
                                      "pe":  0,
                                      "km":  57.56,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  35.57,
-                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Debora",
@@ -28286,6 +28286,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  18.07,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -28515,6 +28522,13 @@
                                        "p":  1,
                                        "km":  42.96,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARCIO APARECIDO DE PAULA LANCHONETE",
+                                       "p":  1,
+                                       "km":  0.35,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Mariangela",

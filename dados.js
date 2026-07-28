@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,8 +15,23 @@ window.PAINEL = {
                      "primeiro":  "06:58",
                      "ultimo":  "11:42",
                      "tv":  "03:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  53.64,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "12:55",
+                     "tv":  "03:11:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Silmara",
@@ -64,21 +79,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  35.57,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:04",
-                     "ultimo":  "10:50",
-                     "tv":  "02:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -106,7 +106,7 @@ window.PAINEL = {
                      "ultimo":  "11:52",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "09:25",
                      "ultimo":  "11:25",
                      "tv":  "01:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:41",
                      "tv":  "02:40:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:44",
                      "tv":  "02:27:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -582,6 +582,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "in":  "11:45:52",
+                         "out":  "12:55:54",
+                         "km":  18.07,
+                         "dur":  "01:09:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
@@ -879,6 +888,15 @@ window.PAINEL = {
                          "dur":  "00:31:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MARCIO APARECIDO DE PAULA LANCHONETE",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "12:04:21",
+                         "out":  "13:09:56",
+                         "km":  0.35,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -958,6 +976,14 @@ window.PAINEL = {
                         "tempo":  "01:10:21"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:00",
+                        "final":  "13:00",
+                        "tempo":  "01:00:09"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guaíra",
@@ -988,6 +1014,14 @@ window.PAINEL = {
                         "inicio":  "11:52",
                         "final":  "12:54",
                         "tempo":  "01:02:05"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:08",
+                        "final":  "13:03",
+                        "tempo":  "00:54:31"
                     },
                     {
                         "nome":  "Milene",
@@ -1038,28 +1072,12 @@ window.PAINEL = {
                         "tempo":  "00:24:58"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:53"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:46:39"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:57"
+                        "tempo":  "00:48:07"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1067,7 +1085,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:58"
+                        "tempo":  "00:46:08"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1075,7 +1093,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:06"
+                        "tempo":  "00:35:16"
                     },
                     {
                         "nome":  "Nelson",
@@ -1083,7 +1101,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:10"
+                        "tempo":  "00:27:20"
                     },
                     {
                         "nome":  "Eliana",
@@ -1091,7 +1109,31 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:26"
+                        "tempo":  "00:20:36"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:28"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:40"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:22"
                     }
                 ],
     "semped":  [
@@ -1164,52 +1206,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:00:37"
+                     },
+                     {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "COSMOPOLIS",
-                         "tempo":  "00:49:21"
+                         "tempo":  "01:04:25"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
-                         "mun":  "CERQUILHO",
-                         "tempo":  "01:08:26"
+                         "nome":  "Evandro",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:40"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:32:12"
+                         "tempo":  "00:47:16"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:20:36"
+                         "tempo":  "00:35:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "LUCAS SUPERMERCADO DUMONT LTDA",
                          "mun":  "DUMONT",
-                         "tempo":  "00:31:25"
+                         "tempo":  "00:46:29"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MARCIO APARECIDO DE PAULA LANCHONETE",
                          "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:49:57"
+                         "tempo":  "01:05:01"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "289:34:03"
+                         "tempo":  "289:49:07"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:45:03"
+                         "tempo":  "01:00:07"
                      }
                  ],
     "hist":  [
@@ -1315,7 +1363,7 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     64,
+                     65,
                      12
                  ]
              ],
@@ -29218,7 +29266,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29228,6 +29276,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  38.55,
                                                        "tv":  228
+                                                   },
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  53.64,
+                                                       "tv":  191
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -29255,15 +29312,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  57.56,
                                                        "tv":  301
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  35.57,
-                                                       "tv":  122
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -29607,6 +29655,13 @@ window.PAINEL = {
                                                          "tv":  26
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                                         "p":  1,
+                                                         "km":  18.07,
+                                                         "tv":  69
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -29836,6 +29891,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  42.96,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MARCIO APARECIDO DE PAULA LANCHONETE",
+                                                         "p":  1,
+                                                         "km":  0.35,
+                                                         "tv":  65
                                                      },
                                                      {
                                                          "n":  "Mariangela",
