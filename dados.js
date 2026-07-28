@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  70.13,
+                     "km":  70.43,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:16",
@@ -174,14 +174,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  24.76,
+                     "km":  45.16,
                      "semPed":  1,
                      "perc":  16.67,
                      "primeiro":  "09:11",
                      "ultimo":  "15:32",
                      "tv":  "04:12:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  154.43,
+                     "km":  229.51,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "09:37",
                      "ultimo":  "15:01",
                      "tv":  "03:24:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "17:20",
                      "tv":  "04:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -324,28 +324,28 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  54.71,
+                     "km":  79.36,
                      "semPed":  1,
                      "perc":  33.33,
                      "primeiro":  "08:02",
                      "ultimo":  "15:40",
                      "tv":  "05:15:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
+                     "visitas":  3,
                      "km":  65.94,
-                     "semPed":  0,
-                     "perc":  0,
+                     "semPed":  1,
+                     "perc":  33.33,
                      "primeiro":  "08:34",
-                     "ultimo":  "12:29",
-                     "tv":  "03:06:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:41",
+                     "tv":  "05:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1372,6 +1372,15 @@ window.PAINEL = {
                          "out":  "12:29:36",
                          "km":  3.78,
                          "dur":  "01:26:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:35:51",
+                         "out":  "17:41:05",
+                         "km":  0,
+                         "dur":  "02:05:00"
                      }
                  ],
     "eventos":  [
@@ -1448,6 +1457,14 @@ window.PAINEL = {
                         "tempo":  "00:49:41"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "cubatao",
+                        "inicio":  "16:22",
+                        "final":  "17:47",
+                        "tempo":  "01:24:28"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guaíra",
@@ -1478,6 +1495,14 @@ window.PAINEL = {
                         "inicio":  "15:04",
                         "final":  "16:19",
                         "tempo":  "01:14:58"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Fernando Palmieri",
+                        "inicio":  "16:24",
+                        "final":  "17:50",
+                        "tempo":  "01:26:33"
                     },
                     {
                         "nome":  "Nelson",
@@ -1518,6 +1543,14 @@ window.PAINEL = {
                         "inicio":  "12:22",
                         "final":  "13:22",
                         "tempo":  "01:00:03"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido rede Qualimais",
+                        "inicio":  "16:09",
+                        "final":  "17:53",
+                        "tempo":  "01:43:45"
                     },
                     {
                         "nome":  "Debora",
@@ -1640,36 +1673,12 @@ window.PAINEL = {
                         "tempo":  "00:58:53"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Digitar pedido rede Qualimais",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:31:33"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "Qualymais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:02"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "cubatao",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:17:54"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Fernando Palmieri",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:16:38"
+                        "tempo":  "01:38:09"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1677,7 +1686,7 @@ window.PAINEL = {
                         "obs":  "Américo Brasiliense a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:18"
+                        "tempo":  "00:40:25"
                     }
                 ],
     "semped":  [
@@ -1766,6 +1775,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "Contratando bico para a loja."
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                        "mun":  "JUNDIAI",
@@ -1798,22 +1813,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Karina",
+                         "razao":  "MARITELMA DE SOUSA DUQUE",
+                         "mun":  "NATIVIDADE DA S",
+                         "tempo":  "00:05:33"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "294:19:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "02:03:24"
+                         "tempo":  "294:34:03"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:40:34"
+                         "tempo":  "02:55:37"
                      }
                  ],
     "hist":  [
@@ -1919,8 +1934,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     115,
-                     21
+                     116,
+                     22
                  ]
              ],
     "historico":  {
@@ -29822,7 +29837,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29902,7 +29917,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  70.13,
+                                                       "km":  70.43,
                                                        "tv":  268
                                                    },
                                                    {
@@ -29929,7 +29944,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  5,
-                                                       "km":  24.76,
+                                                       "km":  45.16,
                                                        "tv":  252
                                                    },
                                                    {
@@ -29947,7 +29962,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  154.43,
+                                                       "km":  229.51,
                                                        "tv":  204
                                                    },
                                                    {
@@ -30019,17 +30034,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  2,
-                                                       "km":  54.71,
+                                                       "km":  79.36,
                                                        "tv":  315
                                                    },
                                                    {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  2,
                                                        "km":  65.94,
-                                                       "tv":  186
+                                                       "tv":  311
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -30825,6 +30840,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.78,
                                                          "tv":  86
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  125
                                                      }
                                                  ]
                                      }

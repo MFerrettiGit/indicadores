@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27977,7 +27977,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  70.13,
+                                     "km":  70.43,
                                      "tv":  268
                                  },
                                  {
@@ -28004,7 +28004,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  5,
-                                     "km":  24.76,
+                                     "km":  45.16,
                                      "tv":  252
                                  },
                                  {
@@ -28022,7 +28022,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  154.43,
+                                     "km":  229.51,
                                      "tv":  204
                                  },
                                  {
@@ -28094,17 +28094,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  2,
-                                     "km":  54.71,
+                                     "km":  79.36,
                                      "tv":  315
                                  },
                                  {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
                                      "km":  65.94,
-                                     "tv":  186
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -28900,6 +28900,13 @@
                                        "p":  1,
                                        "km":  3.78,
                                        "tv":  86
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  125
                                    }
                                ]
                    }
