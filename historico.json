@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  66.3,
+                                     "tv":  187
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -27916,15 +27925,6 @@
                                      "pe":  0,
                                      "km":  35.57,
                                      "tv":  122
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  64.85,
-                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Aline",
@@ -27984,10 +27984,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  78.02,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -28062,6 +28062,15 @@
                                      "tv":  69
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  48.15,
+                                     "tv":  183
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -28078,15 +28087,6 @@
                                      "pe":  1,
                                      "km":  33.14,
                                      "tv":  185
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  48.15,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -28221,6 +28221,13 @@
                                        "p":  1,
                                        "km":  4.16,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  1.45,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -28375,6 +28382,13 @@
                                        "p":  1,
                                        "km":  48.15,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MP TUIUTI LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  126
                                    },
                                    {
                                        "n":  "Karina",
