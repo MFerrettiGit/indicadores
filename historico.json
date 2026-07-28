@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  38.55,
+                                     "tv":  228
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -27909,15 +27918,6 @@
                                      "tv":  187
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  35.87,
-                                     "tv":  190
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -27925,6 +27925,15 @@
                                      "pe":  0,
                                      "km":  35.57,
                                      "tv":  122
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.19,
+                                     "tv":  222
                                  },
                                  {
                                      "nome":  "Aline",
@@ -27954,15 +27963,6 @@
                                      "tv":  207
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  19.11,
-                                     "tv":  190
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -27990,6 +27990,15 @@
                                      "tv":  119
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  116.14,
+                                     "tv":  110
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -28008,13 +28017,13 @@
                                      "tv":  94
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
-                                     "pe":  0,
-                                     "km":  115.02,
-                                     "tv":  90
+                                     "pe":  2,
+                                     "km":  19.12,
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Maira",
@@ -28024,15 +28033,6 @@
                                      "pe":  0,
                                      "km":  4.84,
                                      "tv":  45
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.19,
-                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28132,6 +28132,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.10",
+                                       "p":  1,
+                                       "km":  10.78,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -28158,6 +28165,13 @@
                                        "p":  1,
                                        "km":  3.72,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  1.08,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -28200,6 +28214,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  2.68,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Silmara",
@@ -28279,6 +28300,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "MURAISHI E VALIZE COMERCIO DE PRODUTOS A",
+                                       "p":  0,
+                                       "km":  1.12,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28305,6 +28333,13 @@
                                        "p":  1,
                                        "km":  16.19,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.93,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Sao Carlos",
