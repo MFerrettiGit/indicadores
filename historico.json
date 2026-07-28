@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -27909,6 +27909,15 @@
                                      "tv":  352
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  110.47,
+                                     "tv":  425
+                                 },
+                                 {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
@@ -27916,15 +27925,6 @@
                                      "pe":  0,
                                      "km":  42.37,
                                      "tv":  319
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  106.46,
-                                     "tv":  376
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -28047,10 +28047,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  8,
-                                     "pe":  4,
-                                     "km":  46.26,
-                                     "tv":  327
+                                     "vi":  9,
+                                     "pe":  5,
+                                     "km":  50.71,
+                                     "tv":  383
                                  },
                                  {
                                      "nome":  "Karina",
@@ -28071,6 +28071,15 @@
                                      "tv":  326
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  35.27,
+                                     "tv":  287
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -28078,15 +28087,6 @@
                                      "pe":  3,
                                      "km":  48.05,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  35.27,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -28151,6 +28151,13 @@
                                        "p":  1,
                                        "km":  16.27,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  4.01,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Debora",
@@ -28636,6 +28643,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
+                                       "p":  1,
+                                       "km":  4.45,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                                        "p":  1,
@@ -28788,6 +28802,13 @@
                                        "p":  1,
                                        "km":  0.44,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "RIBEIRO",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  131
                                    },
                                    {
                                        "n":  "Nelson",
