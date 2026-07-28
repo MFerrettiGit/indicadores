@@ -27897,8 +27897,17 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  35.87,
+                                     "tv":  130
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -27925,15 +27934,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  31.52,
-                                     "tv":  36
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -28026,8 +28026,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -28035,8 +28035,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -28053,6 +28053,15 @@
                                      "tv":  59
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  25.28,
+                                     "tv":  54
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28060,15 +28069,6 @@
                                      "pe":  1,
                                      "km":  48.15,
                                      "tv":  57
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  13.55,
-                                     "tv":  29
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -28153,6 +28153,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  4.35,
+                                       "tv":  94
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -28193,6 +28200,13 @@
                                        "p":  1,
                                        "km":  13.55,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                       "p":  0,
+                                       "km":  11.73,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Eugenio",
