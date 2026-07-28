@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27975,19 +27975,37 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  61.45,
-                                     "tv":  183
+                                     "km":  70.13,
+                                     "tv":  268
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  78.02,
-                                     "tv":  119
+                                     "km":  110.73,
+                                     "tv":  233
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  23.66,
+                                     "tv":  232
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  154.43,
+                                     "tv":  204
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -28008,31 +28026,13 @@
                                      "tv":  202
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  21.16,
-                                     "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  117.24,
-                                     "tv":  127
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  12.12,
-                                     "tv":  160
+                                     "km":  23.64,
+                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28200,6 +28200,13 @@
                                        "p":  0,
                                        "km":  78.02,
                                        "tv":  119
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  0,
+                                       "km":  32.71,
+                                       "tv":  114
                                    },
                                    {
                                        "n":  "Eliana",
@@ -28391,6 +28398,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                                       "p":  1,
+                                       "km":  37.19,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28403,6 +28417,13 @@
                                        "p":  1,
                                        "km":  7.28,
                                        "tv":  115
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  11.52,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Milene",
@@ -28433,6 +28454,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  8.68,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ALMIR ROGERIO RODRIGUES PRANDO",
                                        "p":  1,
@@ -28459,6 +28487,13 @@
                                        "p":  1,
                                        "km":  0.56,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                       "p":  1,
+                                       "km":  2.5,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Sao Carlos",
