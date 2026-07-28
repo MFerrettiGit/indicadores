@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27907,6 +27907,24 @@
                                      "pe":  0,
                                      "km":  35.87,
                                      "tv":  190
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  35.57,
+                                     "tv":  122
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.85,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Aline",
@@ -27927,31 +27945,13 @@
                                      "tv":  191
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  35.37,
-                                     "tv":  96
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  60.69,
-                                     "tv":  153
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  48.2,
-                                     "tv":  88
+                                     "km":  50.5,
+                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -27975,10 +27975,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  48.91,
-                                     "tv":  27
+                                     "km":  53.75,
+                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -28002,10 +28002,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  78.96,
-                                     "tv":  72
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  80.15,
+                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Maira",
@@ -28062,6 +28062,15 @@
                                      "tv":  69
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.28,
+                                     "tv":  39
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -28087,15 +28096,6 @@
                                      "pe":  1,
                                      "km":  0,
                                      "tv":  72
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  34.14,
-                                     "tv":  18
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -28137,6 +28137,13 @@
                                        "p":  1,
                                        "km":  48.2,
                                        "tv":  88
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.3,
+                                       "tv":  119
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -28195,6 +28202,13 @@
                                        "tv":  106
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  4.16,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.20",
                                        "p":  1,
@@ -28209,11 +28223,25 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  0.2,
+                                       "tv":  26
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  57.61,
                                        "tv":  72
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO COLISEU GUARIBA LTDA-EPP",
+                                       "p":  1,
+                                       "km":  1.19,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Luis",
@@ -28235,6 +28263,13 @@
                                        "p":  1,
                                        "km":  23.84,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.84,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Rachel",
@@ -28319,6 +28354,13 @@
                                        "p":  1,
                                        "km":  34.14,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  0.14,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Nelson",
