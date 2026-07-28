@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27975,10 +27975,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  25.07,
-                                     "tv":  0
+                                     "km":  48.91,
+                                     "tv":  27
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -27993,10 +27993,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.72,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  41.58,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -28044,6 +28044,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  25.28,
+                                     "tv":  69
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -28051,15 +28060,6 @@
                                      "pe":  1,
                                      "km":  8.36,
                                      "tv":  59
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  25.28,
-                                     "tv":  54
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -28098,8 +28098,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -28107,8 +28107,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -28181,6 +28181,20 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  23.84,
+                                       "tv":  27
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TIBA LTDA",
+                                       "p":  1,
+                                       "km":  40.86,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -28207,6 +28221,13 @@
                                        "p":  0,
                                        "km":  11.73,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Eugenio",
