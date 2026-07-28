@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28008,6 +28008,15 @@
                                      "tv":  94
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  115.02,
+                                     "tv":  90
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -28026,15 +28035,6 @@
                                      "tv":  73
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  113.39,
-                                     "tv":  55
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -28047,10 +28047,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  29.5,
-                                     "tv":  113
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  32.42,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Castro",
@@ -28160,6 +28160,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                                       "p":  0,
+                                       "km":  78.02,
+                                       "tv":  119
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -28258,6 +28265,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
+                                       "p":  0,
+                                       "km":  1.63,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -28319,6 +28333,13 @@
                                        "p":  1,
                                        "km":  21.14,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "G DE A SANTOS MERCADO",
+                                       "p":  1,
+                                       "km":  2.92,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Castro",

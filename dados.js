@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:09",
                      "ultimo":  "10:46",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:18",
                      "ultimo":  "11:01",
                      "tv":  "03:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  115.02,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "09:37",
+                     "ultimo":  "11:22",
+                     "tv":  "01:30:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -214,21 +229,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  113.39,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "09:37",
-                     "ultimo":  "10:33",
-                     "tv":  "00:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  29.5,
+                     "visitas":  4,
+                     "km":  32.42,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:00",
-                     "ultimo":  "10:24",
-                     "tv":  "01:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:18",
+                     "tv":  "02:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -420,6 +420,15 @@ window.PAINEL = {
                          "dur":  "01:10:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                         "mun":  "SUMARE",
+                         "in":  "09:25:22",
+                         "out":  "11:25:08",
+                         "km":  78.02,
+                         "dur":  "01:59:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
@@ -546,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
+                         "mun":  "GUAIRA",
+                         "in":  "10:46:27",
+                         "out":  "11:22:06",
+                         "km":  1.63,
+                         "dur":  "00:35:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPER.STA.UNIAO WENG LTDA",
                          "mun":  "SANTA BARBARA D",
@@ -625,6 +643,15 @@ window.PAINEL = {
                          "out":  "10:24:26",
                          "km":  21.14,
                          "dur":  "00:54:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "G DE A SANTOS MERCADO",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:32:39",
+                         "out":  "11:18:24",
+                         "km":  2.92,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Castro",
@@ -795,7 +822,7 @@ window.PAINEL = {
                         "obs":  "indo para Paraibuna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:09"
+                        "tempo":  "00:29:10"
                     }
                 ],
     "semped":  [
@@ -810,6 +837,18 @@ window.PAINEL = {
                        "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                        "mun":  "CAMPINAS",
                        "obs":  "reunião gestor rangel"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                       "mun":  "SUMARE",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
+                       "mun":  "GUAIRA",
+                       "obs":  "prospecção introdução"
                    },
                    {
                        "nome":  "Luis",
@@ -835,97 +874,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "01:44:01"
+                         "tempo":  "01:59:01"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:12:49"
+                         "tempo":  "00:27:49"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.10",
                          "mun":  "COSMOPOLIS",
-                         "tempo":  "00:05:30"
+                         "tempo":  "00:20:30"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:05:58"
+                         "tempo":  "00:20:58"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:04:44"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:13:08"
+                         "tempo":  "00:28:08"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:08:13"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO STA.U.WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:23:00"
+                         "tempo":  "00:38:00"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "SERRA NEGRA",
-                         "tempo":  "00:39:32"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
-                         "mun":  "GUAIRA",
-                         "tempo":  "00:22:56"
+                         "tempo":  "00:54:32"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:04:42"
+                         "tempo":  "00:19:42"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "00:36:11"
+                         "tempo":  "00:51:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MP TUIUTI LTDA",
                          "mun":  "TUIUTI",
-                         "tempo":  "01:49:31"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "G DE A SANTOS MERCADO",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:36:44"
+                         "tempo":  "02:04:31"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "287:49:08"
+                         "tempo":  "288:04:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "REDE SUPERMERCADO AMIZADE CAPAO BONITO",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:06:33"
+                         "tempo":  "00:21:33"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:06:08"
+                         "tempo":  "01:21:08"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:03:45"
+                         "tempo":  "00:18:45"
                      }
                  ],
     "hist":  [
@@ -1031,8 +1070,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     39,
-                     6
+                     41,
+                     7
                  ]
              ],
     "historico":  {
@@ -28934,7 +28973,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29045,6 +29084,15 @@ window.PAINEL = {
                                                        "tv":  94
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  115.02,
+                                                       "tv":  90
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -29063,15 +29111,6 @@ window.PAINEL = {
                                                        "tv":  73
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  113.39,
-                                                       "tv":  55
-                                                   },
-                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -29084,10 +29123,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  29.5,
-                                                       "tv":  113
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  32.42,
+                                                       "tv":  158
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -29197,6 +29236,13 @@ window.PAINEL = {
                                                          "tv":  70
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                                                         "p":  0,
+                                                         "km":  78.02,
+                                                         "tv":  119
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA - LJ.05",
                                                          "p":  1,
@@ -29295,6 +29341,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO MUTIRAO DE GUAIRA LTDA",
+                                                         "p":  0,
+                                                         "km":  1.63,
+                                                         "tv":  35
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPER.STA.UNIAO WENG LTDA",
                                                          "p":  0,
@@ -29356,6 +29409,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.14,
                                                          "tv":  54
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "G DE A SANTOS MERCADO",
+                                                         "p":  1,
+                                                         "km":  2.92,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Castro",
