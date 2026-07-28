@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27993,10 +27993,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  4,
-                                     "km":  59.73,
-                                     "tv":  362
+                                     "km":  61.04,
+                                     "tv":  380
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -28056,10 +28056,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  7,
-                                     "km":  63.74,
-                                     "tv":  265
+                                     "vi":  8,
+                                     "pe":  8,
+                                     "km":  69.48,
+                                     "tv":  286
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -28629,6 +28629,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "A. BELINELLI DE JESUS EIRELI",
+                                       "p":  0,
+                                       "km":  1.31,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -28823,6 +28830,13 @@
                                        "p":  1,
                                        "km":  6.98,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ANTONIO RODRIGUES DE MOURA JUNIOR 407611",
+                                       "p":  1,
+                                       "km":  5.74,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Mariangela",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "28/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,15 +158,15 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  59.73,
-                     "semPed":  2,
-                     "perc":  33.33,
+                     "visitas":  7,
+                     "km":  61.04,
+                     "semPed":  3,
+                     "perc":  42.86,
                      "primeiro":  "08:30",
-                     "ultimo":  "16:42",
-                     "tv":  "06:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "17:15",
+                     "tv":  "06:20:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  63.74,
+                     "visitas":  8,
+                     "km":  69.48,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:00",
-                     "ultimo":  "16:46",
-                     "tv":  "04:25:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:20",
+                     "tv":  "04:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1023,6 +1023,15 @@ window.PAINEL = {
                          "dur":  "01:09:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "A. BELINELLI DE JESUS EIRELI",
+                         "mun":  "AMERICO BRASILI",
+                         "in":  "16:56:36",
+                         "out":  "17:15:05",
+                         "km":  1.31,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -1273,6 +1282,15 @@ window.PAINEL = {
                          "out":  "16:46:01",
                          "km":  6.98,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ANTONIO RODRIGUES DE MOURA JUNIOR 407611",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "16:59:41",
+                         "out":  "17:20:56",
+                         "km":  5.74,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1609,7 +1627,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido rede Qualimais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:01:32"
+                        "tempo":  "01:16:39"
                     },
                     {
                         "nome":  "Maira",
@@ -1617,7 +1635,7 @@ window.PAINEL = {
                         "obs":  "Qualymais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:01"
+                        "tempo":  "01:08:08"
                     },
                     {
                         "nome":  "Rachel",
@@ -1625,7 +1643,7 @@ window.PAINEL = {
                         "obs":  "cubatao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:53"
+                        "tempo":  "01:03:00"
                     },
                     {
                         "nome":  "Luis",
@@ -1633,7 +1651,15 @@ window.PAINEL = {
                         "obs":  "Rede Fernando Palmieri",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:37"
+                        "tempo":  "01:01:44"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Américo Brasiliense a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:24"
                     }
                 ],
     "semped":  [
@@ -1744,50 +1770,44 @@ window.PAINEL = {
                        "razao":  "C. RODRIGUES SILVA MINIMERCADO",
                        "mun":  "AMERICO BRASILI",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "A. BELINELLI DE JESUS EIRELI",
+                       "mun":  "AMERICO BRASILI",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "A. BELINELLI DE JESUS EIRELI",
-                         "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:12:44"
-                     },
-                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:53:15"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "ANTONIO RODRIGUES DE MOURA JUNIOR 407611",
-                         "mun":  "NATIVIDADE DA S",
-                         "tempo":  "00:09:39"
+                         "tempo":  "01:08:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "293:49:05"
+                         "tempo":  "294:04:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:33:29"
+                         "tempo":  "01:48:27"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:10:39"
+                         "tempo":  "02:25:37"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:01:24"
+                         "tempo":  "00:16:22"
                      }
                  ],
     "hist":  [
@@ -1893,8 +1913,8 @@ window.PAINEL = {
                  ],
                  [
                      "28/07",
-                     111,
-                     20
+                     113,
+                     21
                  ]
              ],
     "historico":  {
@@ -29796,7 +29816,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-28":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29892,10 +29912,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  4,
-                                                       "km":  59.73,
-                                                       "tv":  362
+                                                       "km":  61.04,
+                                                       "tv":  380
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -29955,10 +29975,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  7,
-                                                       "km":  63.74,
-                                                       "tv":  265
+                                                       "vi":  8,
+                                                       "pe":  8,
+                                                       "km":  69.48,
+                                                       "tv":  286
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -30528,6 +30548,13 @@ window.PAINEL = {
                                                          "tv":  69
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "A. BELINELLI DE JESUS EIRELI",
+                                                         "p":  0,
+                                                         "km":  1.31,
+                                                         "tv":  18
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0,
@@ -30722,6 +30749,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.98,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ANTONIO RODRIGUES DE MOURA JUNIOR 407611",
+                                                         "p":  1,
+                                                         "km":  5.74,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Mariangela",
