@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28017,6 +28017,15 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  20.6,
+                                     "tv":  193
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -28024,15 +28033,6 @@
                                      "pe":  1,
                                      "km":  12.12,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  19.12,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Costa",
@@ -28424,6 +28424,13 @@
                                        "p":  1,
                                        "km":  2.93,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MARTA GUEDES SARAGIOTTO",
+                                       "p":  0,
+                                       "km":  1.48,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Sao Carlos",
