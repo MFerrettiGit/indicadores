@@ -27897,7 +27897,7 @@
                                ]
                    },
     "2026-07-28":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -27990,6 +27990,15 @@
                                      "tv":  119
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  56.92,
+                                     "tv":  214
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -28006,15 +28015,6 @@
                                      "pe":  0,
                                      "km":  117.24,
                                      "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  44.84,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Maira",
@@ -28053,6 +28053,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  72.07,
+                                     "tv":  240
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -28071,15 +28080,6 @@
                                      "tv":  156
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  72.07,
-                                     "tv":  209
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -28089,6 +28089,15 @@
                                      "tv":  168
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  54.09,
+                                     "tv":  220
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -28096,15 +28105,6 @@
                                      "pe":  2,
                                      "km":  65.94,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  33.14,
-                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -28447,6 +28447,13 @@
                                        "tv":  83
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "C. RODRIGUES SILVA MINIMERCADO",
+                                       "p":  0,
+                                       "km":  12.08,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -28531,6 +28538,13 @@
                                        "tv":  185
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0,
+                                       "km":  20.95,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "M.C.B SERVICOS EMPRESARIAIS E PREDIAIS L",
                                        "p":  1,
@@ -28550,6 +28564,13 @@
                                        "p":  1,
                                        "km":  23.92,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEI-MAR PRODUTOS ALIMENTICIOS LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Karina",
