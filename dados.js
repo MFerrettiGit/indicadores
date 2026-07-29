@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "12:33",
                      "tv":  "04:37:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Edimilson",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  86.96,
+                     "visitas":  5,
+                     "km":  88.58,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:57",
-                     "ultimo":  "11:23",
-                     "tv":  "02:57:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:21",
+                     "tv":  "04:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  72.85,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "10:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:10",
+                     "tv":  "03:07:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  19.91,
-                     "semPed":  2,
-                     "perc":  40,
+                     "visitas":  6,
+                     "km":  20.98,
+                     "semPed":  3,
+                     "perc":  50,
                      "primeiro":  "08:07",
-                     "ultimo":  "13:04",
-                     "tv":  "04:20:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:23",
+                     "tv":  "04:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "12:27",
                      "tv":  "02:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  0,
+                     "visitas":  2,
+                     "km":  25.01,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "09:30",
-                     "tv":  "00:35:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:21",
+                     "tv":  "03:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:29",
                      "tv":  "03:51:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:46",
                      "tv":  "02:55:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "SUMARE",
+                         "in":  "10:03:35",
+                         "out":  "13:10:43",
+                         "km":  72.85,
+                         "dur":  "03:07:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
@@ -582,6 +591,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
+                         "mun":  "MORRO AGUDO",
+                         "in":  "10:05:49",
+                         "out":  "13:21:59",
+                         "km":  25.01,
+                         "dur":  "03:16:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO ZARGON LTDA",
                          "mun":  "LIMEIRA",
@@ -634,6 +652,15 @@ window.PAINEL = {
                          "out":  "11:23:50",
                          "km":  46.53,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "FURLAN",
+                         "mun":  "BRODOWSKI",
+                         "in":  "12:01:32",
+                         "out":  "13:21:40",
+                         "km":  1.62,
+                         "dur":  "01:20:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -706,6 +733,15 @@ window.PAINEL = {
                          "out":  "13:04:44",
                          "km":  1.48,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
+                         "mun":  "IBATE",
+                         "in":  "13:08:00",
+                         "out":  "13:23:48",
+                         "km":  1.07,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Alan",
@@ -897,6 +933,14 @@ window.PAINEL = {
                         "tempo":  "01:02:07"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:30",
+                        "final":  "13:22",
+                        "tempo":  "00:51:31"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Orlandia a Morro agudo",
@@ -958,15 +1002,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:21"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:12"
+                        "tempo":  "00:58:28"
                     },
                     {
                         "nome":  "Fernando",
@@ -974,7 +1010,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:14"
+                        "tempo":  "00:51:21"
                     },
                     {
                         "nome":  "Evandro",
@@ -982,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:58"
+                        "tempo":  "00:50:05"
                     },
                     {
                         "nome":  "Nelson",
@@ -990,7 +1026,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:52"
+                        "tempo":  "00:41:59"
                     },
                     {
                         "nome":  "Maira",
@@ -998,7 +1034,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:35"
+                        "tempo":  "00:33:42"
                     },
                     {
                         "nome":  "Debora",
@@ -1006,7 +1042,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:57"
+                        "tempo":  "00:17:04"
                     },
                     {
                         "nome":  "Karina",
@@ -1014,10 +1050,40 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:07"
+                        "tempo":  "00:16:14"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:37"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:03"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:24"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                       "mun":  "SUMARE",
+                       "obs":  "estocado"
+                   },
                    {
                        "nome":  "Rachel",
                        "razao":  "SITTA E CAVALARO LTDA",
@@ -1047,56 +1113,38 @@ window.PAINEL = {
                        "razao":  "IRMAOS RUSCITO LTDA.",
                        "mun":  "IBATE",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
+                       "mun":  "IBATE",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "SUMARE",
-                         "tempo":  "03:05:40"
-                     },
-                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:09:23"
+                         "tempo":  "00:24:24"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:50:42"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
-                         "mun":  "MORRO AGUDO",
-                         "tempo":  "03:03:26"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "FURLAN",
-                         "mun":  "BRODOWSKI",
-                         "tempo":  "01:07:43"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
-                         "mun":  "IBATE",
-                         "tempo":  "00:01:15"
+                         "tempo":  "01:05:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "313:49:00"
+                         "tempo":  "314:04:01"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:02:18"
+                         "tempo":  "00:17:19"
                      }
                  ],
     "hist":  [
@@ -1207,8 +1255,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     58,
-                     5
+                     62,
+                     7
                  ]
              ],
     "historico":  {
@@ -30131,7 +30179,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30209,28 +30257,28 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  86.96,
-                                                       "tv":  177
+                                                       "km":  88.58,
+                                                       "tv":  257
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  72.85,
+                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  3,
-                                                       "km":  19.91,
-                                                       "tv":  260
+                                                       "km":  20.98,
+                                                       "tv":  275
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -30263,10 +30311,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  0,
-                                                       "tv":  35
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  25.01,
+                                                       "tv":  231
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -30415,6 +30463,13 @@ window.PAINEL = {
                                                          "tv":  42
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  72.85,
+                                                         "tv":  187
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA - LJ.03",
                                                          "p":  1,
@@ -30520,6 +30575,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
+                                                         "p":  1,
+                                                         "km":  25.01,
+                                                         "tv":  196
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO ZARGON LTDA",
                                                          "p":  1,
@@ -30560,6 +30622,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  46.53,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "FURLAN",
+                                                         "p":  1,
+                                                         "km":  1.62,
+                                                         "tv":  80
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -30616,6 +30685,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.48,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
+                                                         "p":  0,
+                                                         "km":  1.07,
+                                                         "tv":  15
                                                      },
                                                      {
                                                          "n":  "Alan",
