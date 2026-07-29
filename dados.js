@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,6 +15,21 @@ window.PAINEL = {
                      "primeiro":  "06:48",
                      "ultimo":  "08:53",
                      "tv":  "02:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  2.25,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:51",
+                     "ultimo":  "09:20",
+                     "tv":  "02:29:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -45,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:10",
                      "ultimo":  "08:44",
                      "tv":  "01:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:38",
                      "ultimo":  "08:49",
                      "tv":  "01:11:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "06:51",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "08:47",
                      "tv":  "01:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:37",
                      "ultimo":  "08:55",
                      "tv":  "00:18:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -342,10 +342,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:12",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "08:49:42",
                          "km":  51.69,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "in":  "06:51:33",
+                         "out":  "09:20:58",
+                         "km":  2.25,
+                         "dur":  "02:29:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -479,7 +488,7 @@ window.PAINEL = {
                         "obs":  "mogi",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:49"
+                        "tempo":  "00:51:55"
                     }
                 ],
     "semped":  [
@@ -495,79 +504,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:15:28"
+                         "tempo":  "00:30:31"
                      },
                      {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA - LJ.03",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "02:17:43"
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "NOVA ODESSA",
+                         "tempo":  "00:03:10"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "HORTOLANDIA",
+                         "tempo":  "00:08:09"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:09:05"
+                         "tempo":  "00:24:08"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO ZARGON LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:38:35"
+                         "tempo":  "00:53:38"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RECANTO EIRELI",
                          "mun":  "ORLANDIA",
-                         "tempo":  "00:14:05"
+                         "tempo":  "00:29:08"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERRANA",
+                         "tempo":  "00:08:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:22:01"
+                         "tempo":  "00:37:04"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MARIANA IBATE LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:11:08"
+                         "tempo":  "00:26:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:00:01"
+                         "tempo":  "01:15:04"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:08:55"
+                         "tempo":  "01:23:58"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:11:57"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "309:49:01"
+                         "tempo":  "310:04:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:47:05"
+                         "tempo":  "01:02:08"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:00:16"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "01:07:20"
+                         "tempo":  "01:22:23"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MANDARIM LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:23:40"
+                         "tempo":  "00:38:43"
                      }
                  ],
     "hist":  [
@@ -678,7 +711,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     10,
+                     11,
                      1
                  ]
              ],
@@ -29602,7 +29635,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29612,6 +29645,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  39.9,
                                                        "tv":  125
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  2.25,
+                                                       "tv":  149
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -29648,15 +29690,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  51.83,
                                                        "tv":  71
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -29842,6 +29875,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  51.69,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.03",
+                                                         "p":  1,
+                                                         "km":  2.25,
+                                                         "tv":  149
                                                      },
                                                      {
                                                          "n":  "Evandro",

@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -28928,6 +28928,15 @@
                                      "pe":  0,
                                      "km":  39.9,
                                      "tv":  125
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.25,
+                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Debora",
@@ -28964,15 +28973,6 @@
                                      "pe":  0,
                                      "km":  51.83,
                                      "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -29158,6 +29158,13 @@
                                        "p":  1,
                                        "km":  51.69,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.03",
+                                       "p":  1,
+                                       "km":  2.25,
+                                       "tv":  149
                                    },
                                    {
                                        "n":  "Evandro",
