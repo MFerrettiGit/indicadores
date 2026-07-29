@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  66.14,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:11",
+                     "ultimo":  "14:14",
+                     "tv":  "04:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -19,21 +34,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  65.05,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "12:20",
-                     "tv":  "03:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:01",
                      "ultimo":  "13:06",
                      "tv":  "05:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "13:29",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  22.98,
-                     "semPed":  4,
-                     "perc":  57.14,
+                     "visitas":  8,
+                     "km":  26.01,
+                     "semPed":  5,
+                     "perc":  62.5,
                      "primeiro":  "08:07",
-                     "ultimo":  "13:46",
-                     "tv":  "04:51:00",
+                     "ultimo":  "14:13",
+                     "tv":  "05:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:03",
                      "tv":  "04:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "12:46",
                      "tv":  "02:55:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -573,6 +573,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "ITU",
+                         "in":  "13:29:29",
+                         "out":  "14:14:32",
+                         "km":  1.09,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
@@ -780,6 +789,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                         "mun":  "IBATE",
+                         "in":  "13:56:13",
+                         "out":  "14:13:16",
+                         "km":  3.03,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
@@ -978,6 +996,14 @@ window.PAINEL = {
                         "tempo":  "01:02:16"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:21",
+                        "final":  "14:24",
+                        "tempo":  "01:03:05"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -1082,6 +1108,14 @@ window.PAINEL = {
                         "tempo":  "01:01:50"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:43",
+                        "final":  "14:22",
+                        "tempo":  "00:38:49"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Pradopolis",
@@ -1109,25 +1143,9 @@ window.PAINEL = {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:07"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:28"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:26:21"
+                        "inicio":  "13:21",
+                        "final":  "14:22",
+                        "tempo":  "01:01:20"
                     },
                     {
                         "nome":  "Castro",
@@ -1135,7 +1153,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:44"
+                        "tempo":  "00:40:52"
                     },
                     {
                         "nome":  "Luis",
@@ -1143,7 +1161,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:17"
+                        "tempo":  "00:38:25"
                     }
                 ],
     "semped":  [
@@ -1206,62 +1224,74 @@ window.PAINEL = {
                        "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                        "mun":  "IBATE",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                       "mun":  "IBATE",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:09:48"
+                     },
+                     {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.04",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:00:13"
+                         "tempo":  "00:15:15"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:57"
+                         "tempo":  "00:28:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:09:23"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "ITU",
-                         "tempo":  "00:39:46"
+                         "tempo":  "01:24:25"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:18:15"
+                         "tempo":  "00:33:17"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                         "razao":  "RODRIGO CYPRIANO IBATE",
                          "mun":  "IBATE",
-                         "tempo":  "00:13:02"
+                         "tempo":  "00:08:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CANDIO OLIVEIRA LTDA",
                          "mun":  "NAZARE PAULISTA",
-                         "tempo":  "00:37:18"
+                         "tempo":  "00:52:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "314:49:00"
+                         "tempo":  "315:04:02"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:54"
+                         "tempo":  "00:22:56"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:08:24"
                      }
                  ],
     "hist":  [
@@ -1372,8 +1402,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     67,
-                     10
+                     69,
+                     11
                  ]
              ],
     "historico":  {
@@ -30296,8 +30326,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  66.14,
+                                                       "tv":  258
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -30306,15 +30345,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  81.98,
                                                        "tv":  263
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  65.05,
-                                                       "tv":  214
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -30392,10 +30422,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  3,
-                                                       "km":  22.98,
-                                                       "tv":  291
+                                                       "km":  26.01,
+                                                       "tv":  307
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -30678,6 +30708,13 @@ window.PAINEL = {
                                                          "tv":  52
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  1.09,
+                                                         "tv":  44
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                                          "p":  1,
@@ -30836,6 +30873,13 @@ window.PAINEL = {
                                                          "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                                                          "p":  0,
                                                          "km":  2,
+                                                         "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                                                         "p":  0,
+                                                         "km":  3.03,
                                                          "tv":  16
                                                      },
                                                      {

@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  66.14,
+                                     "tv":  258
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28928,15 +28937,6 @@
                                      "pe":  0,
                                      "km":  81.98,
                                      "tv":  263
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  65.05,
-                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29014,10 +29014,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  3,
-                                     "km":  22.98,
-                                     "tv":  291
+                                     "km":  26.01,
+                                     "tv":  307
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -29300,6 +29300,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  1.09,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                        "p":  1,
@@ -29458,6 +29465,13 @@
                                        "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                                        "p":  0,
                                        "km":  2,
+                                       "tv":  16
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                                       "p":  0,
+                                       "km":  3.03,
                                        "tv":  16
                                    },
                                    {
