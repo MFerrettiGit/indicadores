@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "13:29",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eliana",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  20.98,
-                     "semPed":  3,
-                     "perc":  50,
+                     "visitas":  7,
+                     "km":  22.98,
+                     "semPed":  4,
+                     "perc":  57.14,
                      "primeiro":  "08:07",
-                     "ultimo":  "13:23",
-                     "tv":  "04:35:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:46",
+                     "tv":  "04:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  63.9,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  65.15,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:15",
-                     "ultimo":  "12:27",
-                     "tv":  "02:42:00",
+                     "ultimo":  "13:47",
+                     "tv":  "03:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "12:18",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "13:21",
                      "tv":  "03:51:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "02:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:30",
                      "tv":  "03:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -699,6 +699,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO PENHA CENTER LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "13:26:18",
+                         "out":  "13:47:03",
+                         "km":  1.25,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -751,6 +760,15 @@ window.PAINEL = {
                          "out":  "13:23:48",
                          "km":  1.07,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                         "mun":  "IBATE",
+                         "in":  "13:30:01",
+                         "out":  "13:46:14",
+                         "km":  2,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Alan",
@@ -926,6 +944,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:51",
+                        "final":  "13:51",
+                        "tempo":  "01:00:14"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -956,6 +982,14 @@ window.PAINEL = {
                         "inicio":  "09:33",
                         "final":  "10:03",
                         "tempo":  "00:30:28"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:43",
+                        "final":  "13:45",
+                        "tempo":  "01:01:54"
                     },
                     {
                         "nome":  "Cominato",
@@ -1030,28 +1064,12 @@ window.PAINEL = {
                         "tempo":  "00:41:49"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:57"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:40"
-                    },
-                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:02"
+                        "tempo":  "00:47:05"
                     },
                     {
                         "nome":  "Karina",
@@ -1059,7 +1077,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:12"
+                        "tempo":  "00:46:15"
                     },
                     {
                         "nome":  "Aline",
@@ -1067,7 +1085,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:35"
+                        "tempo":  "00:42:38"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1075,7 +1093,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:01"
+                        "tempo":  "00:34:04"
                     },
                     {
                         "nome":  "Alan",
@@ -1083,7 +1101,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:22"
+                        "tempo":  "00:33:25"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:18"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:41"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:14"
                     }
                 ],
     "semped":  [
@@ -1097,6 +1139,12 @@ window.PAINEL = {
                        "nome":  "Rachel",
                        "razao":  "SITTA E CAVALARO LTDA",
                        "mun":  "AMPARO",
+                       "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO PENHA CENTER LTDA",
+                       "mun":  "ITAPIRA",
                        "obs":  "analise da loja"
                    },
                    {
@@ -1128,6 +1176,12 @@ window.PAINEL = {
                        "razao":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
                        "mun":  "IBATE",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                       "mun":  "IBATE",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -1135,49 +1189,43 @@ window.PAINEL = {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:39:24"
+                         "tempo":  "00:54:22"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:09:47"
+                         "tempo":  "00:24:45"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO PENHA CENTER LTDA",
+                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:12:58"
+                         "tempo":  "00:03:14"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:03:17"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
-                         "mun":  "IBATE",
-                         "tempo":  "00:09:15"
+                         "tempo":  "00:18:15"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CANDIO OLIVEIRA LTDA",
                          "mun":  "NAZARE PAULISTA",
-                         "tempo":  "00:07:19"
+                         "tempo":  "00:22:17"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "314:19:01"
+                         "tempo":  "314:33:59"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:32:19"
+                         "tempo":  "00:47:17"
                      }
                  ],
     "hist":  [
@@ -1288,8 +1336,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     63,
-                     7
+                     65,
+                     9
                  ]
              ],
     "historico":  {
@@ -30212,7 +30260,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30308,19 +30356,19 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  3,
-                                                       "km":  20.98,
-                                                       "tv":  275
+                                                       "km":  22.98,
+                                                       "tv":  291
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  63.9,
-                                                       "tv":  162
+                                                       "km":  65.15,
+                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -30692,6 +30740,13 @@ window.PAINEL = {
                                                          "tv":  24
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO PENHA CENTER LTDA",
+                                                         "p":  0,
+                                                         "km":  1.25,
+                                                         "tv":  20
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                                          "p":  1,
@@ -30732,6 +30787,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.07,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                                                         "p":  0,
+                                                         "km":  2,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Alan",

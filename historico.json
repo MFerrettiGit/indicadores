@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29014,19 +29014,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  3,
-                                     "km":  20.98,
-                                     "tv":  275
+                                     "km":  22.98,
+                                     "tv":  291
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  63.9,
-                                     "tv":  162
+                                     "km":  65.15,
+                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Maira",
@@ -29398,6 +29398,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PENHA CENTER LTDA",
+                                       "p":  0,
+                                       "km":  1.25,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                        "p":  1,
@@ -29438,6 +29445,13 @@
                                        "p":  0,
                                        "km":  1.07,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                                       "p":  0,
+                                       "km":  2,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Alan",
