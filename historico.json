@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "08:15",
+                       "dataHora":  "08:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  32.87,
+                                     "tv":  69
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28957,15 +28966,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -28975,8 +28975,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -28984,8 +28984,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -29020,6 +29020,33 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  21.36,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -29035,33 +29062,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.56,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.36,
                                      "tv":  0
                                  },
                                  {
@@ -29092,6 +29092,33 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.5,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -29108,36 +29135,16 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  32.87,
+                                       "tv":  69
+                                   },
                                    {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
