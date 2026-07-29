@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29092,6 +29092,15 @@
                                      "tv":  208
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  23.73,
+                                     "tv":  175
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -29099,15 +29108,6 @@
                                      "pe":  0,
                                      "km":  113.81,
                                      "tv":  204
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  18.87,
-                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -29487,6 +29487,13 @@
                                        "p":  1,
                                        "km":  7.04,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "G. MARINO DE OLIVEIRA LTDA",
+                                       "p":  1,
+                                       "km":  4.86,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Nelson",
