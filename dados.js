@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:48",
                      "ultimo":  "12:34",
                      "tv":  "04:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "13:06",
                      "tv":  "05:51:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -60,8 +60,8 @@ window.PAINEL = {
                      "primeiro":  "07:10",
                      "ultimo":  "12:33",
                      "tv":  "04:37:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:07",
                      "ultimo":  "13:46",
                      "tv":  "04:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  60.51,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:47",
+                     "ultimo":  "14:08",
+                     "tv":  "03:51:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "12:18",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  58.45,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:47",
-                     "ultimo":  "12:11",
-                     "tv":  "03:19:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  114.51,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:03",
+                     "tv":  "04:20:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -285,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "12:30",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  113.81,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "11:57",
-                     "tv":  "03:24:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "13:01",
                      "tv":  "03:40:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -589,6 +589,15 @@ window.PAINEL = {
                          "out":  "12:11:45",
                          "km":  2.07,
                          "dur":  "02:19:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
+                         "mun":  "PRADOPOLIS",
+                         "in":  "13:35:59",
+                         "out":  "14:08:17",
+                         "km":  2.06,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Luis",
@@ -861,6 +870,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "in":  "13:06:57",
+                         "out":  "14:03:49",
+                         "km":  0.7,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -960,6 +978,14 @@ window.PAINEL = {
                         "tempo":  "01:02:16"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:09",
+                        "final":  "14:08",
+                        "tempo":  "00:59:32"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "mogi",
@@ -1006,6 +1032,22 @@ window.PAINEL = {
                         "inicio":  "11:58",
                         "final":  "12:59",
                         "tempo":  "01:00:57"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:08",
+                        "final":  "14:06",
+                        "tempo":  "00:58:15"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:12",
+                        "final":  "14:08",
+                        "tempo":  "00:55:50"
                     },
                     {
                         "nome":  "Evandro",
@@ -1064,36 +1106,12 @@ window.PAINEL = {
                         "tempo":  "00:41:49"
                     },
                     {
-                        "nome":  "Debora",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:05"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:46:15"
-                    },
-                    {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:38"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:04"
+                        "tempo":  "00:49:07"
                     },
                     {
                         "nome":  "Alan",
@@ -1101,7 +1119,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:25"
+                        "tempo":  "00:48:28"
                     },
                     {
                         "nome":  "Silmara",
@@ -1109,7 +1127,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:18"
+                        "tempo":  "00:26:21"
                     },
                     {
                         "nome":  "Castro",
@@ -1117,7 +1135,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:41"
+                        "tempo":  "00:25:44"
                     },
                     {
                         "nome":  "Luis",
@@ -1125,7 +1143,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:14"
+                        "tempo":  "00:23:17"
                     }
                 ],
     "semped":  [
@@ -1160,6 +1178,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Levantamento"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "IRMAOS RUSCITO LTDA",
                        "mun":  "IBATE",
@@ -1186,46 +1210,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Aline",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.04",
+                         "mun":  "NOVA ODESSA",
+                         "tempo":  "00:00:13"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:57"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:54:22"
+                         "tempo":  "01:09:23"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:24:45"
+                         "tempo":  "00:39:46"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:03:14"
+                         "tempo":  "00:18:15"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
-                         "mun":  "PRADOPOLIS",
-                         "tempo":  "00:18:15"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO MARIANA IBATE LTDA LJ3",
+                         "mun":  "IBATE",
+                         "tempo":  "00:13:02"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CANDIO OLIVEIRA LTDA",
                          "mun":  "NAZARE PAULISTA",
-                         "tempo":  "00:22:17"
+                         "tempo":  "00:37:18"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "314:33:59"
+                         "tempo":  "314:49:00"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
-                         "mun":  "CERQUILHO",
-                         "tempo":  "00:47:17"
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:54"
                      }
                  ],
     "hist":  [
@@ -1336,8 +1372,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     65,
-                     9
+                     67,
+                     10
                  ]
              ],
     "historico":  {
@@ -30260,7 +30296,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30371,6 +30407,15 @@ window.PAINEL = {
                                                        "tv":  182
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  60.51,
+                                                       "tv":  231
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -30378,15 +30423,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  40.18,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  58.45,
-                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -30425,6 +30461,15 @@ window.PAINEL = {
                                                        "tv":  231
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  114.51,
+                                                       "tv":  260
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -30441,15 +30486,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  23.73,
                                                        "tv":  175
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  113.81,
-                                                       "tv":  204
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -30654,6 +30690,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.07,
                                                          "tv":  139
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.06,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -30864,6 +30907,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  26.15,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                                         "p":  0,
+                                                         "km":  0.7,
+                                                         "tv":  56
                                                      },
                                                      {
                                                          "n":  "Eugenio",

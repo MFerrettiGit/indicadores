@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29029,6 +29029,15 @@
                                      "tv":  182
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  60.51,
+                                     "tv":  231
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29036,15 +29045,6 @@
                                      "pe":  2,
                                      "km":  40.18,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  58.45,
-                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Luis",
@@ -29083,6 +29083,15 @@
                                      "tv":  231
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  114.51,
+                                     "tv":  260
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -29099,15 +29108,6 @@
                                      "pe":  3,
                                      "km":  23.73,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  113.81,
-                                     "tv":  204
                                  },
                                  {
                                      "nome":  "Karina",
@@ -29312,6 +29312,13 @@
                                        "p":  1,
                                        "km":  2.07,
                                        "tv":  139
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
+                                       "p":  1,
+                                       "km":  2.06,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Luis",
@@ -29522,6 +29529,13 @@
                                        "p":  0,
                                        "km":  26.15,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  0,
+                                       "km":  0.7,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Eugenio",
