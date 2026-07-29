@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:47",
                      "ultimo":  "14:08",
                      "tv":  "03:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:37",
                      "ultimo":  "12:24",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1321,7 +1321,7 @@ window.PAINEL = {
                         "obs":  "Morro Agudo a Miguelopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:46"
+                        "tempo":  "00:54:45"
                     },
                     {
                         "nome":  "Cominato",
@@ -1329,7 +1329,7 @@ window.PAINEL = {
                         "obs":  "cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:18"
+                        "tempo":  "00:40:17"
                     },
                     {
                         "nome":  "Eliana",
@@ -1337,7 +1337,7 @@ window.PAINEL = {
                         "obs":  "Carro na Oficina",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:33"
+                        "tempo":  "00:30:32"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1345,7 +1345,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:43"
+                        "tempo":  "00:23:42"
                     }
                 ],
     "semped":  [
@@ -1451,61 +1451,67 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:30:37"
+                         "tempo":  "00:45:38"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:20:37"
+                         "tempo":  "00:35:38"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:13:44"
+                         "tempo":  "00:28:45"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:00:25"
+                         "tempo":  "00:15:26"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MERCADINHO VILA IZAURA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:39:59"
+                         "tempo":  "00:55:00"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO QUARTETO DA ALEGRIA LTDA.",
-                         "mun":  "NAZARE PAULISTA",
-                         "tempo":  "00:17:20"
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:10:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:18:39"
+                         "tempo":  "00:33:40"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "316:04:06"
+                         "tempo":  "316:19:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL MEDEIROS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:20:32"
+                         "tempo":  "00:35:33"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:08:29"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
                          "mun":  "JACAREI",
-                         "tempo":  "00:24:14"
+                         "tempo":  "00:39:15"
                      }
                  ],
     "hist":  [
@@ -1616,8 +1622,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     84,
-                     15
+                     85,
+                     16
                  ]
              ],
     "historico":  {
@@ -30540,7 +30546,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
