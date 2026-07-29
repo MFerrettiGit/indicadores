@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  57.87,
+                                     "tv":  174
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -28937,15 +28946,6 @@
                                      "pe":  0,
                                      "km":  56.38,
                                      "tv":  123
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.9,
-                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29179,6 +29179,13 @@
                                        "p":  1,
                                        "km":  39.9,
                                        "tv":  125
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                       "p":  1,
+                                       "km":  17.97,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Vinicius",
