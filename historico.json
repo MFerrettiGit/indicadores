@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  81.11,
+                                     "tv":  220
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -28937,15 +28946,6 @@
                                      "pe":  0,
                                      "km":  64.86,
                                      "tv":  165
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  57.87,
-                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29023,10 +29023,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.87,
-                                     "tv":  16
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  51.38,
+                                     "tv":  138
                                  },
                                  {
                                      "nome":  "Maira",
@@ -29209,6 +29209,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  23.24,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
                                        "p":  1,
@@ -29291,6 +29298,13 @@
                                        "p":  0,
                                        "km":  1.87,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "TAJ SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  49.51,
+                                       "tv":  122
                                    },
                                    {
                                        "n":  "Sao Carlos",
