@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -28928,6 +28928,15 @@
                                      "pe":  0,
                                      "km":  61.89,
                                      "tv":  162
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.86,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -28948,13 +28957,13 @@
                                      "tv":  226
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  56.38,
-                                     "tv":  123
+                                     "km":  81.64,
+                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -28964,15 +28973,6 @@
                                      "pe":  0,
                                      "km":  2.25,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  51.35,
-                                     "tv":  93
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -28996,10 +28996,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  40.43,
-                                     "tv":  129
+                                     "km":  86.96,
+                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29068,10 +29068,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  47.75,
-                                     "tv":  99
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  50.32,
+                                     "tv":  114
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -29146,6 +29146,13 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  30.29,
+                                       "tv":  117
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -29172,6 +29179,13 @@
                                        "p":  1,
                                        "km":  4.55,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.48,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Eliana",
@@ -29265,6 +29279,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  46.53,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SITTA E CAVALARO LTDA",
                                        "p":  0,
@@ -29318,6 +29339,13 @@
                                        "r":  "MERCADO UNIAO DE ITUPEVA LTDA",
                                        "p":  1,
                                        "km":  0,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO DE ITUPEVA LTDA",
+                                       "p":  1,
+                                       "km":  2.57,
                                        "tv":  15
                                    },
                                    {
