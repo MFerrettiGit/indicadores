@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  69.44,
+                                     "tv":  314
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28928,15 +28937,6 @@
                                      "pe":  0,
                                      "km":  91.28,
                                      "tv":  299
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  66.14,
-                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Debora",
@@ -28996,10 +28996,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  88.58,
-                                     "tv":  257
+                                     "km":  102.39,
+                                     "tv":  295
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29029,6 +29029,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  47.43,
+                                     "tv":  257
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -29045,15 +29054,6 @@
                                      "pe":  3,
                                      "km":  27.11,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.18,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29113,10 +29113,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  31.48,
-                                     "tv":  206
+                                     "km":  32.03,
+                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Karina",
@@ -29342,6 +29342,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  3.3,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                        "p":  1,
@@ -29438,6 +29445,13 @@
                                        "p":  1,
                                        "km":  1.62,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO SB BABA LTDA.",
+                                       "p":  1,
+                                       "km":  13.81,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Rachel",
@@ -29634,6 +29648,13 @@
                                        "p":  1,
                                        "km":  26.26,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO QUARTETO DA ALEGRIA LTDA.",
+                                       "p":  0,
+                                       "km":  0.55,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Karina",
