@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  61.89,
+                                     "tv":  162
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28930,13 +28939,13 @@
                                      "tv":  174
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  60.49,
-                                     "tv":  121
+                                     "km":  31.11,
+                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -28955,15 +28964,6 @@
                                      "pe":  0,
                                      "km":  2.25,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.94,
-                                     "tv":  105
                                  },
                                  {
                                      "nome":  "Aline",
@@ -29074,6 +29074,24 @@
                                      "tv":  99
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  11.34,
+                                     "tv":  142
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  18.87,
+                                     "tv":  94
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -29099,24 +29117,6 @@
                                      "pe":  1,
                                      "km":  5.22,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.65,
-                                     "tv":  84
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  11.83,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Karina",
@@ -29151,6 +29151,13 @@
                                        "p":  1,
                                        "km":  29.94,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  1.17,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -29207,6 +29214,13 @@
                                        "p":  1,
                                        "km":  27.62,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.4,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Fernando",
@@ -29328,11 +29342,25 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "F.T.J SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.04,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "MERCADO MIRANDA EXPRESS LTDA",
                                        "p":  1,
                                        "km":  4.15,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
+                                       "p":  1,
+                                       "km":  6.69,
+                                       "tv":  58
                                    }
                                ]
                    }
