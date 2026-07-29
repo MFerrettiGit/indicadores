@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  65.05,
+                                     "tv":  214
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28928,15 +28937,6 @@
                                      "pe":  0,
                                      "km":  81.11,
                                      "tv":  220
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  61.89,
-                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -28978,10 +28978,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  18.05,
-                                     "tv":  48
+                                     "km":  26.77,
+                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -29014,10 +29014,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  16.45,
-                                     "tv":  134
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  18.43,
+                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -29032,19 +29032,19 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  37.61,
-                                     "tv":  78
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.18,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  56.38,
-                                     "tv":  60
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  58.45,
+                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Luis",
@@ -29068,10 +29068,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  50.32,
-                                     "tv":  114
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  73.28,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Alan",
@@ -29230,6 +29230,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  8.72,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -29251,11 +29258,25 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  3.16,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                        "p":  1,
                                        "km":  35.02,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  2.07,
+                                       "tv":  139
                                    },
                                    {
                                        "n":  "Luis",
@@ -29270,6 +29291,13 @@
                                        "p":  1,
                                        "km":  37.05,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                       "p":  1,
+                                       "km":  2.57,
+                                       "tv":  131
                                    },
                                    {
                                        "n":  "Milene",
@@ -29335,6 +29363,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS RUSCITO LTDA.",
+                                       "p":  1,
+                                       "km":  1.98,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ARIEL SUPERMERCADO LTDA",
                                        "p":  1,
@@ -29375,6 +29410,13 @@
                                        "p":  1,
                                        "km":  2.57,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  22.96,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Cominato",
