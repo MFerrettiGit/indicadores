@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:48",
                      "ultimo":  "10:19",
                      "tv":  "02:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  16.14,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  3,
+                     "km":  16.45,
+                     "semPed":  1,
+                     "perc":  33.33,
                      "primeiro":  "08:07",
-                     "ultimo":  "10:25",
-                     "tv":  "01:58:00",
+                     "ultimo":  "10:44",
+                     "tv":  "02:14:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -248,14 +248,29 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
+                     "visitas":  3,
                      "km":  47.75,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:37",
-                     "ultimo":  "10:31",
-                     "tv":  "01:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:51",
+                     "tv":  "01:39:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  9.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:00",
+                     "ultimo":  "10:43",
+                     "tv":  "02:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,8 +285,8 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:24",
                      "tv":  "02:22:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "09:55",
                      "tv":  "01:10:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -537,6 +537,24 @@ window.PAINEL = {
                          "dur":  "01:27:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "IRMAOS RUSCITO LTDA",
+                         "mun":  "IBATE",
+                         "in":  "10:27:46",
+                         "out":  "10:44:48",
+                         "km":  0.31,
+                         "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ARIEL SUPERMERCADO LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:00:21",
+                         "out":  "10:43:17",
+                         "km":  9.93,
+                         "dur":  "02:42:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
@@ -553,6 +571,15 @@ window.PAINEL = {
                          "out":  "10:31:28",
                          "km":  21.87,
                          "dur":  "01:06:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA",
+                         "mun":  "ITUPEVA",
+                         "in":  "10:35:56",
+                         "out":  "10:51:05",
+                         "km":  0,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -609,6 +636,14 @@ window.PAINEL = {
                         "tempo":  "00:30:28"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tatui a Cerquilho",
+                        "inicio":  "10:26",
+                        "final":  "10:53",
+                        "tempo":  "00:27:37"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Pradopolis",
@@ -623,14 +658,6 @@ window.PAINEL = {
                         "inicio":  "08:00",
                         "final":  "08:42",
                         "tempo":  "00:41:49"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Tatui a Cerquilho",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:13:53"
                     }
                 ],
     "semped":  [
@@ -645,6 +672,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
                        "obs":  "Abastecimento merchandising"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "IRMAOS RUSCITO LTDA",
+                       "mun":  "IBATE",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -652,103 +685,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:35:47"
+                         "tempo":  "00:50:51"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:45:34"
+                         "tempo":  "02:00:38"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:18:13"
+                         "tempo":  "01:33:17"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:02:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:03:08"
+                         "tempo":  "00:18:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:53:34"
+                         "tempo":  "01:08:38"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:19:31"
+                         "tempo":  "00:34:35"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:33:07"
+                         "tempo":  "00:48:11"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "TAJ SUPERMERCADO LTDA",
                          "mun":  "MOJI-MIRIM",
-                         "tempo":  "01:03:56"
+                         "tempo":  "01:19:00"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
-                         "tempo":  "00:33:33"
+                         "tempo":  "00:48:37"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:03:36"
+                         "tempo":  "00:18:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:46:52"
+                         "tempo":  "01:01:56"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "IRMAOS RUSCITO LTDA",
+                         "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:11:36"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ARIEL SUPERMERCADO LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:39:01"
+                         "tempo":  "00:03:51"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:27:00"
+                         "tempo":  "01:42:04"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "311:19:07"
+                         "tempo":  "311:34:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:41:43"
+                         "tempo":  "00:56:47"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "00:03:26"
+                         "nome":  "Mariangela",
+                         "razao":  "F.T.J SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:12:15"
                      }
                  ],
     "hist":  [
@@ -859,8 +892,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     25,
-                     2
+                     28,
+                     3
                  ]
              ],
     "historico":  {
@@ -29783,7 +29816,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -29879,10 +29912,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  2,
-                                                       "km":  16.14,
-                                                       "tv":  118
+                                                       "km":  16.45,
+                                                       "tv":  134
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -29933,10 +29966,19 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
+                                                       "vi":  3,
+                                                       "pe":  3,
                                                        "km":  47.75,
-                                                       "tv":  84
+                                                       "tv":  99
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  9.93,
+                                                       "tv":  162
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -29973,15 +30015,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  11.83,
                                                        "tv":  70
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -30137,6 +30170,20 @@ window.PAINEL = {
                                                          "tv":  87
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "IRMAOS RUSCITO LTDA",
+                                                         "p":  0,
+                                                         "km":  0.31,
+                                                         "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ARIEL SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  9.93,
+                                                         "tv":  162
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                                          "p":  1,
@@ -30149,6 +30196,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.87,
                                                          "tv":  66
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MERCADO UNIAO DE ITUPEVA LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  15
                                                      },
                                                      {
                                                          "n":  "Cominato",

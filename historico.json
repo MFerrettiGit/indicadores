@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29014,10 +29014,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  16.14,
-                                     "tv":  118
+                                     "km":  16.45,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -29068,10 +29068,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
+                                     "vi":  3,
+                                     "pe":  3,
                                      "km":  47.75,
-                                     "tv":  84
+                                     "tv":  99
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.93,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -29108,15 +29117,6 @@
                                      "pe":  1,
                                      "km":  11.83,
                                      "tv":  70
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Karina",
@@ -29272,6 +29272,20 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS RUSCITO LTDA",
+                                       "p":  0,
+                                       "km":  0.31,
+                                       "tv":  16
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ARIEL SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  9.93,
+                                       "tv":  162
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                        "p":  1,
@@ -29284,6 +29298,13 @@
                                        "p":  1,
                                        "km":  21.87,
                                        "tv":  66
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO DE ITUPEVA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
