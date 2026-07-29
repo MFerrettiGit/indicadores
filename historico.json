@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  81.98,
+                                     "tv":  263
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -28930,13 +28939,13 @@
                                      "tv":  214
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  81.11,
-                                     "tv":  220
+                                     "km":  84.5,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -28964,15 +28973,6 @@
                                      "pe":  0,
                                      "km":  31.11,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  81.64,
-                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -29023,10 +29023,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  51.38,
-                                     "tv":  138
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  63.9,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Maira",
@@ -29077,10 +29077,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  28.97,
-                                     "tv":  203
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  30.13,
+                                     "tv":  231
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  17.15,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -29090,15 +29099,6 @@
                                      "pe":  0,
                                      "km":  113.81,
                                      "tv":  204
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  11.34,
-                                     "tv":  142
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -29151,6 +29151,13 @@
                                        "p":  1,
                                        "km":  30.29,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "A.A.DE MELO",
+                                       "p":  1,
+                                       "km":  2.86,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Debora",
@@ -29221,6 +29228,13 @@
                                        "p":  1,
                                        "km":  23.24,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                       "p":  1,
+                                       "km":  0.87,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Silmara",
@@ -29342,6 +29356,13 @@
                                        "tv":  122
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "ABATEDOURO UNIAO LTDA",
+                                       "p":  1,
+                                       "km":  12.52,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                        "p":  1,
@@ -29382,6 +29403,13 @@
                                        "p":  1,
                                        "km":  19.04,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Castro",
@@ -29473,6 +29501,13 @@
                                        "p":  1,
                                        "km":  6.69,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                       "p":  1,
+                                       "km":  5.81,
+                                       "tv":  66
                                    }
                                ]
                    }
