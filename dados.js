@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:48",
                      "ultimo":  "11:38",
                      "tv":  "03:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,21 +331,21 @@ window.PAINEL = {
                      "ultimo":  "10:04",
                      "tv":  "01:55:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  1.33,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:12",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:51",
+                     "tv":  "02:39:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "01:55:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "09:12:22",
+                         "out":  "11:51:49",
+                         "km":  1.33,
+                         "dur":  "02:39:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MANDARIM LTDA",
                          "mun":  "JACAREI",
@@ -755,7 +764,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:57"
+                        "tempo":  "00:34:51"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:21"
                     }
                 ],
     "semped":  [
@@ -783,103 +800,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "01:35:50"
+                         "tempo":  "01:50:46"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:37:52"
+                         "tempo":  "00:52:48"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:13:26"
+                         "tempo":  "00:28:22"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:20"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:53:37"
+                         "tempo":  "02:08:33"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:11:13"
+                         "tempo":  "00:26:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:43:47"
+                         "tempo":  "00:58:43"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:33:10"
+                         "tempo":  "01:48:06"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
-                         "tempo":  "01:33:36"
+                         "tempo":  "01:48:32"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "01:46:55"
+                         "tempo":  "02:01:51"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:48:50"
+                         "tempo":  "01:03:46"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:45"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:27:03"
+                         "tempo":  "00:39:41"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "312:19:10"
+                         "tempo":  "312:34:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:15:19"
+                         "tempo":  "00:30:15"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:04:09"
+                         "tempo":  "00:19:05"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:44:55"
+                         "tempo":  "00:59:51"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "G. MARINO DE OLIVEIRA LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:14:08"
+                         "tempo":  "00:29:04"
                      }
                  ],
     "hist":  [
@@ -990,7 +1007,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     39,
+                     40,
                      3
                  ]
              ],
@@ -29914,7 +29931,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30118,10 +30135,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  1.33,
+                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -30371,6 +30388,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.72,
                                                          "tv":  115
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                                                         "p":  1,
+                                                         "km":  1.33,
+                                                         "tv":  159
                                                      },
                                                      {
                                                          "n":  "Mariangela",

@@ -28918,7 +28918,7 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29122,10 +29122,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.33,
+                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -29375,6 +29375,13 @@
                                        "p":  1,
                                        "km":  4.72,
                                        "tv":  115
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                                       "p":  1,
+                                       "km":  1.33,
+                                       "tv":  159
                                    },
                                    {
                                        "n":  "Mariangela",
