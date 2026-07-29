@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/07/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:10",
                      "ultimo":  "14:37",
                      "tv":  "05:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  65.15,
-                     "semPed":  2,
-                     "perc":  50,
+                     "visitas":  5,
+                     "km":  65.86,
+                     "semPed":  3,
+                     "perc":  60,
                      "primeiro":  "08:15",
-                     "ultimo":  "13:47",
-                     "tv":  "03:02:00",
+                     "ultimo":  "14:42",
+                     "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  27.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "14:45",
+                     "tv":  "04:06:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "12:18",
                      "tv":  "03:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  25.01,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "13:21",
-                     "tv":  "03:51:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -256,7 +256,22 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "02:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  31.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:45",
+                     "ultimo":  "14:50",
+                     "tv":  "03:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "12:30",
                      "tv":  "03:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  23.73,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "12:46",
-                     "tv":  "02:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -645,6 +645,15 @@ window.PAINEL = {
                          "dur":  "03:16:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
+                         "mun":  "MORRO AGUDO",
+                         "in":  "14:29:59",
+                         "out":  "14:45:16",
+                         "km":  2.1,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO ZARGON LTDA",
                          "mun":  "LIMEIRA",
@@ -742,6 +751,15 @@ window.PAINEL = {
                          "out":  "13:47:03",
                          "km":  1.25,
                          "dur":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                         "mun":  "ITAPIRA",
+                         "in":  "13:51:00",
+                         "out":  "14:42:03",
+                         "km":  0.71,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -924,6 +942,15 @@ window.PAINEL = {
                          "dur":  "00:56:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "in":  "14:15:53",
+                         "out":  "14:54:34",
+                         "km":  3.53,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -976,6 +1003,15 @@ window.PAINEL = {
                          "out":  "12:46:21",
                          "km":  4.86,
                          "dur":  "01:21:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "FTJ SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "14:31:50",
+                         "out":  "14:50:24",
+                         "km":  8.18,
+                         "dur":  "00:18:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1077,6 +1113,14 @@ window.PAINEL = {
                         "inicio":  "12:43",
                         "final":  "13:45",
                         "tempo":  "01:01:54"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:44",
+                        "final":  "14:53",
+                        "tempo":  "01:08:35"
                     },
                     {
                         "nome":  "Cominato",
@@ -1183,20 +1227,20 @@ window.PAINEL = {
                         "tempo":  "01:01:20"
                     },
                     {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:01"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Ibate a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:58"
+                        "tempo":  "00:18:57"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Morro Agudo a Miguelopolis",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:31"
                     }
                 ],
     "semped":  [
@@ -1219,6 +1263,12 @@ window.PAINEL = {
                        "obs":  "analise da loja"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                       "mun":  "ITAPIRA",
+                       "obs":  "analise da loja"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
@@ -1233,6 +1283,12 @@ window.PAINEL = {
                    {
                        "nome":  "Cominato",
                        "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                        "mun":  "CERQUILHO",
                        "obs":  "Levantamento"
                    },
@@ -1278,79 +1334,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:24:49"
+                         "tempo":  "00:39:47"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:00:32"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:39:26"
+                         "tempo":  "01:54:24"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:12:03"
+                         "tempo":  "00:27:01"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:10:09"
+                         "tempo":  "00:25:07"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "BENFICA COM E SERV EIRELI - EPP",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:14:37"
+                         "tempo":  "00:29:35"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                         "razao":  "MERCADINHO VILA IZAURA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:48:18"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
-                         "mun":  "MORRO AGUDO",
-                         "tempo":  "00:09:19"
+                         "tempo":  "00:09:54"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:03:30"
+                         "tempo":  "00:18:28"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CANDIO OLIVEIRA LTDA",
                          "mun":  "NAZARE PAULISTA",
-                         "tempo":  "01:07:21"
+                         "tempo":  "01:22:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "315:19:03"
+                         "tempo":  "315:34:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:57"
+                         "tempo":  "00:52:55"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:23:25"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "FTJ SUPERMERCADOS LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "00:07:28"
+                         "tempo":  "00:38:23"
                      }
                  ],
     "hist":  [
@@ -1461,8 +1511,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/07",
-                     72,
-                     12
+                     75,
+                     13
                  ]
              ],
     "historico":  {
@@ -30385,7 +30435,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-29":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30490,10 +30540,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  2,
-                                                       "km":  65.15,
-                                                       "tv":  182
+                                                       "km":  65.86,
+                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -30505,6 +30555,15 @@ window.PAINEL = {
                                                        "tv":  231
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  27.11,
+                                                       "tv":  246
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -30512,15 +30571,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  40.18,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  25.01,
-                                                       "tv":  231
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -30539,6 +30589,15 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  73.28,
                                                        "tv":  162
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  31.91,
+                                                       "tv":  193
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -30566,15 +30625,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  17.15,
                                                        "tv":  208
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  23.73,
-                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -30823,6 +30873,13 @@ window.PAINEL = {
                                                          "tv":  196
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
+                                                         "p":  1,
+                                                         "km":  2.1,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO ZARGON LTDA",
                                                          "p":  1,
@@ -30898,6 +30955,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.25,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                                                         "p":  0,
+                                                         "km":  0.71,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -31040,6 +31104,13 @@ window.PAINEL = {
                                                          "tv":  56
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  0,
+                                                         "km":  3.53,
+                                                         "tv":  38
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -31080,6 +31151,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.86,
                                                          "tv":  81
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "FTJ SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  8.18,
+                                                         "tv":  18
                                                      },
                                                      {
                                                          "n":  "Nelson",
