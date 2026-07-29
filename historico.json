@@ -28918,8 +28918,17 @@
                                ]
                    },
     "2026-07-29":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.49,
+                                     "tv":  121
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -28957,15 +28966,6 @@
                                      "tv":  93
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  32.87,
-                                     "tv":  69
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -28973,15 +28973,6 @@
                                      "pe":  0,
                                      "km":  51.83,
                                      "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -28993,13 +28984,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  15.45,
-                                     "tv":  95
+                                     "km":  40.43,
+                                     "tv":  129
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29029,6 +29029,24 @@
                                      "tv":  16
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  37.61,
+                                     "tv":  78
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  56.38,
+                                     "tv":  60
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -29038,24 +29056,6 @@
                                      "tv":  35
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.36,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -29063,6 +29063,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.65,
+                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Castro",
@@ -29094,15 +29103,6 @@
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.5,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -29181,11 +29181,32 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  27.62,
+                                       "tv":  52
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  35.02,
+                                       "tv":  60
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO RECANTO EIRELI",
                                        "p":  1,
                                        "km":  0,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO ZARGON LTDA",
+                                       "p":  1,
+                                       "km":  37.05,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Milene",
@@ -29200,6 +29221,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  24.98,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Rachel",
@@ -29221,6 +29249,13 @@
                                        "p":  1,
                                        "km":  25.88,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO MIRANDA EXPRESS LTDA",
+                                       "p":  1,
+                                       "km":  4.15,
+                                       "tv":  84
                                    }
                                ]
                    }
