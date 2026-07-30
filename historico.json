@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -29759,6 +29759,15 @@
                                      "tv":  283
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  43.17,
+                                     "tv":  365
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -29766,15 +29775,6 @@
                                      "pe":  0,
                                      "km":  44.09,
                                      "tv":  228
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  43.17,
-                                     "tv":  332
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -29888,10 +29888,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  89.37,
-                                     "tv":  191
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  97.2,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Alan",
@@ -29901,6 +29901,15 @@
                                      "pe":  3,
                                      "km":  19.92,
                                      "tv":  192
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  7.73,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -29919,15 +29928,6 @@
                                      "pe":  2,
                                      "km":  46.66,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  4.93,
-                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -30004,6 +30004,13 @@
                                        "p":  1,
                                        "km":  1.46,
                                        "tv":  163
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -30468,6 +30475,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ANA AMELIA APARECIDA DE SIQUEIRA BARBOSA",
+                                       "p":  1,
+                                       "km":  7.83,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "M A COMERCIO DE ALIMENTOS LTDA",
                                        "p":  1,
@@ -30494,6 +30508,13 @@
                                        "p":  1,
                                        "km":  3.1,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "JR ELEUTERIO EMBALAGENS",
+                                       "p":  1,
+                                       "km":  2.8,
+                                       "tv":  117
                                    }
                                ]
                    }
