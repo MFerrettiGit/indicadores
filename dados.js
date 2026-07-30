@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -278,14 +278,14 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  36.76,
-                     "semPed":  2,
-                     "perc":  33.33,
+                     "visitas":  7,
+                     "km":  58.16,
+                     "semPed":  3,
+                     "perc":  42.86,
                      "primeiro":  "08:42",
-                     "ultimo":  "11:33",
-                     "tv":  "02:22:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:07",
+                     "tv":  "04:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1140,6 +1140,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "16:08:23",
+                         "out":  "18:07:39",
+                         "km":  21.4,
+                         "dur":  "01:58:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
                          "mun":  "PIRACICABA",
@@ -1579,7 +1588,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:38"
+                        "tempo":  "00:25:40"
                     }
                 ],
     "semped":  [
@@ -1662,6 +1671,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
                        "mun":  "PIRACICABA",
@@ -1715,13 +1730,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "342:43:41"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "01:55:33"
+                         "tempo":  "342:58:40"
                      }
                  ],
     "hist":  [
@@ -1832,8 +1841,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     110,
-                     21
+                     111,
+                     22
                  ]
              ],
     "historico":  {
@@ -31567,7 +31576,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31735,10 +31744,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  4,
-                                                       "km":  36.76,
-                                                       "tv":  142
+                                                       "km":  58.16,
+                                                       "tv":  260
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -32388,6 +32397,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.63,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                                         "p":  0,
+                                                         "km":  21.4,
+                                                         "tv":  118
                                                      },
                                                      {
                                                          "n":  "Cominato",
