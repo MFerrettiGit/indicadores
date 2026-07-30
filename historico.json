@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -29822,6 +29822,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  22.65,
+                                     "tv":  296
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -29856,15 +29865,6 @@
                                      "pe":  1,
                                      "km":  54.99,
                                      "tv":  189
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  20.03,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29933,10 +29933,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  62.2,
-                                     "tv":  143
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  62.91,
+                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -30242,6 +30242,13 @@
                                        "p":  1,
                                        "km":  6.11,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Maira",
@@ -30571,6 +30578,13 @@
                                        "p":  1,
                                        "km":  0.41,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
+                                       "p":  1,
+                                       "km":  0.71,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Nelson",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "15:50",
                      "tv":  "04:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  22.65,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:10",
+                     "ultimo":  "16:07",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -214,21 +229,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  20.03,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:10",
-                     "ultimo":  "14:47",
-                     "tv":  "03:46:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "15:43",
                      "tv":  "03:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "11:33",
                      "tv":  "02:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "15:51",
                      "tv":  "04:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "15:50",
                      "tv":  "05:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  62.2,
+                     "visitas":  3,
+                     "km":  62.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "10:15",
-                     "ultimo":  "12:49",
-                     "tv":  "02:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:21",
+                     "tv":  "02:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -742,6 +742,15 @@ window.PAINEL = {
                          "out":  "14:47:07",
                          "km":  6.11,
                          "dur":  "01:07:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "14:57:02",
+                         "out":  "16:07:35",
+                         "km":  2.62,
+                         "dur":  "01:10:00"
                      },
                      {
                          "nome":  "Maira",
@@ -1167,6 +1176,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
+                         "mun":  "SALESOPOLIS",
+                         "in":  "15:57:43",
+                         "out":  "16:21:03",
+                         "km":  0.71,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
@@ -1386,7 +1404,7 @@ window.PAINEL = {
                         "obs":  "Descalvado a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:46"
+                        "tempo":  "00:55:21"
                     },
                     {
                         "nome":  "Rachel",
@@ -1394,7 +1412,7 @@ window.PAINEL = {
                         "obs":  "daolio/gim/ triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:20"
+                        "tempo":  "00:47:55"
                     },
                     {
                         "nome":  "Eliana",
@@ -1402,7 +1420,7 @@ window.PAINEL = {
                         "obs":  "Buscar o carro na Oficina",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:14"
+                        "tempo":  "00:41:49"
                     }
                 ],
     "semped":  [
@@ -1514,67 +1532,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "04:32:21"
+                         "tempo":  "04:50:58"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:23:11"
+                         "tempo":  "00:41:48"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:10:11"
+                         "tempo":  "00:28:48"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:31:56"
+                         "tempo":  "00:50:33"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:14:00"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:14:36"
+                         "tempo":  "02:33:13"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:16:33"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:06:26"
+                         "tempo":  "00:35:10"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:59:41"
+                         "tempo":  "01:18:18"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:28"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO BELEZA  CEDRO LTDA",
+                         "mun":  "PARAIBUNA",
+                         "tempo":  "00:02:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "340:43:13"
+                         "tempo":  "341:01:50"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:06:16"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:13:42"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MONTE BELLO",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:42:51"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
-                         "mun":  "SALESOPOLIS",
-                         "tempo":  "00:05:45"
+                         "tempo":  "01:01:28"
                      }
                  ],
     "hist":  [
@@ -1685,7 +1721,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     93,
+                     95,
                      17
                  ]
              ],
@@ -31420,7 +31456,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -31513,6 +31549,15 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  22.65,
+                                                       "tv":  296
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -31547,15 +31592,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  54.99,
                                                        "tv":  189
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  20.03,
-                                                       "tv":  226
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -31624,10 +31660,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  62.2,
-                                                       "tv":  143
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.91,
+                                                       "tv":  166
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -31933,6 +31969,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.11,
                                                          "tv":  67
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.62,
+                                                         "tv":  70
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -32262,6 +32305,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.41,
                                                          "tv":  27
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
+                                                         "p":  1,
+                                                         "km":  0.71,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Nelson",
