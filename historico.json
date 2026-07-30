@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "08:15",
+                       "dataHora":  "08:30",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -29748,6 +29748,15 @@
                                      "pe":  0,
                                      "km":  2.86,
                                      "tv":  42
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  40.19,
+                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -29770,15 +29779,6 @@
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -29903,15 +29903,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -29946,6 +29937,15 @@
                                      "pe":  0,
                                      "km":  6.08,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -29954,6 +29954,13 @@
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  38.06,
+                                       "tv":  73
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  40.19,
                                        "tv":  73
                                    },
                                    {
