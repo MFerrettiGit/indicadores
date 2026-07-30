@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29739,6 +29739,15 @@
                                      "pe":  0,
                                      "km":  62.17,
                                      "tv":  237
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  43.17,
+                                     "tv":  332
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -29777,15 +29786,6 @@
                                      "tv":  223
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  41.71,
-                                     "tv":  169
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -29822,6 +29822,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  38.98,
+                                     "tv":  239
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -29856,15 +29865,6 @@
                                      "pe":  3,
                                      "km":  21.42,
                                      "tv":  155
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  31.59,
-                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29933,10 +29933,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  61.79,
-                                     "tv":  116
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.2,
+                                     "tv":  143
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -29983,6 +29983,13 @@
                                        "p":  1,
                                        "km":  3.65,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  1.46,
+                                       "tv":  163
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -30158,6 +30165,13 @@
                                        "p":  0,
                                        "km":  0.88,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.39,
+                                       "tv":  126
                                    },
                                    {
                                        "n":  "Milene",
