@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,12 +24,27 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  47.69,
+                     "km":  72.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:04",
                      "ultimo":  "16:56",
                      "tv":  "07:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  55.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:07",
+                     "ultimo":  "17:23",
+                     "tv":  "05:39:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -54,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  67.22,
+                     "km":  69.94,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:22",
@@ -64,18 +79,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  51.04,
+                     "visitas":  4,
+                     "km":  20.89,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "07:07",
-                     "ultimo":  "15:50",
-                     "tv":  "04:24:00",
-                     "emVisita":  1,
+                     "primeiro":  "07:14",
+                     "ultimo":  "17:30",
+                     "tv":  "07:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -91,21 +106,6 @@ window.PAINEL = {
                      "ultimo":  "15:40",
                      "tv":  "06:23:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  16.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:14",
-                     "ultimo":  "12:04",
-                     "tv":  "03:32:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "16:48",
                      "tv":  "05:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -519,6 +519,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "in":  "16:08:05",
+                         "out":  "17:23:44",
+                         "km":  4.06,
+                         "dur":  "01:15:00"
+                     },
+                     {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
@@ -688,6 +697,15 @@ window.PAINEL = {
                          "out":  "12:04:01",
                          "km":  7.73,
                          "dur":  "01:15:00"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "13:48:52",
+                         "out":  "17:30:29",
+                         "km":  4.49,
+                         "dur":  "03:41:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1518,7 +1536,7 @@ window.PAINEL = {
                         "obs":  "daolio/gim/ triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:56"
+                        "tempo":  "02:03:00"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1526,7 +1544,7 @@ window.PAINEL = {
                         "obs":  "proposta para cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:15"
+                        "tempo":  "01:08:19"
                     }
                 ],
     "semped":  [
@@ -1650,37 +1668,31 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "05:47:48"
+                         "tempo":  "06:05:56"
                      },
                      {
-                         "nome":  "Edimilson",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:10:50"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "03:30:03"
+                         "nome":  "Maira",
+                         "razao":  "POUPE SUPERMERCADOS LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:14:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "341:58:40"
+                         "tempo":  "342:16:48"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:03:06"
+                         "tempo":  "01:21:14"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:10:32"
+                         "tempo":  "01:28:40"
                      }
                  ],
     "hist":  [
@@ -1791,7 +1803,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     105,
+                     107,
                      19
                  ]
              ],
@@ -31526,7 +31538,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31543,8 +31555,17 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  47.69,
+                                                       "km":  72.93,
                                                        "tv":  475
+                                                   },
+                                                   {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  55.1,
+                                                       "tv":  339
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -31561,17 +31582,17 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  67.22,
+                                                       "km":  69.94,
                                                        "tv":  341
                                                    },
                                                    {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  51.04,
-                                                       "tv":  264
+                                                       "km":  20.89,
+                                                       "tv":  433
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -31581,15 +31602,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  60.39,
                                                        "tv":  383
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  16.4,
-                                                       "tv":  212
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -31866,6 +31878,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                                         "p":  1,
+                                                         "km":  4.06,
+                                                         "tv":  75
+                                                     },
+                                                     {
                                                          "n":  "Eduardo",
                                                          "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                                          "p":  0,
@@ -31997,6 +32016,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.73,
                                                          "tv":  75
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.49,
+                                                         "tv":  221
                                                      },
                                                      {
                                                          "n":  "Fernando",

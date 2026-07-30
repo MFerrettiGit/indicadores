@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29746,8 +29746,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  47.69,
+                                     "km":  72.93,
                                      "tv":  475
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  55.1,
+                                     "tv":  339
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -29764,17 +29773,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  67.22,
+                                     "km":  69.94,
                                      "tv":  341
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  51.04,
-                                     "tv":  264
+                                     "km":  20.89,
+                                     "tv":  433
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29784,15 +29793,6 @@
                                      "pe":  0,
                                      "km":  60.39,
                                      "tv":  383
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  16.4,
-                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -30069,6 +30069,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  4.06,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                                        "p":  0,
@@ -30200,6 +30207,13 @@
                                        "p":  1,
                                        "km":  7.73,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  4.49,
+                                       "tv":  221
                                    },
                                    {
                                        "n":  "Fernando",
