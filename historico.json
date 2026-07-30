@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29807,10 +29807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  26.41,
-                                     "tv":  245
+                                     "km":  27.59,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29822,6 +29822,24 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  132.28,
+                                     "tv":  166
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  37.71,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29829,15 +29847,6 @@
                                      "pe":  1,
                                      "km":  38.98,
                                      "tv":  239
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  129.19,
-                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -29856,15 +29865,6 @@
                                      "pe":  2,
                                      "km":  13.92,
                                      "tv":  159
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  21.42,
-                                     "tv":  155
                                  },
                                  {
                                      "nome":  "Costa",
@@ -30146,6 +30146,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR SEBASTIAO CAVACINI  ME",
+                                       "p":  1,
+                                       "km":  3.09,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "POSTO GALO BRANCO LTDA",
                                        "p":  0,
@@ -30216,6 +30223,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  1.18,
+                                       "tv":  116
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30235,6 +30249,13 @@
                                        "p":  1,
                                        "km":  2.88,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. PARE",
+                                       "p":  1,
+                                       "km":  16.29,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Sao Carlos",
