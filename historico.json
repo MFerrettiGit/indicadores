@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29759,6 +29759,15 @@
                                      "tv":  212
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  44.31,
+                                     "tv":  252
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -29777,22 +29786,13 @@
                                      "tv":  169
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  40.19,
-                                     "tv":  169
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  27.34,
-                                     "tv":  126
+                                     "km":  49.77,
+                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -29820,6 +29820,15 @@
                                      "pe":  0,
                                      "km":  101.92,
                                      "tv":  131
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  50.44,
+                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Luis",
@@ -29856,15 +29865,6 @@
                                      "pe":  3,
                                      "km":  126.85,
                                      "tv":  57
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  49.59,
-                                     "tv":  138
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29933,10 +29933,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.08,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  61.79,
+                                     "tv":  116
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -30020,6 +30020,13 @@
                                        "tv":  126
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  22.43,
+                                       "tv":  121
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -30053,6 +30060,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  4.12,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -30095,6 +30109,13 @@
                                        "p":  1,
                                        "km":  3.66,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
+                                       "p":  1,
+                                       "km":  2.34,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Luis",
@@ -30202,6 +30223,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
+                                       "p":  0,
+                                       "km":  0.85,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -30305,6 +30333,20 @@
                                        "p":  1,
                                        "km":  57.81,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COUTO FILHO MINIMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.32,
+                                       "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M A COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  55.71,
+                                       "tv":  116
                                    },
                                    {
                                        "n":  "Nelson",
