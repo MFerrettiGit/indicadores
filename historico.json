@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -29759,6 +29759,15 @@
                                      "tv":  399
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  51.04,
+                                     "tv":  264
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -29766,15 +29775,6 @@
                                      "pe":  0,
                                      "km":  58.23,
                                      "tv":  311
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  44.09,
-                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29897,10 +29897,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  21.72,
+                                     "tv":  255
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  3,
-                                     "km":  19.92,
-                                     "tv":  192
+                                     "pe":  4,
+                                     "km":  9.16,
+                                     "tv":  356
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -29910,15 +29919,6 @@
                                      "pe":  3,
                                      "km":  50.69,
                                      "tv":  317
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  7.73,
-                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -30046,6 +30046,13 @@
                                        "p":  1,
                                        "km":  19.83,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                       "p":  1,
+                                       "km":  6.95,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -30403,6 +30410,13 @@
                                        "p":  1,
                                        "km":  1.57,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.8,
+                                       "tv":  63
                                    },
                                    {
                                        "n":  "Castro",
