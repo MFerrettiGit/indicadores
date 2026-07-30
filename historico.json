@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29831,6 +29831,24 @@
                                      "tv":  113
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  126.85,
+                                     "tv":  57
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  12.84,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -29838,24 +29856,6 @@
                                      "pe":  2,
                                      "km":  18.54,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  123.19,
-                                     "tv":  42
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  7.32,
-                                     "tv":  50
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -30048,11 +30048,25 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "CARVALHO",
+                                       "p":  1,
+                                       "km":  3.66,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "POSTO GALO BRANCO LTDA",
                                        "p":  0,
                                        "km":  7.32,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                                       "p":  1,
+                                       "km":  5.52,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Maira",

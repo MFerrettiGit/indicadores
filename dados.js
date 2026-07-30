@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "10:22",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,37 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "10:34",
                      "tv":  "01:53:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  126.85,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "10:43",
+                     "tv":  "00:57:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  12.84,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:10",
+                     "ultimo":  "10:39",
+                     "tv":  "02:05:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,36 +214,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  123.19,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "10:12",
-                     "tv":  "00:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  7.32,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:10",
-                     "ultimo":  "09:01",
-                     "tv":  "00:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:03",
                      "ultimo":  "10:32",
                      "tv":  "01:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "10:31",
                      "tv":  "01:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "09:52",
                      "tv":  "00:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -492,6 +492,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "CARVALHO",
+                         "mun":  "TAQUARITINGA",
+                         "in":  "10:28:22",
+                         "out":  "10:43:59",
+                         "km":  3.66,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "POSTO GALO BRANCO LTDA",
                          "mun":  "FRANCA",
@@ -499,6 +508,15 @@ window.PAINEL = {
                          "out":  "09:01:01",
                          "km":  7.32,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                         "mun":  "FRANCA",
+                         "in":  "09:23:18",
+                         "out":  "10:39:16",
+                         "km":  5.52,
+                         "dur":  "01:15:00"
                      },
                      {
                          "nome":  "Maira",
@@ -715,103 +733,121 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:15:48"
+                         "tempo":  "01:30:46"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:23:11"
+                         "tempo":  "00:38:09"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:48:54"
+                         "tempo":  "01:03:52"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:03:08"
+                         "tempo":  "00:18:06"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:29:43"
+                         "tempo":  "00:44:41"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:28:33"
+                         "tempo":  "00:43:31"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:00:25"
                      },
                      {
                          "nome":  "Maira",
-                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                         "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:36:26"
+                         "tempo":  "00:01:43"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B A BARBOSA SUPERMERCADO LTDA",
                          "mun":  "PEDREIRA",
-                         "tempo":  "00:09:51"
+                         "tempo":  "00:24:49"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                         "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "01:10:42"
+                         "tempo":  "00:01:52"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:00:42"
+                         "tempo":  "00:15:40"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "CARVALHO",
-                         "mun":  "TAQUARITINGA",
-                         "tempo":  "00:05:38"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADOS TENDOLINI LTDA",
+                         "mun":  "DESCALVADO",
+                         "tempo":  "00:03:24"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:50:03"
+                         "tempo":  "01:05:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:54"
+                         "tempo":  "00:15:52"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "GABRIEL DE CARVALHO RIBEIRO",
+                         "mun":  "PARAIBUNA",
+                         "tempo":  "00:05:55"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "335:13:45"
+                         "tempo":  "335:28:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:39:57"
+                         "tempo":  "00:54:55"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "mun":  "VINHEDO",
+                         "tempo":  "00:13:15"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:09:21"
+                         "tempo":  "00:24:19"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SALESOPOLIS",
-                         "tempo":  "00:18:26"
+                         "tempo":  "00:33:24"
                      }
                  ],
     "hist":  [
@@ -922,8 +958,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     31,
-                     5
+                     34,
+                     6
                  ]
              ],
     "historico":  {
@@ -30657,7 +30693,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30759,6 +30795,24 @@ window.PAINEL = {
                                                        "tv":  113
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  126.85,
+                                                       "tv":  57
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  12.84,
+                                                       "tv":  125
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -30766,24 +30820,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.54,
                                                        "tv":  90
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  123.19,
-                                                       "tv":  42
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  7.32,
-                                                       "tv":  50
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -30976,11 +31012,25 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "CARVALHO",
+                                                         "p":  1,
+                                                         "km":  3.66,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "POSTO GALO BRANCO LTDA",
                                                          "p":  0,
                                                          "km":  7.32,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                                                         "p":  1,
+                                                         "km":  5.52,
+                                                         "tv":  75
                                                      },
                                                      {
                                                          "n":  "Maira",
