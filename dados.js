@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  8,
-                     "km":  139.33,
+                     "km":  177.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
@@ -1588,7 +1588,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:40"
+                        "tempo":  "00:43:18"
                     }
                 ],
     "semped":  [
@@ -1730,7 +1730,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "342:58:40"
+                         "tempo":  "343:16:11"
                      }
                  ],
     "hist":  [
@@ -31576,7 +31576,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31728,7 +31728,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  8,
                                                        "pe":  8,
-                                                       "km":  139.33,
+                                                       "km":  177.69,
                                                        "tv":  276
                                                    },
                                                    {
