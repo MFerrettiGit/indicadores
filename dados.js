@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
+                     "visitas":  2,
                      "km":  101.92,
-                     "semPed":  1,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "09:18",
-                     "ultimo":  "11:30",
-                     "tv":  "02:11:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:59",
+                     "tv":  "08:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  204.74,
+                     "km":  231.46,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:33",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "14:24",
                      "tv":  "03:50:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -293,14 +293,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  9.16,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  5,
+                     "km":  14.16,
+                     "semPed":  1,
+                     "perc":  20,
                      "primeiro":  "08:06",
-                     "ultimo":  "15:50",
-                     "tv":  "05:56:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:56",
+                     "tv":  "07:36:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -309,7 +309,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  86.7,
+                     "km":  95.52,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:07",
@@ -535,6 +535,15 @@ window.PAINEL = {
                          "out":  "11:30:10",
                          "km":  101.92,
                          "dur":  "02:11:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "11:31:07",
+                         "out":  "17:59:09",
+                         "km":  0,
+                         "dur":  "06:27:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -1336,6 +1345,15 @@ window.PAINEL = {
                          "out":  "15:50:15",
                          "km":  1.43,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:15:49",
+                         "out":  "17:56:20",
+                         "km":  4.24,
+                         "dur":  "01:40:00"
                      }
                  ],
     "eventos":  [
@@ -1386,6 +1404,14 @@ window.PAINEL = {
                         "inicio":  "14:24",
                         "final":  "15:34",
                         "tempo":  "01:09:22"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio/gim/ triunfo",
+                        "inicio":  "15:35",
+                        "final":  "17:56",
+                        "tempo":  "02:21:29"
                     },
                     {
                         "nome":  "Luis",
@@ -1540,20 +1566,20 @@ window.PAINEL = {
                         "tempo":  "01:01:42"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "daolio/gim/ triunfo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:17:49"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
+                        "inicio":  "16:30",
+                        "final":  "17:53",
+                        "tempo":  "01:23:29"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:08"
+                        "tempo":  "00:10:38"
                     }
                 ],
     "semped":  [
@@ -1594,6 +1620,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                       "mun":  "SOROCABA",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA",
                        "mun":  "JAGUARIUNA",
@@ -1610,6 +1642,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "acerto de preços no loja"
                    },
                    {
                        "nome":  "Castro",
@@ -1674,28 +1712,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "06:20:42"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "342:31:34"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:36:00"
+                         "tempo":  "342:43:41"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:43:26"
+                         "tempo":  "01:55:33"
                      }
                  ],
     "hist":  [
@@ -1806,8 +1832,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     108,
-                     19
+                     110,
+                     21
                  ]
              ],
     "historico":  {
@@ -31628,10 +31654,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
                                                        "km":  101.92,
-                                                       "tv":  131
+                                                       "tv":  518
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -31657,7 +31683,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  204.74,
+                                                       "km":  231.46,
                                                        "tv":  272
                                                    },
                                                    {
@@ -31718,10 +31744,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  4,
-                                                       "km":  9.16,
-                                                       "tv":  356
+                                                       "km":  14.16,
+                                                       "tv":  456
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -31729,7 +31755,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  86.7,
+                                                       "km":  95.52,
                                                        "tv":  273
                                                    },
                                                    {
@@ -31893,6 +31919,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  101.92,
                                                          "tv":  131
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  387
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -32516,6 +32549,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.43,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0,
+                                                         "km":  4.24,
+                                                         "tv":  100
                                                      }
                                                  ]
                                      }
