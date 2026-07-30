@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  79.17,
+                                     "tv":  283
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -29741,13 +29750,13 @@
                                      "tv":  293
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  62.17,
-                                     "tv":  237
+                                     "km":  55.96,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29775,15 +29784,6 @@
                                      "pe":  0,
                                      "km":  16.4,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  47.1,
-                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29894,6 +29894,15 @@
                                      "tv":  192
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  78.54,
+                                     "tv":  169
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -29901,15 +29910,6 @@
                                      "pe":  2,
                                      "km":  46.66,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  59.6,
-                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -29969,6 +29969,13 @@
                                        "p":  1,
                                        "km":  4.21,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
+                                       "p":  1,
+                                       "km":  8.86,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Debora",
@@ -30053,6 +30060,13 @@
                                        "p":  1,
                                        "km":  2,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Silmara",
@@ -30375,6 +30389,13 @@
                                        "p":  1,
                                        "km":  1.32,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COM. DE PROD. ALIMENT. JULIO COSTA  LTDA",
+                                       "p":  1,
+                                       "km":  18.94,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Mariangela",
