@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -29777,6 +29777,15 @@
                                      "tv":  228
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  60.39,
+                                     "tv":  383
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -29784,15 +29793,6 @@
                                      "pe":  0,
                                      "km":  16.4,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  49.77,
-                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -29831,6 +29831,15 @@
                                      "tv":  230
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  38.98,
+                                     "tv":  294
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -29858,15 +29867,6 @@
                                      "tv":  226
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  38.98,
-                                     "tv":  239
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -29874,6 +29874,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  112.65,
+                                     "tv":  233
                                  },
                                  {
                                      "nome":  "Castro",
@@ -29885,15 +29894,6 @@
                                      "tv":  142
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  97.2,
-                                     "tv":  218
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -29901,6 +29901,15 @@
                                      "pe":  3,
                                      "km":  19.92,
                                      "tv":  192
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  50.69,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -29919,15 +29928,6 @@
                                      "pe":  0,
                                      "km":  79.01,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  46.66,
-                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -30067,6 +30067,13 @@
                                        "p":  1,
                                        "km":  22.43,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA (VL ARENS)",
+                                       "p":  1,
+                                       "km":  10.62,
+                                       "tv":  136
                                    },
                                    {
                                        "n":  "Evandro",
@@ -30256,6 +30263,13 @@
                                        "p":  1,
                                        "km":  7.39,
                                        "tv":  126
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Milene",
@@ -30475,6 +30489,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  4.03,
+                                       "tv":  146
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "MARIA ROSEMARY DE MACEDO- EPP",
                                        "p":  1,
@@ -30517,6 +30538,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ROSA MARIA AUGUSTO",
+                                       "p":  1,
+                                       "km":  15.45,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "M A COMERCIO DE ALIMENTOS LTDA",
                                        "p":  1,
@@ -30550,6 +30578,13 @@
                                        "p":  1,
                                        "km":  2.8,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                                       "p":  1,
+                                       "km":  1.43,
+                                       "tv":  45
                                    }
                                ]
                    }
