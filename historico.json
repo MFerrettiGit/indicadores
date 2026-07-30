@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  48.51,
+                                     "tv":  293
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -29766,15 +29775,6 @@
                                      "pe":  0,
                                      "km":  16.4,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  44.31,
-                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Aline",
@@ -29888,10 +29888,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  18.35,
-                                     "tv":  157
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  19.92,
+                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -30074,6 +30074,13 @@
                                        "p":  1,
                                        "km":  4.12,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                       "p":  1,
+                                       "km":  4.2,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -30263,6 +30270,13 @@
                                        "p":  1,
                                        "km":  5.34,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "PONTEL",
+                                       "p":  1,
+                                       "km":  1.57,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Castro",
