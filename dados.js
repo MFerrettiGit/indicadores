@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "18:45",
+    "dataHora":  "19:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  20.89,
+                     "km":  27.96,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:14",
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  50.74,
+                     "km":  90.01,
                      "semPed":  3,
                      "perc":  42.86,
                      "primeiro":  "08:27",
@@ -1588,7 +1588,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:18"
+                        "tempo":  "00:58:34"
                     }
                 ],
     "semped":  [
@@ -1730,7 +1730,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "343:16:11"
+                         "tempo":  "343:31:32"
                      }
                  ],
     "hist":  [
@@ -31576,7 +31576,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "18:45",
+                                         "dataHora":  "19:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31629,7 +31629,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  20.89,
+                                                       "km":  27.96,
                                                        "tv":  433
                                                    },
                                                    {
@@ -31674,7 +31674,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  4,
-                                                       "km":  50.74,
+                                                       "km":  90.01,
                                                        "tv":  379
                                                    },
                                                    {
