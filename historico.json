@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -29748,6 +29748,15 @@
                                      "pe":  0,
                                      "km":  20.84,
                                      "tv":  130
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  40.19,
+                                     "tv":  169
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -29777,15 +29786,6 @@
                                      "tv":  42
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  40.19,
-                                     "tv":  73
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -29807,10 +29807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  22.24,
-                                     "tv":  68
+                                     "km":  24.62,
+                                     "tv":  169
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29822,6 +29822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  18.54,
+                                     "tv":  90
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29831,6 +29840,15 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  123.19,
+                                     "tv":  42
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -29838,24 +29856,6 @@
                                      "pe":  0,
                                      "km":  7.32,
                                      "tv":  50
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.56,
-                                     "tv":  67
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.6,
-                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -29879,10 +29879,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  34.04,
-                                     "tv":  60
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  35.28,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Alan",
@@ -29930,21 +29930,21 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.08,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -30006,6 +30006,13 @@
                                        "tv":  73
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  96
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30018,6 +30025,13 @@
                                        "p":  1,
                                        "km":  20.22,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "RAFAEL YOSHIHIRO WATANABE - ME.",
+                                       "p":  1,
+                                       "km":  81.59,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Luis",
@@ -30048,11 +30062,25 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  2.38,
+                                       "tv":  101
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  1.07,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "G.I.M. SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  16.98,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Alan",
@@ -30074,6 +30102,13 @@
                                        "p":  1,
                                        "km":  0.26,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER E CIA LTDA",
+                                       "p":  1,
+                                       "km":  1.24,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
