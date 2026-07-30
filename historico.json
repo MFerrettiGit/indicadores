@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29831,6 +29831,15 @@
                                      "tv":  159
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  21.42,
+                                     "tv":  155
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29849,22 +29858,13 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  18.54,
-                                     "tv":  90
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  44.99,
-                                     "tv":  122
+                                     "km":  49.59,
+                                     "tv":  138
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29885,6 +29885,15 @@
                                      "tv":  142
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  46.66,
+                                     "tv":  171
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -29892,6 +29901,15 @@
                                      "pe":  1,
                                      "km":  13.01,
                                      "tv":  133
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  4.93,
+                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -29903,15 +29921,6 @@
                                      "tv":  122
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  36.31,
-                                     "tv":  154
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -29919,15 +29928,6 @@
                                      "pe":  2,
                                      "km":  58.28,
                                      "tv":  98
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.83,
-                                     "tv":  92
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -30153,6 +30153,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B A BARBOSA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.88,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SILVIO ANTONIO FRANZIN",
                                        "p":  1,
@@ -30165,6 +30172,13 @@
                                        "p":  0,
                                        "km":  2.43,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO LAZARINI EIRELI",
+                                       "p":  0,
+                                       "km":  4.6,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Alan",
@@ -30251,6 +30265,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                       "p":  0,
+                                       "km":  10.35,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "MARIA ROSEMARY DE MACEDO- EPP",
                                        "p":  1,
@@ -30270,6 +30291,13 @@
                                        "p":  1,
                                        "km":  1.32,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                       "p":  1,
+                                       "km":  3.1,
+                                       "tv":  102
                                    }
                                ]
                    }

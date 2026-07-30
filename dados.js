@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  21.42,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:15",
+                     "ultimo":  "11:36",
+                     "tv":  "02:35:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -199,33 +214,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  18.54,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:15",
-                     "ultimo":  "10:14",
-                     "tv":  "01:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  44.99,
-                     "semPed":  1,
-                     "perc":  50,
+                     "visitas":  3,
+                     "km":  49.59,
+                     "semPed":  2,
+                     "perc":  66.67,
                      "primeiro":  "09:03",
-                     "ultimo":  "11:20",
-                     "tv":  "02:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:48",
+                     "tv":  "02:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  46.66,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:22",
+                     "ultimo":  "11:49",
+                     "tv":  "02:51:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -272,6 +287,21 @@ window.PAINEL = {
                      "tv":  "02:13:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  4.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "11:36",
+                     "tv":  "03:14:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -289,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  36.31,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "11:04",
-                     "tv":  "02:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "11:24",
                      "tv":  "01:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  1.83,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "09:39",
-                     "tv":  "01:32:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -627,6 +627,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B A BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "10:24:09",
+                         "out":  "11:36:48",
+                         "km":  2.88,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
@@ -643,6 +652,15 @@ window.PAINEL = {
                          "out":  "11:20:18",
                          "km":  2.43,
                          "dur":  "00:34:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
+                         "mun":  "DESCALVADO",
+                         "in":  "11:32:26",
+                         "out":  "11:48:45",
+                         "km":  4.6,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Alan",
@@ -753,6 +771,15 @@ window.PAINEL = {
                          "dur":  "01:20:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                         "mun":  "ATIBAIA",
+                         "in":  "11:31:20",
+                         "out":  "11:49:11",
+                         "km":  10.35,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MARIA ROSEMARY DE MACEDO- EPP",
                          "mun":  "CARAGUATATUBA",
@@ -778,6 +805,15 @@ window.PAINEL = {
                          "out":  "09:39:27",
                          "km":  1.32,
                          "dur":  "01:32:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "09:54:03",
+                         "out":  "11:36:49",
+                         "km":  3.1,
+                         "dur":  "01:42:00"
                      }
                  ],
     "eventos":  [
@@ -796,6 +832,14 @@ window.PAINEL = {
                         "inicio":  "08:04",
                         "final":  "09:02",
                         "tempo":  "00:58:10"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:12"
                     }
                 ],
     "semped":  [
@@ -816,6 +860,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
                        "mun":  "PAULINIA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                       "mun":  "ATIBAIA",
+                       "obs":  "comprador ausente"
                    },
                    {
                        "nome":  "Alan",
@@ -864,6 +914,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADOS TENDOLINI LTDA",
                        "mun":  "DESCALVADO",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO LAZARINI EIRELI",
+                       "mun":  "DESCALVADO",
+                       "obs":  "estocado"
                    }
                ],
     "emvisita":  [
@@ -871,97 +927,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:02:59"
+                         "tempo":  "00:17:52"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:23:17"
+                         "tempo":  "01:38:10"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:28:52"
+                         "tempo":  "00:43:45"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:28:39"
+                         "tempo":  "01:43:32"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:45:33"
+                         "tempo":  "01:00:26"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:43:03"
+                         "tempo":  "00:57:56"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:46:51"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "B A BARBOSA SUPERMERCADO LTDA",
-                         "mun":  "PEDREIRA",
-                         "tempo":  "01:09:57"
+                         "tempo":  "01:01:44"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:00:48"
+                         "tempo":  "01:15:41"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:42:18"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
-                         "mun":  "DESCALVADO",
-                         "tempo":  "00:01:40"
+                         "tempo":  "00:57:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:02:46"
+                         "tempo":  "00:17:39"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COUTO FILHO MINIMERCADO LTDA",
                          "mun":  "PARAIBUNA",
-                         "tempo":  "00:05:29"
+                         "tempo":  "00:20:22"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "336:13:51"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:40:03"
+                         "tempo":  "336:28:44"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SALESOPOLIS",
-                         "tempo":  "01:18:32"
+                         "tempo":  "01:33:25"
                      }
                  ],
     "hist":  [
@@ -1072,8 +1110,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     46,
-                     11
+                     49,
+                     12
                  ]
              ],
     "historico":  {
@@ -30807,7 +30845,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -30909,6 +30947,15 @@ window.PAINEL = {
                                                        "tv":  159
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  21.42,
+                                                       "tv":  155
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -30927,22 +30974,13 @@ window.PAINEL = {
                                                        "tv":  57
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  18.54,
-                                                       "tv":  90
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  44.99,
-                                                       "tv":  122
+                                                       "km":  49.59,
+                                                       "tv":  138
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -30963,6 +31001,15 @@ window.PAINEL = {
                                                        "tv":  142
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  46.66,
+                                                       "tv":  171
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -30970,6 +31017,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  13.01,
                                                        "tv":  133
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  4.93,
+                                                       "tv":  194
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -30981,15 +31037,6 @@ window.PAINEL = {
                                                        "tv":  122
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  36.31,
-                                                       "tv":  154
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -30997,15 +31044,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  58.28,
                                                        "tv":  98
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  1.83,
-                                                       "tv":  92
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -31231,6 +31269,13 @@ window.PAINEL = {
                                                          "tv":  23
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B A BARBOSA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  2.88,
+                                                         "tv":  65
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SILVIO ANTONIO FRANZIN",
                                                          "p":  1,
@@ -31243,6 +31288,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.43,
                                                          "tv":  34
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO LAZARINI EIRELI",
+                                                         "p":  0,
+                                                         "km":  4.6,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -31329,6 +31381,13 @@ window.PAINEL = {
                                                          "tv":  80
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                                         "p":  0,
+                                                         "km":  10.35,
+                                                         "tv":  17
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "MARIA ROSEMARY DE MACEDO- EPP",
                                                          "p":  1,
@@ -31348,6 +31407,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.32,
                                                          "tv":  92
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                                         "p":  1,
+                                                         "km":  3.1,
+                                                         "tv":  102
                                                      }
                                                  ]
                                      }
