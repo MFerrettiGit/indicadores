@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  80.41,
+                                     "tv":  355
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -29741,13 +29750,13 @@
                                      "tv":  350
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  74,
-                                     "tv":  330
+                                     "km":  43.52,
+                                     "tv":  399
                                  },
                                  {
                                      "nome":  "Aline",
@@ -29757,15 +29766,6 @@
                                      "pe":  0,
                                      "km":  58.23,
                                      "tv":  311
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  43.17,
-                                     "tv":  365
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -29840,6 +29840,15 @@
                                      "tv":  166
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  54.99,
+                                     "tv":  189
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -29856,15 +29865,6 @@
                                      "pe":  1,
                                      "km":  38.98,
                                      "tv":  239
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  50.44,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Costa",
@@ -30013,6 +30013,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.35,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -30130,6 +30137,13 @@
                                        "p":  1,
                                        "km":  25.49,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
+                                       "p":  1,
+                                       "km":  6.41,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -30340,6 +30354,13 @@
                                        "p":  0,
                                        "km":  0.85,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.55,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Alan",
