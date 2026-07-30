@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29816,10 +29816,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  101.92,
+                                     "tv":  131
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  13.92,
+                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Maira",
@@ -29840,15 +29849,6 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  12.84,
-                                     "tv":  125
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -29861,10 +29861,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  42.56,
-                                     "tv":  88
+                                     "km":  44.99,
+                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29879,10 +29879,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  4,
-                                     "km":  36.13,
-                                     "tv":  110
+                                     "km":  36.76,
+                                     "tv":  142
                                  },
                                  {
                                      "nome":  "Alan",
@@ -29894,6 +29894,15 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  79.01,
+                                     "tv":  122
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -29903,6 +29912,15 @@
                                      "tv":  154
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  58.28,
+                                     "tv":  98
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -29910,24 +29928,6 @@
                                      "pe":  1,
                                      "km":  1.83,
                                      "tv":  92
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  64.08,
-                                     "tv":  57
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.47,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -29997,6 +29997,13 @@
                                        "p":  1,
                                        "km":  3.42,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  0,
+                                       "km":  101.92,
+                                       "tv":  131
                                    },
                                    {
                                        "n":  "Eliana",
@@ -30090,6 +30097,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  1.08,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                                        "p":  0,
@@ -30146,6 +30160,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TENDOLINI LTDA",
+                                       "p":  0,
+                                       "km":  2.43,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -30195,11 +30216,25 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
+                                       "p":  0,
+                                       "km":  0.63,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "D. NASTARO SUPERMERCADOS EIRELI",
                                        "p":  0,
                                        "km":  1.8,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "N N NASTARO LTDA",
+                                       "p":  0,
+                                       "km":  14.93,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -30221,6 +30256,13 @@
                                        "p":  1,
                                        "km":  0.47,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "GABRIEL DE CARVALHO RIBEIRO",
+                                       "p":  1,
+                                       "km":  57.81,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Nelson",
