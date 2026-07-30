@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29748,6 +29748,15 @@
                                      "pe":  0,
                                      "km":  38.06,
                                      "tv":  73
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  27.34,
+                                     "tv":  126
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -29777,22 +29786,13 @@
                                      "tv":  73
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.74,
-                                     "tv":  0
+                                     "km":  27.38,
+                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -29831,6 +29831,15 @@
                                      "tv":  50
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  29.78,
+                                     "tv":  46
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -29846,15 +29855,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.49,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
                                      "tv":  0
                                  },
                                  {
@@ -29876,6 +29876,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  64.08,
+                                     "tv":  57
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -29891,15 +29900,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.51,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  62.28,
                                      "tv":  0
                                  },
                                  {
@@ -29950,6 +29950,13 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.64,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -29962,6 +29969,13 @@
                                        "p":  1,
                                        "km":  19.63,
                                        "tv":  95
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  27.34,
+                                       "tv":  126
                                    },
                                    {
                                        "n":  "Evandro",
@@ -29999,11 +30013,25 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
+                                       "p":  0,
+                                       "km":  29.22,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
                                        "km":  22.24,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "D. NASTARO SUPERMERCADOS EIRELI",
+                                       "p":  0,
+                                       "km":  1.8,
+                                       "tv":  57
                                    }
                                ]
                    }
