@@ -29729,8 +29729,26 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  88.91,
+                                     "tv":  432
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  47.69,
+                                     "tv":  475
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -29748,24 +29766,6 @@
                                      "pe":  0,
                                      "km":  67.22,
                                      "tv":  341
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  85.42,
-                                     "tv":  350
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  43.52,
-                                     "tv":  399
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -29809,7 +29809,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  47.42,
+                                     "km":  53.21,
                                      "tv":  421
                                  },
                                  {
@@ -29831,6 +29831,15 @@
                                      "tv":  355
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  204.74,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -29847,15 +29856,6 @@
                                      "pe":  4,
                                      "km":  39.36,
                                      "tv":  230
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  132.28,
-                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -29879,10 +29879,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  7,
-                                     "km":  112.65,
-                                     "tv":  233
+                                     "vi":  8,
+                                     "pe":  8,
+                                     "km":  139.33,
+                                     "tv":  276
                                  },
                                  {
                                      "nome":  "Alan",
@@ -30027,6 +30027,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.17,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -30125,6 +30132,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  3.49,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30221,6 +30235,13 @@
                                        "p":  1,
                                        "km":  3.09,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  72.46,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Luis",
@@ -30592,6 +30613,13 @@
                                        "p":  1,
                                        "km":  15.45,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO BELEZA  CEDRO LTDA",
+                                       "p":  1,
+                                       "km":  26.68,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Mariangela",
