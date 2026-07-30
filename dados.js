@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  41.11,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:27",
+                     "ultimo":  "16:48",
+                     "tv":  "05:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -166,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "16:07",
                      "tv":  "04:56:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -182,21 +197,6 @@ window.PAINEL = {
                      "tv":  "03:50:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  38.98,
-                     "semPed":  3,
-                     "perc":  60,
-                     "primeiro":  "08:27",
-                     "ultimo":  "15:36",
-                     "tv":  "04:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  25.65,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:04",
+                     "ultimo":  "16:40",
+                     "tv":  "04:46:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "11:33",
                      "tv":  "02:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  21.72,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:04",
-                     "ultimo":  "15:51",
-                     "tv":  "04:15:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -807,6 +807,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                         "mun":  "PAULINIA",
+                         "in":  "15:46:55",
+                         "out":  "16:48:42",
+                         "km":  2.13,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
@@ -985,6 +994,15 @@ window.PAINEL = {
                          "out":  "15:51:31",
                          "km":  1.8,
                          "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:08:37",
+                         "out":  "16:40:29",
+                         "km":  3.93,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1297,6 +1315,14 @@ window.PAINEL = {
                         "tempo":  "01:00:36"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Harus",
+                        "inicio":  "16:27",
+                        "final":  "16:48",
+                        "tempo":  "00:21:02"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1430,7 +1456,7 @@ window.PAINEL = {
                         "obs":  "daolio/gim/ triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:06"
+                        "tempo":  "01:14:59"
                     },
                     {
                         "nome":  "Eliana",
@@ -1438,15 +1464,7 @@ window.PAINEL = {
                         "obs":  "Buscar o carro na Oficina",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:00"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Harus",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:07:53"
+                        "tempo":  "01:08:53"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1454,7 +1472,7 @@ window.PAINEL = {
                         "obs":  "proposta para cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:25"
+                        "tempo":  "00:20:18"
                     }
                 ],
     "semped":  [
@@ -1572,73 +1590,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "05:02:58"
+                         "tempo":  "05:17:51"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:53:48"
+                         "tempo":  "01:08:41"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:02:33"
+                         "tempo":  "01:17:26"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:26:00"
+                         "tempo":  "00:40:53"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:45:13"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
-                         "mun":  "PAULINIA",
-                         "tempo":  "00:47:10"
+                         "tempo":  "03:00:06"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:30:18"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:25:28"
+                         "tempo":  "01:45:11"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO BELEZA  CEDRO LTDA",
                          "mun":  "PARAIBUNA",
-                         "tempo":  "00:14:08"
+                         "tempo":  "00:29:01"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "341:13:50"
+                         "tempo":  "341:28:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:18:16"
+                         "tempo":  "00:33:09"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:25:42"
+                         "tempo":  "00:40:35"
                      }
                  ],
     "hist":  [
@@ -1749,7 +1755,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     97,
+                     99,
                      18
                  ]
              ],
@@ -31484,7 +31490,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -31577,6 +31583,15 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  41.11,
+                                                       "tv":  355
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -31593,15 +31608,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  39.36,
                                                        "tv":  230
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  2,
-                                                       "km":  38.98,
-                                                       "tv":  294
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -31640,6 +31646,15 @@ window.PAINEL = {
                                                        "tv":  233
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  25.65,
+                                                       "tv":  286
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -31647,15 +31662,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  36.76,
                                                        "tv":  142
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  21.72,
-                                                       "tv":  255
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -32048,6 +32054,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                                                         "p":  1,
+                                                         "km":  2.13,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADOS GRICKI LTDA",
                                                          "p":  1,
@@ -32186,6 +32199,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.8,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.93,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Castro",
