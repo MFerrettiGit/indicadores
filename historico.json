@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29750,6 +29750,24 @@
                                      "tv":  181
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  16.4,
+                                     "tv":  212
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  47.1,
+                                     "tv":  223
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -29759,15 +29777,6 @@
                                      "tv":  169
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.67,
-                                     "tv":  137
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -29775,15 +29784,6 @@
                                      "pe":  0,
                                      "km":  40.19,
                                      "tv":  169
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  42.89,
-                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29807,10 +29807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  24.62,
-                                     "tv":  169
+                                     "km":  26.41,
+                                     "tv":  245
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -29964,6 +29964,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.21,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30062,6 +30069,13 @@
                                        "tv":  95
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.73,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30137,6 +30151,13 @@
                                        "p":  1,
                                        "km":  2.38,
                                        "tv":  101
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.79,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Rachel",
