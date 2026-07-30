@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  20.84,
+                                     "tv":  130
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -29757,15 +29766,6 @@
                                      "pe":  0,
                                      "km":  27.34,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  19.63,
-                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -29876,6 +29876,33 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.04,
+                                     "tv":  60
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.67,
+                                     "tv":  96
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.83,
+                                     "tv":  92
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -29885,40 +29912,13 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  33.78,
-                                     "tv":  43
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.51,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  26.59,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  34.67,
+                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Karina",
@@ -29969,6 +29969,13 @@
                                        "p":  1,
                                        "km":  19.63,
                                        "tv":  95
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.21,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Eliana",
@@ -30034,6 +30041,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  6.67,
+                                       "tv":  96
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                        "p":  1,
@@ -30041,11 +30055,32 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER",
+                                       "p":  1,
+                                       "km":  0.26,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "D. NASTARO SUPERMERCADOS EIRELI",
                                        "p":  0,
                                        "km":  1.8,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1,
+                                       "km":  8.08,
+                                       "tv":  74
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADOS VMS EIRELI",
+                                       "p":  1,
+                                       "km":  1.32,
+                                       "tv":  92
                                    }
                                ]
                    }
