@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  85.42,
+                                     "tv":  350
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -29748,15 +29757,6 @@
                                      "pe":  0,
                                      "km":  58.23,
                                      "tv":  311
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  79.17,
-                                     "tv":  283
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29807,10 +29807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  27.59,
-                                     "tv":  361
+                                     "km":  47.42,
+                                     "tv":  421
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -30090,6 +30090,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.25,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30263,6 +30270,13 @@
                                        "p":  1,
                                        "km":  1.18,
                                        "tv":  116
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  19.83,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Rachel",
