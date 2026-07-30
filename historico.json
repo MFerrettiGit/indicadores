@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.17,
+                                     "tv":  192
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -29750,6 +29759,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.67,
+                                     "tv":  137
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -29759,15 +29777,6 @@
                                      "tv":  169
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  58.74,
-                                     "tv":  106
-                                 },
-                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -29775,15 +29784,6 @@
                                      "pe":  0,
                                      "km":  27.34,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.86,
-                                     "tv":  42
                                  },
                                  {
                                      "nome":  "Aline",
@@ -29822,6 +29822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  31.59,
+                                     "tv":  113
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -29829,15 +29838,6 @@
                                      "pe":  2,
                                      "km":  18.54,
                                      "tv":  90
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  30.71,
-                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -29861,10 +29861,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.1,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  42.56,
+                                     "tv":  88
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29879,10 +29879,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
                                      "km":  35.28,
-                                     "tv":  75
+                                     "tv":  90
                                  },
                                  {
                                      "nome":  "Alan",
@@ -29999,6 +29999,13 @@
                                        "tv":  106
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.43,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30018,6 +30025,13 @@
                                        "p":  1,
                                        "km":  2.86,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.81,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Fernando",
@@ -30055,6 +30069,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                                       "p":  0,
+                                       "km":  0.88,
+                                       "tv":  36
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
@@ -30083,6 +30104,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SILVIO ANTONIO FRANZIN",
+                                       "p":  1,
+                                       "km":  42.46,
+                                       "tv":  88
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -30108,6 +30136,13 @@
                                        "r":  "INFANGER E CIA LTDA",
                                        "p":  1,
                                        "km":  1.24,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL RUZALEM LTDA",
+                                       "p":  0,
+                                       "km":  0,
                                        "tv":  15
                                    },
                                    {
