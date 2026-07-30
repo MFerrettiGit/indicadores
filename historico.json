@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -29759,6 +29759,15 @@
                                      "tv":  283
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  44.09,
+                                     "tv":  228
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -29766,15 +29775,6 @@
                                      "pe":  0,
                                      "km":  43.17,
                                      "tv":  332
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  24.26,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -29840,6 +29840,15 @@
                                      "tv":  166
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  20.03,
+                                     "tv":  226
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29856,15 +29865,6 @@
                                      "pe":  1,
                                      "km":  50.44,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  13.92,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Costa",
@@ -29903,6 +29903,15 @@
                                      "tv":  192
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  79.01,
+                                     "tv":  201
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -29919,15 +29928,6 @@
                                      "pe":  2,
                                      "km":  4.93,
                                      "tv":  194
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  79.01,
-                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -30025,6 +30025,13 @@
                                        "p":  1,
                                        "km":  3.42,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  19.83,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -30186,6 +30193,13 @@
                                        "p":  1,
                                        "km":  1.08,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                                       "p":  1,
+                                       "km":  6.11,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Maira",
@@ -30389,6 +30403,13 @@
                                        "p":  0,
                                        "km":  14.93,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  79
                                    },
                                    {
                                        "n":  "Eugenio",
