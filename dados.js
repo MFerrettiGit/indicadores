@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:16",
                      "ultimo":  "12:14",
                      "tv":  "04:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "02:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "11:36",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -888,6 +888,15 @@ window.PAINEL = {
                          "dur":  "01:56:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "M. PEREIRA SUPERMERCADO EIRELI",
+                         "mun":  "SALESOPOLIS",
+                         "in":  "12:22:02",
+                         "out":  "12:49:47",
+                         "km":  0.41,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
@@ -908,6 +917,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:46",
+                        "final":  "12:48",
+                        "tempo":  "01:01:56"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Em Viagem",
                         "obs":  "salesopolis",
@@ -924,20 +941,12 @@ window.PAINEL = {
                         "tempo":  "00:58:10"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:10"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:25"
+                        "tempo":  "00:59:26"
                     },
                     {
                         "nome":  "Edimilson",
@@ -945,7 +954,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:31"
+                        "tempo":  "00:54:32"
                     },
                     {
                         "nome":  "Evandro",
@@ -953,7 +962,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:19"
+                        "tempo":  "00:54:20"
                     },
                     {
                         "nome":  "Rachel",
@@ -961,7 +970,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:57"
+                        "tempo":  "00:50:58"
                     },
                     {
                         "nome":  "Eugenio",
@@ -969,7 +978,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:38"
+                        "tempo":  "00:46:39"
                     },
                     {
                         "nome":  "Vinicius",
@@ -977,7 +986,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:41"
+                        "tempo":  "00:44:42"
                     },
                     {
                         "nome":  "Cominato",
@@ -985,7 +994,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:41"
+                        "tempo":  "00:43:42"
                     },
                     {
                         "nome":  "Eliana",
@@ -993,7 +1002,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:24"
+                        "tempo":  "00:42:25"
                     },
                     {
                         "nome":  "Fernando",
@@ -1001,7 +1010,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:44"
+                        "tempo":  "00:29:45"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1009,7 +1018,15 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:07"
+                        "tempo":  "00:26:08"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:50"
                     }
                 ],
     "semped":  [
@@ -1103,43 +1120,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:02:51"
+                         "tempo":  "01:17:50"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "02:23:09"
+                         "tempo":  "02:38:08"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:13:14"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "01:46:43"
+                         "tempo":  "02:01:42"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:36:04"
+                         "tempo":  "00:51:03"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:01:22"
+                         "tempo":  "00:16:21"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "337:13:43"
+                         "tempo":  "337:28:42"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M. PEREIRA SUPERMERCADO EIRELI",
                          "mun":  "SALESOPOLIS",
-                         "tempo":  "00:11:56"
+                         "tempo":  "00:26:55"
                      }
                  ],
     "hist":  [
@@ -30985,7 +31008,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31610,6 +31633,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  55.71,
                                                          "tv":  116
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "M. PEREIRA SUPERMERCADO EIRELI",
+                                                         "p":  1,
+                                                         "km":  0.41,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Nelson",

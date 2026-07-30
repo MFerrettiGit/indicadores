@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30354,6 +30354,13 @@
                                        "p":  1,
                                        "km":  55.71,
                                        "tv":  116
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M. PEREIRA SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  0.41,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Nelson",
