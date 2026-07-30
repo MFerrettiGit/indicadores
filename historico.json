@@ -29729,8 +29729,26 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  74,
+                                     "tv":  330
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  58.23,
+                                     "tv":  311
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -29739,24 +29757,6 @@
                                      "pe":  0,
                                      "km":  79.17,
                                      "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  48.51,
-                                     "tv":  293
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  55.96,
-                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29822,6 +29822,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  39.36,
+                                     "tv":  230
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -29829,15 +29838,6 @@
                                      "pe":  5,
                                      "km":  132.28,
                                      "tv":  166
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  37.71,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Maira",
@@ -29978,6 +29978,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  2.27,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -30095,6 +30102,13 @@
                                        "p":  1,
                                        "km":  4.2,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  25.49,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -30256,6 +30270,13 @@
                                        "p":  1,
                                        "km":  16.29,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  1.65,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Sao Carlos",
