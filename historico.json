@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  62.17,
+                                     "tv":  237
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -29739,15 +29748,6 @@
                                      "pe":  0,
                                      "km":  24.26,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  60.17,
-                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Debora",
@@ -29888,10 +29888,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  6.67,
-                                     "tv":  96
+                                     "km":  13.01,
+                                     "tv":  133
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  36.31,
+                                     "tv":  154
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -29910,15 +29919,6 @@
                                      "pe":  0,
                                      "km":  64.08,
                                      "tv":  57
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  34.67,
-                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Karina",
@@ -30018,6 +30018,13 @@
                                        "p":  1,
                                        "km":  1.43,
                                        "tv":  86
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Silmara",
@@ -30146,6 +30153,13 @@
                                        "tv":  96
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  6.34,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                        "p":  1,
@@ -30193,6 +30207,13 @@
                                        "p":  1,
                                        "km":  8.08,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.64,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Karina",
