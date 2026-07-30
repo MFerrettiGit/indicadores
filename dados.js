@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  29.35,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:10",
+                     "ultimo":  "17:12",
+                     "tv":  "05:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "16:50",
                      "tv":  "04:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  22.65,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:10",
-                     "ultimo":  "16:07",
-                     "tv":  "04:56:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  25.65,
+                     "visitas":  7,
+                     "km":  31.42,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:04",
-                     "ultimo":  "16:40",
-                     "tv":  "04:46:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:11",
+                     "tv":  "05:05:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -789,6 +789,15 @@ window.PAINEL = {
                          "dur":  "01:10:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "16:49:26",
+                         "out":  "17:12:36",
+                         "km":  6.7,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                          "mun":  "PAULINIA",
@@ -1030,6 +1039,15 @@ window.PAINEL = {
                          "out":  "16:40:29",
                          "km":  3.93,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:51:48",
+                         "out":  "17:11:16",
+                         "km":  5.77,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1500,7 +1518,7 @@ window.PAINEL = {
                         "obs":  "daolio/gim/ triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:39"
+                        "tempo":  "01:44:56"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1508,7 +1526,7 @@ window.PAINEL = {
                         "obs":  "proposta para cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:58"
+                        "tempo":  "00:50:15"
                     }
                 ],
     "semped":  [
@@ -1559,6 +1577,12 @@ window.PAINEL = {
                        "razao":  "POSTO GALO BRANCO LTDA",
                        "mun":  "FRANCA",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
                    },
                    {
                        "nome":  "Castro",
@@ -1626,49 +1650,37 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "05:32:37"
+                         "tempo":  "05:47:48"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:55:39"
+                         "tempo":  "01:10:50"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:14:52"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:14:18"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:11:56"
+                         "tempo":  "03:30:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "341:43:29"
+                         "tempo":  "341:58:40"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:47:55"
+                         "tempo":  "01:03:06"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:55:21"
+                         "tempo":  "01:10:32"
                      }
                  ],
     "hist":  [
@@ -1779,8 +1791,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     103,
-                     18
+                     105,
+                     19
                  ]
              ],
     "historico":  {
@@ -31514,7 +31526,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31607,6 +31619,15 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  29.35,
+                                                       "tv":  319
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -31623,15 +31644,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  204.74,
                                                        "tv":  272
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  22.65,
-                                                       "tv":  296
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -31673,10 +31685,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  25.65,
-                                                       "tv":  286
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  31.42,
+                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -32064,6 +32076,13 @@ window.PAINEL = {
                                                          "tv":  70
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  0,
+                                                         "km":  6.7,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                                                          "p":  0,
@@ -32251,6 +32270,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.93,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                                                         "p":  1,
+                                                         "km":  5.77,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Castro",

@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29822,6 +29822,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  29.35,
+                                     "tv":  319
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -29838,15 +29847,6 @@
                                      "pe":  6,
                                      "km":  204.74,
                                      "tv":  272
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  22.65,
-                                     "tv":  296
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -29888,10 +29888,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  25.65,
-                                     "tv":  286
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  31.42,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Castro",
@@ -30279,6 +30279,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  0,
+                                       "km":  6.7,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                                        "p":  0,
@@ -30466,6 +30473,13 @@
                                        "p":  1,
                                        "km":  3.93,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                                       "p":  1,
+                                       "km":  5.77,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Castro",
