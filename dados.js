@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  55.1,
+                     "km":  59.51,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:07",
@@ -154,33 +154,33 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  50.74,
+                     "semPed":  3,
+                     "perc":  42.86,
+                     "primeiro":  "08:27",
+                     "ultimo":  "17:47",
+                     "tv":  "06:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  29.35,
+                     "km":  30.29,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "08:10",
                      "ultimo":  "17:12",
                      "tv":  "05:19:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  41.11,
-                     "semPed":  3,
-                     "perc":  50,
-                     "primeiro":  "08:27",
-                     "ultimo":  "16:48",
-                     "tv":  "05:55:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -264,7 +264,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  31.42,
+                     "km":  36.53,
                      "semPed":  1,
                      "perc":  14.29,
                      "primeiro":  "08:04",
@@ -868,6 +868,15 @@ window.PAINEL = {
                          "out":  "16:48:42",
                          "km":  2.13,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "POUPE SUPERMERCADOS LTDA",
+                         "mun":  "PAULINIA",
+                         "in":  "17:22:38",
+                         "out":  "17:47:37",
+                         "km":  9.63,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1536,7 +1545,7 @@ window.PAINEL = {
                         "obs":  "daolio/gim/ triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:03:00"
+                        "tempo":  "02:17:49"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1544,7 +1553,7 @@ window.PAINEL = {
                         "obs":  "proposta para cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:19"
+                        "tempo":  "01:23:08"
                     }
                 ],
     "semped":  [
@@ -1668,31 +1677,25 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "06:05:56"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "POUPE SUPERMERCADOS LTDA",
-                         "mun":  "PAULINIA",
-                         "tempo":  "00:14:25"
+                         "tempo":  "06:20:42"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "342:16:48"
+                         "tempo":  "342:31:34"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:21:14"
+                         "tempo":  "01:36:00"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:28:40"
+                         "tempo":  "01:43:26"
                      }
                  ],
     "hist":  [
@@ -1803,7 +1806,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/07",
-                     107,
+                     108,
                      19
                  ]
              ],
@@ -31538,7 +31541,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-30":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31564,7 +31567,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  55.1,
+                                                       "km":  59.51,
                                                        "tv":  339
                                                    },
                                                    {
@@ -31631,22 +31634,22 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  4,
+                                                       "km":  50.74,
+                                                       "tv":  379
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  29.35,
+                                                       "km":  30.29,
                                                        "tv":  319
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  3,
-                                                       "km":  41.11,
-                                                       "tv":  355
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -31699,7 +31702,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  6,
-                                                       "km":  31.42,
+                                                       "km":  36.53,
                                                        "tv":  305
                                                    },
                                                    {
@@ -32149,6 +32152,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.13,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "POUPE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  9.63,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Milene",

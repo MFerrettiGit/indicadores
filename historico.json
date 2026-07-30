@@ -29729,7 +29729,7 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -29755,7 +29755,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  55.1,
+                                     "km":  59.51,
                                      "tv":  339
                                  },
                                  {
@@ -29822,22 +29822,22 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  4,
+                                     "km":  50.74,
+                                     "tv":  379
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  4,
-                                     "km":  29.35,
+                                     "km":  30.29,
                                      "tv":  319
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  3,
-                                     "km":  41.11,
-                                     "tv":  355
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -29890,7 +29890,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  6,
-                                     "km":  31.42,
+                                     "km":  36.53,
                                      "tv":  305
                                  },
                                  {
@@ -30340,6 +30340,13 @@
                                        "p":  1,
                                        "km":  2.13,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  9.63,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Milene",
