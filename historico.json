@@ -29729,8 +29729,17 @@
                                ]
                    },
     "2026-07-30":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  41.71,
+                                     "tv":  169
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -29748,15 +29757,6 @@
                                      "pe":  0,
                                      "km":  58.74,
                                      "tv":  106
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.06,
-                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -29822,6 +29822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  30.71,
+                                     "tv":  77
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -29838,15 +29847,6 @@
                                      "pe":  1,
                                      "km":  1.56,
                                      "tv":  67
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.78,
-                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -29924,6 +29924,15 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0.47,
+                                     "tv":  57
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -29936,15 +29945,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.08,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -29962,6 +29962,13 @@
                                        "p":  1,
                                        "km":  38.06,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.65,
+                                       "tv":  96
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -30027,6 +30034,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                       "p":  0,
+                                       "km":  0.93,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
@@ -30074,6 +30088,13 @@
                                        "p":  1,
                                        "km":  8.08,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARIA ROSEMARY DE MACEDO- EPP",
+                                       "p":  1,
+                                       "km":  0.47,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Nelson",
