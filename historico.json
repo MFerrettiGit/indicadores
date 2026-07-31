@@ -30729,8 +30729,17 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  36.77,
+                                     "tv":  149
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -30766,15 +30775,6 @@
                                      "pe":  0,
                                      "km":  24.93,
                                      "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  34.88,
-                                     "tv":  58
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  34.57,
+                                     "tv":  116
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30829,15 +30838,6 @@
                                      "pe":  1,
                                      "km":  3.26,
                                      "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  30.52,
-                                     "tv":  41
                                  },
                                  {
                                      "nome":  "Luis",
@@ -30876,6 +30876,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  3.07,
+                                     "tv":  121
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.73,
+                                     "tv":  84
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -30885,15 +30903,6 @@
                                      "tv":  64
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.81,
-                                     "tv":  71
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -30901,15 +30910,6 @@
                                      "pe":  0,
                                      "km":  8.37,
                                      "tv":  19
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.35,
-                                     "tv":  41
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -30962,6 +30962,13 @@
                                        "p":  1,
                                        "km":  34.88,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.89,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -31027,6 +31034,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J L DAOLIO E CIA LTDA",
+                                       "p":  0,
+                                       "km":  4.05,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                                        "p":  1,
@@ -31062,11 +31076,25 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
+                                       "p":  1,
+                                       "km":  3.38,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "DROGARIA BOM JESUS DA LUZ LTDA",
                                        "p":  1,
                                        "km":  2.31,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "L.M. VIEIRA ITAPETININGA",
+                                       "p":  1,
+                                       "km":  0.26,
+                                       "tv":  50
                                    }
                                ]
                    }
