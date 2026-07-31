@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  15.76,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "12:40",
+                     "tv":  "03:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  15.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:02",
-                     "ultimo":  "11:52",
-                     "tv":  "02:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:22",
                      "tv":  "01:10:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -873,7 +873,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:08:14"
+                        "tempo":  "03:23:05"
                     },
                     {
                         "nome":  "Edimilson",
@@ -881,7 +881,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:14"
+                        "tempo":  "00:50:05"
                     },
                     {
                         "nome":  "Evandro",
@@ -889,7 +889,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:17"
+                        "tempo":  "00:49:08"
                     },
                     {
                         "nome":  "Eugenio",
@@ -897,7 +897,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:04"
+                        "tempo":  "00:47:55"
                     },
                     {
                         "nome":  "Debora",
@@ -905,7 +905,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:23"
+                        "tempo":  "00:44:14"
                     },
                     {
                         "nome":  "Eliana",
@@ -913,7 +913,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:12"
+                        "tempo":  "00:43:03"
                     },
                     {
                         "nome":  "Rachel",
@@ -921,7 +921,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:08"
+                        "tempo":  "00:42:59"
                     },
                     {
                         "nome":  "Luis",
@@ -929,7 +929,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:08"
+                        "tempo":  "00:40:59"
                     },
                     {
                         "nome":  "Cominato",
@@ -937,7 +937,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:39"
+                        "tempo":  "00:37:30"
                     },
                     {
                         "nome":  "Alan",
@@ -945,7 +945,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:44"
+                        "tempo":  "00:24:35"
                     },
                     {
                         "nome":  "Nelson",
@@ -953,7 +953,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:24"
+                        "tempo":  "00:17:15"
                     },
                     {
                         "nome":  "Vinicius",
@@ -961,7 +961,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:30"
+                        "tempo":  "00:16:21"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:08"
                     }
                 ],
     "semped":  [
@@ -1040,34 +1048,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:14:41"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:30:57"
+                         "tempo":  "00:45:50"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "GONCALVES E GONCALVES LTDA",
                          "mun":  "SUMARE",
-                         "tempo":  "00:42:56"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "BUENO SERVICE LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:44:43"
+                         "tempo":  "00:57:49"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "361:19:08"
+                         "tempo":  "361:34:01"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "03:49:20"
+                         "tempo":  "04:04:13"
                      }
                  ],
     "hist":  [
@@ -1178,7 +1186,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     51,
+                     52,
                      12
                  ]
              ],
@@ -31913,7 +31921,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32006,6 +32014,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  15.76,
+                                                       "tv":  183
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -32022,15 +32039,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  14.96,
                                                        "tv":  187
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  15.6,
-                                                       "tv":  138
                                                    },
                                                    {
                                                        "nome":  "Maira",
