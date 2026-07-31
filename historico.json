@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30879,10 +30879,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  27.15,
-                                     "tv":  204
+                                     "km":  43.92,
+                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -31291,6 +31291,13 @@
                                        "p":  0,
                                        "km":  1.45,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  16.77,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Eugenio",
