@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30759,6 +30759,15 @@
                                      "tv":  411
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  25.18,
+                                     "tv":  364
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -30782,17 +30791,8 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  87.05,
+                                     "km":  97.06,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  19.22,
-                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -30903,6 +30903,15 @@
                                      "tv":  201
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  43.54,
+                                     "tv":  223
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -30919,15 +30928,6 @@
                                      "pe":  2,
                                      "km":  8.51,
                                      "tv":  130
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  31.3,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Castro",
@@ -31137,6 +31137,13 @@
                                        "p":  1,
                                        "km":  8.24,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  5.96,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Vinicius",
