@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30885,6 +30885,15 @@
                                      "tv":  269
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  26.56,
+                                     "tv":  201
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -30892,15 +30901,6 @@
                                      "pe":  3,
                                      "km":  7.93,
                                      "tv":  224
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  19.11,
-                                     "tv":  150
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -30921,6 +30921,15 @@
                                      "tv":  103
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  59.8,
+                                     "tv":  208
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -30928,15 +30937,6 @@
                                      "pe":  1,
                                      "km":  16.15,
                                      "tv":  267
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  54.36,
-                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -31391,6 +31391,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "TOP STOP MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  5.44,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
                                        "p":  1,
@@ -31410,6 +31417,13 @@
                                        "p":  1,
                                        "km":  11.38,
                                        "tv":  66
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO LIMA BEZERRA LTDA",
+                                       "p":  1,
+                                       "km":  7.45,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Nelson",

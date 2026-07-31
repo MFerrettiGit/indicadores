@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:37",
                      "ultimo":  "15:07",
                      "tv":  "04:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  26.56,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "15:29",
+                     "tv":  "03:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -274,21 +289,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  19.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "12:21",
-                     "tv":  "02:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:46",
                      "ultimo":  "11:23",
                      "tv":  "02:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  59.8,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:19",
+                     "ultimo":  "15:32",
+                     "tv":  "03:28:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "12:59",
                      "tv":  "04:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  54.36,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:19",
-                     "ultimo":  "14:18",
-                     "tv":  "03:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -933,6 +933,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "TOP STOP MERCADO LTDA",
+                         "mun":  "UBATUBA",
+                         "in":  "15:04:18",
+                         "out":  "15:32:23",
+                         "km":  5.44,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -958,6 +967,15 @@ window.PAINEL = {
                          "out":  "12:21:45",
                          "km":  11.38,
                          "dur":  "01:06:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:36:41",
+                         "out":  "15:29:50",
+                         "km":  7.45,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1043,6 +1061,14 @@ window.PAINEL = {
                         "inicio":  "12:14",
                         "final":  "13:08",
                         "tempo":  "00:53:56"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Proposta",
+                        "obs":  "Clientes em geral sobre as oportunidades de fechamento",
+                        "inicio":  "14:27",
+                        "final":  "15:32",
+                        "tempo":  "01:05:27"
                     },
                     {
                         "nome":  "Nelson",
@@ -1190,11 +1216,11 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Luis",
-                        "tipo":  "Proposta",
-                        "obs":  "Clientes em geral sobre as oportunidades de fechamento",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Sm Recanto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:14"
+                        "tempo":  "00:04:46"
                     }
                 ],
     "semped":  [
@@ -1294,79 +1320,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:17:53"
+                         "tempo":  "00:32:53"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:52:31"
+                         "tempo":  "01:07:31"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:49:16"
+                         "tempo":  "01:04:16"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:08:02"
+                         "tempo":  "00:23:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:05:10"
+                         "tempo":  "02:20:10"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
+                         "mun":  "VOTORANTIM",
+                         "tempo":  "00:07:41"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "OFELIA SARRI MORETE.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:13:58"
+                         "tempo":  "00:28:58"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:18:19"
+                         "tempo":  "00:33:19"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:04:35"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COMERCIAL FURTUOSO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:00:35"
+                         "tempo":  "01:15:35"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "TOP STOP MERCADO LTDA",
+                         "razao":  "SUPERMERCADO BEIRA MAR DE UBATUBA LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:20:01"
+                         "tempo":  "00:01:14"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "364:04:04"
+                         "tempo":  "364:19:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:19:45"
+                         "tempo":  "01:34:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:36:33"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:47:38"
+                         "tempo":  "00:51:33"
                      }
                  ],
     "hist":  [
@@ -1477,7 +1509,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     69,
+                     71,
                      15
                  ]
              ],
@@ -32212,7 +32244,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32368,6 +32400,15 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  26.56,
+                                                       "tv":  201
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -32375,15 +32416,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  7.93,
                                                        "tv":  224
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  19.11,
-                                                       "tv":  150
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -32404,6 +32436,15 @@ window.PAINEL = {
                                                        "tv":  103
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  59.8,
+                                                       "tv":  208
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -32411,15 +32452,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  16.15,
                                                        "tv":  267
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  54.36,
-                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -32874,6 +32906,13 @@ window.PAINEL = {
                                                          "tv":  25
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "TOP STOP MERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  5.44,
+                                                         "tv":  28
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1,
@@ -32893,6 +32932,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  11.38,
                                                          "tv":  66
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO LIMA BEZERRA LTDA",
+                                                         "p":  1,
+                                                         "km":  7.45,
+                                                         "tv":  51
                                                      },
                                                      {
                                                          "n":  "Nelson",
