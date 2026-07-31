@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30741,6 +30741,15 @@
                                      "tv":  229
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  44.27,
+                                     "tv":  261
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -30748,15 +30757,6 @@
                                      "pe":  0,
                                      "km":  40.53,
                                      "tv":  264
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  33.94,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Aline",
@@ -30876,6 +30876,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  27.15,
+                                     "tv":  204
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -30883,6 +30892,15 @@
                                      "pe":  3,
                                      "km":  7.93,
                                      "tv":  224
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  19.11,
+                                     "tv":  150
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -30901,24 +30919,6 @@
                                      "pe":  2,
                                      "km":  31.3,
                                      "tv":  103
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  25.7,
-                                     "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.73,
-                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Castro",
@@ -30962,6 +30962,13 @@
                                        "p":  1,
                                        "km":  15.07,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  6.07,
+                                       "tv":  63
                                    },
                                    {
                                        "n":  "Debora",
@@ -31011,6 +31018,13 @@
                                        "p":  1,
                                        "km":  11.82,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  10.33,
+                                       "tv":  93
                                    },
                                    {
                                        "n":  "Evandro",
@@ -31202,6 +31216,13 @@
                                        "tv":  90
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  0,
+                                       "km":  1.45,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -31242,6 +31263,13 @@
                                        "p":  1,
                                        "km":  3.38,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                       "p":  1,
+                                       "km":  11.38,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Nelson",
