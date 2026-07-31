@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:22",
                      "tv":  "01:10:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "12:05",
                      "tv":  "03:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:21",
                      "tv":  "02:30:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -999,6 +999,14 @@ window.PAINEL = {
                         "tempo":  "01:02:35"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:01",
+                        "final":  "14:05",
+                        "tempo":  "01:04:27"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "proposta para cliente",
@@ -1012,15 +1020,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:16:42"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:17"
+                        "tempo":  "01:31:34"
                     },
                     {
                         "nome":  "Maira",
@@ -1028,7 +1028,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:52"
+                        "tempo":  "00:58:44"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1036,7 +1036,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:48"
+                        "tempo":  "00:35:40"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedidos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:45"
                     }
                 ],
     "semped":  [
@@ -1118,61 +1126,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:30:57"
+                         "tempo":  "00:45:54"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
                          "mun":  "SUMARE",
-                         "tempo":  "01:14:50"
+                         "tempo":  "01:29:47"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:27:26"
+                         "tempo":  "00:42:23"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:35:16"
+                         "tempo":  "00:50:13"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:33:22"
+                         "tempo":  "00:48:19"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:31:03"
+                         "tempo":  "00:46:00"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:36:58"
+                         "tempo":  "00:51:55"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ITAGUA COMERCIAL DE ALIMENTOS LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:01:32"
+                         "tempo":  "00:16:29"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "362:34:10"
+                         "tempo":  "362:49:07"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:04:48"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:21:44"
+                         "tempo":  "00:36:41"
                      }
                  ],
     "hist":  [
@@ -32018,7 +32032,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
