@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "14:22",
                      "tv":  "05:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "14:13",
                      "tv":  "04:03:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  10.87,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:04",
+                     "ultimo":  "15:46",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "15:29",
                      "tv":  "03:21:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  7.93,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "12:05",
-                     "tv":  "03:44:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1003,6 +1003,15 @@ window.PAINEL = {
                          "out":  "12:05:19",
                          "km":  4.86,
                          "dur":  "01:43:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:04:34",
+                         "out":  "15:46:54",
+                         "km":  2.94,
+                         "dur":  "01:42:00"
                      }
                  ],
     "eventos":  [
@@ -1069,6 +1078,14 @@ window.PAINEL = {
                         "inicio":  "14:27",
                         "final":  "15:32",
                         "tempo":  "01:05:27"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Sm Recanto",
+                        "inicio":  "15:35",
+                        "final":  "15:44",
+                        "tempo":  "00:08:57"
                     },
                     {
                         "nome":  "Nelson",
@@ -1213,14 +1230,6 @@ window.PAINEL = {
                         "inicio":  "13:34",
                         "final":  "14:32",
                         "tempo":  "00:57:43"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Sm Recanto",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:04:46"
                     }
                 ],
     "semped":  [
@@ -1320,85 +1329,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:32:53"
+                         "tempo":  "00:47:53"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:07:31"
+                         "tempo":  "01:22:31"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:04:16"
+                         "tempo":  "01:19:16"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:23:02"
+                         "tempo":  "00:38:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:20:10"
+                         "tempo":  "02:35:10"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "VITORINO CORREA NETO VOTORANTIM LTDA",
                          "mun":  "VOTORANTIM",
-                         "tempo":  "00:07:41"
+                         "tempo":  "00:22:41"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:12:03"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "OFELIA SARRI MORETE.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:28:58"
+                         "tempo":  "00:43:58"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:33:19"
+                         "tempo":  "00:48:19"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:04:35"
+                         "tempo":  "00:19:35"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COMERCIAL FURTUOSO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:15:35"
+                         "tempo":  "01:30:35"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO BEIRA MAR DE UBATUBA LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:01:14"
+                         "tempo":  "00:16:14"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "364:19:04"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MIEKO HONDA TANABE - ME",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:34:45"
+                         "tempo":  "364:34:04"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:51:33"
+                         "tempo":  "01:06:33"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:06:09"
                      }
                  ],
     "hist":  [
@@ -1509,7 +1524,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     71,
+                     72,
                      15
                  ]
              ],
@@ -32244,7 +32259,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32400,6 +32415,15 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  10.87,
+                                                       "tv":  326
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -32407,15 +32431,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  26.56,
                                                        "tv":  201
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  7.93,
-                                                       "tv":  224
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -32960,6 +32975,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.86,
                                                          "tv":  103
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MIEKO HONDA TANABE - ME",
+                                                         "p":  1,
+                                                         "km":  2.94,
+                                                         "tv":  102
                                                      }
                                                  ]
                                      }

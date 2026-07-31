@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30885,6 +30885,15 @@
                                      "tv":  269
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  10.87,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -30892,15 +30901,6 @@
                                      "pe":  4,
                                      "km":  26.56,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  7.93,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -31445,6 +31445,13 @@
                                        "p":  1,
                                        "km":  4.86,
                                        "tv":  103
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MIEKO HONDA TANABE - ME",
+                                       "p":  1,
+                                       "km":  2.94,
+                                       "tv":  102
                                    }
                                ]
                    }
