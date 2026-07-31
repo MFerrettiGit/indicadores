@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30843,10 +30843,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.81,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.18,
+                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -30915,19 +30915,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.28,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.36,
+                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  26.22,
+                                     "tv":  23
                                  },
                                  {
                                      "nome":  "Karina",
@@ -30985,6 +30985,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "L.F. CINTRA FRANCA EPP.",
+                                       "p":  1,
+                                       "km":  7.37,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO PAVAN LTDA.",
                                        "p":  1,
@@ -31006,6 +31013,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
+                                       "p":  1,
+                                       "km":  26.22,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "ROBERTA FACIPIERRE MANDRO",
                                        "p":  0,
@@ -31018,6 +31032,13 @@
                                        "p":  0,
                                        "km":  3.64,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  6.08,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Mariangela",
