@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30750,6 +30750,15 @@
                                      "tv":  261
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  46.07,
+                                     "tv":  260
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -30757,15 +30766,6 @@
                                      "pe":  0,
                                      "km":  40.53,
                                      "tv":  264
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  40,
-                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -30777,6 +30777,15 @@
                                      "tv":  203
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  75.78,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -30784,15 +30793,6 @@
                                      "pe":  0,
                                      "km":  7.76,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  44.26,
-                                     "tv":  55
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -30807,10 +30807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  11.24,
-                                     "tv":  141
+                                     "km":  12.4,
+                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -31069,6 +31069,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  31.52,
+                                       "tv":  151
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "JOSE CARLOS NORI",
                                        "p":  1,
@@ -31132,6 +31139,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -31172,6 +31186,13 @@
                                        "p":  1,
                                        "km":  10.75,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO SERVICE LTDA",
+                                       "p":  1,
+                                       "km":  0.16,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Alan",

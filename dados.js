@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  46.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:13",
+                     "ultimo":  "12:25",
+                     "tv":  "04:20:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -47,21 +62,6 @@ window.PAINEL = {
                      "tv":  "04:24:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  40,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:13",
-                     "ultimo":  "10:55",
-                     "tv":  "03:17:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  2,
+                     "km":  75.78,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:37",
+                     "ultimo":  "12:38",
+                     "tv":  "03:26:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "11:44",
                      "tv":  "03:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  44.26,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:37",
-                     "ultimo":  "08:33",
-                     "tv":  "00:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  11.24,
+                     "visitas":  4,
+                     "km":  12.4,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:31",
-                     "ultimo":  "11:21",
-                     "tv":  "02:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:26",
+                     "tv":  "03:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:05",
                      "tv":  "03:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "01:43:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -519,6 +519,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "10:06:35",
+                         "out":  "12:38:17",
+                         "km":  31.52,
+                         "dur":  "02:31:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
@@ -600,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:41:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "11:42:35",
+                         "out":  "12:26:00",
+                         "km":  1.16,
+                         "dur":  "00:43:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -652,6 +670,15 @@ window.PAINEL = {
                          "out":  "11:52:46",
                          "km":  10.75,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "11:54:40",
+                         "out":  "12:40:14",
+                         "km":  0.16,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Alan",
@@ -846,7 +873,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:53:11"
+                        "tempo":  "03:08:14"
                     },
                     {
                         "nome":  "Edimilson",
@@ -854,7 +881,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:11"
+                        "tempo":  "00:35:14"
                     },
                     {
                         "nome":  "Evandro",
@@ -862,7 +889,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:14"
+                        "tempo":  "00:34:17"
                     },
                     {
                         "nome":  "Eugenio",
@@ -870,7 +897,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:01"
+                        "tempo":  "00:33:04"
                     },
                     {
                         "nome":  "Debora",
@@ -878,7 +905,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:20"
+                        "tempo":  "00:29:23"
                     },
                     {
                         "nome":  "Eliana",
@@ -886,7 +913,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:09"
+                        "tempo":  "00:28:12"
                     },
                     {
                         "nome":  "Rachel",
@@ -894,7 +921,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:05"
+                        "tempo":  "00:28:08"
                     },
                     {
                         "nome":  "Luis",
@@ -902,7 +929,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:05"
+                        "tempo":  "00:26:08"
                     },
                     {
                         "nome":  "Cominato",
@@ -910,7 +937,31 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:36"
+                        "tempo":  "00:22:39"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:44"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:24"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:30"
                     }
                 ],
     "semped":  [
@@ -989,52 +1040,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Aline",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "SUMARE",
-                         "tempo":  "01:03:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "02:17:45"
-                     },
-                     {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:15:54"
+                         "tempo":  "00:30:57"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "GONCALVES E GONCALVES LTDA",
                          "mun":  "SUMARE",
-                         "tempo":  "00:27:53"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADOS GRICKI LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:41:45"
+                         "tempo":  "00:42:56"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:29:40"
+                         "tempo":  "00:44:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "361:04:05"
+                         "tempo":  "361:19:08"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "03:34:17"
+                         "tempo":  "03:49:20"
                      }
                  ],
     "hist":  [
@@ -1145,7 +1178,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     48,
+                     51,
                      12
                  ]
              ],
@@ -31880,7 +31913,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31901,6 +31934,15 @@ window.PAINEL = {
                                                        "tv":  261
                                                    },
                                                    {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  46.07,
+                                                       "tv":  260
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -31908,15 +31950,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  40.53,
                                                        "tv":  264
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  40,
-                                                       "tv":  197
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -31928,6 +31961,15 @@ window.PAINEL = {
                                                        "tv":  203
                                                    },
                                                    {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  75.78,
+                                                       "tv":  206
+                                                   },
+                                                   {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
@@ -31935,15 +31977,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.76,
                                                        "tv":  186
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  44.26,
-                                                       "tv":  55
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -31958,10 +31991,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  11.24,
-                                                       "tv":  141
+                                                       "km":  12.4,
+                                                       "tv":  184
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -32220,6 +32253,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  31.52,
+                                                         "tv":  151
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "JOSE CARLOS NORI",
                                                          "p":  1,
@@ -32283,6 +32323,13 @@ window.PAINEL = {
                                                          "tv":  41
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1,
+                                                         "km":  1.16,
+                                                         "tv":  43
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -32323,6 +32370,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  10.75,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BUENO SERVICE LTDA",
+                                                         "p":  1,
+                                                         "km":  0.16,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Alan",
