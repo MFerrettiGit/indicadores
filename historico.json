@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30755,7 +30755,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  49.27,
+                                     "km":  83.62,
                                      "tv":  411
                                  },
                                  {
@@ -30764,7 +30764,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  25.18,
+                                     "km":  27.51,
                                      "tv":  364
                                  },
                                  {
@@ -30876,6 +30876,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  13.33,
+                                     "tv":  382
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -30883,15 +30892,6 @@
                                      "pe":  0,
                                      "km":  43.92,
                                      "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  10.87,
-                                     "tv":  326
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -31522,6 +31522,13 @@
                                        "p":  1,
                                        "km":  2.94,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADOS SUPERHANDS SLU",
+                                       "p":  0,
+                                       "km":  2.46,
+                                       "tv":  56
                                    }
                                ]
                    }

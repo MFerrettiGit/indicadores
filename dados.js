@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  49.27,
+                     "km":  83.62,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:20",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  25.18,
+                     "km":  27.51,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:59",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  13.33,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:04",
+                     "ultimo":  "16:53",
+                     "tv":  "06:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "14:38",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  10.87,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "15:46",
-                     "tv":  "05:26:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1102,6 +1102,15 @@ window.PAINEL = {
                          "out":  "15:46:54",
                          "km":  2.94,
                          "dur":  "01:42:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SUPERMERCADOS SUPERHANDS SLU",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:57:03",
+                         "out":  "16:53:17",
+                         "km":  2.46,
+                         "dur":  "00:56:00"
                      }
                  ],
     "eventos":  [
@@ -1384,6 +1393,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "SUPERMERCADOS SUPERHANDS SLU",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "ROBERTA FACIPIERRE MANDRO",
                        "mun":  "ITATIBA",
@@ -1419,43 +1434,43 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:32:50"
+                         "tempo":  "01:48:22"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:34:31"
+                         "tempo":  "00:50:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:04:06"
+                         "tempo":  "01:19:38"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "365:18:35"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "SUPERMERCADOS SUPERHANDS SLU",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:41:47"
+                         "tempo":  "365:34:07"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:51:04"
+                         "tempo":  "02:06:36"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:09:16"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:50:40"
+                         "tempo":  "01:06:12"
                      }
                  ],
     "hist":  [
@@ -1566,8 +1581,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     83,
-                     15
+                     84,
+                     16
                  ]
              ],
     "historico":  {
@@ -32301,7 +32316,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32327,7 +32342,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  49.27,
+                                                       "km":  83.62,
                                                        "tv":  411
                                                    },
                                                    {
@@ -32336,7 +32351,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  25.18,
+                                                       "km":  27.51,
                                                        "tv":  364
                                                    },
                                                    {
@@ -32448,6 +32463,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  13.33,
+                                                       "tv":  382
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -32455,15 +32479,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  43.92,
                                                        "tv":  269
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  10.87,
-                                                       "tv":  326
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -33094,6 +33109,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.94,
                                                          "tv":  102
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "SUPERMERCADOS SUPERHANDS SLU",
+                                                         "p":  0,
+                                                         "km":  2.46,
+                                                         "tv":  56
                                                      }
                                                  ]
                                      }
