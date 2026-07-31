@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30768,6 +30768,15 @@
                                      "tv":  264
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  10.98,
+                                     "tv":  257
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -30784,15 +30793,6 @@
                                      "pe":  0,
                                      "km":  75.78,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  7.76,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -31060,6 +31060,13 @@
                                        "p":  1,
                                        "km":  3.68,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                                       "p":  1,
+                                       "km":  3.22,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Vinicius",
