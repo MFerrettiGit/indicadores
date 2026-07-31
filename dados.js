@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,13 +128,13 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  5.62,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:31",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "08:58",
+                     "tv":  "00:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0.41,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "09:02",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -211,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -229,19 +244,19 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.41,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "visitas":  1,
+                     "km":  3.64,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:03",
+                     "ultimo":  "09:08",
+                     "tv":  "01:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "08:44",
                      "tv":  "00:19:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -346,21 +361,6 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -411,6 +411,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:31:29",
+                         "out":  "08:58:43",
+                         "km":  5.62,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -427,6 +436,15 @@ window.PAINEL = {
                          "out":  "08:44:03",
                          "km":  8.37,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                         "mun":  "PIRACICABA",
+                         "in":  "08:03:20",
+                         "out":  "09:08:23",
+                         "km":  3.64,
+                         "dur":  "01:04:00"
                      }
                  ],
     "eventos":  [
@@ -439,20 +457,20 @@ window.PAINEL = {
                         "tempo":  "01:35:25"
                     },
                     {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "proposta para cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:20"
-                    },
-                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a T.O",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:36:31"
+                        "inicio":  "08:18",
+                        "final":  "08:56",
+                        "tempo":  "00:37:54"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "proposta para cliente",
+                        "inicio":  "08:04",
+                        "final":  "09:02",
+                        "tempo":  "00:57:25"
                     }
                 ],
     "semped":  [
@@ -467,6 +485,12 @@ window.PAINEL = {
                        "razao":  "ROBERTA FACIPIERRE MANDRO",
                        "mun":  "ITATIBA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Abastecimento merchandising"
                    }
                ],
     "emvisita":  [
@@ -474,85 +498,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:26:04"
+                         "tempo":  "00:41:07"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:41:14"
+                         "tempo":  "01:56:17"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:14:44"
+                         "tempo":  "00:29:47"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:54:41"
+                         "tempo":  "01:09:44"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO PAVAN LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:54:46"
+                         "tempo":  "01:09:49"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:02:22"
+                         "tempo":  "00:17:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L.F. CINTRA FRANCA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:34:10"
+                         "tempo":  "00:49:13"
                      },
                      {
                          "nome":  "Milene",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:22:51"
+                         "tempo":  "00:06:25"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:06:51"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:08:02"
+                         "tempo":  "00:23:05"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "357:34:05"
+                         "tempo":  "357:49:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "DROGARIA BOM JESUS DA LUZ LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:49:24"
+                         "tempo":  "01:04:27"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:04:17"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:51:00"
+                         "tempo":  "00:19:20"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:19:24"
+                         "tempo":  "00:34:27"
                      }
                  ],
     "hist":  [
@@ -663,8 +687,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     7,
-                     2
+                     9,
+                     3
                  ]
              ],
     "historico":  {
@@ -31398,7 +31422,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31476,10 +31500,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  5.62,
+                                                       "tv":  27
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -31518,6 +31542,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.41,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -31536,13 +31569,13 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0.41,
-                                                       "tv":  0
+                                                       "km":  3.64,
+                                                       "tv":  64
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -31552,15 +31585,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.37,
                                                        "tv":  19
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -31590,6 +31614,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -31601,15 +31634,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -31654,6 +31678,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  5.62,
+                                                         "tv":  27
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -31666,6 +31697,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.37,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MONTE BELLO NASTARO EIRELI - EPP",
+                                                         "p":  0,
+                                                         "km":  3.64,
+                                                         "tv":  64
                                                      }
                                                  ]
                                      }
