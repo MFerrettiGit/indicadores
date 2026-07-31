@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "12:26",
                      "tv":  "03:04:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,6 +150,21 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  31.39,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "07:59",
+                     "ultimo":  "14:51",
+                     "tv":  "03:52:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  28.67,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "07:59",
-                     "ultimo":  "13:05",
-                     "tv":  "03:14:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -225,8 +225,8 @@ window.PAINEL = {
                      "primeiro":  "10:12",
                      "ultimo":  "11:22",
                      "tv":  "01:10:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "12:59",
                      "tv":  "04:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "12:08:28",
                          "km":  3.76,
                          "dur":  "01:55:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "13:23:28",
+                         "out":  "14:55:07",
+                         "km":  5.29,
+                         "dur":  "01:31:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -634,6 +643,15 @@ window.PAINEL = {
                          "out":  "13:05:47",
                          "km":  19.52,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                         "mun":  "SUMARE",
+                         "in":  "14:13:00",
+                         "out":  "14:51:55",
+                         "km":  2.72,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1069,6 +1087,14 @@ window.PAINEL = {
                         "tempo":  "01:02:35"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedidos",
+                        "inicio":  "14:06",
+                        "final":  "14:46",
+                        "tempo":  "00:39:22"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1093,20 +1119,12 @@ window.PAINEL = {
                         "tempo":  "00:57:43"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitando pedidos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:33:54"
-                    },
-                    {
                         "nome":  "Silmara",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:38"
+                        "tempo":  "00:32:43"
                     },
                     {
                         "nome":  "Luis",
@@ -1114,7 +1132,7 @@ window.PAINEL = {
                         "obs":  "Clientes em geral sobre as oportunidades de fechamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:15"
+                        "tempo":  "00:28:20"
                     }
                 ],
     "semped":  [
@@ -1122,6 +1140,12 @@ window.PAINEL = {
                        "nome":  "Maira",
                        "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
                        "mun":  "AMERICANA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                       "mun":  "SUMARE",
                        "obs":  "estocado"
                    },
                    {
@@ -1208,79 +1232,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:15:56"
+                         "tempo":  "01:30:58"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:36"
+                         "tempo":  "00:22:38"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:21"
+                         "tempo":  "00:19:23"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:26:21"
+                         "tempo":  "00:41:23"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:20:15"
+                         "tempo":  "01:35:17"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:14:45"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:26:24"
+                         "tempo":  "00:29:47"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:16:02"
+                         "tempo":  "01:31:04"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:07:55"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:08:03"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:00:39"
+                         "tempo":  "00:15:41"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COMERCIAL FURTUOSO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:15:40"
+                         "tempo":  "00:30:42"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "363:19:09"
+                         "tempo":  "363:34:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:34:50"
+                         "tempo":  "00:49:52"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MODELO SUPERMERCADO LTDA.",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:06:40"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO LIMA BEZERRA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:02:43"
+                         "tempo":  "00:17:45"
                      }
                  ],
     "hist":  [
@@ -1391,8 +1427,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     61,
-                     14
+                     62,
+                     15
                  ]
              ],
     "historico":  {
@@ -32126,7 +32162,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32219,6 +32255,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  31.39,
+                                                       "tv":  232
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -32235,15 +32280,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  15.76,
                                                        "tv":  183
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  28.67,
-                                                       "tv":  194
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -32394,6 +32430,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.76,
                                                          "tv":  115
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  5.29,
+                                                         "tv":  91
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -32555,6 +32598,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  19.52,
                                                          "tv":  69
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.72,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Milene",

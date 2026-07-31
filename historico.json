@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  31.39,
+                                     "tv":  232
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -30838,15 +30847,6 @@
                                      "pe":  4,
                                      "km":  15.76,
                                      "tv":  183
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  28.67,
-                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -30997,6 +30997,13 @@
                                        "p":  1,
                                        "km":  3.76,
                                        "tv":  115
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.29,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -31158,6 +31165,13 @@
                                        "p":  1,
                                        "km":  19.52,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                                       "p":  0,
+                                       "km":  2.72,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Milene",
