@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  84.86,
+                     "km":  94.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:49",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "09:02",
                      "ultimo":  "17:21",
                      "tv":  "04:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1476,19 +1476,25 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:18:22"
+                         "tempo":  "02:33:18"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MASSAO E MANOEL COMERCIO DE CARNES LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:05:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "366:04:07"
+                         "tempo":  "366:19:03"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:39:16"
+                         "tempo":  "00:54:12"
                      }
                  ],
     "hist":  [
@@ -32334,7 +32340,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32342,7 +32348,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  84.86,
+                                                       "km":  94.91,
                                                        "tv":  367
                                                    },
                                                    {
