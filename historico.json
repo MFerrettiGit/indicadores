@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30831,6 +30831,15 @@
                                      "tv":  183
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  28.67,
+                                     "tv":  194
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -30847,15 +30856,6 @@
                                      "pe":  1,
                                      "km":  14.96,
                                      "tv":  187
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  9.15,
-                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -30924,10 +30924,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  8.37,
-                                     "tv":  19
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  16.15,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Karina",
@@ -31118,6 +31118,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "GONCALVES E GONCALVES LTDA",
+                                       "p":  1,
+                                       "km":  19.52,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1,
@@ -31221,6 +31228,13 @@
                                        "p":  0,
                                        "km":  8.37,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO TULON LTDA.",
+                                       "p":  1,
+                                       "km":  7.78,
+                                       "tv":  248
                                    },
                                    {
                                        "n":  "Cominato",
