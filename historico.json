@@ -30729,8 +30729,17 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  33.94,
+                                     "tv":  168
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -30748,15 +30757,6 @@
                                      "pe":  0,
                                      "km":  39.9,
                                      "tv":  112
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  22.12,
-                                     "tv":  76
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -30807,10 +30807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  5.62,
-                                     "tv":  27
+                                     "km":  6.57,
+                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -30852,10 +30852,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.41,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.57,
+                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -30894,6 +30894,24 @@
                                      "tv":  84
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  7.72,
+                                     "tv":  71
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  28.23,
+                                     "tv":  60
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -30910,24 +30928,6 @@
                                      "pe":  0,
                                      "km":  8.37,
                                      "tv":  19
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.36,
-                                     "tv":  48
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  26.22,
-                                     "tv":  23
                                  },
                                  {
                                      "nome":  "Karina",
@@ -30985,6 +30985,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  11.82,
+                                       "tv":  92
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -31027,6 +31034,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  0.95,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -31041,11 +31055,25 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JAMIR ANTONIO BISCALCHIN-ME.",
+                                       "p":  1,
+                                       "km":  3.16,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                                        "p":  1,
                                        "km":  26.22,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ARIEL SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.01,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Castro",
@@ -31067,6 +31095,13 @@
                                        "p":  1,
                                        "km":  6.08,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                       "p":  0,
+                                       "km":  1.36,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Mariangela",
