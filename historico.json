@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -30831,6 +30831,15 @@
                                      "tv":  116
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  10.98,
+                                     "tv":  126
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30838,15 +30847,6 @@
                                      "pe":  1,
                                      "km":  3.26,
                                      "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.18,
-                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -31018,6 +31018,13 @@
                                        "p":  1,
                                        "km":  7.37,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "DANILO BATISTA LEAL FRANCA - ME.",
+                                       "p":  0,
+                                       "km":  1.8,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Maira",

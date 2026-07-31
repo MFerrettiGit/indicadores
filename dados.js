@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "10:11",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "09:48",
                      "tv":  "01:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  10.98,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:20",
+                     "ultimo":  "10:32",
+                     "tv":  "02:06:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "09:20",
                      "tv":  "01:20:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  9.18,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "09:25",
-                     "tv":  "01:05:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "09:15",
                      "ultimo":  "10:23",
                      "tv":  "01:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -454,6 +454,15 @@ window.PAINEL = {
                          "out":  "09:25:22",
                          "km":  7.37,
                          "dur":  "01:05:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "DANILO BATISTA LEAL FRANCA - ME.",
+                         "mun":  "FRANCA",
+                         "in":  "09:30:24",
+                         "out":  "10:32:44",
+                         "km":  1.8,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Maira",
@@ -639,7 +648,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:02"
+                        "tempo":  "01:07:55"
                     }
                 ],
     "semped":  [
@@ -662,6 +671,12 @@ window.PAINEL = {
                        "obs":  "abastecimento"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "DANILO BATISTA LEAL FRANCA - ME.",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "ROBERTA FACIPIERRE MANDRO",
                        "mun":  "ITATIBA",
@@ -679,85 +694,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:11:23"
+                         "tempo":  "00:26:18"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:12:29"
+                         "tempo":  "00:27:24"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:59:08"
+                         "tempo":  "01:14:03"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:09:25"
+                         "tempo":  "01:24:20"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:01:32"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:17:48"
+                         "tempo":  "00:32:43"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:12:57"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "00:13:27"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "DANILO BATISTA LEAL FRANCA - ME.",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:53:59"
+                         "tempo":  "00:28:22"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:12:03"
+                         "tempo":  "00:26:58"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:04:26"
+                         "tempo":  "00:19:21"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "ARMAZEM GALDINO LTDA",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:14:39"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:05:47"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:04:30"
+                         "tempo":  "01:19:25"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "359:04:08"
+                         "tempo":  "359:19:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:03:04"
+                         "tempo":  "00:17:59"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:34:20"
+                         "tempo":  "01:49:15"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:47:28"
+                         "tempo":  "01:02:23"
                      }
                  ],
     "hist":  [
@@ -868,8 +901,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     26,
-                     5
+                     27,
+                     6
                  ]
              ],
     "historico":  {
@@ -31603,7 +31636,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -31705,6 +31738,15 @@ window.PAINEL = {
                                                        "tv":  116
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  10.98,
+                                                       "tv":  126
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -31712,15 +31754,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  3.26,
                                                        "tv":  80
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  9.18,
-                                                       "tv":  65
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -31892,6 +31925,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.37,
                                                          "tv":  65
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "DANILO BATISTA LEAL FRANCA - ME.",
+                                                         "p":  0,
+                                                         "km":  1.8,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Maira",
