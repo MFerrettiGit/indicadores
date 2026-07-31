@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30750,6 +30750,15 @@
                                      "tv":  352
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  45.82,
+                                     "tv":  355
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -30768,31 +30777,22 @@
                                      "tv":  261
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.53,
-                                     "tv":  264
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  18.98,
-                                     "tv":  203
+                                     "km":  25.84,
+                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  75.78,
-                                     "tv":  206
+                                     "km":  82.28,
+                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -30807,10 +30807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  12.4,
-                                     "tv":  184
+                                     "km":  18.19,
+                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -30831,6 +30831,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  38.18,
+                                     "tv":  298
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -30847,15 +30856,6 @@
                                      "pe":  4,
                                      "km":  15.76,
                                      "tv":  183
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  36.19,
-                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -31020,6 +31020,13 @@
                                        "tv":  117
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  1,
+                                       "km":  6.86,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -31109,6 +31116,13 @@
                                        "p":  1,
                                        "km":  31.52,
                                        "tv":  151
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.5,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Fernando",
@@ -31202,6 +31216,13 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  5.79,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -31221,6 +31242,13 @@
                                        "p":  0,
                                        "km":  1.62,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.99,
+                                       "tv":  97
                                    },
                                    {
                                        "n":  "Sao Carlos",
