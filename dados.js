@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "10:16",
                      "tv":  "01:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,6 +180,21 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "10:32",
                      "tv":  "02:06:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  4.85,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "10:47",
+                     "tv":  "01:38:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "09:20",
                      "tv":  "01:20:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  3.57,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:02",
-                     "ultimo":  "10:14",
-                     "tv":  "01:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -519,6 +519,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JADE CAROLINE CONFELLA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "10:19:57",
+                         "out":  "10:47:42",
+                         "km":  1.28,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                          "mun":  "CAMPINAS",
@@ -648,7 +657,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:55"
+                        "tempo":  "01:22:41"
                     }
                 ],
     "semped":  [
@@ -694,103 +703,115 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:26:18"
+                         "tempo":  "00:41:04"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:27:24"
+                         "tempo":  "00:42:10"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:14:03"
+                         "tempo":  "01:28:49"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:24:20"
+                         "tempo":  "01:39:06"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:01:32"
+                         "tempo":  "00:16:18"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:32:43"
+                         "tempo":  "00:47:29"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:12:57"
+                         "tempo":  "00:27:43"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:12:29"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "00:28:22"
+                         "tempo":  "00:43:08"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:06:35"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:13:21"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:26:58"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "JADE CAROLINE CONFELLA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:19:21"
+                         "tempo":  "00:41:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:14:39"
+                         "tempo":  "00:29:25"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:05:47"
+                         "tempo":  "00:20:33"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:19:25"
+                         "tempo":  "01:34:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "359:19:03"
+                         "tempo":  "359:33:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:17:59"
+                         "tempo":  "00:32:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:49:15"
+                         "tempo":  "02:04:01"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "01:02:23"
+                         "tempo":  "01:17:09"
                      }
                  ],
     "hist":  [
@@ -901,7 +922,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     27,
+                     28,
                      6
                  ]
              ],
@@ -31636,7 +31657,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -31747,6 +31768,15 @@ window.PAINEL = {
                                                        "tv":  126
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  4.85,
+                                                       "tv":  98
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -31754,15 +31784,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  3.26,
                                                        "tv":  80
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  3.57,
-                                                       "tv":  71
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -31974,6 +31995,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.16,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JADE CAROLINE CONFELLA",
+                                                         "p":  1,
+                                                         "km":  1.28,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Alan",

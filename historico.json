@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -30840,6 +30840,15 @@
                                      "tv":  126
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  4.85,
+                                     "tv":  98
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30847,15 +30856,6 @@
                                      "pe":  1,
                                      "km":  3.26,
                                      "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.57,
-                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -31067,6 +31067,13 @@
                                        "p":  1,
                                        "km":  3.16,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JADE CAROLINE CONFELLA",
+                                       "p":  1,
+                                       "km":  1.28,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Alan",
