@@ -30729,16 +30729,34 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  70.57,
-                                     "tv":  229
+                                     "km":  77.67,
+                                     "tv":  279
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  47.79,
+                                     "tv":  352
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  19.22,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -30750,15 +30768,6 @@
                                      "tv":  261
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  46.07,
-                                     "tv":  260
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -30766,15 +30775,6 @@
                                      "pe":  0,
                                      "km":  40.53,
                                      "tv":  264
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  10.98,
-                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  16.07,
+                                     "tv":  243
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -30847,15 +30856,6 @@
                                      "pe":  0,
                                      "km":  36.19,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  14.96,
-                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -30933,10 +30933,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.81,
-                                     "tv":  155
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  54.36,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -30969,6 +30969,13 @@
                                        "p":  1,
                                        "km":  6.07,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                                       "p":  1,
+                                       "km":  1.72,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Debora",
@@ -31048,6 +31055,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  7.1,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -31067,6 +31081,13 @@
                                        "p":  1,
                                        "km":  3.22,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                                       "p":  1,
+                                       "km":  8.24,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -31109,6 +31130,13 @@
                                        "p":  0,
                                        "km":  3.98,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  1.11,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Maira",
@@ -31291,6 +31319,13 @@
                                        "p":  1,
                                        "km":  1.81,
                                        "tv":  155
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ITAGUA COMERCIAL DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  52.55,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Mariangela",
