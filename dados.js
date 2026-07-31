@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "14:22",
                      "tv":  "05:15:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:13",
                      "ultimo":  "15:04",
                      "tv":  "04:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  31.02,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "15:11",
+                     "tv":  "03:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -165,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "14:51",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -199,33 +214,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  15.76,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:02",
-                     "ultimo":  "12:40",
-                     "tv":  "03:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  77.17,
+                     "visitas":  2,
+                     "km":  120.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "10:12",
-                     "ultimo":  "11:22",
-                     "tv":  "01:10:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:20",
+                     "tv":  "01:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -600,6 +600,15 @@ window.PAINEL = {
                          "dur":  "01:10:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:46:23",
+                         "out":  "15:20:45",
+                         "km":  43.3,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "L.F. CINTRA FRANCA EPP.",
                          "mun":  "FRANCA",
@@ -787,6 +796,15 @@ window.PAINEL = {
                          "out":  "12:40:14",
                          "km":  0.16,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "14:38:45",
+                         "out":  "15:11:59",
+                         "km":  15.26,
+                         "dur":  "00:33:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1099,6 +1117,22 @@ window.PAINEL = {
                         "tempo":  "01:44:44"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:43",
+                        "final":  "15:23",
+                        "tempo":  "49:39:04"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:22",
+                        "final":  "15:23",
+                        "tempo":  "01:00:22"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a T.O",
@@ -1155,20 +1189,12 @@ window.PAINEL = {
                         "tempo":  "00:57:43"
                     },
                     {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:47"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Proposta",
                         "obs":  "Clientes em geral sobre as oportunidades de fechamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:24"
+                        "tempo":  "00:58:14"
                     }
                 ],
     "semped":  [
@@ -1268,79 +1294,79 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:03:01"
+                         "tempo":  "00:17:53"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:39"
+                         "tempo":  "00:52:31"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:24"
+                         "tempo":  "00:49:16"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:08:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:50:18"
+                         "tempo":  "02:05:10"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "OFELIA SARRI MORETE.",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:13:58"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:03:27"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:23:04"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:30:42"
+                         "tempo":  "00:18:19"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COMERCIAL FURTUOSO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:45:43"
+                         "tempo":  "01:00:35"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "TOP STOP MERCADO LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:05:09"
+                         "tempo":  "00:20:01"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "363:49:12"
+                         "tempo":  "364:04:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:04:53"
+                         "tempo":  "01:19:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:21:41"
+                         "tempo":  "00:36:33"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO LIMA BEZERRA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:32:46"
+                         "tempo":  "00:47:38"
                      }
                  ],
     "hist":  [
@@ -1451,7 +1477,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     67,
+                     69,
                      15
                  ]
              ],
@@ -32186,7 +32212,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32279,6 +32305,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  31.02,
+                                                       "tv":  216
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -32306,22 +32341,13 @@ window.PAINEL = {
                                                        "tv":  243
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  15.76,
-                                                       "tv":  183
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  77.17,
-                                                       "tv":  70
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  120.47,
+                                                       "tv":  104
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -32589,6 +32615,13 @@ window.PAINEL = {
                                                          "tv":  70
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO MINIMERCADO LTDA - EPP.",
+                                                         "p":  1,
+                                                         "km":  43.3,
+                                                         "tv":  34
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "L.F. CINTRA FRANCA EPP.",
                                                          "p":  1,
@@ -32734,6 +32767,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.16,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                                                         "p":  1,
+                                                         "km":  15.26,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Alan",

@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  31.02,
+                                     "tv":  216
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30849,22 +30858,13 @@
                                      "tv":  243
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  15.76,
-                                     "tv":  183
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  77.17,
-                                     "tv":  70
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  120.47,
+                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Costa",
@@ -31132,6 +31132,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO MINIMERCADO LTDA - EPP.",
+                                       "p":  1,
+                                       "km":  43.3,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "L.F. CINTRA FRANCA EPP.",
                                        "p":  1,
@@ -31277,6 +31284,13 @@
                                        "p":  1,
                                        "km":  0.16,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                                       "p":  1,
+                                       "km":  15.26,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Alan",
