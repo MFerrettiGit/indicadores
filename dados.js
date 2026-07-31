@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  36.44,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "07:59",
+                     "ultimo":  "16:22",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "09:02",
                      "ultimo":  "15:11",
                      "tv":  "03:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  31.39,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "07:59",
-                     "ultimo":  "14:51",
-                     "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -735,6 +735,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "OFELIA SARRI MORETE.",
+                         "mun":  "SUMARE",
+                         "in":  "15:10:21",
+                         "out":  "16:22:02",
+                         "km":  5.05,
+                         "dur":  "01:11:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
@@ -886,6 +895,15 @@ window.PAINEL = {
                          "out":  "11:16:49",
                          "km":  3.07,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "COMERCIAL FURTUOSO LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:23:44",
+                         "out":  "16:25:08",
+                         "km":  12.24,
+                         "dur":  "02:00:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1392,61 +1410,55 @@ window.PAINEL = {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:27:06"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "OFELIA SARRI MORETE.",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:59:01"
+                         "tempo":  "00:42:07"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:03:22"
+                         "tempo":  "01:18:23"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:05:03"
+                         "tempo":  "00:20:04"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:34:38"
+                         "tempo":  "00:49:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COMERCIAL FURTUOSO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:45:38"
+                         "tempo":  "02:00:39"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "364:49:07"
+                         "tempo":  "365:04:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS SUPERHANDS SLU",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:12:19"
+                         "tempo":  "00:27:20"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:21:36"
+                         "tempo":  "01:36:37"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:21:12"
+                         "tempo":  "00:36:13"
                      }
                  ],
     "hist":  [
@@ -1557,7 +1569,7 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     79,
+                     81,
                      15
                  ]
              ],
@@ -32292,7 +32304,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32385,6 +32397,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  36.44,
+                                                       "tv":  303
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -32392,15 +32413,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  31.02,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  31.39,
-                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -32800,6 +32812,13 @@ window.PAINEL = {
                                                          "tv":  38
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "OFELIA SARRI MORETE.",
+                                                         "p":  1,
+                                                         "km":  5.05,
+                                                         "tv":  71
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  1,
@@ -32917,6 +32936,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.07,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "COMERCIAL FURTUOSO LTDA",
+                                                         "p":  1,
+                                                         "km":  12.24,
+                                                         "tv":  120
                                                      },
                                                      {
                                                          "n":  "Castro",
