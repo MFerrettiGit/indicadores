@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  38.18,
+                     "visitas":  5,
+                     "km":  39.68,
                      "semPed":  3,
-                     "perc":  75,
+                     "perc":  60,
                      "primeiro":  "08:04",
-                     "ultimo":  "15:01",
-                     "tv":  "04:58:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:50",
+                     "tv":  "07:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  16.07,
+                     "km":  18.29,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "08:20",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  53.28,
+                     "semPed":  5,
+                     "perc":  100,
+                     "primeiro":  "08:03",
+                     "ultimo":  "17:41",
+                     "tv":  "05:25:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -271,21 +286,6 @@ window.PAINEL = {
                      "ultimo":  "17:16",
                      "tv":  "04:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  43.92,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:03",
-                     "ultimo":  "14:38",
-                     "tv":  "04:29:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -834,6 +834,15 @@ window.PAINEL = {
                          "dur":  "01:37:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "in":  "15:06:00",
+                         "out":  "17:50:56",
+                         "km":  1.5,
+                         "dur":  "02:44:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
@@ -985,6 +994,15 @@ window.PAINEL = {
                          "out":  "14:38:49",
                          "km":  16.77,
                          "dur":  "01:05:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "16:45:06",
+                         "out":  "17:41:43",
+                         "km":  9.36,
+                         "dur":  "00:56:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1469,32 +1487,26 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Abastecimento merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Abastecimento merchandising"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Rachel",
-                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
-                         "mun":  "AMPARO",
-                         "tempo":  "02:33:18"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "MASSAO E MANOEL COMERCIO DE CARNES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:05:19"
+                         "tempo":  "00:20:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "366:19:03"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:54:12"
+                         "tempo":  "366:34:04"
                      }
                  ],
     "hist":  [
@@ -1605,8 +1617,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     88,
-                     17
+                     90,
+                     18
                  ]
              ],
     "historico":  {
@@ -32340,7 +32352,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32454,10 +32466,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  38.18,
-                                                       "tv":  298
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  39.68,
+                                                       "tv":  462
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -32465,7 +32477,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  16.07,
+                                                       "km":  18.29,
                                                        "tv":  243
                                                    },
                                                    {
@@ -32487,6 +32499,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  53.28,
+                                                       "tv":  325
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -32503,15 +32524,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  36.54,
                                                        "tv":  289
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  43.92,
-                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -32925,6 +32937,13 @@ window.PAINEL = {
                                                          "tv":  97
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.5,
+                                                         "tv":  164
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "JAMIR ANTONIO BISCALCHIN-ME.",
                                                          "p":  1,
@@ -33042,6 +33061,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  16.77,
                                                          "tv":  65
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  9.36,
+                                                         "tv":  56
                                                      },
                                                      {
                                                          "n":  "Eugenio",
