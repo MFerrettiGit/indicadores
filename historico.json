@@ -30729,8 +30729,17 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  39.9,
+                                     "tv":  112
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -30739,6 +30748,15 @@
                                      "pe":  0,
                                      "km":  22.12,
                                      "tv":  76
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  15.4,
+                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Debora",
@@ -30759,26 +30777,8 @@
                                      "tv":  55
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  30.52,
+                                     "tv":  41
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30831,21 +30840,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.81,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  21.47,
                                      "tv":  0
                                  },
                                  {
@@ -30867,13 +30876,13 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  21.47,
-                                     "tv":  0
+                                     "km":  8.37,
+                                     "tv":  19
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -30891,15 +30900,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.5,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -30921,6 +30921,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -30932,15 +30941,6 @@
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -30971,11 +30971,32 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  39.9,
+                                       "tv":  112
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
                                        "km":  44.26,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  30.52,
+                                       "tv":  41
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "ROBERTA FACIPIERRE MANDRO",
+                                       "p":  0,
+                                       "km":  8.37,
+                                       "tv":  19
                                    }
                                ]
                    }
