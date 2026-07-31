@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:49",
                      "ultimo":  "10:59",
                      "tv":  "03:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  34.57,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  36.19,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:04",
-                     "ultimo":  "10:07",
-                     "tv":  "01:56:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:37",
+                     "tv":  "03:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  9.15,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "07:59",
+                     "ultimo":  "11:27",
+                     "tv":  "02:05:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "09:02",
                      "ultimo":  "10:47",
                      "tv":  "01:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  3.26,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:59",
-                     "ultimo":  "09:20",
-                     "tv":  "01:20:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -510,6 +510,15 @@ window.PAINEL = {
                          "dur":  "01:20:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                         "mun":  "AMERICANA",
+                         "in":  "10:41:35",
+                         "out":  "11:27:28",
+                         "km":  5.89,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
@@ -553,6 +562,15 @@ window.PAINEL = {
                          "out":  "10:07:48",
                          "km":  4.05,
                          "dur":  "01:15:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "J.L. DAOLIO",
+                         "mun":  "AMPARO",
+                         "in":  "10:10:56",
+                         "out":  "11:37:14",
+                         "km":  1.62,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -729,10 +747,16 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:05"
+                        "tempo":  "02:08:06"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                       "mun":  "AMERICANA",
+                       "obs":  "estocado"
+                   },
                    {
                        "nome":  "Eugenio",
                        "razao":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
@@ -756,6 +780,12 @@ window.PAINEL = {
                        "razao":  "J L DAOLIO E CIA LTDA",
                        "mun":  "AMPARO",
                        "obs":  "abastecimento"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "J.L. DAOLIO",
+                       "mun":  "AMPARO",
+                       "obs":  "analise da loja"
                    },
                    {
                        "nome":  "Luis",
@@ -787,91 +817,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:11:23"
+                         "tempo":  "01:26:21"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:03:03"
+                         "tempo":  "00:18:01"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:47"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:46:37"
+                         "tempo":  "01:01:35"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:17:48"
+                         "tempo":  "01:32:46"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:58:02"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:42:48"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "J.L. DAOLIO",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:13:27"
+                         "tempo":  "01:13:00"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:36:54"
+                         "tempo":  "00:51:52"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO IEMBO LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:12:23"
+                         "tempo":  "00:27:21"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:04:30"
+                         "tempo":  "02:19:28"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "360:04:08"
+                         "tempo":  "360:19:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:03:04"
+                         "tempo":  "01:18:02"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:34:20"
+                         "tempo":  "02:49:18"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:02:50"
+                         "tempo":  "00:17:48"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:09:10"
+                         "tempo":  "00:24:08"
                      }
                  ],
     "hist":  [
@@ -982,8 +1006,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     36,
-                     8
+                     38,
+                     10
                  ]
              ],
     "historico":  {
@@ -31717,7 +31741,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -31813,10 +31837,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  34.57,
-                                                       "tv":  116
+                                                       "km":  36.19,
+                                                       "tv":  201
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  9.15,
+                                                       "tv":  125
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -31835,15 +31868,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  4.85,
                                                        "tv":  98
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  3.26,
-                                                       "tv":  80
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -32050,6 +32074,13 @@ window.PAINEL = {
                                                          "tv":  80
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                                         "p":  0,
+                                                         "km":  5.89,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  1,
@@ -32083,6 +32114,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.05,
                                                          "tv":  75
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "J.L. DAOLIO",
+                                                         "p":  0,
+                                                         "km":  1.62,
+                                                         "tv":  85
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

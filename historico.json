@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30825,10 +30825,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  34.57,
-                                     "tv":  116
+                                     "km":  36.19,
+                                     "tv":  201
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  9.15,
+                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Luis",
@@ -30847,15 +30856,6 @@
                                      "pe":  2,
                                      "km":  4.85,
                                      "tv":  98
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.26,
-                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -31062,6 +31062,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                       "p":  0,
+                                       "km":  5.89,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1,
@@ -31095,6 +31102,13 @@
                                        "p":  0,
                                        "km":  4.05,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  0,
+                                       "km":  1.62,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Sao Carlos",
