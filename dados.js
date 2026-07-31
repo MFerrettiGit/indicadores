@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "31/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  28.55,
+                     "km":  43.1,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:13",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  36.67,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:02",
+                     "ultimo":  "17:21",
+                     "tv":  "04:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -166,21 +181,6 @@ window.PAINEL = {
                      "ultimo":  "16:22",
                      "tv":  "05:03:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  31.02,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:02",
-                     "ultimo":  "15:11",
-                     "tv":  "03:36:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  36.54,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "17:16",
+                     "tv":  "04:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -274,18 +289,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  26.56,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "15:29",
-                     "tv":  "03:21:00",
-                     "emVisita":  1,
+                     "km":  11.32,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:46",
+                     "ultimo":  "17:10",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -319,33 +334,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  8.51,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:46",
-                     "ultimo":  "11:23",
-                     "tv":  "02:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  16.15,
-                     "semPed":  1,
-                     "perc":  50,
+                     "visitas":  3,
+                     "km":  25.13,
+                     "semPed":  2,
+                     "perc":  66.67,
                      "primeiro":  "08:24",
-                     "ultimo":  "12:59",
-                     "tv":  "04:27:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:23",
+                     "tv":  "07:02:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -879,6 +879,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:04:19",
+                         "out":  "17:21:03",
+                         "km":  5.65,
+                         "dur":  "01:16:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                          "mun":  "CAMPINAS",
@@ -931,6 +940,15 @@ window.PAINEL = {
                          "out":  "12:59:34",
                          "km":  7.78,
                          "dur":  "04:08:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MODELO SUPERMERCADO LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "14:47:46",
+                         "out":  "17:23:36",
+                         "km":  8.98,
+                         "dur":  "02:35:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -994,6 +1012,15 @@ window.PAINEL = {
                          "out":  "11:23:43",
                          "km":  0.79,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "15:34:44",
+                         "out":  "17:10:46",
+                         "km":  2.81,
+                         "dur":  "01:35:00"
                      },
                      {
                          "nome":  "Karina",
@@ -1066,6 +1093,15 @@ window.PAINEL = {
                          "out":  "15:29:50",
                          "km":  7.45,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "15:48:10",
+                         "out":  "17:16:53",
+                         "km":  9.98,
+                         "dur":  "01:28:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1405,6 +1441,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "MODELO SUPERMERCADO LTDA.",
+                       "mun":  "ITATIBA",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
                        "mun":  "PIRACICABA",
@@ -1434,43 +1476,19 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:02:47"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:04:28"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:34:03"
+                         "tempo":  "02:18:22"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "365:48:32"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "MODELO SUPERMERCADO LTDA.",
-                         "mun":  "ITATIBA",
-                         "tempo":  "02:21:01"
+                         "tempo":  "366:04:07"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:23:41"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:20:37"
+                         "tempo":  "00:39:16"
                      }
                  ],
     "hist":  [
@@ -1581,8 +1599,8 @@ window.PAINEL = {
                  ],
                  [
                      "31/07",
-                     84,
-                     16
+                     88,
+                     17
                  ]
              ],
     "historico":  {
@@ -32316,7 +32334,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-31":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -32369,7 +32387,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  28.55,
+                                                       "km":  43.1,
                                                        "tv":  293
                                                    },
                                                    {
@@ -32409,6 +32427,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  36.67,
+                                                       "tv":  292
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -32416,15 +32443,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  36.44,
                                                        "tv":  303
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  31.02,
-                                                       "tv":  216
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -32472,6 +32490,15 @@ window.PAINEL = {
                                                        "tv":  382
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  36.54,
+                                                       "tv":  289
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -32481,13 +32508,13 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  26.56,
-                                                       "tv":  201
+                                                       "pe":  3,
+                                                       "km":  11.32,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -32508,22 +32535,13 @@ window.PAINEL = {
                                                        "tv":  230
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  8.51,
-                                                       "tv":  130
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  16.15,
-                                                       "tv":  267
+                                                       "km":  25.13,
+                                                       "tv":  422
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -32936,6 +32954,13 @@ window.PAINEL = {
                                                          "tv":  33
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  1,
+                                                         "km":  5.65,
+                                                         "tv":  76
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                                                          "p":  1,
@@ -32976,6 +33001,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.78,
                                                          "tv":  248
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MODELO SUPERMERCADO LTDA.",
+                                                         "p":  0,
+                                                         "km":  8.98,
+                                                         "tv":  155
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -33025,6 +33057,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.79,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.81,
+                                                         "tv":  95
                                                      },
                                                      {
                                                          "n":  "Karina",
@@ -33081,6 +33120,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.45,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                                                         "p":  1,
+                                                         "km":  9.98,
+                                                         "tv":  88
                                                      },
                                                      {
                                                          "n":  "Nelson",

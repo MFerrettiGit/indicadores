@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30782,7 +30782,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  28.55,
+                                     "km":  43.1,
                                      "tv":  293
                                  },
                                  {
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  36.67,
+                                     "tv":  292
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30829,15 +30838,6 @@
                                      "pe":  3,
                                      "km":  36.44,
                                      "tv":  303
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  31.02,
-                                     "tv":  216
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -30885,6 +30885,15 @@
                                      "tv":  382
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  36.54,
+                                     "tv":  289
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -30894,13 +30903,13 @@
                                      "tv":  269
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  4,
-                                     "km":  26.56,
-                                     "tv":  201
+                                     "pe":  3,
+                                     "km":  11.32,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Alan",
@@ -30921,22 +30930,13 @@
                                      "tv":  230
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  8.51,
-                                     "tv":  130
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  16.15,
-                                     "tv":  267
+                                     "km":  25.13,
+                                     "tv":  422
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -31349,6 +31349,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  5.65,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "AGUINALDO DAS CHAGAS MERCEARIA ME",
                                        "p":  1,
@@ -31389,6 +31396,13 @@
                                        "p":  1,
                                        "km":  7.78,
                                        "tv":  248
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MODELO SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  8.98,
+                                       "tv":  155
                                    },
                                    {
                                        "n":  "Cominato",
@@ -31438,6 +31452,13 @@
                                        "p":  1,
                                        "km":  0.79,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.81,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Karina",
@@ -31494,6 +31515,13 @@
                                        "p":  1,
                                        "km":  7.45,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                                       "p":  1,
+                                       "km":  9.98,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Nelson",
