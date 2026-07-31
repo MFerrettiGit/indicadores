@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30759,6 +30759,15 @@
                                      "tv":  197
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  18.98,
+                                     "tv":  203
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -30766,15 +30775,6 @@
                                      "pe":  0,
                                      "km":  36.77,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  15.4,
-                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -30807,10 +30807,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  6.57,
-                                     "tv":  100
+                                     "km":  11.24,
+                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -30861,10 +30861,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.47,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  77.17,
+                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Costa",
@@ -30874,6 +30874,24 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  8.51,
+                                     "tv":  130
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  31.3,
+                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -30901,24 +30919,6 @@
                                      "pe":  2,
                                      "km":  7.73,
                                      "tv":  84
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  7.72,
-                                     "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  28.23,
-                                     "tv":  60
                                  },
                                  {
                                      "nome":  "Castro",
@@ -30985,6 +30985,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.58,
+                                       "tv":  117
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -31027,6 +31034,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  55.7,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "L.F. CINTRA FRANCA EPP.",
                                        "p":  1,
@@ -31060,6 +31074,13 @@
                                        "p":  1,
                                        "km":  0.95,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  4.67,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Rachel",
@@ -31104,6 +31125,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                                       "p":  0,
+                                       "km":  3.07,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "ROBERTA FACIPIERRE MANDRO",
                                        "p":  0,
@@ -31137,6 +31165,13 @@
                                        "p":  0,
                                        "km":  1.36,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "ARMAZEM GALDINO LTDA",
+                                       "p":  1,
+                                       "km":  0.79,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Mariangela",
