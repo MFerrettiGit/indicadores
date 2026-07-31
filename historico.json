@@ -30729,16 +30729,25 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  52.75,
-                                     "tv":  205
+                                     "km":  70.57,
+                                     "tv":  229
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  40.53,
+                                     "tv":  264
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -30766,15 +30775,6 @@
                                      "pe":  0,
                                      "km":  18.98,
                                      "tv":  203
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  36.77,
-                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -30876,6 +30876,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  7.93,
+                                     "tv":  224
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -30903,15 +30912,6 @@
                                      "tv":  154
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  3.07,
-                                     "tv":  121
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -30933,10 +30933,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.81,
+                                     "tv":  155
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -30976,6 +30976,13 @@
                                        "p":  1,
                                        "km":  1.89,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  115
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -31216,6 +31223,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  1.81,
+                                       "tv":  155
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
                                        "p":  1,
@@ -31242,6 +31256,13 @@
                                        "p":  1,
                                        "km":  0.26,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                       "p":  1,
+                                       "km":  4.86,
+                                       "tv":  103
                                    }
                                ]
                    }
