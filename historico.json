@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30822,6 +30822,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.26,
+                                     "tv":  80
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -30829,15 +30838,6 @@
                                      "pe":  0,
                                      "km":  30.52,
                                      "tv":  41
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Luis",
@@ -30858,21 +30858,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.47,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  21.47,
                                      "tv":  0
                                  },
                                  {
@@ -30885,6 +30885,15 @@
                                      "tv":  64
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.81,
+                                     "tv":  71
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -30894,22 +30903,13 @@
                                      "tv":  19
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.5,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.35,
+                                     "tv":  41
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -30921,8 +30921,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -30930,8 +30930,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -30985,6 +30985,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO PAVAN LTDA.",
+                                       "p":  1,
+                                       "km":  2.7,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1,
@@ -31011,6 +31018,20 @@
                                        "p":  0,
                                        "km":  3.64,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "EDMILSON CURI DE ANDRADE",
+                                       "p":  1,
+                                       "km":  4.35,
+                                       "tv":  41
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "DROGARIA BOM JESUS DA LUZ LTDA",
+                                       "p":  1,
+                                       "km":  2.31,
+                                       "tv":  71
                                    }
                                ]
                    }
