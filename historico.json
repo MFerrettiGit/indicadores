@@ -30729,7 +30729,7 @@
                                ]
                    },
     "2026-07-31":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -30777,6 +30777,15 @@
                                      "tv":  149
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  7.76,
+                                     "tv":  186
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -30784,15 +30793,6 @@
                                      "pe":  0,
                                      "km":  44.26,
                                      "tv":  55
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.08,
-                                     "tv":  108
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -30831,6 +30831,24 @@
                                      "tv":  201
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  14.96,
+                                     "tv":  187
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  15.6,
+                                     "tv":  138
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -30838,24 +30856,6 @@
                                      "pe":  1,
                                      "km":  9.15,
                                      "tv":  125
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  10.98,
-                                     "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  4.85,
-                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -31020,11 +31020,25 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17.82,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
                                        "km":  2.04,
                                        "tv":  108
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  3.68,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -31052,6 +31066,13 @@
                                        "r":  "DANILO BATISTA LEAL FRANCA - ME.",
                                        "p":  0,
                                        "km":  1.8,
+                                       "tv":  61
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.98,
                                        "tv":  61
                                    },
                                    {
@@ -31123,6 +31144,13 @@
                                        "p":  1,
                                        "km":  1.28,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO IEMBO LTDA",
+                                       "p":  1,
+                                       "km":  10.75,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Alan",
