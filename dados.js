@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/08/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "07:31",
                      "tv":  "00:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -76,7 +76,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -99,14 +99,14 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  23.96,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -121,7 +121,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Milene",
@@ -154,21 +154,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  14.87,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -184,19 +169,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  139.62,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  42.95,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -214,12 +214,12 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  16.2,
+                     "km":  63.49,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -229,102 +229,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  2.43,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  54.34,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  167,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.3,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  4.19,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  1.88,
+                     "km":  16.2,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -362,6 +272,96 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  306.04,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  167,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  16.28,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  80.2,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  74.69,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -377,12 +377,44 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "campinas",
+                        "inicio":  "09:20",
+                        "final":  "10:33",
+                        "tempo":  "01:13:14"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião empresa hotel",
+                        "inicio":  "09:22",
+                        "final":  "10:33",
+                        "tempo":  "01:10:55"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Em Viagem",
                         "obs":  "indo pra Campinas reunião",
                         "inicio":  "06:08",
                         "final":  "09:37",
                         "tempo":  "03:28:54"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião empresa",
+                        "inicio":  "09:37",
+                        "final":  "10:39",
+                        "tempo":  "01:02:06"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "reunião campinas",
+                        "inicio":  "08:15",
+                        "final":  "10:32",
+                        "tempo":  "02:17:12"
                     },
                     {
                         "nome":  "Luis",
@@ -417,6 +449,54 @@ window.PAINEL = {
                         "tempo":  "01:12:45"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "Reunião Ferretti",
+                        "inicio":  "09:29",
+                        "final":  "10:33",
+                        "tempo":  "01:04:19"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião",
+                        "inicio":  "08:49",
+                        "final":  "10:34",
+                        "tempo":  "01:45:40"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "Reunião hotel",
+                        "inicio":  "09:29",
+                        "final":  "10:32",
+                        "tempo":  "01:03:33"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião",
+                        "inicio":  "07:56",
+                        "final":  "10:36",
+                        "tempo":  "02:39:59"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião",
+                        "inicio":  "09:40",
+                        "final":  "10:35",
+                        "tempo":  "00:55:36"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião",
+                        "inicio":  "10:12",
+                        "final":  "10:32",
+                        "tempo":  "00:19:45"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Em Viagem",
                         "obs":  "campinas",
@@ -428,9 +508,17 @@ window.PAINEL = {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Campinas",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "03:56:29"
+                        "inicio":  "06:32",
+                        "final":  "10:34",
+                        "tempo":  "04:01:40"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião",
+                        "inicio":  "10:34",
+                        "final":  "10:39",
+                        "tempo":  "00:04:35"
                     },
                     {
                         "nome":  "Eliana",
@@ -438,7 +526,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:19:05"
+                        "tempo":  "03:33:58"
                     },
                     {
                         "nome":  "Castro",
@@ -446,31 +534,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:40:29"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:32:05"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "reunião campinas",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:13:24"
-                    },
-                    {
-                        "nome":  "Debora",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:39:40"
+                        "tempo":  "02:55:22"
                     },
                     {
                         "nome":  "Eduardo",
@@ -478,39 +542,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:12:28"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "campinas",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:08:16"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião empresa hotel",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:11"
-                    },
-                    {
-                        "nome":  "Evandro",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "Reunião hotel",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:36"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "Reunião Ferretti",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:28"
+                        "tempo":  "01:27:21"
                     },
                     {
                         "nome":  "Aline",
@@ -518,23 +550,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:28"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião empresa",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:05"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:46"
+                        "tempo":  "01:13:21"
                     },
                     {
                         "nome":  "Nelson",
@@ -542,7 +558,7 @@ window.PAINEL = {
                         "obs":  "reunião na empresa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:32"
+                        "tempo":  "00:49:25"
                     },
                     {
                         "nome":  "Milene",
@@ -550,7 +566,7 @@ window.PAINEL = {
                         "obs":  "reunião presencial em campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:07"
+                        "tempo":  "00:49:00"
                     },
                     {
                         "nome":  "Luis",
@@ -558,15 +574,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:52"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Reuniao Empresa",
-                        "obs":  "reunião",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:16:04"
+                        "tempo":  "00:46:45"
                     },
                     {
                         "nome":  "Mariangela",
@@ -574,7 +582,7 @@ window.PAINEL = {
                         "obs":  "Campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:12"
+                        "tempo":  "00:30:05"
                     }
                 ],
     "semped":  [
@@ -585,7 +593,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "431:08:06"
+                         "tempo":  "431:23:00"
                      }
                  ],
     "hist":  [
@@ -32267,7 +32275,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-08-03":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -32329,7 +32337,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  23.96,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32360,15 +32368,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  14.87,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -32378,12 +32377,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  139.62,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  42.95,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32396,75 +32404,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  63.49,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  16.2,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.43,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  54.34,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  167,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.3,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.19,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  1.88,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32483,6 +32437,60 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  306.04,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  167,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  16.28,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  80.2,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  74.69,
                                                        "tv":  0
                                                    }
                                                ],
