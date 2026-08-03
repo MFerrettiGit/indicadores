@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/08/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -154,21 +154,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  92.51,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -182,6 +167,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  92.51,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -214,21 +214,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  2.43,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -244,12 +229,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  2.43,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -271,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -362,6 +347,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -430,7 +430,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:41:29"
+                        "tempo":  "03:56:29"
                     },
                     {
                         "nome":  "Eliana",
@@ -438,7 +438,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:04:05"
+                        "tempo":  "03:19:05"
                     },
                     {
                         "nome":  "Castro",
@@ -446,7 +446,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:25:29"
+                        "tempo":  "02:40:29"
                     },
                     {
                         "nome":  "Edimilson",
@@ -454,7 +454,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:17:05"
+                        "tempo":  "02:32:05"
                     },
                     {
                         "nome":  "Rachel",
@@ -462,7 +462,7 @@ window.PAINEL = {
                         "obs":  "reunião campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:58:24"
+                        "tempo":  "02:13:24"
                     },
                     {
                         "nome":  "Debora",
@@ -470,7 +470,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:24:40"
+                        "tempo":  "01:39:40"
                     },
                     {
                         "nome":  "Eduardo",
@@ -478,7 +478,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:57:28"
+                        "tempo":  "01:12:28"
                     },
                     {
                         "nome":  "Maira",
@@ -486,7 +486,7 @@ window.PAINEL = {
                         "obs":  "campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:16"
+                        "tempo":  "01:08:16"
                     },
                     {
                         "nome":  "Alan",
@@ -494,7 +494,7 @@ window.PAINEL = {
                         "obs":  "reunião empresa hotel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:11"
+                        "tempo":  "01:06:11"
                     },
                     {
                         "nome":  "Evandro",
@@ -502,7 +502,7 @@ window.PAINEL = {
                         "obs":  "Reunião hotel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:36"
+                        "tempo":  "00:59:36"
                     },
                     {
                         "nome":  "Cominato",
@@ -510,7 +510,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:28"
+                        "tempo":  "00:59:28"
                     },
                     {
                         "nome":  "Aline",
@@ -518,7 +518,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:28"
+                        "tempo":  "00:58:28"
                     },
                     {
                         "nome":  "Karina",
@@ -526,7 +526,7 @@ window.PAINEL = {
                         "obs":  "reunião empresa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:05"
+                        "tempo":  "00:51:05"
                     },
                     {
                         "nome":  "Vinicius",
@@ -534,7 +534,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:46"
+                        "tempo":  "00:48:46"
                     },
                     {
                         "nome":  "Nelson",
@@ -542,7 +542,7 @@ window.PAINEL = {
                         "obs":  "reunião na empresa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:32"
+                        "tempo":  "00:34:32"
                     },
                     {
                         "nome":  "Milene",
@@ -550,7 +550,7 @@ window.PAINEL = {
                         "obs":  "reunião presencial em campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:07"
+                        "tempo":  "00:34:07"
                     },
                     {
                         "nome":  "Luis",
@@ -558,7 +558,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:52"
+                        "tempo":  "00:31:52"
                     },
                     {
                         "nome":  "Silmara",
@@ -566,7 +566,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:04"
+                        "tempo":  "00:16:04"
                     },
                     {
                         "nome":  "Mariangela",
@@ -574,7 +574,7 @@ window.PAINEL = {
                         "obs":  "Campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:12"
+                        "tempo":  "00:15:12"
                     }
                 ],
     "semped":  [
@@ -585,7 +585,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "430:53:06"
+                         "tempo":  "431:08:06"
                      }
                  ],
     "hist":  [
@@ -32267,7 +32267,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-08-03":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -32360,21 +32360,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  92.51,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  14.87,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  92.51,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32396,15 +32396,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.43,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -32414,12 +32405,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  2.43,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32479,6 +32470,15 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
