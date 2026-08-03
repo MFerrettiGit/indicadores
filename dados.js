@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/08/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -136,7 +136,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eduardo",
@@ -145,6 +145,21 @@ window.PAINEL = {
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  93.36,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -229,19 +244,19 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  93.36,
+                     "km":  54.34,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -256,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  54.34,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -422,7 +422,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:11:30"
+                        "tempo":  "03:26:31"
                     },
                     {
                         "nome":  "Mariangela",
@@ -430,7 +430,7 @@ window.PAINEL = {
                         "obs":  "campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:54:21"
+                        "tempo":  "03:09:22"
                     },
                     {
                         "nome":  "Eliana",
@@ -438,7 +438,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:34:06"
+                        "tempo":  "02:49:07"
                     },
                     {
                         "nome":  "Castro",
@@ -446,7 +446,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:55:30"
+                        "tempo":  "02:10:31"
                     },
                     {
                         "nome":  "Edimilson",
@@ -454,7 +454,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:47:06"
+                        "tempo":  "02:02:07"
                     },
                     {
                         "nome":  "Rachel",
@@ -462,7 +462,7 @@ window.PAINEL = {
                         "obs":  "reunião campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:28:25"
+                        "tempo":  "01:43:26"
                     },
                     {
                         "nome":  "Debora",
@@ -470,7 +470,7 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:41"
+                        "tempo":  "01:09:42"
                     },
                     {
                         "nome":  "Eduardo",
@@ -478,7 +478,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:29"
+                        "tempo":  "00:42:30"
                     },
                     {
                         "nome":  "Maira",
@@ -486,7 +486,7 @@ window.PAINEL = {
                         "obs":  "campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:17"
+                        "tempo":  "00:38:18"
                     },
                     {
                         "nome":  "Alan",
@@ -494,7 +494,7 @@ window.PAINEL = {
                         "obs":  "reunião empresa hotel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:12"
+                        "tempo":  "00:36:13"
                     },
                     {
                         "nome":  "Evandro",
@@ -502,7 +502,7 @@ window.PAINEL = {
                         "obs":  "Reunião hotel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:37"
+                        "tempo":  "00:29:38"
                     },
                     {
                         "nome":  "Cominato",
@@ -510,7 +510,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:29"
+                        "tempo":  "00:29:30"
                     },
                     {
                         "nome":  "Aline",
@@ -518,7 +518,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:29"
+                        "tempo":  "00:28:30"
                     },
                     {
                         "nome":  "Karina",
@@ -526,7 +526,7 @@ window.PAINEL = {
                         "obs":  "reunião empresa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:06"
+                        "tempo":  "00:21:07"
                     },
                     {
                         "nome":  "Vinicius",
@@ -534,7 +534,31 @@ window.PAINEL = {
                         "obs":  "reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:47"
+                        "tempo":  "00:18:48"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião na empresa",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:34"
+                    },
+                    {
+                        "nome":  "Milene",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "reunião presencial em campinas",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:09"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Reuniao Empresa",
+                        "obs":  "Reunião",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:54"
                     }
                 ],
     "semped":  [
@@ -545,7 +569,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "430:23:06"
+                         "tempo":  "430:38:08"
                      }
                  ],
     "hist":  [
@@ -32227,7 +32251,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-08-03":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -32320,6 +32344,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  93.36,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -32365,12 +32398,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  93.36,
+                                                       "km":  54.34,
                                                        "tv":  0
                                                    },
                                                    {
@@ -32434,15 +32467,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  54.34,
                                                        "tv":  0
                                                    }
                                                ],
