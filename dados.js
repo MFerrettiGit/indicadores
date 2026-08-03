@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/08/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -244,6 +244,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -332,36 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -534,7 +534,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:04:06"
+                        "tempo":  "04:18:34"
                     },
                     {
                         "nome":  "Castro",
@@ -542,7 +542,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:25:30"
+                        "tempo":  "03:39:58"
                     },
                     {
                         "nome":  "Eduardo",
@@ -550,7 +550,7 @@ window.PAINEL = {
                         "obs":  "Reunião Ferretti",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:57:29"
+                        "tempo":  "02:11:57"
                     },
                     {
                         "nome":  "Aline",
@@ -558,7 +558,7 @@ window.PAINEL = {
                         "obs":  "Reunião",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:43:29"
+                        "tempo":  "01:57:57"
                     },
                     {
                         "nome":  "Nelson",
@@ -566,7 +566,7 @@ window.PAINEL = {
                         "obs":  "reunião na empresa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:33"
+                        "tempo":  "01:34:01"
                     },
                     {
                         "nome":  "Milene",
@@ -574,7 +574,7 @@ window.PAINEL = {
                         "obs":  "reunião presencial em campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:08"
+                        "tempo":  "01:33:36"
                     },
                     {
                         "nome":  "Mariangela",
@@ -582,7 +582,7 @@ window.PAINEL = {
                         "obs":  "Campinas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:13"
+                        "tempo":  "01:14:41"
                     }
                 ],
     "semped":  [
@@ -593,7 +593,7 @@ window.PAINEL = {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "431:53:07"
+                         "tempo":  "432:07:36"
                      }
                  ],
     "hist":  [
@@ -32275,7 +32275,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-08-03":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -32422,6 +32422,24 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -32473,24 +32491,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  74.69,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
